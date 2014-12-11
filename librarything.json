@@ -10318,7 +10318,8 @@
     "code": ["364.15230978144"],
     "wording": ["Criminology",
     "Social Problems, Social Services",
-    "Social Sciences "]
+    "Social Sciences ",
+    "Types of crimes"]
   },
   "lcc": {
     "code": "HV6533.K3C3"
@@ -10981,7 +10982,8 @@
     "code": ["364.15230977311"],
     "wording": ["Criminology",
     "Social Problems, Social Services",
-    "Social Sciences "]
+    "Social Sciences ",
+    "Types of crimes"]
   },
   "lcc": {
     "code": "HV6248.M8L37"
@@ -25967,7 +25969,8 @@
     "wording": ["Groups of People",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology",
-    "Women"]
+    "Women",
+    "Women by social group"]
   },
   "lcc": {
     "code": "HQ75.5.H33"
@@ -27750,4 +27753,170 @@
   "weight": "5.91 pounds",
   "pages": "416 ",
   "fromwhere": "Illusive Comics and Games"
+},
+"114621176": {
+  "books_id": "114621176",
+  "title": "Promethea, Book 2",
+  "sortcharacter": "1",
+  "primaryauthor": "Moore, Alan",
+  "authors": [{
+    "lf": "Moore, Alan",
+    "fl": "Alan Moore"
+  }],
+  "tags": ["superheroes",
+  "occult",
+  "goetia",
+  "mythology",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1563899574",
+  "isbn": {
+    "0": "1563899574",
+    "2": "9781563899577"
+  },
+  "publication": "WildStorm (2003), Edition: Gph, Paperback, 176 pages",
+  "date": "2003",
+  "summary": "Promethea, Book 2 by Alan Moore (2003)",
+  "format": "Paperback",
+  "originallanguage": ["Spanish"],
+  "ddc": {
+    "code": ["741.5941"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "French language comics",
+    "History, geographic treatment, biography"]
+  },
+  "lcc": {
+    "code": "PN6728.P75M667"
+  },
+  "subject": [["Comic books, strips, etc"]],
+  "series": "Promethea",
+  "source": "amazon.com",
+  "workcode": "641696",
+  "entrydate": "2014-12-09",
+  "copies": "1",
+  "physical_description": "176 p.; 10.36 inches",
+  "height": "10.36 inches",
+  "thickness": "0.36 inches",
+  "length": "6.66 inches",
+  "dimensions": "10.36 x 6.66 x 0.36  inches",
+  "weight": "0.59 pounds",
+  "pages": "176 ",
+  "fromwhere": "Green Apple Books"
+},
+"114621177": {
+  "books_id": "114621177",
+  "title": "The Quantity Theory of Insanity",
+  "sortcharacter": "1",
+  "primaryauthor": "Self, Will",
+  "authors": [{
+    "lf": "Self, Will",
+    "fl": "Will Self"
+  }],
+  "tags": ["TYPE:short stories",
+  "insanity",
+  "madness",
+  "mental illness",
+  "psychiatry",
+  "magical realism",
+  "afterlife",
+  "death"],
+  "collections": ["Your library"],
+  "originalisbn": "0679750940",
+  "isbn": {
+    "0": "0679750940",
+    "2": "9780679750949"
+  },
+  "publication": "Vintage (1996), Edition: Reprint, Paperback, 224 pages",
+  "date": "1996",
+  "summary": "The Quantity Theory of Insanity by Will Self (1996)",
+  "format": "Paperback",
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English fiction",
+    "English literature",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6069.E3654Q36"
+  },
+  "subject": {
+    "0": ["England",
+    "Fiction"],
+    "1": ["England",
+    "Social life and customs",
+    "Fiction"],
+    "2": ["England",
+    "fiction"],
+    "3": ["Humorous stories, English"],
+    "5": ["Satire, English"]
+  },
+  "source": "amazon.com",
+  "workcode": "88126",
+  "entrydate": "2014-12-09",
+  "copies": "1",
+  "physical_description": "224 p.; 8.02 inches",
+  "height": "8.02 inches",
+  "thickness": "0.63 inches",
+  "length": "5.24 inches",
+  "dimensions": "8.02 x 5.24 x 0.63  inches",
+  "weight": "0.57 pounds",
+  "pages": "224 ",
+  "fromwhere": "Green Apple Books"
+},
+"114621178": {
+  "books_id": "114621178",
+  "title": "Fables Vol. 6: Homelands (Fables (Graphic Novels))",
+  "sortcharacter": "1",
+  "primaryauthor": "Willingham, Bill",
+  "authors": [{
+    "lf": "Willingham, Bill",
+    "fl": "Bill Willingham"
+  }],
+  "tags": ["mythology",
+  "metafiction",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1401205003",
+  "isbn": {
+    "0": "1401205003",
+    "2": "9781401205003"
+  },
+  "publication": "Vertigo (2006), Edition: 0, Paperback, 192 pages",
+  "date": "2006",
+  "summary": "Fables Vol. 6: Homelands (Fables (Graphic Novels)) by Bill Willingham (2006)",
+  "format": "Paperback",
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6727.W52 F33 2002 vol. 6"
+  },
+  "series": "Fables",
+  "source": "amazon.com",
+  "workcode": "133489",
+  "entrydate": "2014-12-09",
+  "copies": "1",
+  "physical_description": "192 p.; 10.24 inches",
+  "height": "10.24 inches",
+  "thickness": "0.47 inches",
+  "length": "6.66 inches",
+  "dimensions": "10.24 x 6.66 x 0.47  inches",
+  "weight": "0.61 pounds",
+  "pages": "192 ",
+  "fromwhere": "Green Apple Books"
 }}
