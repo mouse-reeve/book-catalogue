@@ -2902,7 +2902,7 @@
   "summary": "Weighing In: Obesity, Food Justice, and the Limits of Capitalism (California Studies in Food and Culture) by Julie Guthman (2011)",
   "format": "Paperback",
   "ddc": {
-    "code": ["362.196398"],
+    "code": ["362.196"],
     "wording": ["Hospitals",
     "Hospitals and social work",
     "Social Problems, Social Services",
@@ -9194,10 +9194,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["616.8"],
-    "wording": ["Medicine",
+    "wording": ["Diseases of nervous system",
+    "Medicine",
     "Pathology; Diseases; Treatment ",
-    "Technology",
-    "Therapy"]
+    "Technology"]
   },
   "lcc": {
     "code": "RC351.S195"
@@ -12689,11 +12689,10 @@
   "date": "?",
   "summary": "Bouillabaisse For Bibliophiles: a Treasury Of Bookish Lore, Wit & Wisdom, Tales, Poetry & Narratives & Certain Curious Studies Of Interest to Bookmen & Collectors by William Targ (?)",
   "ddc": {
-    "code": ["020.75"],
-    "wording": ["Computer Science, Information and General Works",
-    "Education And Instruction",
-    "Library Science",
-    "Library and information sciences"]
+    "code": ["010"],
+    "wording": ["Bibliographies",
+    "Bibliography",
+    "Computer Science, Information and General Works"]
   },
   "lcc": {
     "code": "Z992.T16"
@@ -16945,6 +16944,13 @@
   "date": "2013",
   "summary": "East of West Volume 1: The Promise TP by Jonathan Hickman (2013)",
   "format": "Paperback",
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design "]
+  },
   "lcc": [],
   "series": "East of West",
   "source": "amazon.com",
@@ -18491,6 +18497,7 @@
     "wording": ["By Topic",
     "By topic",
     "Literature",
+    "Literature and science",
     "Specific Topics in Literary Theory"]
   },
   "lcc": {
@@ -27822,7 +27829,8 @@
   "psychiatry",
   "magical realism",
   "afterlife",
-  "death"],
+  "death",
+  "RECOMMENDER:Edbury"],
   "collections": ["Your library"],
   "originalisbn": "0679750940",
   "isbn": {
@@ -27919,4 +27927,69 @@
   "weight": "0.61 pounds",
   "pages": "192 ",
   "fromwhere": "Green Apple Books"
+},
+"114866655": {
+  "books_id": "114866655",
+  "title": "John Constantine: Hellblazer Vol. 5: Dangerous Habits (New Edition) (Hellblazer (Graphic Novels))",
+  "sortcharacter": "1",
+  "primaryauthor": "Delano, Jamie",
+  "secondaryauthor": "Various|Ennis, Garth",
+  "secondaryauthorroles": "Illustrator|",
+  "authors": [{
+    "lf": "Delano, Jamie",
+    "fl": "Jamie Delano"
+  },
+  {
+    "lf": "Various",
+    "fl": "Various",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Ennis, Garth",
+    "fl": "Garth Ennis"
+  }],
+  "tags": ["magic",
+  "hell",
+  "occult",
+  "TYPE:graphic novels & comics",
+  "demons"],
+  "collections": ["Your library"],
+  "originalisbn": "1401238025",
+  "isbn": {
+    "0": "1401238025",
+    "2": "9781401238025"
+  },
+  "publication": "Vertigo (2013), Edition: First Edition, Paperback, 352 pages",
+  "date": "2013",
+  "summary": "John Constantine: Hellblazer Vol. 5: Dangerous Habits (New Edition) (Hellblazer (Graphic Novels)) by Jamie Delano (2013)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Undetermined"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6727.E56J64"
+  },
+  "series": "Hellblazer",
+  "source": "amazon.com",
+  "workcode": "124499",
+  "entrydate": "2014-12-21",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "352 p.; 6.66 inches",
+  "height": "6.66 inches",
+  "thickness": "10.18 inches",
+  "length": "0.8 inches",
+  "dimensions": "6.66 x 0.8 x 10.18 inches",
+  "weight": "1.05 pounds",
+  "pages": "352 ",
+  "fromwhere": "Isotope"
 }}
