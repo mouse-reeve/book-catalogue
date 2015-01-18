@@ -332,7 +332,8 @@
   "future",
   "TYPE:graphic novels & comics",
   "READABILITY:medium",
-  "MOOD:dark"],
+  "MOOD:dark",
+  "fascism"],
   "collections": ["Your library"],
   "originalisbn": "0930289528",
   "isbn": {
@@ -2622,7 +2623,8 @@
   "middle east",
   "TYPE:nonfiction",
   "TYPE:poetry",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "9780520224735",
   "isbn": ["9780520224735",
@@ -2689,7 +2691,8 @@
   "theory",
   "middle east",
   "TYPE:nonfiction",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "039474067X",
   "isbn": {
@@ -2817,6 +2820,7 @@
     "17": ["fiction in English"],
     "18": ["science fiction"]
   },
+  "series": "Colec\u00e7\u00e3o Argonauta",
   "source": "amazon.com",
   "workcode": "16566",
   "entrydate": "2014-01-21",
@@ -2841,7 +2845,8 @@
   "tags": ["anthropology",
   "food",
   "obesity",
-  "TYPE:nonfiction"],
+  "TYPE:nonfiction",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0520266250",
   "isbn": {
@@ -2885,7 +2890,10 @@
   "asburdism",
   "RECOMMENDER:Jesse",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:funny",
+  "MOOD:intense",
+  "MOOD:upsetting"],
   "collections": ["Your library"],
   "originalisbn": "0385333846",
   "isbn": {
@@ -4153,7 +4161,8 @@
   }],
   "tags": ["anthropology",
   "TYPE:nonfiction",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0198278470",
   "isbn": {
@@ -4264,7 +4273,8 @@
   "japan",
   "ethnography",
   "TYPE:nonfiction",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0618619593",
   "isbn": {
@@ -4449,7 +4459,8 @@
   "divination",
   "ethnography",
   "TYPE:nonfiction",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0198740298",
   "isbn": {
@@ -4515,7 +4526,8 @@
   "israel",
   "anthropology",
   "TYPE:nonfiction",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0520075528",
   "isbn": {
@@ -6783,8 +6795,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["039"],
-    "wording": ["Computer Science, Information and General Works",
-    "Encyclopedias and books of facts",
+    "wording": ["Encyclopedias and books of facts",
+    "Information",
     "Minor Languages"]
   },
   "lcc": {
@@ -9698,7 +9710,10 @@
   "england",
   "butlers",
   "TYPE:novel",
-  "READABILITY:light"],
+  "READABILITY:light",
+  "MOOD:funny",
+  "MOOD:comforting",
+  "unreliable narrator"],
   "collections": ["Your library"],
   "originalisbn": "0743203615",
   "isbn": {
@@ -12640,7 +12655,7 @@
     "code": ["010"],
     "wording": ["Bibliographies",
     "Bibliography",
-    "Computer Science, Information and General Works"]
+    "Information"]
   },
   "lcc": {
     "code": "Z992.T16"
@@ -13048,7 +13063,7 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["070.92"],
-    "wording": ["Computer Science, Information and General Works",
+    "wording": ["Information",
     "Journalism And Publishing",
     "Journalism Biography ",
     "News media, journalism and publishing"]
@@ -14485,8 +14500,10 @@
   "england",
   "butlers",
   "TYPE:novel",
-  "TYPE:short stories",
-  "READABILITY:light"],
+  "READABILITY:light",
+  "MOOD:funny",
+  "MOOD:comforting",
+  "unreliable narrator"],
   "collections": ["Your library"],
   "originalisbn": "0140059024",
   "isbn": {
@@ -17481,7 +17498,8 @@
   "anarchism",
   "future",
   "TYPE:novel",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "capitalism"],
   "collections": ["Your library"],
   "originalisbn": "006051275X",
   "isbn": {
@@ -19452,7 +19470,8 @@
   "coming of age",
   "sexuality",
   "TYPE:nonfiction",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "RECOMMENDER:UW anthropology"],
   "collections": ["Your library"],
   "originalisbn": "0688309747",
   "isbn": {
@@ -20814,7 +20833,7 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["091"],
-    "wording": ["Computer Science, Information and General Works",
+    "wording": ["Information",
     "Manuscripts and rare books",
     "Manuscripts; Autographs"]
   },
@@ -21408,10 +21427,11 @@
   "language": ["English"],
   "originallanguage": ["Finnish"],
   "ddc": {
-    "code": ["891.7"],
+    "code": ["891.73"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
     "Literature of other languages ",
+    "Russian Fiction",
     "Russian Literature"]
   },
   "lcc": {
@@ -22883,10 +22903,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["005.73"],
-    "wording": ["Computer Science, Information and General Works",
-    "Computer Software",
+    "wording": ["Computer Software",
     "Computing And Information",
     "Data Structures",
+    "Information",
     "Website and Database Design"]
   },
   "lcc": {
@@ -27922,7 +27942,8 @@
   "con artists",
   "READABILITY:light",
   "MOOD:violent",
-  "coming of age"],
+  "coming of age",
+  "MOOD:Sepia"],
   "collections": ["Your library"],
   "originalisbn": "0385337469",
   "isbn": {
@@ -28028,7 +28049,8 @@
   "magic",
   "magical realism",
   "judaism",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:sepia"],
   "collections": ["Your library"],
   "originalisbn": "0062110845",
   "isbn": {
@@ -28339,5 +28361,367 @@
   "dimensions": "0.25 x 6.5 x 9.75 inches",
   "weight": "0.84 pounds",
   "pages": "144 ",
+  "fromwhere": "Green Apple Books"
+},
+"115251635": {
+  "books_id": "115251635",
+  "title": "Ender&#039;s Game (The Ender Quintet)",
+  "sortcharacter": "1",
+  "primaryauthor": "Card, Orson Scott",
+  "authors": [{
+    "lf": "Card, Orson Scott",
+    "fl": "Orson Scott Card"
+  }],
+  "tags": ["space travel",
+  "aliens",
+  "war",
+  "children",
+  "TYPE:novel",
+  "READABILITY:light",
+  "MOOD:violent"],
+  "collections": ["Your library"],
+  "originalisbn": "0812550706",
+  "isbn": {
+    "0": "0812550706",
+    "2": "9780812550702"
+  },
+  "publication": "Tor Science Fiction (1994), Mass Market Paperback, 352 pages",
+  "date": "1994",
+  "summary": "Ender&#039;s Game (The Ender Quintet) by Orson Scott Card (1994)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["20th Century",
+    "American Fiction",
+    "American literature",
+    "Later 20th Century 1945-",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3553.A655E5"
+  },
+  "subject": {
+    "0": ["Brothers and sisters",
+    "Fiction"],
+    "2": ["Genetic engineering",
+    "Fiction"],
+    "4": ["Imaginary wars and battles",
+    "Fiction"],
+    "5": ["Science Fiction"],
+    "7": ["Science fiction"],
+    "9": ["Soldiers",
+    "Fiction"],
+    "10": ["War games",
+    "Fiction"],
+    "12": ["Wiggin, Ender (Fictitious character)",
+    "Fiction"],
+    "14": ["Wiggin, Peter (Fictitious character)",
+    "Fiction"],
+    "16": ["Young adult fiction"],
+    "17": ["science fiction"]
+  },
+  "series": "Ender's Game",
+  "source": "amazon.com",
+  "workcode": "825739",
+  "entrydate": "2015-01-06",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "352 p.; 4.2 inches",
+  "height": "4.2 inches",
+  "thickness": "6.81 inches",
+  "length": "0.97 inches",
+  "dimensions": "4.2 x 0.97 x 6.81 inches",
+  "weight": "0.02 pounds",
+  "pages": "352 ",
+  "fromwhere": "Cancun airport convenience store"
+},
+"115574802": {
+  "books_id": "115574802",
+  "title": "Repairing record changers; a practical guide to all models, including portable phonographs, high-fidelity units, and magnetic tape recorders",
+  "sortcharacter": "1",
+  "primaryauthor": "Ecklund, E. Eugene",
+  "authors": [{
+    "lf": "Ecklund, E. Eugene",
+    "fl": "E. Eugene Ecklund"
+  }],
+  "tags": ["how-to",
+  "DIY",
+  "TYPE:nonfiction",
+  "RECOMMENDER:dad",
+  "READABILITY:medium",
+  "vinyl",
+  "records",
+  "record players",
+  "repair",
+  "manual"],
+  "collections": ["Your library"],
+  "date": "?",
+  "summary": "Repairing record changers; a practical guide to all models, including portable phonographs, high-fidelity units, and magnetic tape recorders by E. Eugene Ecklund (?)",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15659897",
+  "entrydate": "2015-01-18",
+  "copies": "1",
+  "volumes": "1",
+  "fromwhere": "Amazon.com"
+},
+"115574803": {
+  "books_id": "115574803",
+  "title": "The Man in the High Castle",
+  "sortcharacter": "5",
+  "primaryauthor": "Dick, Philip K.",
+  "authors": [{
+    "lf": "Dick, Philip K.",
+    "fl": "Philip K. Dick"
+  }],
+  "tags": ["alternate history",
+  "nazi",
+  "japan",
+  "TYPE:novel",
+  "WWII",
+  "i ching",
+  "fascism"],
+  "collections": ["Your library"],
+  "originalisbn": "0679740678",
+  "isbn": {
+    "0": "0679740678",
+    "2": "9780679740674"
+  },
+  "publication": "Vintage (1992), Edition: Reissue, Paperback, 272 pages",
+  "date": "1992",
+  "summary": "The Man in the High Castle by Philip K. Dick (1992)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["20th Century",
+    "American Fiction",
+    "American literature",
+    "Later 20th Century 1945-",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3554.I3M26"
+  },
+  "subject": {
+    "0": ["Alternative histories"],
+    "1": ["Alternative histories (Fiction)"],
+    "3": ["Fiction in English"],
+    "4": ["Science Fiction"],
+    "6": ["Science fiction"],
+    "8": ["fiction in English"],
+    "9": ["science fiction"]
+  },
+  "source": "amazon.com",
+  "workcode": "16570",
+  "entrydate": "2015-01-18",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "272 p.; 5.14 inches",
+  "height": "5.14 inches",
+  "thickness": "7.95 inches",
+  "length": "0.6 inches",
+  "dimensions": "5.14 x 0.6 x 7.95 inches",
+  "weight": "0.4 pounds",
+  "pages": "272 ",
+  "fromwhere": "Green Apple Books"
+},
+"115574806": {
+  "books_id": "115574806",
+  "title": "Bel Canto",
+  "sortcharacter": "1",
+  "primaryauthor": "Patchett, Ann",
+  "authors": [{
+    "lf": "Patchett, Ann",
+    "fl": "Ann Patchett"
+  }],
+  "tags": ["hostages",
+  "TYPE:novel",
+  "opera",
+  "terrorism",
+  "romance",
+  "RECOMMENDER:Sara"],
+  "collections": ["Your library"],
+  "originalisbn": "0060838728",
+  "isbn": {
+    "0": "0060838728",
+    "2": "9780060838720"
+  },
+  "publication": "Harper Perennial (2005), Paperback, 352 pages",
+  "date": "2005",
+  "summary": "Bel Canto by Ann Patchett (2005)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Dutch"],
+  "ddc": {
+    "code": ["813"],
+    "wording": ["American Fiction",
+    "American literature",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3566.A7756B4"
+  },
+  "subject": {
+    "0": ["Embassy buildings",
+    "Fiction"],
+    "2": ["Hostages",
+    "Fiction"],
+    "4": ["Love Stories"],
+    "5": ["Love stories"],
+    "7": ["Opera",
+    "Fiction"],
+    "9": ["Psychological fiction"],
+    "11": ["South America",
+    "Fiction"],
+    "13": ["Victims of terrorism",
+    "Fiction"],
+    "15": ["Women singers",
+    "Fiction"]
+  },
+  "source": "amazon.com",
+  "workcode": "8084",
+  "entrydate": "2015-01-18",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "352 p.; 5.31 inches",
+  "height": "5.31 inches",
+  "thickness": "8 inches",
+  "length": "0.79 inches",
+  "dimensions": "5.31 x 0.79 x 8 inches",
+  "weight": "0.75 pounds",
+  "pages": "352 ",
+  "fromwhere": "Green Apple Books"
+},
+"115574807": {
+  "books_id": "115574807",
+  "title": "The Soul at Work: From Alienation to Autonomy (Semiotext(e) / Foreign Agents)",
+  "sortcharacter": "5",
+  "primaryauthor": "Berardi, Franco \"Bifo\"",
+  "secondaryauthor": "Cadel, Francesca|Mecchia, Giuseppina|Smith, Jason E.",
+  "secondaryauthorroles": "Translator|Translator|Preface",
+  "authors": [{
+    "lf": "Berardi, Franco \"Bifo\"",
+    "fl": "Franco \"Bifo\" Berardi"
+  },
+  {
+    "lf": "Cadel, Francesca",
+    "fl": "Francesca Cadel",
+    "role": "Translator"
+  },
+  {
+    "lf": "Mecchia, Giuseppina",
+    "fl": "Giuseppina Mecchia",
+    "role": "Translator"
+  },
+  {
+    "lf": "Smith, Jason E.",
+    "fl": "Jason E. Smith",
+    "role": "Preface"
+  }],
+  "tags": ["capitalism",
+  "critical theory",
+  "theory",
+  "philosophy",
+  "politics",
+  "labor",
+  "work",
+  "TYPE:nonfiction",
+  "RECOMMENDER:UW anthropology"],
+  "collections": ["Your library"],
+  "originalisbn": "1584350768",
+  "isbn": {
+    "0": "1584350768",
+    "2": "9781584350767"
+  },
+  "publication": "Semiotext(e) (2009), Paperback, 232 pages",
+  "date": "2009",
+  "summary": "The Soul at Work: From Alienation to Autonomy (Semiotext(e) / Foreign Agents) by Franco \"Bifo\" Berardi (2009)",
+  "format": "Paperback",
+  "language": ["English"],
+  "ddc": {
+    "code": ["320"],
+    "wording": ["Political Science ",
+    "Political science (Politics and government)",
+    "Social Sciences "]
+  },
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "8637981",
+  "entrydate": "2015-01-18",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "232 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "0.63 inches",
+  "dimensions": "6 x 0.63 x 9 inches",
+  "weight": "0.77 pounds",
+  "pages": "232 ",
+  "fromwhere": "Amazon.com"
+},
+"115574813": {
+  "books_id": "115574813",
+  "title": "The Magus",
+  "sortcharacter": "5",
+  "primaryauthor": "Fowles, John",
+  "authors": [{
+    "lf": "Fowles, John",
+    "fl": "John Fowles"
+  }],
+  "tags": ["psychology",
+  "mystery",
+  "TYPE:novel",
+  "RECOMMENDER:Sara",
+  "RECOMMENDER:Tessa",
+  "occult",
+  "islands"],
+  "collections": ["Your library"],
+  "publication": "Little, Brown & Co (1965), Edition: Second Printing, Hardcover",
+  "date": "1965",
+  "summary": "The Magus by John Fowles (1965)",
+  "language": ["English"],
+  "originallanguage": ["Finnish"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English fiction",
+    "English literature",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PZ4.F788Mag2 "
+  },
+  "subject": {
+    "0": ["British",
+    "Greece",
+    "Fiction"],
+    "2": ["British",
+    "Travel",
+    "Greece",
+    "Fiction"],
+    "3": ["Fiction in English"],
+    "4": ["Greece",
+    "Fiction"],
+    "6": ["Islands",
+    "Fiction"],
+    "8": ["Islands",
+    "Greece",
+    "Fiction"],
+    "10": ["Psychological fiction"],
+    "12": ["fiction in English"]
+  },
+  "source": "amazon.com",
+  "workcode": "7923",
+  "entrydate": "2015-01-18",
+  "copies": "1",
+  "volumes": "1",
   "fromwhere": "Green Apple Books"
 }}
