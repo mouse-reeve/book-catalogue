@@ -2555,7 +2555,8 @@
   "RECOMMENDER:Sigmund",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:cerebral"],
+  "MOOD:cerebral",
+  "philosophy"],
   "collections": ["Your library"],
   "originalisbn": "0061474096",
   "isbn": {
@@ -3040,7 +3041,8 @@
   "psychology",
   "RECOMMENDER:Jesse",
   "TYPE:nonfiction",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0674840313",
   "isbn": {
@@ -3095,7 +3097,8 @@
   "alternate history",
   "RECOMMENDER:Sigmund",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0060593083",
   "isbn": {
@@ -4631,7 +4634,8 @@
   }],
   "tags": ["TYPE:nonfiction",
   "mathematics",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0883853019",
   "isbn": {
@@ -4785,7 +4789,8 @@
   }],
   "tags": ["RECOMMENDER:Jesse",
   "TYPE:nonfiction",
-  "mathematics"],
+  "mathematics",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "069111966X",
   "isbn": {
@@ -5219,7 +5224,8 @@
   "future",
   "TYPE:novel",
   "mathematics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0060512806",
   "isbn": {
@@ -9594,7 +9600,8 @@
   "TYPE:novel",
   "READABILITY:medium",
   "science",
-  "MOOD:cerebral"],
+  "MOOD:cerebral",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0156027607",
   "isbn": {
@@ -10050,7 +10057,8 @@
   "READABILITY:medium",
   "MOOD:funny",
   "MOOD:cerebral",
-  "engineering"],
+  "engineering",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0156235501",
   "isbn": {
@@ -11500,7 +11508,8 @@
   "theory",
   "TYPE:nonfiction",
   "mathematics",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0465026567",
   "isbn": {
@@ -12072,7 +12081,8 @@
   "future",
   "TYPE:short stories",
   "READABILITY:medium",
-  "MOOD:placid"],
+  "MOOD:placid",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0151879788",
   "isbn": {
@@ -13950,7 +13960,8 @@
   "tags": ["space travel",
   "future",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0151770824",
   "isbn": {
@@ -18762,7 +18773,8 @@
   "READABILITY:dense",
   "MOOD:funny",
   "satire",
-  "MOOD:cerebral"],
+  "MOOD:cerebral",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0151441189",
   "isbn": {
@@ -20192,7 +20204,8 @@
   "tags": ["space travel",
   "future",
   "TYPE:short stories",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0151621381",
   "isbn": {
@@ -20988,7 +21001,8 @@
   "future",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:intense"],
+  "MOOD:intense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0553380966",
   "isbn": {
@@ -21720,7 +21734,8 @@
   "tags": ["logic",
   "TYPE:nonfiction",
   "mathematics",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0517533634",
   "isbn": {
@@ -22893,7 +22908,8 @@
   }],
   "tags": ["computers",
   "TYPE:nonfiction",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0321370139",
   "isbn": {
@@ -23468,7 +23484,8 @@
   }],
   "tags": ["TYPE:nonfiction",
   "mathematics",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0486680290",
   "isbn": {
@@ -25582,7 +25599,8 @@
   "TYPE:nonfiction",
   "codes",
   "mathematics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0385495323",
   "isbn": {
@@ -25695,7 +25713,8 @@
   "books",
   "TYPE:fictional nonfiction",
   "READABILITY:dense",
-  "satire"],
+  "satire",
+  "MOOD:technical"],
   "collections": ["Your library"],
   "originalisbn": "0810117339",
   "isbn": {
