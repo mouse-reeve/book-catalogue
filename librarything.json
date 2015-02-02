@@ -359,6 +359,7 @@
     "code": "PN6737.M66V2"
   },
   "subject": [["Graphic novels"]],
+  "series": "V For Vendetta",
   "source": "amazon.com",
   "workcode": "7114",
   "entrydate": "2014-01-21",
@@ -2820,7 +2821,6 @@
     "17": ["fiction in English"],
     "18": ["science fiction"]
   },
-  "series": "Colec\u00e7\u00e3o Argonauta",
   "source": "amazon.com",
   "workcode": "16566",
   "entrydate": "2014-01-21",
@@ -10279,6 +10279,7 @@
   "ddc": {
     "code": ["364.15230978144"],
     "wording": ["Criminology",
+    "Murder",
     "Social Problems, Social Services",
     "Social Sciences ",
     "Types of crimes"]
@@ -10625,6 +10626,7 @@
     "24": ["historical fiction"],
     "25": ["satire"]
   },
+  "series": "Catch-22",
   "source": "amazon.com",
   "workcode": "1479",
   "entrydate": "2014-01-21",
@@ -10934,6 +10936,7 @@
   "ddc": {
     "code": ["364.15230977311"],
     "wording": ["Criminology",
+    "Murder",
     "Social Problems, Social Services",
     "Social Sciences ",
     "Types of crimes"]
@@ -16607,6 +16610,7 @@
     "9": ["fiction in English"],
     "10": ["science fiction"]
   },
+  "series": "Leibowitz",
   "source": "amazon.com",
   "workcode": "48053",
   "entrydate": "2014-07-27",
@@ -16670,7 +16674,7 @@
   }],
   "tags": ["mythology",
   "russia",
-  "TYPE:novel",
+  "TYPE:nonfiction",
   "READABILITY:dense"],
   "collections": ["Your library"],
   "originalisbn": "1855384752",
@@ -28180,6 +28184,7 @@
     "15": ["Science fiction"],
     "17": ["science fiction"]
   },
+  "series": "SF Masterworks",
   "source": "amazon.com",
   "workcode": "2516333",
   "entrydate": "2014-12-29",
@@ -28378,7 +28383,9 @@
   "children",
   "TYPE:novel",
   "READABILITY:light",
-  "MOOD:violent"],
+  "MOOD:violent",
+  "siblings",
+  "family"],
   "collections": ["Your library"],
   "originalisbn": "0812550706",
   "isbn": {
@@ -28724,4 +28731,187 @@
   "copies": "1",
   "volumes": "1",
   "fromwhere": "Green Apple Books"
+},
+"115972483": {
+  "books_id": "115972483",
+  "title": "John Constantine, Hellblazer Vol. 7: Tainted Love (Hellblazer (Graphic Novels))",
+  "sortcharacter": "1",
+  "primaryauthor": "Ennis, Garth",
+  "secondaryauthor": "Dillon, Steve",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "Ennis, Garth",
+    "fl": "Garth Ennis"
+  },
+  {
+    "lf": "Dillon, Steve",
+    "fl": "Steve Dillon",
+    "role": "Illustrator"
+  }],
+  "tags": ["magic",
+  "hell",
+  "occult",
+  "TYPE:graphic novels & comics",
+  "demons",
+  "READABILITY:medium",
+  "MOOD:dark"],
+  "collections": ["Your library"],
+  "originalisbn": "1401243037",
+  "isbn": {
+    "0": "1401243037",
+    "2": "9781401243036"
+  },
+  "publication": "Vertigo (2014), Edition: First Edition, Paperback, 320 pages",
+  "date": "2014",
+  "summary": "John Constantine, Hellblazer Vol. 7: Tainted Love (Hellblazer (Graphic Novels)) by Garth Ennis (2014)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Undetermined"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6727.E56J657"
+  },
+  "subject": [["Comic books, strips, etc"]],
+  "series": "Hellblazer",
+  "source": "amazon.com",
+  "workcode": "124488",
+  "entrydate": "2015-02-02",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "320 p.; 6.64 inches",
+  "height": "6.64 inches",
+  "thickness": "10.17 inches",
+  "length": "0.68 inches",
+  "dimensions": "6.64 x 0.68 x 10.17 inches",
+  "weight": "1.02 pounds",
+  "pages": "320 ",
+  "fromwhere": "Comix Experience"
+},
+"115972493": {
+  "books_id": "115972493",
+  "title": "Swamp Thing by Brian K. Vaughan Vol. 1",
+  "sortcharacter": "1",
+  "primaryauthor": "Vaughan, Brian K.",
+  "secondaryauthor": "Peterson, Roger|Chiang, Cliff",
+  "secondaryauthorroles": "Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Vaughan, Brian K.",
+    "fl": "Brian K. Vaughan"
+  },
+  {
+    "lf": "Peterson, Roger",
+    "fl": "Roger Peterson",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Chiang, Cliff",
+    "fl": "Cliff Chiang",
+    "role": "Illustrator"
+  }],
+  "tags": ["swamp",
+  "plants",
+  "ecology",
+  "environment",
+  "TYPE:graphic novels & comics",
+  "READABILITY:medium",
+  "MOOD:dark",
+  "RECOMMENDER:Tessa"],
+  "collections": ["Your library"],
+  "originalisbn": "1401243045",
+  "isbn": {
+    "0": "1401243045",
+    "2": "9781401243043"
+  },
+  "publication": "Vertigo (2014), Edition: First Edition, Paperback, 240 pages",
+  "date": "2014",
+  "summary": "Swamp Thing by Brian K. Vaughan Vol. 1 by Brian K. Vaughan (2014)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "series": "Swamp Thing",
+  "source": "amazon.com",
+  "workcode": "14611389",
+  "entrydate": "2015-02-02",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "240 p.; 6.63 inches",
+  "height": "6.63 inches",
+  "thickness": "10.16 inches",
+  "length": "0.38 inches",
+  "dimensions": "6.63 x 0.38 x 10.16 inches",
+  "weight": "0.92 pounds",
+  "pages": "240 ",
+  "fromwhere": "Comix Experience"
+},
+"115972500": {
+  "books_id": "115972500",
+  "title": "Batman: Year One",
+  "sortcharacter": "1",
+  "primaryauthor": "Miller, Frank",
+  "secondaryauthor": "Mazzucchelli, David",
+  "authors": [{
+    "lf": "Miller, Frank",
+    "fl": "Frank Miller"
+  },
+  {
+    "lf": "Mazzucchelli, David",
+    "fl": "David Mazzucchelli"
+  }],
+  "tags": ["superheroes",
+  "TYPE:graphic novels & comics",
+  "noir",
+  "crime",
+  "origin story",
+  "RECOMMENDER:Tessa"],
+  "collections": ["Your library"],
+  "originalisbn": "1401207529",
+  "isbn": {
+    "0": "1401207529",
+    "2": "9781401207526"
+  },
+  "publication": "DC Comics (2007), Edition: De Luxe edition, Paperback, 136 pages",
+  "date": "2007",
+  "summary": "Batman: Year One by Frank Miller (2007)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Finnish"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.B36M547"
+  },
+  "subject": [["Graphic Novels"],
+  ["Graphic novels"]],
+  "series": "Batman",
+  "source": "amazon.com",
+  "workcode": "74608",
+  "entrydate": "2015-02-02",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "144 p.; 6.68 inches",
+  "height": "6.68 inches",
+  "thickness": "10.18 inches",
+  "length": "0.34 inches",
+  "dimensions": "6.68 x 0.34 x 10.18 inches",
+  "weight": "0.68 pounds",
+  "pages": "144 ",
+  "fromwhere": "Comix Experience"
 }}
