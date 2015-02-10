@@ -28203,7 +28203,6 @@
     "15": ["Science fiction"],
     "17": ["science fiction"]
   },
-  "series": "SF Masterworks",
   "source": "amazon.com",
   "workcode": "2516333",
   "entrydate": "2014-12-29",
@@ -28933,4 +28932,552 @@
   "weight": "0.68 pounds",
   "pages": "144 ",
   "fromwhere": "Comix Experience"
+},
+"116170202": {
+  "books_id": "116170202",
+  "title": "Nox",
+  "sortcharacter": "1",
+  "primaryauthor": "Carson, Anne",
+  "authors": [{
+    "lf": "Carson, Anne",
+    "fl": "Anne Carson"
+  }],
+  "tags": ["art",
+  "latin",
+  "mourning",
+  "death",
+  "family",
+  "elegy",
+  "TYPE:poetry",
+  "experimental",
+  "TYPE:memoir",
+  "RECOMMENDER:Tessa"],
+  "collections": ["Your library"],
+  "originalisbn": "0811218708",
+  "isbn": {
+    "0": "0811218708",
+    "2": "9780811218702"
+  },
+  "publication": "New Directions (2010), Edition: Slp, Hardcover, 192 pages",
+  "date": "2010",
+  "summary": "Nox by Anne Carson (2010)",
+  "format": "Hardcover",
+  "language": ["English"],
+  "ddc": {
+    "code": ["811.54"],
+    "wording": ["1950-1999",
+    "20th Century",
+    "American Poetry",
+    "American literature",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3553.A7667N69"
+  },
+  "source": "amazon.com",
+  "workcode": "9655388",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "192 p.; 0.61 inches",
+  "height": "0.61 inches",
+  "thickness": "0.93 inches",
+  "length": "0.26 inches",
+  "dimensions": "0.61 x 0.26 x 0.93 inches",
+  "weight": "2.72 pounds",
+  "pages": "192 ",
+  "fromwhere": "Green Apple Books"
+},
+"116170207": {
+  "books_id": "116170207",
+  "title": "A Thousand Plateaus: Capitalism and Schizophrenia",
+  "sortcharacter": "3",
+  "primaryauthor": "Deleuze, Gilles",
+  "secondaryauthor": "Guattari, Felix|Massumi, Brian",
+  "secondaryauthorroles": "|Translator",
+  "authors": [{
+    "lf": "Deleuze, Gilles",
+    "fl": "Gilles Deleuze"
+  },
+  {
+    "lf": "Guattari, Felix",
+    "fl": "Felix Guattari"
+  },
+  {
+    "lf": "Massumi, Brian",
+    "fl": "Brian Massumi",
+    "role": "Translator"
+  }],
+  "tags": ["capitalism",
+  "philosophy",
+  "RECOMMENDER:Edbury",
+  "critical theory",
+  "theory",
+  "TYPE:nonfiction",
+  "postmodernism",
+  "poststructuralism",
+  "psychology",
+  "schizophrenia"],
+  "collections": ["Your library"],
+  "originalisbn": "0816614024",
+  "isbn": {
+    "0": "0816614024",
+    "2": "9780816614028"
+  },
+  "publication": "University of Minnesota Press (1987), Edition: 1, Paperback, 632 pages",
+  "date": "1987",
+  "summary": "A Thousand Plateaus: Capitalism and Schizophrenia by Gilles Deleuze (1987)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["194"],
+    "wording": ["French",
+    "Modern western philosophy",
+    "Philosophy and Psychology"]
+  },
+  "lcc": {
+    "code": "B77.D413"
+  },
+  "subject": {
+    "0": ["Philosophy"],
+    "2": ["Postmodernism"],
+    "4": ["Psychoanalysis"],
+    "6": ["Radicalism"],
+    "8": ["philosophy"],
+    "10": ["postmodernism"]
+  },
+  "series": "Capitalism and Schizophrenia",
+  "source": "amazon.com",
+  "workcode": "35934",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "632 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "1.4 inches",
+  "dimensions": "6 x 1.4 x 9 inches",
+  "weight": "1.83 pounds",
+  "pages": "632 ",
+  "fromwhere": "Green Apple Books"
+},"116170210": {
+  "books_id": "116170210",
+  "title": "The Book of Lost Things",
+  "sortcharacter": "5",
+  "primaryauthor": "Connolly, John",
+  "authors": [{
+    "lf": "Connolly, John",
+    "fl": "John Connolly"
+  }],
+  "tags": ["coming of age",
+  "books",
+  "death",
+  "WWII",
+  "fairy tales",
+  "horror",
+  "magical realism",
+  "wolves",
+  "RECOMMENDER:Tessa",
+  "TYPE:novel",
+  "READABILITY:light",
+  "MOOD:dark"],
+  "collections": ["Your library"],
+  "originalisbn": "074329890X",
+  "isbn": {
+    "0": "074329890X",
+    "2": "9780743298902"
+  },
+  "publication": "Washington Square Press (2007), Edition: Reprint, Paperback, 480 pages",
+  "date": "2007",
+  "summary": "The Book of Lost Things by John Connolly (2007)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English fiction",
+    "English literature",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6053.O48645B66"
+  },
+  "subject": {
+    "0": ["Bereavement in children",
+    "Fiction"],
+    "1": ["England",
+    "Fiction"],
+    "2": ["England",
+    "fiction"],
+    "3": ["Fairy tales",
+    "Adaptations"],
+    "4": ["Fantasy fiction"],
+    "6": ["Large Type Books"],
+    "7": ["Large type books"],
+    "9": ["Mothers",
+    "Death",
+    "Fiction"],
+    "10": ["fantasy fiction"]
+  },
+  "source": "amazon.com",
+  "workcode": "1107522",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "480 p.; 5.31 inches",
+  "height": "5.31 inches",
+  "thickness": "8.25 inches",
+  "length": "1.3 inches",
+  "dimensions": "5.31 x 1.3 x 8.25 inches",
+  "weight": "0.89 pounds",
+  "pages": "480 ",
+  "fromwhere": "Green Apple Books"
+},
+"116170214": {
+  "books_id": "116170214",
+  "title": "The Sandman Library, Volume 3: Dream Country",
+  "sortcharacter": "5",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "III, Malcolm Jones|Vess, Charles|Erickson, Steve|Doran, Colleen|Jones, Kelley",
+  "secondaryauthorroles": "Illustrator|Illustrator|Introduction|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "III, Malcolm Jones",
+    "fl": "Malcolm Jones III",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Vess, Charles",
+    "fl": "Charles Vess",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Erickson, Steve",
+    "fl": "Steve Erickson",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Doran, Colleen",
+    "fl": "Colleen Doran",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Jones, Kelley",
+    "fl": "Kelley Jones",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & com"],
+  "collections": ["Your library"],
+  "originalisbn": "156389016X",
+  "isbn": {
+    "0": "156389016X",
+    "2": "9781563890161"
+  },
+  "publication": "Vertigo (1991), Edition: Illustrated, Paperback, 160 pages",
+  "date": "1991",
+  "summary": "The Sandman Library, Volume 3: Dream Country by Neil Gaiman (1991)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G365"
+  },
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6040",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "160 p.; 6.6 inches",
+  "height": "6.6 inches",
+  "thickness": "10.2 inches",
+  "length": "0.3 inches",
+  "dimensions": "6.6 x 0.3 x 10.2 inches",
+  "weight": "0.55 pounds",
+  "pages": "160 ",
+  "fromwhere": "Green Apple Books"
+},
+"116170219": {
+  "books_id": "116170219",
+  "title": "Sandman, The: The Wake - Book X (Sandman Collected Library)",
+  "sortcharacter": "1",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Zulli, Michael|Vess, Charles|Muth, Jon J.|Gilmore, Mikal",
+  "secondaryauthorroles": "Illustrator|Illustrator|Illustrator|Introduction",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Zulli, Michael",
+    "fl": "Michael Zulli",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Vess, Charles",
+    "fl": "Charles Vess",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Muth, Jon J.",
+    "fl": "Jon J. Muth",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Gilmore, Mikal",
+    "fl": "Mikal Gilmore",
+    "role": "Introduction"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & com"],
+  "collections": ["Your library"],
+  "originalisbn": "1563892790",
+  "isbn": {
+    "0": "1563892790",
+    "2": "9781563892790"
+  },
+  "publication": "Vertigo (1997), Paperback, 192 pages",
+  "date": "1997",
+  "summary": "Sandman, The: The Wake - Book X (Sandman Collected Library) by Neil Gaiman (1997)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Spanish"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G35"
+  },
+  "subject": [["England",
+  "Fiction"],
+  ["Fantastic fiction"],
+  ["Fantasy comic books, strips, etc"],
+  ["Graphic Novels"],
+  ["Graphic novels"],
+  ["Historical Fiction"],
+  ["Historical fiction"],
+  ["Horror comic books, strips, etc"],
+  ["Horror comic books, strips, etc.",
+  "United States"],
+  ["fantastic fiction"]],
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6037",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "192 p.; 6.5 inches",
+  "height": "6.5 inches",
+  "thickness": "10.1 inches",
+  "length": "0.5 inches",
+  "dimensions": "6.5 x 0.5 x 10.1 inches",
+  "weight": "0.67 pounds",
+  "pages": "192 ",
+  "fromwhere": "Green Apple Books"
+},
+"116170225": {
+  "books_id": "116170225",
+  "title": "Sandman, The: World&#039;s End - Book VIII (Sandman Collected Library)",
+  "sortcharacter": "1",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "King, Stephen|Talbot, Bryan|Zulli, Michael|Allred, Michael|Watkiss, John",
+  "secondaryauthorroles": "Introduction|Illustrator|Illustrator|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "King, Stephen",
+    "fl": "Stephen King",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Talbot, Bryan",
+    "fl": "Bryan Talbot",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Zulli, Michael",
+    "fl": "Michael Zulli",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Allred, Michael",
+    "fl": "Michael Allred",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Watkiss, John",
+    "fl": "John Watkiss",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & com"],
+  "collections": ["Your library"],
+  "originalisbn": "1563891719",
+  "isbn": {
+    "0": "1563891719",
+    "2": "9781563891717"
+  },
+  "publication": "Vertigo (1995), Edition: Gph, Paperback, 168 pages",
+  "date": "1995",
+  "summary": "Sandman, The: World&#039;s End - Book VIII (Sandman Collected Library) by Neil Gaiman (1995)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6737.G3S368"
+  },
+  "subject": [["Fantasy comic books, strips, etc"],
+  ["Graphic Novels"],
+  ["Graphic novels"],
+  ["Horror comic books, strips, etc"]],
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6044",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "168 p.; 6.65 inches",
+  "height": "6.65 inches",
+  "thickness": "10.17 inches",
+  "length": "0.27 inches",
+  "dimensions": "6.65 x 0.27 x 10.17 inches",
+  "weight": "1.1 pounds",
+  "pages": "168 ",
+  "fromwhere": "Green Apple Books"
+},
+"116170233": {
+  "books_id": "116170233",
+  "title": "Sandman, The: Fables & Reflections - Book VI (Sandman Collected Library)",
+  "sortcharacter": "1",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Thompson, Jill|Watkiss, John|Wolfe, Gene|Williams, Kent|Russell, P Craig|McManus, Shawn",
+  "secondaryauthorroles": "Illustrator|Illustrator|Introduction|Illustrator|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Thompson, Jill",
+    "fl": "Jill Thompson",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Watkiss, John",
+    "fl": "John Watkiss",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Wolfe, Gene",
+    "fl": "Gene Wolfe",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Williams, Kent",
+    "fl": "Kent Williams",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Russell, P Craig",
+    "fl": "P Craig Russell",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "McManus, Shawn",
+    "fl": "Shawn McManus",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & com"],
+  "collections": ["Your library"],
+  "originalisbn": "1563891050",
+  "isbn": {
+    "0": "1563891050",
+    "2": "9781563891052"
+  },
+  "publication": "Vertigo (1994), Edition: Gph, Paperback, 264 pages",
+  "date": "1994",
+  "summary": "Sandman, The: Fables & Reflections - Book VI (Sandman Collected Library) by Neil Gaiman (1994)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Spanish"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G357"
+  },
+  "subject": [["Comic books, strips, etc"],
+  ["Graphic Novels"],
+  ["Graphic novels"],
+  ["Horror comic books, strips, etc"]],
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6042",
+  "entrydate": "2015-02-10",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "264 p.; 6.65 inches",
+  "height": "6.65 inches",
+  "thickness": "10.18 inches",
+  "length": "0.5 inches",
+  "dimensions": "6.65 x 0.5 x 10.18 inches",
+  "weight": "0.91 pounds",
+  "pages": "264 ",
+  "fromwhere": "Green Apple Books"
 }}
