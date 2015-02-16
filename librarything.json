@@ -29519,6 +29519,7 @@
   "summary": "Posada: A Century of Skeletons by Juan Villoro (2014)",
   "format": "Hardcover",
   "language": ["English"],
+  "originallanguage": ["English"],
   "lcc": [],
   "source": "amazon.com",
   "workcode": "15681289",
@@ -29531,7 +29532,8 @@
   "length": "9.3 inches",
   "dimensions": "12.3 x 9.3 x 1.4 inches",
   "weight": "5.95 pounds",
-  "pages": "376 "
+  "pages": "376 ",
+  "fromwhere": "Logos Books & Records"
 },
 "116293265": {
   "books_id": "116293265",
@@ -29593,7 +29595,8 @@
   "length": "5.32 inches",
   "dimensions": "8.03 x 5.32 x 0.63 inches",
   "weight": "0.43 pounds",
-  "pages": "256 "
+  "pages": "256 ",
+  "fromwhere": "Black Oak Books - Berkeley"
 },
 "116293269": {
   "books_id": "116293269",
@@ -29642,7 +29645,8 @@
   "length": "1.06 inches",
   "dimensions": "5.46 x 1.06 x 8.35 inches",
   "weight": "0.85 pounds",
-  "pages": "496 "
+  "pages": "496 ",
+  "fromwhere": "Black Oak Books - Berkeley"
 },
 "116293270": {
   "books_id": "116293270",
@@ -29693,7 +29697,8 @@
   "length": "6.47 inches",
   "dimensions": "9.25 x 6.47 x 0.91 inches",
   "weight": "1.3 pounds",
-  "pages": "272 "
+  "pages": "272 ",
+  "fromwhere": "Black Oak Books - Berkeley"
 },
 "116293273": {
   "books_id": "116293273",
@@ -29722,6 +29727,7 @@
   "summary": "Mathematics for Computer Graphics (Cambridge Tracts in Theoretical Computer Science) by S. G. Hoggar (1993)",
   "format": "Hardcover",
   "language": ["English"],
+  "originallanguage": ["English"],
   "ddc": {
     "code": ["006.660151"],
     "wording": ["Computer graphics",
@@ -29746,5 +29752,6 @@
   "length": "1.18 inches",
   "dimensions": "6.85 x 1.18 x 9.72 inches",
   "weight": "2.43 pounds",
-  "pages": "490 "
+  "pages": "490 ",
+  "fromwhere": "Black Oak Books - Berkeley"
 }}
