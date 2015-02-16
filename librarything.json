@@ -3098,7 +3098,8 @@
   "RECOMMENDER:Sigmund",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:technical"],
+  "MOOD:technical",
+  "calculus"],
   "collections": ["Your library"],
   "originalisbn": "0060593083",
   "isbn": {
@@ -6268,7 +6269,8 @@
   "queer",
   "TYPE:essays",
   "TYPE:memoir",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "OCD"],
   "collections": ["Your library"],
   "originalisbn": "0316776963",
   "isbn": {
@@ -26679,7 +26681,7 @@
   "aesthetics",
   "art theory",
   "theory",
-  "postmodern",
+  "postmodernism",
   "TYPE:essays",
   "TYPE:nonfiction",
   "READABILITY:dense"],
@@ -28474,7 +28476,7 @@
   "tags": ["how-to",
   "DIY",
   "TYPE:nonfiction",
-  "RECOMMENDER:dad",
+  "RECOMMENDER:Dad",
   "READABILITY:medium",
   "vinyl",
   "records",
@@ -29081,7 +29083,8 @@
   "RECOMMENDER:Tessa",
   "TYPE:novel",
   "READABILITY:light",
-  "MOOD:dark"],
+  "MOOD:dark",
+  "OCD"],
   "collections": ["Your library"],
   "originalisbn": "074329890X",
   "isbn": {
@@ -29480,4 +29483,268 @@
   "weight": "0.91 pounds",
   "pages": "264 ",
   "fromwhere": "Green Apple Books"
+},
+"116293261": {
+  "books_id": "116293261",
+  "title": "Posada: A Century of Skeletons",
+  "sortcharacter": "1",
+  "primaryauthor": "Villoro, Juan",
+  "secondaryauthor": "L&oacute;pez, Mercurio|Bonilla, Helia",
+  "secondaryauthorroles": "|Editor",
+  "authors": [{
+    "lf": "Villoro, Juan",
+    "fl": "Juan Villoro"
+  },
+  {
+    "lf": "L&oacute;pez, Mercurio",
+    "fl": "Mercurio L&oacute;pez"
+  },
+  {
+    "lf": "Bonilla, Helia",
+    "fl": "Helia Bonilla",
+    "role": "Editor"
+  }],
+  "tags": ["art",
+  "skeletons",
+  "wood cuts",
+  "TYPE:nonfiction"],
+  "collections": ["Your library"],
+  "originalisbn": "841511866X",
+  "isbn": {
+    "0": "841511866X",
+    "2": "9788415118664"
+  },
+  "publication": "RM/BBVA (2014), Edition: Bilingual, Hardcover, 376 pages",
+  "date": "2014",
+  "summary": "Posada: A Century of Skeletons by Juan Villoro (2014)",
+  "format": "Hardcover",
+  "language": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15681289",
+  "entrydate": "2015-02-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "376 p.; 12.3 inches",
+  "height": "12.3 inches",
+  "thickness": "1.4 inches",
+  "length": "9.3 inches",
+  "dimensions": "12.3 x 9.3 x 1.4 inches",
+  "weight": "5.95 pounds",
+  "pages": "376 "
+},
+"116293265": {
+  "books_id": "116293265",
+  "title": "Practical Demonkeeping",
+  "sortcharacter": "1",
+  "primaryauthor": "Moore, Christopher",
+  "authors": [{
+    "lf": "Moore, Christopher",
+    "fl": "Christopher Moore"
+  }],
+  "tags": ["demons",
+  "humor",
+  "TYPE:novel",
+  "RECOMMENDER:Edbury",
+  "djinn",
+  "horror",
+  "MOOD:funny",
+  "satire"],
+  "collections": ["Your library"],
+  "originalisbn": "0380816555",
+  "isbn": {
+    "0": "0380816555",
+    "2": "9780380816552"
+  },
+  "publication": "Perennial (2000), Edition: First Edition, Paperback, 256 pages",
+  "date": "2000",
+  "summary": "Practical Demonkeeping by Christopher Moore (2000)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["20th Century",
+    "American Fiction",
+    "American literature",
+    "Later 20th Century 1945-",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3563.O594P73"
+  },
+  "subject": {
+    "0": ["Horror Tales"],
+    "2": ["Horror tales"],
+    "4": ["Humorous Stories"],
+    "5": ["Humorous stories"],
+    "7": ["horror tales"],
+    "9": ["humorous stories"]
+  },
+  "series": "Pine Cove",
+  "source": "amazon.com",
+  "workcode": "6467653",
+  "entrydate": "2015-02-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "256 p.; 8.03 inches",
+  "height": "8.03 inches",
+  "thickness": "0.63 inches",
+  "length": "5.32 inches",
+  "dimensions": "8.03 x 5.32 x 0.63 inches",
+  "weight": "0.43 pounds",
+  "pages": "256 "
+},
+"116293269": {
+  "books_id": "116293269",
+  "title": "Bleeding Edge: A Novel",
+  "sortcharacter": "1",
+  "primaryauthor": "Pynchon, Thomas",
+  "authors": [{
+    "lf": "Pynchon, Thomas",
+    "fl": "Thomas Pynchon"
+  }],
+  "tags": ["9/11",
+  "postmodernism",
+  "detective",
+  "deep web",
+  "internet"],
+  "collections": ["Your library"],
+  "originalisbn": "0143125753",
+  "isbn": {
+    "0": "0143125753",
+    "2": "9780143125754"
+  },
+  "publication": "Penguin Books (2014), Edition: Reprint, Paperback, 496 pages",
+  "date": "2014",
+  "summary": "Bleeding Edge: A Novel by Thomas Pynchon (2014)",
+  "format": "Paperback",
+  "language": ["English"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["20th Century",
+    "American Fiction",
+    "American literature",
+    "Later 20th Century 1945-",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3566.Y55B54"
+  },
+  "source": "amazon.com",
+  "workcode": "13663209",
+  "entrydate": "2015-02-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "496 p.; 5.46 inches",
+  "height": "5.46 inches",
+  "thickness": "8.35 inches",
+  "length": "1.06 inches",
+  "dimensions": "5.46 x 1.06 x 8.35 inches",
+  "weight": "0.85 pounds",
+  "pages": "496 "
+},
+"116293270": {
+  "books_id": "116293270",
+  "title": "Chases and Escapes: The Mathematics of Pursuit and Evasion",
+  "sortcharacter": "1",
+  "primaryauthor": "Nahin, Paul J.",
+  "authors": [{
+    "lf": "Nahin, Paul J.",
+    "fl": "Paul J. Nahin"
+  }],
+  "tags": ["calculus",
+  "mathematics",
+  "science",
+  "TYPE:nonfiction",
+  "guidance weapons",
+  "pursuit theory",
+  "RECOMMENDER:Dad"],
+  "collections": ["Your library"],
+  "originalisbn": "0691125147",
+  "isbn": {
+    "0": "0691125147",
+    "2": "9780691125145"
+  },
+  "publication": "Princeton University Press (2007), Hardcover, 272 pages",
+  "date": "2007",
+  "summary": "Chases and Escapes: The Mathematics of Pursuit and Evasion by Paul J. Nahin (2007)",
+  "format": "Hardcover",
+  "language": ["English"],
+  "ddc": {
+    "code": ["519.32"],
+    "wording": ["Mathematics",
+    "Mathematics And Science",
+    "Probability; mathematical statistics ",
+    "Testimony: decisions of juries and tribunals"]
+  },
+  "lcc": {
+    "code": "QA272.N34"
+  },
+  "subject": [["Differential games"]],
+  "source": "amazon.com",
+  "workcode": "2311189",
+  "entrydate": "2015-02-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "272 p.; 9.25 inches",
+  "height": "9.25 inches",
+  "thickness": "0.91 inches",
+  "length": "6.47 inches",
+  "dimensions": "9.25 x 6.47 x 0.91 inches",
+  "weight": "1.3 pounds",
+  "pages": "272 "
+},
+"116293273": {
+  "books_id": "116293273",
+  "title": "Mathematics for Computer Graphics (Cambridge Tracts in Theoretical Computer Science)",
+  "sortcharacter": "1",
+  "primaryauthor": "Hoggar, S. G.",
+  "authors": [{
+    "lf": "Hoggar, S. G.",
+    "fl": "S. G. Hoggar"
+  }],
+  "tags": ["computers",
+  "programming",
+  "computer graphics",
+  "graphics",
+  "mathematics",
+  "TYPE:nonfiction",
+  "RECOMMENDER:Dad"],
+  "collections": ["Your library"],
+  "originalisbn": "0521375746",
+  "isbn": {
+    "0": "0521375746",
+    "2": "9780521375740"
+  },
+  "publication": "Cambridge University Press (1993), Hardcover, 490 pages",
+  "date": "1993",
+  "summary": "Mathematics for Computer Graphics (Cambridge Tracts in Theoretical Computer Science) by S. G. Hoggar (1993)",
+  "format": "Hardcover",
+  "language": ["English"],
+  "ddc": {
+    "code": ["006.660151"],
+    "wording": ["Computer graphics",
+    "Computing And Information",
+    "Information",
+    "Special Topics"]
+  },
+  "lcc": {
+    "code": "T385.H646"
+  },
+  "subject": [["Computer graphics",
+  "Mathematics"]],
+  "series": "Cambridge Tracts in Theoretical Computer Science",
+  "source": "amazon.com",
+  "workcode": "1671495",
+  "entrydate": "2015-02-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "490 p.; 6.85 inches",
+  "height": "6.85 inches",
+  "thickness": "9.72 inches",
+  "length": "1.18 inches",
+  "dimensions": "6.85 x 1.18 x 9.72 inches",
+  "weight": "2.43 pounds",
+  "pages": "490 "
 }}
