@@ -2493,7 +2493,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["364.1680973"],
-    "wording": ["Criminology",
+    "wording": ["Crimes of property",
+    "Criminology",
     "Social Problems, Social Services",
     "Social Sciences "]
   },
@@ -19602,7 +19603,10 @@
   }],
   "tags": ["anthropology",
   "TYPE:nonfiction",
-  "READABILITY:dense"],
+  "READABILITY:dense",
+  "masks",
+  "religion",
+  "mythology"],
   "collections": ["Your library"],
   "originalisbn": "0520045335",
   "isbn": {
@@ -25473,7 +25477,7 @@
   "lcc": {
     "code": "BF1584.E9W59"
   },
-  "series": "Witchcraft and Magic in Europe",
+  "series": "Witchcraft and Magic in Europe, vol. 6",
   "source": "amazon.com",
   "workcode": "2625682",
   "entrydate": "2014-10-02",
@@ -26308,7 +26312,6 @@
     "16": ["mythology"],
     "18": ["religion"]
   },
-  "series": "The Golden Bough: Two Volume Set",
   "source": "amazon.com",
   "workcode": "11390",
   "entrydate": "2014-10-19",
@@ -26655,7 +26658,7 @@
     "Translations into English"],
     "15": ["historical fiction"]
   },
-  "series": "Eugene Onegin",
+  "series": "Oxford World's Classics",
   "source": "amazon.com",
   "workcode": "50852",
   "entrydate": "2014-10-26",
@@ -29180,7 +29183,7 @@
   "personification",
   "mythology",
   "RECOMMENDER:Jesse",
-  "TYPE:graphic novels & com"],
+  "TYPE:graphic novels & comics"],
   "collections": ["Your library"],
   "originalisbn": "156389016X",
   "isbn": {
@@ -29256,7 +29259,7 @@
   "personification",
   "mythology",
   "RECOMMENDER:Jesse",
-  "TYPE:graphic novels & com"],
+  "TYPE:graphic novels & comics"],
   "collections": ["Your library"],
   "originalisbn": "1563892790",
   "isbn": {
@@ -29349,7 +29352,7 @@
   "personification",
   "mythology",
   "RECOMMENDER:Jesse",
-  "TYPE:graphic novels & com"],
+  "TYPE:graphic novels & comics"],
   "collections": ["Your library"],
   "originalisbn": "1563891719",
   "isbn": {
@@ -29439,7 +29442,7 @@
   "personification",
   "mythology",
   "RECOMMENDER:Jesse",
-  "TYPE:graphic novels & com"],
+  "TYPE:graphic novels & comics"],
   "collections": ["Your library"],
   "originalisbn": "1563891050",
   "isbn": {
@@ -29754,4 +29757,558 @@
   "weight": "2.43 pounds",
   "pages": "490 ",
   "fromwhere": "Black Oak Books - Berkeley"
+},
+"116410747": {
+  "books_id": "116410747",
+  "title": "Stuart Little",
+  "sortcharacter": "1",
+  "primaryauthor": "White, E. B.",
+  "secondaryauthor": "Williams, Garth",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "White, E. B.",
+    "fl": "E. B. White"
+  },
+  {
+    "lf": "Williams, Garth",
+    "fl": "Garth Williams",
+    "role": "Illustrator"
+  }],
+  "tags": ["mice",
+  "TYPE:children's",
+  "anthropomorphism",
+  "family",
+  "READABILITY:light"],
+  "collections": ["Your library"],
+  "originalisbn": "0060263954",
+  "isbn": {
+    "0": "0060263954",
+    "2": "9780060263959"
+  },
+  "publication": "Harper & Row (1973), Hardcover, 131 pages",
+  "date": "1973",
+  "summary": "Stuart Little by E. B. White (1973)",
+  "format": "Hardcover",
+  "language": ["English"],
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["813.52"],
+    "wording": ["20th Century",
+    "American Fiction",
+    "American literature",
+    "Early 20th Century 1901-",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PZ7.W58277St7"
+  },
+  "subject": {
+    "0": ["Adaptation"],
+    "1": ["Adventure"],
+    "2": ["Adventure stories"],
+    "3": ["Animal"],
+    "4": ["Children's"],
+    "5": ["Children's stories"],
+    "6": ["Family"],
+    "7": ["Fantasy"],
+    "8": ["Mice",
+    "Fiction"],
+    "10": ["Mice",
+    "fiction"],
+    "11": ["Voyages and travels",
+    "Fiction"],
+    "13": ["adaptation"],
+    "14": ["adventure stories"],
+    "15": ["family"],
+    "16": ["fantasy"]
+  },
+  "source": "amazon.com",
+  "workcode": "6295",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "131 p.; 1 inches",
+  "height": "1 inch",
+  "thickness": "8.25 inches",
+  "length": "5.5 inches",
+  "dimensions": "1 x 5.5 x 8.25 inches",
+  "weight": "0.58 pounds",
+  "pages": "131 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410749": {
+  "books_id": "116410749",
+  "title": "The Way of the Masks",
+  "sortcharacter": "5",
+  "primaryauthor": "Levi-Strauss, Claude",
+  "secondaryauthor": "Modelski, Sylvia",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Levi-Strauss, Claude",
+    "fl": "Claude Levi-Strauss"
+  },
+  {
+    "lf": "Modelski, Sylvia",
+    "fl": "Sylvia Modelski",
+    "role": "Translator"
+  }],
+  "tags": ["anthropology",
+  "masks",
+  "ethnography",
+  "mythology",
+  "structuralism",
+  "TYPE:nonfiction",
+  "theory",
+  "art"],
+  "collections": ["Your library"],
+  "originalisbn": "029596636X",
+  "isbn": {
+    "0": "029596636X",
+    "2": "9780295966366"
+  },
+  "publication": "University of Washington Press (1988), Edition: Reprint, Paperback, 276 pages",
+  "date": "1988",
+  "summary": "The Way of the Masks by Claude Levi-Strauss (1988)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["French"],
+  "ddc": {
+    "code": ["732.2"],
+    "wording": ["Ancient",
+    "Arts And Leisure",
+    "Sculpture"]
+  },
+  "lcc": {
+    "code": "E78.N78L4513"
+  },
+  "subject": {
+    "0": ["Indian art",
+    "North America"],
+    "1": ["Indian art",
+    "Northwest Coast of North America"],
+    "3": ["Indian art",
+    "Northwest coast of North America"],
+    "5": ["Indian masks",
+    "Northwest Coast of North America"],
+    "7": ["Indian masks",
+    "Northwest coast of North America"],
+    "8": ["Indians of North America",
+    "Northwest Coast of North America",
+    "Religion"],
+    "10": ["Indians of North America",
+    "Northwest coast of North America",
+    "Masks"]
+  },
+  "source": "amazon.com",
+  "workcode": "791960",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "276 p.; 5.98 inches",
+  "height": "5.98 inches",
+  "thickness": "9.02 inches",
+  "length": "0.56 inches",
+  "dimensions": "5.98 x 0.56 x 9.02 inches",
+  "weight": "1.03 pounds",
+  "pages": "276 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410752": {
+  "books_id": "116410752",
+  "title": "The Sandman Library, Volume 2: The Doll&#039;s House",
+  "sortcharacter": "5",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Barker, Clive|Zulli, Michael|Dringenberg, Mike|III, Malcolm Jones|Parkhouse, Steve",
+  "secondaryauthorroles": "Introduction|Illustrator|Illustrator|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Barker, Clive",
+    "fl": "Clive Barker",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Zulli, Michael",
+    "fl": "Michael Zulli",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Dringenberg, Mike",
+    "fl": "Mike Dringenberg",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "III, Malcolm Jones",
+    "fl": "Malcolm Jones III",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Parkhouse, Steve",
+    "fl": "Steve Parkhouse",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "0930289595",
+  "isbn": {
+    "0": "0930289595",
+    "2": "9780930289591"
+  },
+  "publication": "Vertigo (1991), Edition: Gph, Paperback, 256 pages",
+  "date": "1991",
+  "summary": "The Sandman Library, Volume 2: The Doll&#039;s House by Neil Gaiman (1991)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G35"
+  },
+  "subject": [["Comic books, strips, etc"],
+  ["Fantasy comic books, strips, etc"],
+  ["Graphic Novels"],
+  ["Graphic novels"],
+  ["Horror comic books, strips, etc"]],
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6039",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "256 p.; 6.63 inches",
+  "height": "6.63 inches",
+  "thickness": "10.13 inches",
+  "length": "0.5 inches",
+  "dimensions": "6.63 x 0.5 x 10.13 inches",
+  "weight": "0.81 pounds",
+  "pages": "256 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410754": {
+  "books_id": "116410754",
+  "title": "The Sandman; vol. 4: Season of Mists",
+  "sortcharacter": "5",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Dringenberg, Mike|III, Malcolm Jones|Russell, P. Craig|Jones, Kelley|Ellison, Harlan|Giordano, Dick|Pratt, George|Wagner, Matt",
+  "secondaryauthorroles": "Illustrator|Illustrator|Illustrator|Illustrator|Introduction|Illustrator|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Dringenberg, Mike",
+    "fl": "Mike Dringenberg",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "III, Malcolm Jones",
+    "fl": "Malcolm Jones III",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Russell, P. Craig",
+    "fl": "P. Craig Russell",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Jones, Kelley",
+    "fl": "Kelley Jones",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Ellison, Harlan",
+    "fl": "Harlan Ellison",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Giordano, Dick",
+    "fl": "Dick Giordano",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Pratt, George",
+    "fl": "George Pratt",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Wagner, Matt",
+    "fl": "Matt Wagner",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1563890410",
+  "isbn": {
+    "0": "1563890410",
+    "2": "9781563890413"
+  },
+  "publication": "Vertigo (1994), Edition: Gph, Paperback, 224 pages",
+  "date": "1994",
+  "summary": "The Sandman; vol. 4: Season of Mists by Neil Gaiman (1994)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G35"
+  },
+  "subject": [["Graphic Novels"],
+  ["Graphic novels"]],
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6041",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "224 p.; 6.63 inches",
+  "height": "6.63 inches",
+  "thickness": "10.25 inches",
+  "length": "0.38 inches",
+  "dimensions": "6.63 x 0.38 x 10.25 inches",
+  "weight": "0.8 pounds",
+  "pages": "224 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410756": {
+  "books_id": "116410756",
+  "title": "Sandman, The: The Kindly Ones - Book IX (Sandman Collected Library)",
+  "sortcharacter": "1",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "McConnell, Frank",
+  "secondaryauthorroles": "Introduction",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "McConnell, Frank",
+    "fl": "Frank McConnell",
+    "role": "Introduction"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1563892057",
+  "isbn": {
+    "0": "1563892057",
+    "2": "9781563892059"
+  },
+  "publication": "Vertigo (1996), Paperback, 352 pages",
+  "date": "1996",
+  "summary": "Sandman, The: The Kindly Ones - Book IX (Sandman Collected Library) by Neil Gaiman (1996)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G35"
+  },
+  "subject": [["Fantasy comic books, strips, etc"],
+  ["Graphic Novels"],
+  ["Graphic novels"],
+  ["Horror comic books, strips, etc"]],
+  "series": "The Sandman",
+  "source": "amazon.com",
+  "workcode": "6045",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "352 p.; 6.6 inches",
+  "height": "6.6 inches",
+  "thickness": "10.18 inches",
+  "length": "0.48 inches",
+  "dimensions": "6.6 x 0.48 x 10.18 inches",
+  "weight": "1.29 pounds",
+  "pages": "352 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410759": {
+  "books_id": "116410759",
+  "title": "Sandman, The: A Game of You - Book V (Sandman Collected Library)",
+  "sortcharacter": "1",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Delany, Samuel R.|Talbot, Bryan|Doran, Colleen|MacManus, Shawn",
+  "secondaryauthorroles": "|||",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Delany, Samuel R.",
+    "fl": "Samuel R. Delany"
+  },
+  {
+    "lf": "Talbot, Bryan",
+    "fl": "Bryan Talbot"
+  },
+  {
+    "lf": "Doran, Colleen",
+    "fl": "Colleen Doran"
+  },
+  {
+    "lf": "MacManus, Shawn",
+    "fl": "Shawn MacManus"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1563890895",
+  "isbn": {
+    "0": "1563890895",
+    "2": "9781563890895"
+  },
+  "publication": "Vertigo (1993), Edition: Gph, Paperback, 192 pages",
+  "date": "1993",
+  "summary": "Sandman, The: A Game of You - Book V (Sandman Collected Library) by Neil Gaiman (1993)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26 G35 1992 vol. 5"
+  },
+  "subject": {
+    "0": ["Comic books, strips, etc"],
+    "2": ["Fantasy comic books, strips, etc"],
+    "4": ["Graphic Novels"],
+    "5": ["Graphic novels"],
+    "7": ["Horror comic books, strips, etc"]
+  },
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "6038",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "192 p.; 6.55 inches",
+  "height": "6.55 inches",
+  "thickness": "10.2 inches",
+  "length": "0.35 inches",
+  "dimensions": "6.55 x 0.35 x 10.2 inches",
+  "weight": "1.1 pounds",
+  "pages": "192 ",
+  "fromwhere": "Aardvark Books"
+},
+"116410761": {
+  "books_id": "116410761",
+  "title": "The Sandman Vol. 1: Preludes and Nocturnes",
+  "sortcharacter": "5",
+  "primaryauthor": "Gaiman, Neil",
+  "secondaryauthor": "Kieth, Sam|Dringenberg, Mike|III, Malcolm Jones",
+  "secondaryauthorroles": "Illustrator|Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gaiman, Neil",
+    "fl": "Neil Gaiman"
+  },
+  {
+    "lf": "Kieth, Sam",
+    "fl": "Sam Kieth",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Dringenberg, Mike",
+    "fl": "Mike Dringenberg",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "III, Malcolm Jones",
+    "fl": "Malcolm Jones III",
+    "role": "Illustrator"
+  }],
+  "tags": ["dreams",
+  "personification",
+  "mythology",
+  "RECOMMENDER:Jesse",
+  "TYPE:graphic novels & comics"],
+  "collections": ["Your library"],
+  "originalisbn": "1563890119",
+  "isbn": {
+    "0": "1563890119",
+    "2": "9781563890116"
+  },
+  "publication": "Vertigo (1993), Paperback, 240 pages",
+  "date": "1993",
+  "summary": "The Sandman Vol. 1: Preludes and Nocturnes by Neil Gaiman (1993)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": {
+    "code": "PN6728.S26G35"
+  },
+  "series": "The Sandman TPBs",
+  "source": "amazon.com",
+  "workcode": "9347622",
+  "entrydate": "2015-02-20",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "240 p.; 6.64 inches",
+  "height": "6.64 inches",
+  "thickness": "10.16 inches",
+  "length": "0.38 inches",
+  "dimensions": "6.64 x 0.38 x 10.16 inches",
+  "weight": "0.85 pounds",
+  "pages": "240 ",
+  "fromwhere": "Aardvark Books"
 }}
