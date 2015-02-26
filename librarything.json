@@ -26885,7 +26885,7 @@
     "lf": "Chesterton, G. K.",
     "fl": "G. K. Chesterton"
   }],
-  "tags": ["anarchy",
+  "tags": ["anarchism",
   "mystery",
   "religion",
   "spy",
@@ -29964,7 +29964,8 @@
   "TYPE:children's",
   "anthropomorphism",
   "family",
-  "READABILITY:light"],
+  "READABILITY:light",
+  "MOOD:comforting"],
   "collections": ["Your library"],
   "originalisbn": "0060263954",
   "isbn": {
@@ -30805,5 +30806,123 @@
   "dimensions": "6.6 x 0.41 x 10.1 inches",
   "weight": "1 pound",
   "pages": "264 ",
+  "fromwhere": "Amazing Fantasy"
+},
+"116571415": {
+  "books_id": "116571415",
+  "title": "The Primal Screamer",
+  "sortcharacter": "5",
+  "primaryauthor": "Blinko, Nick",
+  "authors": [{
+    "lf": "Blinko, Nick",
+    "fl": "Nick Blinko"
+  }],
+  "tags": ["TYPE:novel",
+  "READABILITY:medium",
+  "punk",
+  "music",
+  "psychiatry",
+  "gothic horror",
+  "mental illness",
+  "anarchism",
+  "semi-autobiographical",
+  "horror",
+  "rudimentary peni"],
+  "collections": ["Your library"],
+  "originalisbn": "1604863315",
+  "isbn": {
+    "0": "1604863315",
+    "2": "9781604863314"
+  },
+  "publication": "PM Press (2011), Edition: Reprint, Paperback, 144 pages",
+  "date": "2011",
+  "summary": "The Primal Screamer by Nick Blinko (2011)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English fiction",
+    "English literature",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "404481",
+  "entrydate": "2015-02-26",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "144 p.; 0.5 inches",
+  "height": "0.5 inches",
+  "thickness": "8.75 inches",
+  "length": "5.25 inches",
+  "dimensions": "0.5 x 5.25 x 8.75 inches",
+  "weight": "0.35 pounds",
+  "pages": "144 ",
+  "fromwhere": "Amazon.com"
+},
+"116571939": {
+  "books_id": "116571939",
+  "title": "Saga of the Swamp Thing, Book 1",
+  "sortcharacter": "1",
+  "primaryauthor": "Moore, Alan",
+  "secondaryauthor": "Bissette, Stephen|Totleben, John",
+  "secondaryauthorroles": "Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Moore, Alan",
+    "fl": "Alan Moore"
+  },
+  {
+    "lf": "Bissette, Stephen",
+    "fl": "Stephen Bissette",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Totleben, John",
+    "fl": "John Totleben",
+    "role": "Illustrator"
+  }],
+  "tags": ["TYPE:graphic novels & comics",
+  "swamp",
+  "environment",
+  "superheroes",
+  "horror",
+  "supernatural"],
+  "collections": ["Your library"],
+  "originalisbn": "1401220835",
+  "isbn": {
+    "0": "1401220835",
+    "2": "9781401220839"
+  },
+  "publication": "Vertigo (2012), Edition: 1st, Paperback, 208 pages",
+  "date": "2012",
+  "summary": "Saga of the Swamp Thing, Book 1 by Alan Moore (2012)",
+  "format": "Paperback",
+  "language": ["English"],
+  "ddc": {
+    "code": ["741"],
+    "wording": ["Arts And Leisure",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design "]
+  },
+  "lcc": {
+    "code": "PN6728.S93S85"
+  },
+  "series": "Swamp Thing",
+  "source": "amazon.com",
+  "workcode": "11951853",
+  "entrydate": "2015-02-26",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "208 p.; 6.61 inches",
+  "height": "6.61 inches",
+  "thickness": "10.15 inches",
+  "length": "0.46 inches",
+  "dimensions": "6.61 x 0.46 x 10.15 inches",
+  "weight": "0.66 pounds",
+  "pages": "208 ",
   "fromwhere": "Amazing Fantasy"
 }}
