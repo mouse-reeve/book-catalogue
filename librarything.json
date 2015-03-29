@@ -2881,8 +2881,8 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["362.196"],
-    "wording": ["Hospitals",
-    "Hospitals and social work",
+    "wording": ["Helping people with diseases, disabilities and other problem / Social work",
+    "People with physical ailments / Hospitals",
     "Social Problems, Social Services",
     "Social Sciences "]
   },
@@ -7645,7 +7645,7 @@
     "19": ["fantasy"],
     "21": ["fantasy fiction"]
   },
-  "series": "Oz : Famous Forty",
+  "series": "Oz",
   "source": "amazon.com",
   "workcode": "20410",
   "entrydate": "2014-01-21",
@@ -17270,7 +17270,7 @@
   "originallanguage": ["English"],
   "lcc": [],
   "source": "amazon.com",
-  "workcode": "14773115",
+  "workcode": "10610331",
   "entrydate": "2014-07-27",
   "copies": "1",
   "fromwhere": "Amazon.com"
@@ -25072,7 +25072,7 @@
     "Fiction"],
     "6": ["Spy stories"]
   },
-  "series": "The Karla Trilogy",
+  "series": "George Smiley novels",
   "source": "amazon.com",
   "workcode": "101280",
   "entrydate": "2014-09-14",
@@ -26848,7 +26848,6 @@
     "Translations into English"],
     "15": ["historical fiction"]
   },
-  "series": "Oxford World's Classics",
   "source": "amazon.com",
   "workcode": "50852",
   "entrydate": "2014-10-26",
@@ -27487,6 +27486,13 @@
   "summary": "The Wicked The Divine Volume 1 by Kieron Gillen (2014)",
   "format": "Paperback",
   "language": ["English"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design "]
+  },
   "lcc": [],
   "series": "The Wicked & The Divine",
   "source": "amazon.com",
@@ -30961,4 +30967,177 @@
   "weight": "0.66 pounds",
   "pages": "208 ",
   "fromwhere": "Amazing Fantasy"
+},
+"117317354": {
+  "books_id": "117317354",
+  "title": "John Constantine Hellblazer Vol. 10: In The Line Of Fire",
+  "sortcharacter": "1",
+  "primaryauthor": "Jenkins, Paul",
+  "secondaryauthor": "Phillips, Sean",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "Jenkins, Paul",
+    "fl": "Paul Jenkins"
+  },
+  {
+    "lf": "Phillips, Sean",
+    "fl": "Sean Phillips",
+    "role": "Illustrator"
+  }],
+  "tags": ["magic",
+  "hell",
+  "occult",
+  "TYPE:graphic novels & comics",
+  "demons",
+  "READABILITY:medium",
+  "MOOD:dark"],
+  "collections": ["Your library"],
+  "originalisbn": "1401251374",
+  "isbn": {
+    "0": "1401251374",
+    "2": "9781401251376"
+  },
+  "publication": "Vertigo (2015), Paperback, 288 pages",
+  "date": "2015",
+  "summary": "John Constantine Hellblazer Vol. 10: In The Line Of Fire by Paul Jenkins (2015)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15445942",
+  "entrydate": "2015-03-28",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "288 p.; 6.66 inches",
+  "height": "6.66 inches",
+  "thickness": "10.2 inches",
+  "length": "0.64 inches",
+  "dimensions": "6.66 x 0.64 x 10.2 inches",
+  "pages": "288 ",
+  "fromwhere": "Comix Experience"
+},
+"117317356": {
+  "books_id": "117317356",
+  "title": "Five Ghosts Volume 1: The Haunting of Fabian Gray TP",
+  "sortcharacter": "1",
+  "primaryauthor": "Barbiere, Frank J.",
+  "secondaryauthor": "Affe, Lauren|Mooneyham, Chris|Vidaurri, S.M.",
+  "secondaryauthorroles": "Collaborator|Illustrator|Collaborator",
+  "authors": [{
+    "lf": "Barbiere, Frank J.",
+    "fl": "Frank J. Barbiere"
+  },
+  {
+    "lf": "Affe, Lauren",
+    "fl": "Lauren Affe",
+    "role": "Collaborator"
+  },
+  {
+    "lf": "Mooneyham, Chris",
+    "fl": "Chris Mooneyham",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Vidaurri, S.M.",
+    "fl": "S.M. Vidaurri",
+    "role": "Collaborator"
+  }],
+  "tags": ["TYPE:graphic novels & comics",
+  "music",
+  "ghosts",
+  "supernatural"],
+  "collections": ["Your library"],
+  "originalisbn": "1607067900",
+  "isbn": {
+    "0": "1607067900",
+    "2": "9781607067900"
+  },
+  "publication": "Image Comics (2013), Edition: First Edition, Paperback, 128 pages",
+  "date": "2013",
+  "summary": "Five Ghosts Volume 1: The Haunting of Fabian Gray TP by Frank J. Barbiere (2013)",
+  "format": "Paperback",
+  "language": ["English"],
+  "lcc": [],
+  "series": "Five Ghosts",
+  "source": "amazon.com",
+  "workcode": "14316035",
+  "entrydate": "2015-03-28",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "128 p.; 10.1 inches",
+  "height": "10.1 inches",
+  "thickness": "0.3 inches",
+  "length": "6.6 inches",
+  "dimensions": "10.1 x 6.6 x 0.3 inches",
+  "weight": "0.64 pounds",
+  "pages": "128 ",
+  "fromwhere": "Comix Experience"
+},
+"117317359": {
+  "books_id": "117317359",
+  "title": "Hard to Be a God (Rediscovered Classics)",
+  "sortcharacter": "1",
+  "primaryauthor": "Strugatsky, Arkady",
+  "secondaryauthor": "Kunzru, Hari|Strugatsky, Boris|Bormashenko, Olena",
+  "secondaryauthorroles": "Foreword||Translator",
+  "authors": [{
+    "lf": "Strugatsky, Arkady",
+    "fl": "Arkady Strugatsky"
+  },
+  {
+    "lf": "Kunzru, Hari",
+    "fl": "Hari Kunzru",
+    "role": "Foreword"
+  },
+  {
+    "lf": "Strugatsky, Boris",
+    "fl": "Boris Strugatsky"
+  },
+  {
+    "lf": "Bormashenko, Olena",
+    "fl": "Olena Bormashenko",
+    "role": "Translator"
+  }],
+  "tags": ["TYPE:novel",
+  "russia",
+  "middle ages",
+  "pedagogy",
+  "roman"],
+  "collections": ["Your library"],
+  "originalisbn": "1613748280",
+  "isbn": {
+    "0": "1613748280",
+    "2": "9781613748282"
+  },
+  "publication": "Chicago Review Press (2014), Edition: Tra, Paperback, 256 pages",
+  "date": "2014",
+  "summary": "Hard to Be a God (Rediscovered Classics) by Arkady Strugatsky (2014)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["German"],
+  "ddc": {
+    "code": ["891.7"],
+    "wording": ["Literature",
+    "Literature of other Indo-European languages",
+    "Literature of other languages ",
+    "Russian Literature"]
+  },
+  "lcc": {
+    "code": "PG3488.T73T713"
+  },
+  "series": "Noon Universe",
+  "source": "amazon.com",
+  "workcode": "3533838",
+  "entrydate": "2015-03-28",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "256 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.5 inches",
+  "length": "0.58 inches",
+  "dimensions": "5.5 x 0.58 x 8.5 inches",
+  "weight": "0.77 pounds",
+  "pages": "256 ",
+  "fromwhere": "The Booksmith"
 }}
