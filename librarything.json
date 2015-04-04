@@ -558,8 +558,8 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -606,8 +606,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -885,7 +885,7 @@
   "ddc": {
     "code": ["955.0542092"],
     "wording": ["Asia",
-    "History and Geography",
+    "Biography And History",
     "Iran"]
   },
   "lcc": {
@@ -1399,9 +1399,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["500"],
-    "wording": ["Mathematics And Science",
-    "Natural sciences and mathematics",
-    "Science"]
+    "wording": ["General Science",
+    "General Science",
+    "Mathematics And Science"]
   },
   "lcc": {
     "code": "Q171.F385"
@@ -1627,9 +1627,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133.4"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -1807,10 +1807,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -1886,8 +1886,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -2031,10 +2031,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -2590,10 +2590,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -2658,8 +2658,8 @@
   "ddc": {
     "code": ["915.3"],
     "wording": ["Asia",
-    "Geography, Voyages and Travel",
-    "History and Geography"]
+    "Biography And History",
+    "Geography, Voyages and Travel"]
   },
   "lcc": {
     "code": "DT72.B4A28"
@@ -2730,7 +2730,7 @@
     "code": ["950.072"],
     "wording": ["Asia",
     "Asia",
-    "History and Geography"]
+    "Biography And History"]
   },
   "lcc": {
     "code": "DS12.S24"
@@ -2811,10 +2811,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -2929,10 +2929,10 @@
   "originallanguage": ["Dutch"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3139,10 +3139,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3222,9 +3222,9 @@
   "originallanguage": ["Polish"],
   "ddc": {
     "code": ["129"],
-    "wording": ["Epistemology",
-    "Origin and destiny of individual souls",
-    "Philosophy and Psychology"]
+    "wording": ["Origin and destiny of individual souls",
+    "Philosophy And Psychology",
+    "Philosophy Of Humanity"]
   },
   "lcc": {
     "code": "BL535.R63"
@@ -3279,10 +3279,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3341,9 +3341,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "BF1611.L4713"
@@ -3399,10 +3399,10 @@
   "originallanguage": ["Undetermined"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3480,9 +3480,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.4409"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Spell casting",
     "Witchcraft - Sorcery"]
   },
@@ -3532,8 +3532,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -3594,8 +3594,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -3653,10 +3653,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3717,10 +3717,10 @@
   "originallanguage": ["Finnish"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3775,8 +3775,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3848,8 +3848,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -3924,10 +3924,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -3990,8 +3990,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -4042,8 +4042,8 @@
   "originallanguage": ["Finnish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -4157,10 +4157,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -4213,9 +4213,9 @@
   "ddc": {
     "code": ["962.9004965"],
     "wording": ["Africa",
+    "Biography And History",
     "East and south provinces",
-    "Egypt and Sudan",
-    "History and Geography"]
+    "Egypt and Sudan"]
   },
   "lcc": {
     "code": "GN480.E78"
@@ -4263,10 +4263,10 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -4325,7 +4325,7 @@
   "ddc": {
     "code": ["952"],
     "wording": ["Asia",
-    "History and Geography",
+    "Biography And History",
     "Japan"]
   },
   "lcc": {
@@ -4386,8 +4386,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["981.00498"],
-    "wording": ["Brazil",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "Brazil",
     "South America"]
   },
   "lcc": {
@@ -4437,8 +4437,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -4509,9 +4509,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.40967"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -4617,8 +4617,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -4776,8 +4776,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -4889,11 +4889,11 @@
   "originallanguage": ["Japanese"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673"
@@ -4988,8 +4988,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5051,10 +5051,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5124,8 +5124,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5186,10 +5186,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5272,10 +5272,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5344,8 +5344,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5421,8 +5421,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5487,8 +5487,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5532,8 +5532,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5596,10 +5596,10 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5658,8 +5658,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5739,8 +5739,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -5784,8 +5784,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5844,8 +5844,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -5938,10 +5938,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -6006,11 +6006,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673S4513"
@@ -6067,8 +6067,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -6122,10 +6122,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -6208,8 +6208,8 @@
   "ddc": {
     "code": ["843.8"],
     "wording": ["1848-1900",
-    "French fiction",
-    "French literature",
+    "Fiction",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -6274,7 +6274,7 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["839.73"],
-    "wording": ["German literature",
+    "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
     "Swedish Fiction",
@@ -6331,8 +6331,8 @@
   "ddc": {
     "code": ["814.54"],
     "wording": ["20th Century",
-    "American Essays",
-    "American literature",
+    "American And Canadian",
+    "Essays",
     "Literature"]
   },
   "lcc": {
@@ -6399,8 +6399,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -6484,8 +6484,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -6547,8 +6547,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -6628,8 +6628,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -6697,8 +6697,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -6849,7 +6849,7 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["039"],
-    "wording": ["Encyclopedias and books of facts",
+    "wording": ["Dictionaries And Encyclopedias",
     "Information",
     "Minor Languages"]
   },
@@ -6902,8 +6902,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -6972,8 +6972,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7022,10 +7022,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -7083,10 +7083,10 @@
   "originallanguage": ["Japanese"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -7144,10 +7144,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -7206,8 +7206,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7286,8 +7286,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7383,9 +7383,9 @@
   "originallanguage": ["Dutch"],
   "ddc": {
     "code": ["944"],
-    "wording": ["Europe",
-    "France",
-    "History and Geography"]
+    "wording": ["Biography And History",
+    "Europe",
+    "France"]
   },
   "lcc": {
     "code": "DC20.5.R63"
@@ -7485,8 +7485,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -7549,8 +7549,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7608,8 +7608,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.4"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Later 19th Century 1861-1900",
     "Literature"]
   },
@@ -7693,8 +7693,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7760,7 +7760,7 @@
     "code": ["930"],
     "wording": ["Ancient History",
     "Ancient World",
-    "History and Geography"]
+    "Biography And History"]
   },
   "lcc": {
     "code": "PA3632.C65"
@@ -7811,8 +7811,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7870,8 +7870,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -7933,8 +7933,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -7991,10 +7991,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8059,10 +8059,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.52"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Early 20th Century 1901-",
+    "wording": ["1900-1944",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8141,8 +8141,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -8210,8 +8210,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -8268,8 +8268,8 @@
   "language": ["English"],
   "ddc": {
     "code": ["658.4"],
-    "wording": ["Business Manuals; Methods; Tables",
-    "Communication; Commerce",
+    "wording": ["Business",
+    "Management",
     "Technology"]
   },
   "lcc": {
@@ -8307,8 +8307,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -8355,8 +8355,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -8416,8 +8416,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8502,8 +8502,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8552,11 +8552,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673U4813"
@@ -8611,8 +8611,8 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8690,7 +8690,7 @@
   "ddc": {
     "code": ["863"],
     "wording": ["Literature",
-    "Spanish and Portuguese Literature",
+    "Spanish And Portuguese",
     "Spanish fiction"]
   },
   "lcc": {
@@ -8743,9 +8743,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["821.8"],
-    "wording": ["English Poetry ",
-    "English literature",
+    "wording": ["English",
     "Literature",
+    "Poetry",
     "Victorian period 1837-1900"]
   },
   "lcc": {
@@ -8841,10 +8841,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -8906,8 +8906,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -8959,8 +8959,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -9038,9 +9038,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["821.008"],
-    "wording": ["English Poetry ",
-    "English literature",
-    "Literature"]
+    "wording": ["English",
+    "Literature",
+    "Poetry"]
   },
   "lcc": {
     "code": "PR1175.V47"
@@ -9137,8 +9137,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -9280,7 +9280,7 @@
   "ddc": {
     "code": ["150.1954"],
     "wording": ["Jungian system",
-    "Philosophy and Psychology",
+    "Philosophy And Psychology",
     "Philosophy and theory; systems, viewpoints",
     "Psychoanalytic systems",
     "Psychology",
@@ -9335,8 +9335,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -9388,7 +9388,7 @@
   "ddc": {
     "code": ["873.01"],
     "wording": ["Epic poetry, Latin",
-    "Latin literature",
+    "Latin",
     "Literature"]
   },
   "lcc": {
@@ -9469,7 +9469,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -9554,14 +9554,14 @@
     "lf": "Strugatsky, Arkady",
     "fl": "Arkady Strugatsky"
   }],
-  "tags": ["russia",
-  "aliens",
+  "tags": ["aliens",
   "TYPE:novel",
   "READABILITY:medium",
   "MOOD:placid",
   "apocalypse",
   "first contact",
-  "alien artifacts"],
+  "alien artifacts",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "9781613743416",
   "isbn": ["9781613743416",
@@ -9574,8 +9574,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -9657,7 +9657,8 @@
   "science",
   "MOOD:cerebral",
   "MOOD:technical",
-  "first contact"],
+  "first contact",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "0156027607",
   "isbn": {
@@ -9675,7 +9676,7 @@
     "wording": ["Czechoslovakia and Poland",
     "Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PG7158.L39S613"
@@ -9732,8 +9733,8 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["823.2"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Pre-Elizabethan 1400-1558"]
   },
@@ -9793,8 +9794,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -9864,7 +9865,7 @@
     "code": ["891.735"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -9966,8 +9967,8 @@
   "ddc": {
     "code": ["912.7946"],
     "wording": ["Atlases of North America",
+    "Biography And History",
     "Geography, Voyages and Travel",
-    "History and Geography",
     "Maps and Atlases"]
   },
   "lcc": {
@@ -10015,8 +10016,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -10068,7 +10069,7 @@
   "originallanguage": ["Germanic (Other)"],
   "ddc": {
     "code": ["839.61"],
-    "wording": ["German literature",
+    "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
     "Old Norse, Icelandic, Faroese"]
@@ -10113,7 +10114,8 @@
   "MOOD:funny",
   "MOOD:cerebral",
   "engineering",
-  "MOOD:technical"],
+  "MOOD:technical",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "0156235501",
   "isbn": {
@@ -10128,8 +10130,8 @@
   "originallanguage": ["Polish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -10185,8 +10187,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -10232,7 +10234,8 @@
   "pulp",
   "future",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "0026192004",
   "isbn": {
@@ -10247,8 +10250,8 @@
   "originallanguage": ["Swedish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -10298,7 +10301,7 @@
     "code": ["891.7344"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -10413,9 +10416,10 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["822.914"],
-    "wording": ["Early 20th Century 1901-",
-    "English Drama ",
-    "English literature",
+    "wording": ["1900-",
+    "20th Century",
+    "Drama",
+    "English",
     "Literature"]
   },
   "lcc": {
@@ -10517,7 +10521,7 @@
     "code": ["891.7342"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -10592,7 +10596,7 @@
   "language": ["English"],
   "ddc": {
     "code": ["652"],
-    "wording": ["Communication; Commerce",
+    "wording": ["Business",
     "Technology",
     "Writing: Materials, Typewriters"]
   },
@@ -10651,10 +10655,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -10740,10 +10744,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -10831,10 +10835,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["910.45"],
-    "wording": ["Circumnavigations, ocean travel, shipwrecks and disasters, piratic adventures",
+    "wording": ["Biography And History",
+    "Circumnavigations, ocean travel, shipwrecks and disasters, piratic adventures",
     "Geography and Travels ",
     "Geography, Voyages and Travel",
-    "History and Geography",
     "Ocean voyages, pirates"]
   },
   "lcc": {
@@ -10875,11 +10879,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["833.912"],
-    "wording": ["20th century, 1901-",
-    "Early 20th Century 1901-",
-    "German fiction",
-    "German fiction--1900-1945",
-    "German literature",
+    "wording": ["1900-",
+    "1900-1944",
+    "20th Century",
+    "Fiction",
+    "German",
     "Literature"]
   },
   "lcc": {
@@ -10932,10 +10936,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.52"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Early 20th Century 1901-",
+    "wording": ["1900-1944",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -11093,8 +11097,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -11135,7 +11139,7 @@
   "ddc": {
     "code": ["863"],
     "wording": ["Literature",
-    "Spanish and Portuguese Literature",
+    "Spanish And Portuguese",
     "Spanish fiction"]
   },
   "lcc": {
@@ -11167,7 +11171,8 @@
   "dystopia",
   "future",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "081297462X",
   "isbn": {
@@ -11184,7 +11189,7 @@
     "code": ["891.7342"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -11237,8 +11242,8 @@
   "originallanguage": ["Icelandic"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -11332,9 +11337,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["910"],
-    "wording": ["Geography and Travels ",
-    "Geography, Voyages and Travel",
-    "History and Geography"]
+    "wording": ["Biography And History",
+    "Geography and Travels ",
+    "Geography, Voyages and Travel"]
   },
   "lcc": {
     "code": "G765.T5K38"
@@ -11392,8 +11397,8 @@
   "originallanguage": ["Icelandic"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -11485,8 +11490,8 @@
   "originallanguage": ["Greek (Ancient)"],
   "ddc": {
     "code": ["949"],
-    "wording": ["Europe",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "Europe",
     "Smaller European countries  (Balkans \u2219 Belgium \u2219 Bulgaria \u2219 Iceland \u2219 Greece \u2219 Netherlands \u2219 Switzerland \u2219 Turkey)"]
   },
   "lcc": {
@@ -11711,8 +11716,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -11761,8 +11766,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["842.914"],
-    "wording": ["French drama",
-    "French literature",
+    "wording": ["Drama",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -11817,11 +11822,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["299.51482"],
-    "wording": ["Other religions",
+    "wording": ["Asia",
+    "By Region",
+    "Other religions",
     "Religion ",
-    "Religions not provided for elsewhere",
     "Religions of Chinese Origin",
-    "Religious of Asian Origin",
     "Taoism"]
   },
   "lcc": {
@@ -11888,7 +11893,7 @@
     "code": ["891.735"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -11937,8 +11942,8 @@
   "originallanguage": ["Icelandic"],
   "ddc": {
     "code": ["909"],
-    "wording": ["History",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "History",
     "Universal Histories"]
   },
   "lcc": {
@@ -11983,8 +11988,8 @@
   "ddc": {
     "code": ["824.912"],
     "wording": ["Early 20th Century 1901-",
-    "English essays",
-    "English literature",
+    "English",
+    "Essays",
     "Literature"]
   },
   "lcc": {
@@ -12080,9 +12085,9 @@
   "originallanguage": ["Greek (Ancient)"],
   "ddc": {
     "code": ["911"],
-    "wording": ["Geography, Voyages and Travel",
-    "Historical geography",
-    "History and Geography"]
+    "wording": ["Biography And History",
+    "Geography, Voyages and Travel",
+    "Historical geography"]
   },
   "lcc": {
     "code": "PA6156.A1.G46 V.2"
@@ -12159,7 +12164,8 @@
   "TYPE:short stories",
   "READABILITY:medium",
   "MOOD:placid",
-  "MOOD:technical"],
+  "MOOD:technical",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "0151879788",
   "isbn": {
@@ -12177,7 +12183,7 @@
     "wording": ["Czechoslovakia and Poland",
     "Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PG7158.L39O613"
@@ -12227,11 +12233,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673E44"
@@ -12290,9 +12296,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["822.914"],
-    "wording": ["Early 20th Century 1901-",
-    "English Drama ",
-    "English literature",
+    "wording": ["1900-",
+    "20th Century",
+    "Drama",
+    "English",
     "Literature"]
   },
   "lcc": {
@@ -12342,9 +12349,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["821.8"],
-    "wording": ["English Poetry ",
-    "English literature",
+    "wording": ["English",
     "Literature",
+    "Poetry",
     "Victorian period 1837-1900"]
   },
   "lcc": {
@@ -12391,7 +12398,7 @@
     "code": ["863.64"],
     "wording": ["Early 20th Century (1901-)",
     "Literature",
-    "Spanish and Portuguese Literature",
+    "Spanish And Portuguese",
     "Spanish fiction"]
   },
   "lcc": {
@@ -12453,8 +12460,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -12523,9 +12530,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["821"],
-    "wording": ["English Poetry ",
-    "English literature",
-    "Literature"]
+    "wording": ["English",
+    "Literature",
+    "Poetry"]
   },
   "lcc": {
     "code": "PR5308.A1"
@@ -12574,7 +12581,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -12613,8 +12620,8 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -12821,8 +12828,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -12884,8 +12891,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -12955,8 +12962,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -13000,8 +13007,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -13070,8 +13077,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -13246,8 +13253,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -13291,8 +13298,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -13405,9 +13412,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["941.501"],
-    "wording": ["Europe",
+    "wording": ["Biography And History",
+    "Europe",
     "Great Britain; Scotland; Ireland",
-    "History and Geography",
     "Ireland"]
   },
   "lcc": {
@@ -13536,7 +13543,7 @@
     "code": ["891.7342"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -13658,9 +13665,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "BF1561.P6813"
@@ -13741,10 +13748,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -13910,8 +13917,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -13994,9 +14001,9 @@
   "originallanguage": ["Latin"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -14037,10 +14044,10 @@
   "originallanguage": ["Finnish"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -14073,7 +14080,8 @@
   "future",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:technical"],
+  "MOOD:technical",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "0151770824",
   "isbn": {
@@ -14090,7 +14098,7 @@
     "code": ["891.537"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Persian"]
   },
   "lcc": {
@@ -14140,10 +14148,10 @@
   "originallanguage": ["Finnish"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -14315,8 +14323,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -14387,9 +14395,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -14440,8 +14448,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["822.8"],
-    "wording": ["English Drama ",
-    "English literature",
+    "wording": ["Drama",
+    "English",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -14547,10 +14555,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -14646,8 +14654,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -14704,8 +14712,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -14799,7 +14807,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -14884,11 +14892,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673N4513"
@@ -14964,8 +14972,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -15031,8 +15039,8 @@
   "ddc": {
     "code": ["843.7"],
     "wording": ["1815-1848",
-    "French fiction",
-    "French literature",
+    "Fiction",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -15130,8 +15138,8 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -15235,7 +15243,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -15287,10 +15295,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -15363,8 +15371,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -15602,8 +15610,8 @@
   "ddc": {
     "code": ["823.92"],
     "wording": ["21st Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -16017,8 +16025,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -16175,10 +16183,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16291,10 +16299,10 @@
   "originallanguage": ["Finnish"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16408,10 +16416,10 @@
   "originallanguage": ["Portuguese"],
   "ddc": {
     "code": ["813.52"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Early 20th Century 1901-",
+    "wording": ["1900-1944",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16513,10 +16521,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16685,8 +16693,8 @@
   "originallanguage": ["Greek (Ancient)"],
   "ddc": {
     "code": ["949"],
-    "wording": ["Europe",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "Europe",
     "Smaller European countries  (Balkans \u2219 Belgium \u2219 Bulgaria \u2219 Iceland \u2219 Greece \u2219 Netherlands \u2219 Switzerland \u2219 Turkey)"]
   },
   "lcc": {
@@ -16736,10 +16744,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16793,8 +16801,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -16835,7 +16843,7 @@
     "code": ["891"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "GR203.17"
@@ -16918,9 +16926,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -16969,9 +16977,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -17110,8 +17118,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -17176,9 +17184,9 @@
   "originallanguage": ["Hungarian"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -17231,9 +17239,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.43094209031"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": [],
@@ -17303,11 +17311,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL856.U673A6613"
@@ -17371,11 +17379,11 @@
   "originallanguage": ["Swedish"],
   "ddc": {
     "code": ["299.514"],
-    "wording": ["Other religions",
+    "wording": ["Asia",
+    "By Region",
+    "Other religions",
     "Religion ",
-    "Religions not provided for elsewhere",
     "Religions of Chinese Origin",
-    "Religious of Asian Origin",
     "Taoism"]
   },
   "lcc": {
@@ -17451,11 +17459,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["299.51482"],
-    "wording": ["Other religions",
+    "wording": ["Asia",
+    "By Region",
+    "Other religions",
     "Religion ",
-    "Religions not provided for elsewhere",
     "Religions of Chinese Origin",
-    "Religious of Asian Origin",
     "Taoism"]
   },
   "lcc": {
@@ -17516,9 +17524,9 @@
   "originallanguage": ["Hungarian"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "BF1600.A3613"
@@ -17615,10 +17623,10 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["299.67"],
-    "wording": ["Other religions",
-    "Religion ",
-    "Religions not provided for elsewhere",
-    "Religions of African Origin"]
+    "wording": ["Africa",
+    "By Region",
+    "Other religions",
+    "Religion "]
   },
   "lcc": {
     "code": "BL2532.S3G674"
@@ -17667,10 +17675,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -17740,8 +17748,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -17793,8 +17801,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -17900,7 +17908,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -17961,8 +17969,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -18016,10 +18024,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -18108,10 +18116,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -18164,8 +18172,8 @@
   "ddc": {
     "code": ["912.3"],
     "wording": ["Atlases of the Ancient World",
+    "Biography And History",
     "Geography, Voyages and Travel",
-    "History and Geography",
     "Maps and Atlases"]
   },
   "lcc": {
@@ -18392,8 +18400,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -18539,8 +18547,8 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["900"],
-    "wording": ["History",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "History",
     "History and Geography"]
   },
   "lcc": {
@@ -18814,8 +18822,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -18877,10 +18885,10 @@
   "originallanguage": ["Undetermined"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -18934,7 +18942,7 @@
     "wording": ["Czechoslovakia and Poland",
     "Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PG7158.L39 W513"
@@ -19036,7 +19044,7 @@
     "code": ["160"],
     "wording": ["Logic",
     "Logic",
-    "Philosophy and Psychology"]
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "P142.L23"
@@ -19077,9 +19085,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "BF1879.T2W3"
@@ -19133,8 +19141,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -19282,8 +19290,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -19393,8 +19401,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -19445,9 +19453,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.43097295"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -19495,11 +19503,11 @@
   "originallanguage": ["Japanese"],
   "ddc": {
     "code": ["895.636"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL875.5.A45O7813"
@@ -19857,8 +19865,8 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -19918,9 +19926,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["821.8"],
-    "wording": ["English Poetry ",
-    "English literature",
+    "wording": ["English",
     "Literature",
+    "Poetry",
     "Victorian period 1837-1900"]
   },
   "lcc": {
@@ -20035,11 +20043,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["833.912"],
-    "wording": ["20th century, 1901-",
-    "Early 20th Century 1901-",
-    "German fiction",
-    "German fiction--1900-1945",
-    "German literature",
+    "wording": ["1900-",
+    "1900-1944",
+    "20th Century",
+    "Fiction",
+    "German",
     "Literature"]
   },
   "lcc": {
@@ -20085,11 +20093,11 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["833.912"],
-    "wording": ["20th century, 1901-",
-    "Early 20th Century 1901-",
-    "German fiction",
-    "German fiction--1900-1945",
-    "German literature",
+    "wording": ["1900-",
+    "1900-1944",
+    "20th Century",
+    "Fiction",
+    "German",
     "Literature"]
   },
   "lcc": {
@@ -20134,8 +20142,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["823"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -20238,10 +20246,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -20308,8 +20316,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -20377,7 +20385,7 @@
     "wording": ["Czechoslovakia and Poland",
     "Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PG7158.L39O613"
@@ -20532,8 +20540,8 @@
   "originallanguage": ["Swedish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -20591,9 +20599,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -20709,8 +20717,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -21179,10 +21187,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -21317,10 +21325,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -21561,9 +21569,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -21592,7 +21600,8 @@
   "TYPE:novel",
   "READABILITY:medium",
   "conspiracy",
-  "science"],
+  "science",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "1612192815",
   "isbn": {
@@ -21609,7 +21618,7 @@
     "code": ["891.73"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -21699,9 +21708,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["914.031"],
-    "wording": ["Europe",
-    "Geography, Voyages and Travel",
-    "History and Geography"]
+    "wording": ["Biography And History",
+    "Europe",
+    "Geography, Voyages and Travel"]
   },
   "lcc": {
     "code": "BF1569.R88"
@@ -21758,11 +21767,11 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["895.635"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL876.A396B3813"
@@ -21911,9 +21920,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["511.3"],
-    "wording": ["Mathematics",
+    "wording": ["Logic",
+    "Mathematics",
     "Mathematics And Science",
-    "Prime numbers",
     "Theory And Instruction"]
   },
   "lcc": {
@@ -21959,9 +21968,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.4"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -22158,7 +22167,7 @@
     "code": ["155.81"],
     "wording": ["Culture Studies",
     "Developmental Psychology",
-    "Philosophy and Psychology",
+    "Philosophy And Psychology",
     "Psychology"]
   },
   "lcc": {
@@ -22370,8 +22379,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -22424,9 +22433,9 @@
   "originallanguage": ["Latin"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -22686,10 +22695,10 @@
   "originallanguage": ["Undetermined"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -22760,9 +22769,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology"]
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "BF1411.C3"
@@ -22869,8 +22878,8 @@
   "language": ["English"],
   "ddc": {
     "code": ["900"],
-    "wording": ["History",
-    "History and Geography",
+    "wording": ["Biography And History",
+    "History",
     "History and Geography"]
   },
   "lcc": {
@@ -22919,7 +22928,7 @@
     "code": ["110"],
     "wording": ["Metaphysics",
     "Metaphysics",
-    "Philosophy and Psychology"]
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "DT530"
@@ -22970,9 +22979,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["822.33"],
-    "wording": ["Elizabethan 1558-1625",
-    "English Drama ",
-    "English literature",
+    "wording": ["Drama",
+    "Elizabethan 1558-1625",
+    "English",
     "Literature",
     "Shakespeare, William"]
   },
@@ -23446,10 +23455,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -23517,8 +23526,8 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -23570,9 +23579,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["822.912"],
-    "wording": ["Early 20th Century 1901-",
-    "English Drama ",
-    "English literature",
+    "wording": ["1900-",
+    "20th Century",
+    "Drama",
+    "English",
     "Literature"]
   },
   "lcc": {
@@ -23635,9 +23645,9 @@
   "originallanguage": ["Hebrew"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -23740,8 +23750,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -23794,10 +23804,10 @@
   "originallanguage": ["Dutch"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -23877,9 +23887,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["843.914"],
-    "wording": ["Early 20th Century 1901-",
-    "French fiction",
-    "French literature",
+    "wording": ["1900-",
+    "20th Century",
+    "Fiction",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -23951,7 +23962,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -24075,7 +24086,7 @@
     "wording": ["Authors, Spanish and Spanish miscellany",
     "Early 20th Century (1901-)",
     "Literature",
-    "Spanish and Portuguese Literature"]
+    "Spanish And Portuguese"]
   },
   "lcc": {
     "code": "PQ7797.B635L3"
@@ -24142,10 +24153,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -24279,10 +24290,10 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["813.52"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Early 20th Century 1901-",
+    "wording": ["1900-1944",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -24334,8 +24345,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -24450,8 +24461,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -24520,10 +24531,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -24586,8 +24597,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -24649,8 +24660,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.4"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Later 19th Century 1861-1900",
     "Literature"]
   },
@@ -24776,9 +24787,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["843.914"],
-    "wording": ["Early 20th Century 1901-",
-    "French fiction",
-    "French literature",
+    "wording": ["1900-",
+    "20th Century",
+    "Fiction",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -24854,8 +24866,8 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["823.8"],
-    "wording": ["English fiction",
-    "English literature",
+    "wording": ["English",
+    "Fiction",
     "Literature",
     "Victorian period 1837-1900"]
   },
@@ -25000,8 +25012,8 @@
   "ddc": {
     "code": ["853.914"],
     "wording": ["Early 20th Century, 1901-",
+    "Italian And Romanian",
     "Italian fiction",
-    "Italian literature and Romanian literature",
     "Literature"]
   },
   "lcc": {
@@ -25054,8 +25066,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -25166,10 +25178,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -25332,7 +25344,7 @@
   "ddc": {
     "code": ["829.3"],
     "wording": ["Beowulf",
-    "English literature",
+    "English",
     "Literature",
     "Old English literature, ca. 450-1100"]
   },
@@ -25434,8 +25446,8 @@
   "language": ["English"],
   "ddc": {
     "code": ["305.563309420902"],
-    "wording": ["Groups of People",
-    "People by social and economic levels",
+    "wording": ["Class",
+    "Groups of People",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology"]
   },
@@ -25608,7 +25620,7 @@
   "originallanguage": ["Swedish"],
   "ddc": {
     "code": ["839.78"],
-    "wording": ["German literature",
+    "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
     "Swedish literature",
@@ -25651,9 +25663,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.430940904"],
-    "wording": ["Occultism",
-    "Parapsychology and occultism",
-    "Philosophy and Psychology",
+    "wording": ["Mind And Body",
+    "Occultism",
+    "Philosophy And Psychology",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -25753,8 +25765,8 @@
   "ddc": {
     "code": ["709"],
     "wording": ["Arts And Leisure",
-    "General Art",
-    "History of Art"]
+    "Biography And History",
+    "General Art"]
   },
   "lcc": {
     "code": "NE1325.A5A4"
@@ -25805,7 +25817,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["652.809"],
-    "wording": ["Communication; Commerce",
+    "wording": ["Business",
+    "Cryptography",
     "Technology",
     "Writing: Materials, Typewriters"]
   },
@@ -25922,7 +25935,7 @@
     "wording": ["Czechoslovakia and Poland",
     "Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PZ4.L537Pl "
@@ -26081,8 +26094,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -26204,9 +26217,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["822.33"],
-    "wording": ["Elizabethan 1558-1625",
-    "English Drama ",
-    "English literature",
+    "wording": ["Drama",
+    "Elizabethan 1558-1625",
+    "English",
     "Literature",
     "Shakespeare, William"]
   },
@@ -26274,11 +26287,11 @@
   "originallanguage": ["Japanese"],
   "ddc": {
     "code": ["895.6314"],
-    "wording": ["East Asian literature",
+    "wording": ["East Asian",
+    "Japanese",
     "Japanese fiction",
-    "Japanese literature",
     "Literature",
-    "Literature of other languages "]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PL788.4.G4E3"
@@ -26349,9 +26362,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["822.33"],
-    "wording": ["Elizabethan 1558-1625",
-    "English Drama ",
-    "English literature",
+    "wording": ["Drama",
+    "Elizabethan 1558-1625",
+    "English",
     "Literature",
     "Shakespeare, William"]
   },
@@ -26418,9 +26431,9 @@
     "code": ["811.54"],
     "wording": ["1950-1999",
     "20th Century",
-    "American Poetry",
-    "American literature",
-    "Literature"]
+    "American And Canadian",
+    "Literature",
+    "Poetry"]
   },
   "lcc": {
     "code": "PS3566.L27A17"
@@ -26632,7 +26645,7 @@
     "code": ["930"],
     "wording": ["Ancient History",
     "Ancient World",
-    "History and Geography"]
+    "Biography And History"]
   },
   "lcc": {
     "code": "D58.H4713"
@@ -26700,8 +26713,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -26771,10 +26784,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -26815,7 +26828,7 @@
     "code": ["891.733"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Fiction",
     "Russian Literature"]
   },
@@ -26894,7 +26907,7 @@
     "wording": ["Beauty",
     "Metaphysics",
     "Ontology",
-    "Philosophy and Psychology",
+    "Philosophy And Psychology",
     "Properties of being"]
   },
   "lcc": {
@@ -26944,8 +26957,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -27008,7 +27021,7 @@
   "ddc": {
     "code": ["848"],
     "wording": ["Authors, French and French miscellany",
-    "French literature",
+    "French",
     "Literature"]
   },
   "lcc": {
@@ -27059,10 +27072,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -27124,8 +27137,8 @@
     "code": ["920.042"],
     "wording": ["Biography",
     "Biography",
+    "Biography And History",
     "General and collective by localities",
-    "History and Geography",
     "Of Europe"]
   },
   "lcc": {
@@ -27172,8 +27185,8 @@
   "ddc": {
     "code": ["817.5"],
     "wording": ["20th Century",
+    "American And Canadian",
     "American Wit and Humor ",
-    "American literature",
     "Literature"]
   },
   "lcc": {
@@ -27216,9 +27229,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["822.33"],
-    "wording": ["Elizabethan 1558-1625",
-    "English Drama ",
-    "English literature",
+    "wording": ["Drama",
+    "Elizabethan 1558-1625",
+    "English",
     "Literature",
     "Shakespeare, William"]
   },
@@ -27333,10 +27346,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -27413,8 +27426,8 @@
     "code": ["823.912"],
     "wording": ["1901-1945",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -27754,8 +27767,8 @@
   "language": ["English"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -27955,8 +27968,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -28141,10 +28154,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28192,8 +28205,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28297,8 +28310,8 @@
   "ddc": {
     "code": ["813.6"],
     "wording": ["21st Century",
-    "American Fiction",
-    "American literature",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28382,10 +28395,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28631,10 +28644,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28740,10 +28753,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28802,8 +28815,8 @@
   "originallanguage": ["Dutch"],
   "ddc": {
     "code": ["813"],
-    "wording": ["American Fiction",
-    "American literature",
+    "wording": ["American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -28889,7 +28902,7 @@
   "ddc": {
     "code": ["320"],
     "wording": ["Political Science ",
-    "Political science (Politics and government)",
+    "Political Science ",
     "Social Sciences "]
   },
   "lcc": [],
@@ -28935,8 +28948,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -29187,9 +29200,9 @@
     "code": ["811.54"],
     "wording": ["1950-1999",
     "20th Century",
-    "American Poetry",
-    "American literature",
-    "Literature"]
+    "American And Canadian",
+    "Literature",
+    "Poetry"]
   },
   "lcc": {
     "code": "PS3553.A7667N69"
@@ -29254,7 +29267,7 @@
     "code": ["194"],
     "wording": ["French",
     "Modern western philosophy",
-    "Philosophy and Psychology"]
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "B77.D413"
@@ -29319,8 +29332,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -29793,10 +29806,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -29854,10 +29867,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["813.54"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Later 20th Century 1945-",
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -30022,10 +30035,10 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["813.52"],
-    "wording": ["20th Century",
-    "American Fiction",
-    "American literature",
-    "Early 20th Century 1901-",
+    "wording": ["1900-1944",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -30765,8 +30778,8 @@
   "ddc": {
     "code": ["823.7"],
     "wording": ["Early 19th century 1800-37",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature"]
   },
   "lcc": {
@@ -30886,8 +30899,8 @@
     "code": ["823.914"],
     "wording": ["1945-1999",
     "20th Century",
-    "English fiction",
-    "English literature",
+    "English",
+    "Fiction",
     "Literature",
     "Modern Period"]
   },
@@ -31103,7 +31116,8 @@
   "russia",
   "middle ages",
   "pedagogy",
-  "roman"],
+  "roman",
+  "soviet union"],
   "collections": ["Your library"],
   "originalisbn": "1613748280",
   "isbn": {
@@ -31120,7 +31134,7 @@
     "code": ["891.7"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
-    "Literature of other languages ",
+    "Other Languages",
     "Russian Literature"]
   },
   "lcc": {
@@ -31140,4 +31154,117 @@
   "weight": "0.77 pounds",
   "pages": "256 ",
   "fromwhere": "The Booksmith"
+},
+"117500581": {
+  "books_id": "117500581",
+  "title": "Hellboy, Vol. 10: The Crooked Man and Others",
+  "sortcharacter": "1",
+  "primaryauthor": "Mignola, Mike",
+  "secondaryauthor": "Various",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "Mignola, Mike",
+    "fl": "Mike Mignola"
+  },
+  {
+    "lf": "Various",
+    "fl": "Various",
+    "role": "Illustrator"
+  }],
+  "tags": ["horror",
+  "occult",
+  "TYPE:graphic novels & comics",
+  "READABILITY:medium"],
+  "collections": ["Your library"],
+  "originalisbn": "1595824774",
+  "isbn": {
+    "0": "1595824774",
+    "2": "9781595824776"
+  },
+  "publication": "Dark Horse Books (2010), Paperback, 160 pages",
+  "date": "2010",
+  "summary": "Hellboy, Vol. 10: The Crooked Man and Others by Mike Mignola (2010)",
+  "format": "Paperback",
+  "language": ["English"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design ",
+    "English language comics",
+    "History, geographic treatment, biography",
+    "U.S.A. comics"]
+  },
+  "lcc": [],
+  "series": "Hellboy graphic novels",
+  "source": "amazon.com",
+  "workcode": "9535113",
+  "entrydate": "2015-04-04",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "160 p.; 6.64 inches",
+  "height": "6.64 inches",
+  "thickness": "10.17 inches",
+  "length": "0.32 inches",
+  "dimensions": "6.64 x 0.32 x 10.17 inches",
+  "weight": "0.79 pounds",
+  "pages": "160 ",
+  "fromwhere": "Green Apple Books"
+},
+"117500583": {
+  "books_id": "117500583",
+  "title": "The Dead Mountaineer&#039;s Inn: One More Last Rite for the Detective Genre (Neversink)",
+  "sortcharacter": "5",
+  "primaryauthor": "Strugatsky, Arkady",
+  "secondaryauthor": "Vandermeer, Jeff|Strugatsky, Boris|Billings, Josh",
+  "secondaryauthorroles": "Introduction||Translator",
+  "authors": [{
+    "lf": "Strugatsky, Arkady",
+    "fl": "Arkady Strugatsky"
+  },
+  {
+    "lf": "Vandermeer, Jeff",
+    "fl": "Jeff Vandermeer",
+    "role": "Introduction"
+  },
+  {
+    "lf": "Strugatsky, Boris",
+    "fl": "Boris Strugatsky"
+  },
+  {
+    "lf": "Billings, Josh",
+    "fl": "Josh Billings",
+    "role": "Translator"
+  }],
+  "tags": ["TYPE:novel",
+  "crime",
+  "detective",
+  "soviet union"],
+  "collections": ["Your library"],
+  "originalisbn": "161219432X",
+  "isbn": {
+    "0": "161219432X",
+    "2": "9781612194325"
+  },
+  "publication": "Melville House (2015), Paperback, 256 pages",
+  "date": "2015",
+  "summary": "The Dead Mountaineer&#039;s Inn: One More Last Rite for the Detective Genre (Neversink) by Arkady Strugatsky (2015)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["Finnish"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "2835814",
+  "entrydate": "2015-04-04",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "256 p.; 5 inches",
+  "height": "5 inches",
+  "thickness": "7.98 inches",
+  "length": "0.64 inches",
+  "dimensions": "5 x 0.64 x 7.98 inches",
+  "weight": "0.81 pounds",
+  "pages": "256 ",
+  "fromwhere": "Green Apple Books"
 }}
