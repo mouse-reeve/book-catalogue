@@ -1627,9 +1627,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133.4"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -2186,7 +2186,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["306.7099541"],
-    "wording": ["Culture and Institutions",
+    "wording": ["Biography And History",
+    "Culture and Institutions",
+    "Pacific",
     "Sexuality",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology"]
@@ -3341,9 +3343,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": {
     "code": "BF1611.L4713"
@@ -3480,9 +3482,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.4409"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Spell casting",
     "Witchcraft - Sorcery"]
   },
@@ -4509,9 +4511,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.40967"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -4837,7 +4839,7 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["513"],
-    "wording": ["Geometry and arithmetic",
+    "wording": ["Arithmetic",
     "Mathematics",
     "Mathematics And Science"]
   },
@@ -7385,7 +7387,7 @@
     "code": ["944"],
     "wording": ["Biography And History",
     "Europe",
-    "France"]
+    "France And Monaco"]
   },
   "lcc": {
     "code": "DC20.5.R63"
@@ -7758,7 +7760,7 @@
   "originallanguage": ["Greek (Ancient)"],
   "ddc": {
     "code": ["930"],
-    "wording": ["Ancient History",
+    "wording": [">",
     "Ancient World",
     "Biography And History"]
   },
@@ -8269,6 +8271,7 @@
   "ddc": {
     "code": ["658.4"],
     "wording": ["Business",
+    "Executive",
     "Management",
     "Technology"]
   },
@@ -8905,7 +8908,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -9281,11 +9286,11 @@
     "code": ["150.1954"],
     "wording": ["Jungian system",
     "Philosophy And Psychology",
-    "Philosophy and theory; systems, viewpoints",
     "Psychoanalytic systems",
     "Psychology",
     "Psychology",
-    "Systems, schools, viewpoints"]
+    "Systems, schools, viewpoints",
+    "Theory And Instruction"]
   },
   "lcc": {
     "code": "BF109.J8A3"
@@ -9914,7 +9919,7 @@
   "ddc": {
     "code": ["293.211"],
     "wording": ["Germanic religion",
-    "Other religions",
+    "Other Religions",
     "Religion "]
   },
   "lcc": {
@@ -10015,7 +10020,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -10350,6 +10357,7 @@
   "ddc": {
     "code": ["364.15230978144"],
     "wording": ["Criminology",
+    "Murder",
     "Murder",
     "Social Problems, Social Services",
     "Social Sciences ",
@@ -10836,10 +10844,10 @@
   "ddc": {
     "code": ["910.45"],
     "wording": ["Biography And History",
-    "Circumnavigations, ocean travel, shipwrecks and disasters, piratic adventures",
     "Geography and Travels ",
     "Geography, Voyages and Travel",
-    "Ocean voyages, pirates"]
+    "Ocean voyages, pirates",
+    "Special Topics"]
   },
   "lcc": {
     "code": "GV822.A4"
@@ -11009,6 +11017,7 @@
   "ddc": {
     "code": ["364.15230977311"],
     "wording": ["Criminology",
+    "Murder",
     "Murder",
     "Social Problems, Social Services",
     "Social Sciences ",
@@ -11492,7 +11501,7 @@
     "code": ["949"],
     "wording": ["Biography And History",
     "Europe",
-    "Smaller European countries  (Balkans \u2219 Belgium \u2219 Bulgaria \u2219 Iceland \u2219 Greece \u2219 Netherlands \u2219 Switzerland \u2219 Turkey)"]
+    "Other Countries"]
   },
   "lcc": {
     "code": "PA3612.G7"
@@ -11594,10 +11603,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["510.1"],
-    "wording": ["Mathematics",
+    "wording": ["General Mathematics",
     "Mathematics",
     "Mathematics And Science",
-    "Philosophy"]
+    "Philosophy And Psychology"]
   },
   "lcc": {
     "code": "QA9.8.H63"
@@ -11824,7 +11833,7 @@
     "code": ["299.51482"],
     "wording": ["Asia",
     "By Region",
-    "Other religions",
+    "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
     "Taoism"]
@@ -12396,7 +12405,8 @@
   "originallanguage": ["Spanish"],
   "ddc": {
     "code": ["863.64"],
-    "wording": ["Early 20th Century (1901-)",
+    "wording": ["1945-1999",
+    "20th Century",
     "Literature",
     "Spanish And Portuguese",
     "Spanish fiction"]
@@ -13191,10 +13201,10 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["070.92"],
-    "wording": ["Information",
+    "wording": ["Biography And History",
+    "Information",
     "Journalism And Publishing",
-    "Journalism Biography ",
-    "News media, journalism and publishing"]
+    "Journalism And Publishing"]
   },
   "lcc": {
     "code": "PN4874.T444A3"
@@ -13413,8 +13423,8 @@
   "ddc": {
     "code": ["941.501"],
     "wording": ["Biography And History",
+    "British Isles",
     "Europe",
-    "Great Britain; Scotland; Ireland",
     "Ireland"]
   },
   "lcc": {
@@ -13665,9 +13675,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": {
     "code": "BF1561.P6813"
@@ -14001,9 +14011,9 @@
   "originallanguage": ["Latin"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -14395,9 +14405,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -14971,7 +14981,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -16695,7 +16707,7 @@
     "code": ["949"],
     "wording": ["Biography And History",
     "Europe",
-    "Smaller European countries  (Balkans \u2219 Belgium \u2219 Bulgaria \u2219 Iceland \u2219 Greece \u2219 Netherlands \u2219 Switzerland \u2219 Turkey)"]
+    "Other Countries"]
   },
   "lcc": {
     "code": "PA3612.S6"
@@ -16926,9 +16938,9 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -16977,9 +16989,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -17184,9 +17196,9 @@
   "originallanguage": ["Hungarian"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -17239,9 +17251,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.43094209031"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": [],
@@ -17381,7 +17393,7 @@
     "code": ["299.514"],
     "wording": ["Asia",
     "By Region",
-    "Other religions",
+    "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
     "Taoism"]
@@ -17461,7 +17473,7 @@
     "code": ["299.51482"],
     "wording": ["Asia",
     "By Region",
-    "Other religions",
+    "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
     "Taoism"]
@@ -17524,9 +17536,9 @@
   "originallanguage": ["Hungarian"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": {
     "code": "BF1600.A3613"
@@ -17579,8 +17591,9 @@
   "ddc": {
     "code": ["745.4"],
     "wording": ["Arts And Leisure",
+    "Decorative Art And Design",
     "Drawing; Decoration; Design ",
-    "Ornamental Design: Carpet, etc. "]
+    "Pure And Applied"]
   },
   "lcc": {
     "code": "NK1510.C5"
@@ -17625,7 +17638,7 @@
     "code": ["299.67"],
     "wording": ["Africa",
     "By Region",
-    "Other religions",
+    "Other Religions",
     "Religion "]
   },
   "lcc": {
@@ -18453,9 +18466,9 @@
     "code": ["809.9336"],
     "wording": ["By Topic",
     "By topic",
+    "History And Criticism Of Three Or More Works",
     "Literature",
-    "Literature and science",
-    "Specific Topics in Literary Theory"]
+    "Literature and science"]
   },
   "lcc": {
     "code": "PN56.C83N67"
@@ -18821,7 +18834,9 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -19085,9 +19100,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": {
     "code": "BF1879.T2W3"
@@ -19453,9 +19468,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.43097295"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -19656,7 +19671,9 @@
   "originallanguage": ["Dutch"],
   "ddc": {
     "code": ["306.099613"],
-    "wording": ["Culture and Institutions",
+    "wording": ["Biography And History",
+    "Culture and Institutions",
+    "Pacific",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology"]
   },
@@ -20141,8 +20158,9 @@
   "language": ["English"],
   "originallanguage": ["German"],
   "ddc": {
-    "code": ["823"],
-    "wording": ["English",
+    "code": ["813.5"],
+    "wording": ["20th Century",
+    "American And Canadian",
     "Fiction",
     "Literature"]
   },
@@ -20437,8 +20455,8 @@
     "code": ["809.93372"],
     "wording": ["By Topic",
     "By topic",
-    "Literature",
-    "Specific Topics in Literary Theory"]
+    "History And Criticism Of Three Or More Works",
+    "Literature"]
   },
   "lcc": {
     "code": "GR650.M36"
@@ -20599,9 +20617,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -21416,7 +21434,7 @@
     "code": ["510.92"],
     "wording": ["Biography",
     "Biography And History",
-    "Mathematics",
+    "General Mathematics",
     "Mathematics",
     "Mathematics And Science"]
   },
@@ -21569,9 +21587,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -21920,10 +21938,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["511.3"],
-    "wording": ["Logic",
+    "wording": ["General Principles",
+    "Logic",
     "Mathematics",
-    "Mathematics And Science",
-    "Theory And Instruction"]
+    "Mathematics And Science"]
   },
   "lcc": {
     "code": "BC135.C336"
@@ -21968,9 +21986,9 @@
   "language": ["English"],
   "ddc": {
     "code": ["133.4"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -22062,8 +22080,8 @@
     "code": ["540.1"],
     "wording": ["Chemistry",
     "Chemistry",
-    "Early theories, alchemy, phlogiston",
-    "Mathematics And Science"]
+    "Mathematics And Science",
+    "Theory And Instruction"]
   },
   "lcc": {
     "code": "QD24.A1W3"
@@ -22166,7 +22184,7 @@
   "ddc": {
     "code": ["155.81"],
     "wording": ["Culture Studies",
-    "Developmental Psychology",
+    "Developmental And Differential Psychology",
     "Philosophy And Psychology",
     "Psychology"]
   },
@@ -22433,9 +22451,9 @@
   "originallanguage": ["Latin"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": [],
   "source": "amazon.com",
@@ -22769,9 +22787,9 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["133"],
-    "wording": ["Mind And Body",
-    "Occultism",
-    "Philosophy And Psychology"]
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Specific Topics"]
   },
   "lcc": {
     "code": "BF1411.C3"
@@ -23111,9 +23129,9 @@
     "code": ["005.73"],
     "wording": ["Computer Software",
     "Computing And Information",
+    "Data",
     "Data Structures",
-    "Information",
-    "Website and Database Design"]
+    "Information"]
   },
   "lcc": {
     "code": "QA76.73.J38W448"
@@ -23316,6 +23334,13 @@
   "summary": "Lazarus Volume 2 TP by Greg Rucka (2014)",
   "format": "Paperback",
   "language": ["English"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design "]
+  },
   "lcc": [],
   "series": "Lazarus",
   "source": "amazon.com",
@@ -23645,9 +23670,9 @@
   "originallanguage": ["Hebrew"],
   "ddc": {
     "code": ["133.43"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -23693,10 +23718,10 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["519.4"],
-    "wording": ["Mathematics",
-    "Mathematics And Science",
-    "Probability of future events deduced from experience",
-    "Probability; mathematical statistics "]
+    "wording": ["--",
+    "Applied Mathematics, Probabilities",
+    "Mathematics",
+    "Mathematics And Science"]
   },
   "lcc": {
     "code": "QA297.I8"
@@ -23888,6 +23913,7 @@
   "ddc": {
     "code": ["843.914"],
     "wording": ["1900-",
+    "1945-1999",
     "20th Century",
     "Fiction",
     "French",
@@ -24596,7 +24622,9 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -24788,6 +24816,7 @@
   "ddc": {
     "code": ["843.914"],
     "wording": ["1900-",
+    "1945-1999",
     "20th Century",
     "Fiction",
     "French",
@@ -25011,7 +25040,9 @@
   "originallanguage": ["Italian"],
   "ddc": {
     "code": ["853.914"],
-    "wording": ["Early 20th Century, 1901-",
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
     "Italian And Romanian",
     "Italian fiction",
     "Literature"]
@@ -25127,7 +25158,7 @@
     "code": ["792.702"],
     "wording": ["Amusements and Recreation",
     "Arts And Leisure",
-    "Comedy",
+    "Comedy, Variety",
     "Stage Entertainments"]
   },
   "lcc": {
@@ -25448,6 +25479,7 @@
     "code": ["305.563309420902"],
     "wording": ["Class",
     "Groups of People",
+    "Lower Class",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology"]
   },
@@ -25663,9 +25695,9 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["133.430940904"],
-    "wording": ["Mind And Body",
-    "Occultism",
+    "wording": ["Parapsychology And Occultism",
     "Philosophy And Psychology",
+    "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
@@ -26482,7 +26514,7 @@
   "ddc": {
     "code": ["291"],
     "wording": ["Comparative Religion; Mythology ",
-    "Other religions",
+    "Other Religions",
     "Religion "]
   },
   "lcc": {
@@ -26643,7 +26675,7 @@
   "originallanguage": ["Greek (Ancient)"],
   "ddc": {
     "code": ["930"],
-    "wording": ["Ancient History",
+    "wording": [">",
     "Ancient World",
     "Biography And History"]
   },
@@ -29920,10 +29952,10 @@
   "language": ["English"],
   "ddc": {
     "code": ["519.32"],
-    "wording": ["Mathematics",
-    "Mathematics And Science",
-    "Probability; mathematical statistics ",
-    "Testimony: decisions of juries and tribunals"]
+    "wording": ["Applied Mathematics, Probabilities",
+    "Game Theory",
+    "Mathematics",
+    "Mathematics And Science"]
   },
   "lcc": {
     "code": "QA272.N34"
@@ -29974,7 +30006,7 @@
   "originallanguage": ["English"],
   "ddc": {
     "code": ["006.660151"],
-    "wording": ["Computer graphics",
+    "wording": ["Computer Graphics",
     "Computing And Information",
     "Information",
     "Special Topics"]
@@ -31059,7 +31091,9 @@
   "tags": ["TYPE:graphic novels & comics",
   "music",
   "ghosts",
-  "supernatural"],
+  "supernatural",
+  "pulp",
+  "metafiction"],
   "collections": ["Your library"],
   "originalisbn": "1607067900",
   "isbn": {
@@ -31240,7 +31274,13 @@
   "tags": ["TYPE:novel",
   "crime",
   "detective",
-  "soviet union"],
+  "soviet union",
+  "anthropomorphism",
+  "dogs",
+  "ghosts",
+  "skiing",
+  "robots",
+  "aliens"],
   "collections": ["Your library"],
   "originalisbn": "161219432X",
   "isbn": {
@@ -31253,6 +31293,14 @@
   "format": "Paperback",
   "language": ["English"],
   "originallanguage": ["Finnish"],
+  "ddc": {
+    "code": ["891.73"],
+    "wording": ["Literature",
+    "Literature of other Indo-European languages",
+    "Other Languages",
+    "Russian Fiction",
+    "Russian Literature"]
+  },
   "lcc": [],
   "source": "amazon.com",
   "workcode": "2835814",
@@ -31267,4 +31315,55 @@
   "weight": "0.81 pounds",
   "pages": "256 ",
   "fromwhere": "Green Apple Books"
+},
+"118420690": {
+  "books_id": "118420690",
+  "title": "Vermilion",
+  "sortcharacter": "1",
+  "primaryauthor": "Tanzer, Molly",
+  "authors": [{
+    "lf": "Tanzer, Molly",
+    "fl": "Molly Tanzer"
+  }],
+  "tags": ["TYPE:novel",
+  "panacea",
+  "health",
+  "immortality",
+  "fountain of youth",
+  "steampunk",
+  "western",
+  "san francisco",
+  "race",
+  "RECOMMENDER:Sigmund",
+  "death",
+  "psychopomp",
+  "ghosts",
+  "anthropomorphism",
+  "gender"],
+  "collections": ["Your library"],
+  "originalisbn": "1939905087",
+  "isbn": {
+    "0": "1939905087",
+    "2": "9781939905086"
+  },
+  "publication": "Word Horde (2015), Paperback, 386 pages",
+  "date": "2015",
+  "summary": "Vermilion by Molly Tanzer (2015)",
+  "format": "Paperback",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15931142",
+  "entrydate": "2015-05-15",
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "386 p.; 5.98 inches",
+  "height": "5.98 inches",
+  "thickness": "9.02 inches",
+  "length": "0.86 inches",
+  "dimensions": "5.98 x 0.86 x 9.02 inches",
+  "weight": "1.24 pounds",
+  "pages": "386 ",
+  "fromwhere": "Amazon.com"
 }}
