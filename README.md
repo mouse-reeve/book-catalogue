@@ -8,3 +8,5 @@ The `canonical` CSV is an export from my catalogue on the android app [Book Cata
 The `librarything` JSON is an export from my [LibraryThing](https://www.librarything.com/catalog/tripofmice) catalogue, which stores (in theory) the same books as `canonical`, but with LT's data and the tags I've added through the site. 
 
 The `goodreads` CSV is an export of my GoodReads data, which is the only place that stores the date I started a book and the date I finished it.
+
+The `merged-data` JSON is produced by my [book-merger](https://github.com/mouse-reeve/book-merger), which combines relevant fields from each data source by isbn with an entry for each book. 
