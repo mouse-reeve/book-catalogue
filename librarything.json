@@ -4776,7 +4776,8 @@
   "magic",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:funny"],
+  "MOOD:funny",
+  "shakespeare"],
   "collections": ["Your library"],
   "originalisbn": "0061020664",
   "isbn": {
@@ -11550,7 +11551,8 @@
   "absurdism",
   "REFERENCES:074347712X",
   "TYPE:play",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare"],
   "collections": ["Your library"],
   "originalisbn": "0802132758",
   "isbn": {
@@ -22380,7 +22382,9 @@
   "murder",
   "ghosts",
   "TYPE:play",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare",
+  "indecision"],
   "collections": ["Your library"],
   "originalisbn": "074347712X",
   "isbn": {
@@ -25715,7 +25719,9 @@
   "tags": ["theater",
   "romance",
   "TYPE:play",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare",
+  "humor"],
   "collections": ["Your library"],
   "originalisbn": "0199536112",
   "isbn": {
@@ -25867,7 +25873,8 @@
   "shipwreck",
   "REFERENCES:1578631785",
   "TYPE:play",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare"],
   "collections": ["Your library"],
   "originalisbn": "0312197667",
   "isbn": {
@@ -26780,7 +26787,8 @@
   "guilt",
   "betrayal",
   "TYPE:play",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare"],
   "collections": ["Your library"],
   "originalisbn": "1853260355",
   "isbn": {
@@ -29018,7 +29026,8 @@
   "mythology",
   "RECOMMENDER:Jesse",
   "TYPE:graphic novels & comics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "shakespeare"],
   "collections": ["Your library"],
   "originalisbn": "1563892790",
   "isbn": {
@@ -31792,4 +31801,109 @@
   "weight": "0.4 pounds",
   "pages": "96 ",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
+},
+"119109291": {
+  "books_id": "119109291",
+  "title": "The Book of Oberon: A Sourcebook of Elizabethan Magic",
+  "sortcharacter": "5",
+  "primaryauthor": "Harms, Daniel",
+  "secondaryauthor": "Peterson, Joseph H.|Clark, James R.",
+  "secondaryauthorroles": "|",
+  "authors": [{
+    "lf": "Harms, Daniel",
+    "fl": "Daniel Harms"
+  },
+  {
+    "lf": "Peterson, Joseph H.",
+    "fl": "Joseph H. Peterson"
+  },
+  {
+    "lf": "Clark, James R.",
+    "fl": "James R. Clark"
+  }],
+  "tags": ["magic",
+  "elizabethan",
+  "TYPE:grimoire",
+  "fairies",
+  "occult",
+  "shakespeare"],
+  "collections": ["Your library"],
+  "originalisbn": "0738743348",
+  "isbn": {
+    "0": "0738743348",
+    "2": "9780738743349"
+  },
+  "publication": "Llewellyn Publications (2015), Edition: annotated edition, Hardcover, 600 pages",
+  "date": "2015",
+  "summary": "The Book of Oberon: A Sourcebook of Elizabethan Magic by Daniel Harms (2015)",
+  "language": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15897848",
+  "entrydate": "2015-06-11",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "fromwhere": "Amazon.com"
+},
+"119109487": {
+  "books_id": "119109487",
+  "title": "Experimental Researches in Electricity",
+  "sortcharacter": "1",
+  "primaryauthor": "Faraday, Michael",
+  "authors": [{
+    "lf": "Faraday, Michael",
+    "fl": "Michael Faraday"
+  }],
+  "tags": ["RECOMMENDER:Ian",
+  "electricity",
+  "science",
+  "history",
+  "research",
+  "TYPE:nonfiction"],
+  "collections": ["Your library"],
+  "originalisbn": "0486435059",
+  "isbn": {
+    "0": "0486435059",
+    "2": "9780486435053"
+  },
+  "publication": "Dover Publications (2004), Paperback, 368 pages",
+  "date": "2004",
+  "summary": "Experimental Researches in Electricity by Michael Faraday (2004)",
+  "language": ["English"],
+  "originallanguage": ["Portuguese"],
+  "ddc": {
+    "code": ["537"],
+    "wording": ["Electricity",
+    "Mathematics And Science",
+    "Physics"]
+  },
+  "lcc": {
+    "code": "AC1.E8 no. 576"
+  },
+  "subject": {
+    "0": ["Electricity"],
+    "2": ["Electricity",
+    "Early works to 1850"],
+    "4": ["electricity"]
+  },
+  "source": "amazon.com",
+  "workcode": "335893",
+  "entrydate": "2015-06-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "368 p.; 8.48 inches",
+  "height": "8.48 inches",
+  "thickness": "0.69 inches",
+  "length": "5.42 inches",
+  "dimensions": "8.48 x 5.42 x 0.69 inches",
+  "weight": "0.82 pounds",
+  "pages": "368 ",
+  "fromwhere": "gift"
 }}
