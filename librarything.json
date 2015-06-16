@@ -37,6 +37,8 @@
     "3": ["Religion"],
     "5": ["religion"]
   },
+  "genre": ["Science & Nature",
+  "Religion & Spirituality"],
   "workcode": "136419",
   "entrydate": "2014-01-21",
   "format": [{
@@ -112,6 +114,7 @@
   "Comic books, strips, etc"],
   ["Science fiction comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7121",
   "entrydate": "2014-01-21",
@@ -143,7 +146,8 @@
   "RECOMMENDER:Tessa",
   "future",
   "TYPE:graphic novels & comics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "1607066920",
   "isbn": {
@@ -168,6 +172,8 @@
     "code": "PN6728.S225V38"
   },
   "series": "Saga",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "13335982",
   "entrydate": "2014-01-21",
@@ -222,6 +228,7 @@
   "Fiction"],
   ["Graphic novels"]],
   "series": "Fables",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "1177808",
   "entrydate": "2014-01-21",
@@ -273,6 +280,7 @@
   },
   "lcc": [],
   "series": "Tank Girl: Remastered",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8991330",
   "entrydate": "2014-01-21",
@@ -304,7 +312,8 @@
   "RECOMMENDER:Tessa",
   "future",
   "TYPE:graphic novels & comics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "1607066017",
   "isbn": {
@@ -329,6 +338,8 @@
     "code": "PN6728.S225V38"
   },
   "series": "Saga",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "12833547",
   "entrydate": "2014-01-21",
@@ -381,6 +392,7 @@
   },
   "subject": [["Graphic novels"]],
   "series": "V For Vendetta",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7114",
   "entrydate": "2014-01-21",
@@ -435,6 +447,7 @@
     "code": "PN6727.M593H35"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10561",
   "entrydate": "2014-01-21",
@@ -495,6 +508,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11647",
   "entrydate": "2014-01-21",
@@ -546,6 +561,7 @@
     "code": "PN6738.T35M553"
   },
   "series": "Tank Girl",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "313035",
   "entrydate": "2014-01-21",
@@ -595,6 +611,7 @@
   "lcc": {
     "code": "PN6737 G3 B55"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "6982",
   "entrydate": "2014-01-21",
@@ -650,6 +667,7 @@
     "code": "PN6727.V38S78"
   },
   "series": "Squee!",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7800",
   "entrydate": "2014-01-21",
@@ -707,6 +725,8 @@
     "4": ["Science fiction comic books, strips, etc"]
   },
   "series": "The Sandman",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6046",
   "entrydate": "2014-01-21",
@@ -766,6 +786,7 @@
   "Comic books, strips, etc"],
   ["Science fiction comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "120319",
   "entrydate": "2014-01-21",
@@ -824,6 +845,7 @@
   "subject": [["Comic books, strips, etc"],
   ["Voyages and travels",
   "Comic books, strips, etc"]],
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "6987",
   "entrydate": "2014-01-21",
@@ -884,6 +906,7 @@
   ["Satrapi, Marjane, 1969-",
   "Comic books, strips, etc"]],
   "series": "Persepolis",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7037",
   "entrydate": "2014-01-21",
@@ -952,6 +975,7 @@
     "fiction"]
   },
   "series": "Calvin and Hobbes",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "122702",
   "entrydate": "2014-01-21",
@@ -1010,6 +1034,7 @@
     "code": "PN6737.M66L483"
   },
   "series": "The League of Extraordinary Gentlemen",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8384830",
   "entrydate": "2014-01-21",
@@ -1066,6 +1091,7 @@
     "code": "PN6737.M66L483"
   },
   "series": "The League of Extraordinary Gentlemen",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "2422190",
   "entrydate": "2014-01-21",
@@ -1133,6 +1159,7 @@
   "Textbooks for foreign speakers",
   "English"]],
   "series": "English Grammar Series",
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "23616",
   "entrydate": "2014-01-21",
@@ -1190,6 +1217,7 @@
     "code": "PN6727.M54"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "37725",
   "entrydate": "2014-01-21",
@@ -1257,6 +1285,7 @@
   ["Private investigators",
   "Comic books, strips, etc"]],
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "852979",
   "entrydate": "2014-01-21",
@@ -1310,6 +1339,8 @@
   },
   "subject": [["Sex (Biology)",
   "Popular works"]],
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "4478963",
   "entrydate": "2014-01-21",
@@ -1368,6 +1399,7 @@
     "code": "PN6728.H45M56"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10562",
   "entrydate": "2014-01-21",
@@ -1424,6 +1456,9 @@
     "1": ["Science"],
     "3": ["science"]
   },
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "28124",
   "entrydate": "2014-01-21",
@@ -1485,6 +1520,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11646",
   "entrydate": "2014-01-21",
@@ -1545,6 +1582,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11648",
   "entrydate": "2014-01-21",
@@ -1605,6 +1644,9 @@
     "5": ["Human dissection"],
     "7": ["Human experimentation in medicine"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "8304",
   "entrydate": "2014-01-21",
@@ -1673,6 +1715,9 @@
     "Early works to 1800"],
     "13": ["witchcraft"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "92660",
   "entrydate": "2014-01-21",
@@ -1733,6 +1778,8 @@
     "code": "PN6728.T68E"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11649",
   "entrydate": "2014-01-21",
@@ -1813,6 +1860,8 @@
     "21": ["science fiction"]
   },
   "series": "Bridge Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "606",
   "entrydate": "2014-01-21",
@@ -1858,6 +1907,7 @@
     "code": "PN6728.L39R83 2013 V.1"
   },
   "series": "Lazarus",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14093378",
   "entrydate": "2014-01-21",
@@ -1907,6 +1957,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "81878",
   "entrydate": "2014-01-21",
@@ -1977,6 +2028,9 @@
     "Fiction"]
   },
   "series": "Blue Ant",
+  "genre": ["Fiction",
+  "Mystery",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "610",
   "entrydate": "2014-01-21",
@@ -2032,6 +2086,7 @@
   },
   "lcc": [],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "3112152",
   "entrydate": "2014-01-21",
@@ -2081,6 +2136,7 @@
   "lcc": {
     "code": "PN6727.T48H33"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10934557",
   "entrydate": "2014-01-21",
@@ -2143,6 +2199,7 @@
     "Social life and customs"],
     "15": ["sex"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "97847",
   "entrydate": "2014-01-21",
@@ -2198,6 +2255,7 @@
   "lcc": {
     "code": "PN6727.W284K65"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10167518",
   "entrydate": "2014-01-21",
@@ -2294,6 +2352,7 @@
   ["Women"],
   ["women"]],
   "series": "Persepolis",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "2371284",
   "entrydate": "2014-01-21",
@@ -2354,6 +2413,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Calvin and Hobbes",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "24098",
   "entrydate": "2014-01-21",
@@ -2433,6 +2493,7 @@
     "12": ["Hess, Markus"],
     "13": ["Stoll, Clifford"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "69135",
   "entrydate": "2014-01-21",
@@ -2510,6 +2571,9 @@
   ["Science fiction"],
   ["Suspense fiction"],
   ["science fiction"]],
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5116802",
   "entrydate": "2014-01-21",
@@ -2581,6 +2645,7 @@
     "11": ["Women, Bedouin",
     "Egypt"]
   },
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "163027",
   "entrydate": "2014-01-21",
@@ -2668,6 +2733,8 @@
     "22": ["Orientalism"],
     "24": ["imperialism"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "257",
   "entrydate": "2014-01-21",
@@ -2745,6 +2812,8 @@
     "17": ["fiction in English"],
     "18": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "16566",
   "entrydate": "2014-01-21",
@@ -2796,6 +2865,8 @@
   "lcc": {
     "code": "RA645.O23G88"
   },
+  "genre": ["Nonfiction",
+  "Food & Cooking"],
   "source": "amazon.com",
   "workcode": "11194080",
   "entrydate": "2014-01-21",
@@ -2881,6 +2952,9 @@
     "26": ["historical fiction"],
     "28": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "816613",
   "entrydate": "2014-01-21",
@@ -2952,6 +3026,10 @@
     "Great Britain",
     "Biography"]
   },
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "46023",
   "entrydate": "2014-01-21",
@@ -3011,6 +3089,7 @@
     "0": ["Games of strategy (Mathematics)"],
     "2": ["Negotiation"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "89875",
   "entrydate": "2014-01-21",
@@ -3073,6 +3152,9 @@
     "7": ["Soul"],
     "8": ["soul"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "28303",
   "entrydate": "2014-01-21",
@@ -3139,6 +3221,7 @@
     "9": ["science fiction"]
   },
   "series": "Mars Trilogy",
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "17666",
   "entrydate": "2014-01-21",
@@ -3196,6 +3279,7 @@
     "4": ["Sigils"],
     "6": ["magic"]
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "65633",
   "entrydate": "2014-01-21",
@@ -3277,6 +3361,9 @@
     "Fiction"],
     "22": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1094470",
   "entrydate": "2014-01-21",
@@ -3339,6 +3426,9 @@
   "lcc": {
     "code": "PN56.M23O93"
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "7986699",
   "entrydate": "2014-01-21",
@@ -3408,6 +3498,7 @@
     "10": ["Psychological fiction"],
     "12": ["fiction in English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "11916",
   "entrydate": "2014-01-21",
@@ -3459,6 +3550,8 @@
     "code": "PZ7.P968Am"
   },
   "series": "His Dark Materials",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "8338263",
   "entrydate": "2014-01-21",
@@ -3534,6 +3627,9 @@
     "10": ["science fiction"]
   },
   "series": "The Sparrow",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Christian Fiction"],
   "source": "amazon.com",
   "workcode": "28159",
   "entrydate": "2014-01-21",
@@ -3595,6 +3691,9 @@
     "5": ["science fiction"]
   },
   "series": "Hainish Cycle",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "23117",
   "entrydate": "2014-01-21",
@@ -3667,6 +3766,8 @@
     "18": ["science fiction"]
   },
   "series": "Bridge Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "23038",
   "entrydate": "2014-01-21",
@@ -3748,6 +3849,8 @@
     "21": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3203347",
   "entrydate": "2014-01-21",
@@ -3818,6 +3921,8 @@
     "11": ["humorous stories"],
     "12": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "1000167",
   "entrydate": "2014-01-21",
@@ -3880,6 +3985,7 @@
     "7": ["Fantasy"],
     "9": ["fantasy"]
   },
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "45425",
   "entrydate": "2014-01-21",
@@ -3936,6 +4042,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "The League of Extraordinary Gentlemen",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "27185",
   "entrydate": "2014-01-21",
@@ -3997,6 +4104,8 @@
     "2": ["Suspense fiction"]
   },
   "series": "Blue Ant",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "2380436",
   "entrydate": "2014-01-21",
@@ -4050,6 +4159,7 @@
   "lcc": {
     "code": "GN480.E78"
   },
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "1413461",
   "entrydate": "2014-01-21",
@@ -4082,7 +4192,8 @@
   "politics",
   "future",
   "TYPE:novel",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "0441172717",
   "isbn": {
@@ -4115,6 +4226,8 @@
     "8": ["science fiction"]
   },
   "series": "Dune",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "4041453",
   "entrydate": "2014-01-21",
@@ -4180,6 +4293,8 @@
     "1945-"],
     "6": ["National characteristics, Japanese"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "97955",
   "entrydate": "2014-01-21",
@@ -4241,6 +4356,8 @@
     "Brazil",
     "Social life and customs"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "109363",
   "entrydate": "2014-01-21",
@@ -4309,6 +4426,8 @@
     "21": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3203319",
   "entrydate": "2014-01-21",
@@ -4380,6 +4499,9 @@
     "13": ["Zande (African people)"],
     "15": ["magic"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "851980",
   "entrydate": "2014-01-21",
@@ -4432,6 +4554,8 @@
   "lcc": {
     "code": "DS110.5.L2"
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "375968",
   "entrydate": "2014-01-21",
@@ -4477,6 +4601,7 @@
     "code": "QA241.H63"
   },
   "series": "Dolciani Mathematical Expositions",
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "393427",
   "entrydate": "2014-01-21",
@@ -4520,6 +4645,8 @@
   "lcc": {
     "code": "E59.W9M3"
   },
+  "genre": ["History",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "815081",
   "entrydate": "2014-01-21",
@@ -4589,6 +4716,8 @@
     "9": ["Witches",
     "fiction"]
   },
+  "genre": ["Children's Books",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1535",
   "entrydate": "2014-01-21",
@@ -4645,6 +4774,8 @@
     "2": ["Mathematics",
     "Study and teaching"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "7588",
   "entrydate": "2014-01-21",
@@ -4697,6 +4828,7 @@
     "code": "PL856.U673"
   },
   "series": "The Rat",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2837022",
   "entrydate": "2014-01-21",
@@ -4746,6 +4878,7 @@
   "lcc": {
     "code": "HE9797.K36"
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "10786710",
   "entrydate": "2014-01-21",
@@ -4817,6 +4950,7 @@
     "11": ["science fiction"]
   },
   "series": "Discworld",
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "1044878",
   "entrydate": "2014-01-21",
@@ -4887,6 +5021,8 @@
     "Fiction"],
     "15": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "816487",
   "entrydate": "2014-01-21",
@@ -4974,6 +5110,9 @@
     "24": ["fantastic fiction"],
     "25": ["fantasy fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1667444",
   "entrydate": "2014-01-21",
@@ -5050,6 +5189,8 @@
     "Fiction"],
     "13": ["adventure stories"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "7479",
   "entrydate": "2014-01-21",
@@ -5131,6 +5272,8 @@
     "21": ["humorous stories"]
   },
   "series": "Discworld",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1043959",
   "entrydate": "2014-01-21",
@@ -5200,6 +5343,8 @@
     "Fiction"],
     "10": ["horror tales"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "6426432",
   "entrydate": "2014-01-21",
@@ -5258,6 +5403,8 @@
     "code": "PZ7.F4443Las"
   },
   "series": "Chronicles of Kazam",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "10090409",
   "entrydate": "2014-01-21",
@@ -5318,6 +5465,8 @@
   "Fiction"],
   ["science fiction"]],
   "series": "The Hunger Games",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "4979986",
   "entrydate": "2014-01-21",
@@ -5378,6 +5527,9 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "48195",
   "entrydate": "2014-01-21",
@@ -5466,6 +5618,10 @@
     "27": ["fantasy fiction"]
   },
   "series": "Thursday Next",
+  "genre": ["Fiction",
+  "Mystery",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "4921",
   "entrydate": "2014-01-21",
@@ -5529,6 +5685,7 @@
     "5": ["fairies",
     "Fiction"]
   },
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "1363050",
   "entrydate": "2014-01-21",
@@ -5624,6 +5781,8 @@
     "35": ["fantasy fiction"]
   },
   "series": "His Dark Materials",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3261",
   "entrydate": "2014-01-21",
@@ -5699,6 +5858,8 @@
     "14": ["science fiction"]
   },
   "series": "Forever War",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "7899",
   "entrydate": "2014-01-21",
@@ -5760,6 +5921,9 @@
     "3": ["fantastic fiction"],
     "4": ["fantasy fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5798",
   "entrydate": "2014-01-21",
@@ -5818,6 +5982,10 @@
   "lcc": {
     "code": "PR6063.I265C58"
   },
+  "genre": ["Fiction",
+  "Mystery",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "7702396",
   "entrydate": "2014-01-21",
@@ -5910,6 +6078,7 @@
     "20": ["humorous fiction"],
     "21": ["humorous stories"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "4096291",
   "entrydate": "2014-01-21",
@@ -5983,6 +6152,9 @@
     "16": ["science fiction"]
   },
   "series": "Les voyages extraordinaires",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "41564",
   "entrydate": "2014-01-21",
@@ -6075,6 +6247,8 @@
     "35": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3203350",
   "entrydate": "2014-01-21",
@@ -6139,6 +6313,7 @@
     "Fiction"]
   },
   "series": "Sherlock Holmes",
+  "genre": ["Mystery"],
   "source": "amazon.com",
   "workcode": "24420",
   "entrydate": "2014-01-21",
@@ -6223,6 +6398,8 @@
     "23": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3203356",
   "entrydate": "2014-01-21",
@@ -6301,6 +6478,8 @@
     "England",
     "fiction"]
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "30888",
   "entrydate": "2014-01-21",
@@ -6454,6 +6633,8 @@
     "Romans, nouvelles, etc. pour la jeunesse"]
   },
   "series": "Harry Potter",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5403381",
   "entrydate": "2014-01-21",
@@ -6511,6 +6692,8 @@
     "2": ["Imaginary languages"],
     "4": ["Imaginary societies"]
   },
+  "genre": ["Fantasy",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "156696",
   "entrydate": "2014-01-21",
@@ -6581,6 +6764,8 @@
     "14": ["fantasy fiction"],
     "15": ["humorous fiction"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5794",
   "entrydate": "2014-01-21",
@@ -6635,6 +6820,8 @@
   "lcc": {
     "code": "PR6057.A319O28"
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "13117059",
   "entrydate": "2014-01-21",
@@ -6696,6 +6883,9 @@
     "3": ["Science fiction, American"]
   },
   "series": "The Illuminatus! Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5999",
   "entrydate": "2014-01-21",
@@ -6764,6 +6954,8 @@
     "12": ["satire"],
     "14": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "3374753",
   "entrydate": "2014-01-21",
@@ -6831,6 +7023,7 @@
     "12": ["science fiction"]
   },
   "series": "Foundation - Publication",
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "17557",
   "entrydate": "2014-01-21",
@@ -6938,6 +7131,8 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3206242",
   "entrydate": "2014-01-21",
@@ -6998,6 +7193,8 @@
   "Historical geography"],
   ["France",
   "History"]],
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "3428927",
   "entrydate": "2014-01-21",
@@ -7109,6 +7306,8 @@
   "Fiction"],
   ["Supernatural",
   "Juvenile fiction"]],
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "4479754",
   "entrydate": "2014-01-21",
@@ -7175,6 +7374,8 @@
     "11": ["satire"]
   },
   "series": "Discworld",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1044308",
   "entrydate": "2014-01-21",
@@ -7255,6 +7456,8 @@
     "21": ["fantasy fiction"]
   },
   "series": "Oz",
+  "genre": ["Children's Books",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "20410",
   "entrydate": "2014-01-21",
@@ -7316,6 +7519,9 @@
     "8": ["Science fiction"],
     "10": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "47893",
   "entrydate": "2014-01-21",
@@ -7402,6 +7608,8 @@
     "17": ["fiction in English"]
   },
   "series": "Sam Spade",
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "38504",
   "entrydate": "2014-01-21",
@@ -7465,6 +7673,8 @@
     "4": ["fantasy fiction"]
   },
   "series": "Discworld",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1044602",
   "entrydate": "2014-01-21",
@@ -7515,6 +7725,8 @@
     "code": "PR6066.R34L66"
   },
   "series": "The Long Earth",
+  "genre": ["Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "12038662",
   "entrydate": "2014-01-21",
@@ -7573,6 +7785,9 @@
     "6": ["fantasy fiction"]
   },
   "series": "Nursery Crime",
+  "genre": ["Fiction",
+  "Mystery",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "449996",
   "entrydate": "2014-01-21",
@@ -7636,6 +7851,9 @@
     "6": ["fantasy fiction"]
   },
   "series": "Nursery Crime",
+  "genre": ["Fiction",
+  "Mystery",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "12488",
   "entrydate": "2014-01-21",
@@ -7677,6 +7895,8 @@
   "language": ["English"],
   "originallanguage": ["Arabic"],
   "lcc": [],
+  "genre": ["Science Fiction",
+  "Romance"],
   "source": "amazon.com",
   "workcode": "14484311",
   "entrydate": "2014-01-21",
@@ -7720,6 +7940,7 @@
   "lcc": {
     "code": "PS3611.N55T37"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3629544",
   "entrydate": "2014-01-21",
@@ -7779,6 +8000,8 @@
   "Fiction"],
   ["Runaways",
   "Fiction"]],
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5819",
   "entrydate": "2014-01-21",
@@ -7868,6 +8091,7 @@
     "Fiction"],
     "21": ["humorous fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "19936",
   "entrydate": "2014-01-21",
@@ -7924,6 +8148,7 @@
     "4": ["Love Stories"],
     "5": ["Love stories"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "10105",
   "entrydate": "2014-01-21",
@@ -7978,6 +8203,7 @@
     "0": ["Nonsense literature, English"],
     "2": ["Nonsense verses, English"]
   },
+  "genre": ["Children's Books"],
   "source": "amazon.com",
   "workcode": "131562",
   "entrydate": "2014-01-21",
@@ -8088,6 +8314,8 @@
   "lcc": {
     "code": "PQ4865.C6N613"
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "15271547",
   "entrydate": "2014-01-21",
@@ -8195,6 +8423,8 @@
   "lcc": {
     "code": "QL697.4.H36"
   },
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "11165121",
   "entrydate": "2014-01-21",
@@ -8273,6 +8503,8 @@
     "fiction"],
     "28": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "7244",
   "entrydate": "2014-01-21",
@@ -8337,6 +8569,8 @@
     "8": ["Psychology, Pathological",
     "Case studies"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "6012",
   "entrydate": "2014-01-21",
@@ -8394,6 +8628,7 @@
   "lcc": {
     "code": "BF109.J8A3"
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "8588547",
   "entrydate": "2014-01-21",
@@ -8453,6 +8688,8 @@
   ["Vampires",
   "Fiction"]],
   "series": "The Night Watch Tetralogy",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "732079",
   "entrydate": "2014-01-21",
@@ -8535,6 +8772,7 @@
     "Care and hygiene",
     "Poetry"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3439",
   "entrydate": "2014-01-21",
@@ -8645,6 +8883,8 @@
     "30": [null],
     "31": [null]
   },
+  "genre": ["Fiction",
+  "Romance"],
   "source": "amazon.com",
   "workcode": "2340",
   "entrydate": "2014-01-21",
@@ -8701,6 +8941,7 @@
   ["Science Fiction"],
   ["Science fiction"],
   ["science fiction"]],
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "49011",
   "entrydate": "2014-01-21",
@@ -8746,6 +8987,9 @@
   "lcc": {
     "code": "GC481.W56"
   },
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "10106891",
   "entrydate": "2014-01-21",
@@ -8814,6 +9058,8 @@
     "Translations into English"],
     "6": ["Science fiction, Polish"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "18415",
   "entrydate": "2014-01-21",
@@ -8874,6 +9120,7 @@
     "3": ["Knights and knighthood",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3460000",
   "entrydate": "2014-01-21",
@@ -8951,6 +9198,7 @@
     "17": ["humorous fiction"]
   },
   "series": "Jeeves",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "51289",
   "entrydate": "2014-01-21",
@@ -9004,6 +9252,7 @@
   "lcc": {
     "code": "PG3488.L35A61613"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "9525470",
   "entrydate": "2014-01-21",
@@ -9061,6 +9310,9 @@
     "2": ["Mythology, Germanic"],
     "4": ["Mythology, Norse"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "31500",
   "entrydate": "2014-01-21",
@@ -9112,6 +9364,8 @@
   "lcc": {
     "code": "G1527.S22S6"
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "10619319",
   "entrydate": "2014-01-21",
@@ -9173,6 +9427,8 @@
   ["Middle ages",
   "Fiction"],
   ["historical fiction"]],
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "8983",
   "entrydate": "2014-01-21",
@@ -9230,6 +9486,7 @@
   "Romances"],
   ["Sagas",
   "Translations into English"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "120562",
   "entrydate": "2014-01-21",
@@ -9291,6 +9548,7 @@
     "Fiction"],
     "2": ["Science fiction, Polish"]
   },
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "23114",
   "entrydate": "2014-01-21",
@@ -9359,6 +9617,8 @@
   "Fiction"],
   ["Young Adult fiction"],
   ["Young adult fiction"]],
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5271836",
   "entrydate": "2014-01-21",
@@ -9412,6 +9672,8 @@
   "lcc": {
     "code": "PG3476.T6A813"
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "503770",
   "entrydate": "2014-01-21",
@@ -9466,6 +9728,8 @@
   "lcc": {
     "code": "PG3489.4.I53M6513"
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "215863",
   "entrydate": "2014-01-21",
@@ -9592,6 +9856,7 @@
   },
   "subject": [["Literature, Comparative",
   "Periodicals"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "11802",
   "entrydate": "2014-01-21",
@@ -9644,6 +9909,7 @@
   "lcc": {
     "code": "PM8008.O37"
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "8077823",
   "entrydate": "2014-01-21",
@@ -9728,6 +9994,8 @@
     "Fiction"],
     "19": ["literature"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "10151",
   "entrydate": "2014-01-21",
@@ -9782,6 +10050,7 @@
   ["Writing",
   "History"],
   ["Written communication"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "148276",
   "entrydate": "2014-01-21",
@@ -9877,6 +10146,7 @@
     "25": ["satire"]
   },
   "series": "Catch-22",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "1479",
   "entrydate": "2014-01-21",
@@ -9933,6 +10203,8 @@
   "lcc": {
     "code": "PS3623.I5838A78"
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "12134307",
   "entrydate": "2014-01-21",
@@ -9977,6 +10249,7 @@
     "code": "P106.C523"
   },
   "subject": [["Language and languages"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "143028",
   "entrydate": "2014-01-21",
@@ -10084,6 +10357,7 @@
     "3": ["Trials",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2152",
   "entrydate": "2014-01-21",
@@ -10154,6 +10428,7 @@
     "Fiction"],
     "15": ["Stream of consciousness fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3360",
   "entrydate": "2014-01-21",
@@ -10255,6 +10530,8 @@
     "15": ["World's Columbian Exposition (1893 : Chicago, Ill.)"],
     "16": ["World\\'s Columbian Exposition (1893 : Chicago, Ill.)"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "12491",
   "entrydate": "2014-01-21",
@@ -10305,6 +10582,7 @@
   },
   "subject": [["American Wit and humor"],
   ["American wit and humor"]],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "5879",
   "entrydate": "2014-01-21",
@@ -10347,6 +10625,7 @@
   "lcc": {
     "code": "PQ8180.17.A73A27"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "9536484",
   "entrydate": "2014-01-21",
@@ -10406,6 +10685,8 @@
   ["Soviet Union",
   "Fiction"],
   ["science fiction"]],
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "8527",
   "entrydate": "2014-01-21",
@@ -10514,6 +10795,9 @@
     "0": ["Witchcraft"],
     "2": ["witchcraft"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "355338",
   "entrydate": "2014-01-21",
@@ -10569,6 +10853,9 @@
   "Arctic regions"],
   ["Mythology, Germanic"],
   ["Thule-Gesellschaft"]],
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "659659",
   "entrydate": "2014-01-21",
@@ -10720,6 +11007,7 @@
   "lcc": {
     "code": "PA3612.G7"
   },
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "165005",
   "entrydate": "2014-01-21",
@@ -10774,6 +11062,7 @@
     "0": ["Bee culture"],
     "2": ["Bees"]
   },
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "206544",
   "entrydate": "2014-01-21",
@@ -10849,6 +11138,8 @@
     "18": ["Symmetry"],
     "20": ["mathematics"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "5619",
   "entrydate": "2014-01-21",
@@ -10958,6 +11249,7 @@
   "lcc": {
     "code": "PL856.U673A23"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "748397",
   "entrydate": "2014-01-21",
@@ -11018,6 +11310,7 @@
   ["Beckett, Samuel, 1906-1989. En attendant Godot",
   "Criticism, Textual"],
   ["Tragicomedy"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2156",
   "entrydate": "2014-01-21",
@@ -11087,6 +11380,7 @@
     "Sacred books"],
     "11": ["taoism"]
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "24392",
   "entrydate": "2014-01-21",
@@ -11145,6 +11439,8 @@
     "code": "PG3483.U498D5813"
   },
   "series": "The Night Watch Tetralogy",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1632488",
   "entrydate": "2014-01-21",
@@ -11299,6 +11595,10 @@
     "3": ["Geographical myths"],
     "5": ["Lost continents"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality",
+  "Health & Wellness"],
   "source": "amazon.com",
   "workcode": "180416",
   "entrydate": "2014-01-21",
@@ -11349,6 +11649,7 @@
   "lcc": {
     "code": "PA6156.A1.G46 V.2"
   },
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "2123315",
   "entrydate": "2014-01-21",
@@ -11456,6 +11757,7 @@
   ["Poland",
   "Social life and customs",
   "Fiction"]],
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "142844",
   "entrydate": "2014-01-21",
@@ -11519,6 +11821,7 @@
   "Fiction"],
   ["Murakami, Haruki, 1949-",
   "Translations into English"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2940",
   "entrydate": "2014-01-21",
@@ -11581,6 +11884,7 @@
     "3": ["English drama"],
     "5": ["Features"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "12477",
   "entrydate": "2014-01-21",
@@ -11635,6 +11939,7 @@
   ["Limericks"],
   ["Nonsense verses"],
   ["Nonsense verses, English"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "424931",
   "entrydate": "2014-01-21",
@@ -11697,6 +12002,7 @@
     "11": ["Macondo (Imaginary place)",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "5864",
   "entrydate": "2014-01-21",
@@ -11771,6 +12077,7 @@
     "19": ["short stories"]
   },
   "series": "Winnie-the-Pooh",
+  "genre": ["Children's Books"],
   "source": "amazon.com",
   "workcode": "1879281",
   "entrydate": "2014-01-21",
@@ -11822,6 +12129,7 @@
   },
   "subject": [["Lady of the Lake (Legendary character)",
   "Poetry"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "15062",
   "entrydate": "2014-01-21",
@@ -11874,6 +12182,7 @@
   "lcc": {
     "code": "PG3366.S4"
   },
+  "genre": ["Fiction"],
   "workcode": "10119041",
   "entrydate": "2014-07-27",
   "format": [{
@@ -11926,6 +12235,7 @@
   ["fantasy fiction"],
   ["science fiction"]],
   "series": "Discworld",
+  "genre": ["Fantasy"],
   "workcode": "1044995",
   "entrydate": "2014-07-27",
   "format": [{
@@ -12146,6 +12456,8 @@
     "12": ["fantasy fiction"]
   },
   "series": "Old Kingdom / Abhorsen",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "9993",
   "entrydate": "2014-07-27",
@@ -12221,6 +12533,8 @@
     "18": ["science fiction"]
   },
   "series": "Old Kingdom / Abhorsen",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "10009",
   "entrydate": "2014-07-27",
@@ -12274,6 +12588,7 @@
   "lcc": {
     "code": "PS3601.B7367S47"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "14246785",
   "entrydate": "2014-07-27",
@@ -12344,6 +12659,8 @@
     "18": ["fantasy fiction"]
   },
   "series": "Old Kingdom / Abhorsen",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "10014",
   "entrydate": "2014-07-27",
@@ -12403,6 +12720,9 @@
     "5": ["Black death",
     "Fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "23185",
   "entrydate": "2014-07-27",
@@ -12466,6 +12786,8 @@
   "United States",
   "Election",
   "1972"]],
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "3367",
   "entrydate": "2014-07-27",
@@ -12642,6 +12964,7 @@
     "4": ["Subculture",
     "United States"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "3375",
   "entrydate": "2014-07-27",
@@ -12739,6 +13062,9 @@
     "Ireland"]
   },
   "series": "Hinges of History",
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "20820",
   "entrydate": "2014-07-27",
@@ -12782,6 +13108,7 @@
   "summary": "The Complete Picatrix: The Occult Classic Of Astrological Magic Liber Atratus Edition by John Michael Greer (2011)",
   "language": ["English"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "11463706",
   "entrydate": "2014-07-27",
@@ -12858,6 +13185,7 @@
     "12": ["historical fiction"],
     "13": ["satire"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "25668",
   "entrydate": "2014-07-27",
@@ -12908,6 +13236,7 @@
     "Identification"]
   },
   "series": "Helm identification guides",
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "519046",
   "entrydate": "2014-07-27",
@@ -12961,6 +13290,8 @@
   "lcc": {
     "code": "BF1561.P6813"
   },
+  "genre": ["Religion & Spirituality",
+  "Health & Wellness"],
   "source": "amazon.com",
   "workcode": "1006460",
   "entrydate": "2014-07-27",
@@ -13004,6 +13335,7 @@
   "language": ["English"],
   "originallanguage": ["Latin"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "14151924",
   "entrydate": "2014-07-27",
@@ -13053,6 +13385,8 @@
     "code": "PR9199.3.A8M34"
   },
   "series": "MaddAddam Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "12751872",
   "entrydate": "2014-07-27",
@@ -13118,6 +13452,7 @@
   "Comic books, strips, etc.",
   "Fiction"]],
   "series": "Maus: A Survivor's Tale",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "6046618",
   "entrydate": "2014-07-27",
@@ -13211,6 +13546,8 @@
     "23": ["fantasy fiction"],
     "24": ["historical fiction"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1060",
   "entrydate": "2014-07-27",
@@ -13261,6 +13598,9 @@
     "Specific Topics"]
   },
   "lcc": [],
+  "genre": ["Nonfiction",
+  "Religion & Spirituality",
+  "Health & Wellness"],
   "source": "amazon.com",
   "workcode": "5066970",
   "entrydate": "2014-07-27",
@@ -13312,6 +13652,8 @@
     "code": "PR9199.3.A8Y43"
   },
   "series": "MaddAddam Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "8110663",
   "entrydate": "2014-07-27",
@@ -13365,6 +13707,7 @@
   "lcc": {
     "code": "PZ4.L537Re "
   },
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "142837",
   "entrydate": "2014-07-27",
@@ -13438,6 +13781,8 @@
     "17": ["science fiction"]
   },
   "series": "MaddAddam Trilogy",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "1079",
   "entrydate": "2014-07-27",
@@ -13497,6 +13842,8 @@
     "code": "PN6728.T68E4325"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "13305482",
   "entrydate": "2014-07-27",
@@ -13550,6 +13897,7 @@
     "code": "PN6727.V38J8"
   },
   "series": "Johnny the Homicidal Maniac",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7615",
   "entrydate": "2014-07-27",
@@ -13624,6 +13972,7 @@
     "15": ["horror stories"],
     "17": ["horror tales"]
   },
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "4183",
   "entrydate": "2014-07-27",
@@ -13683,6 +14032,7 @@
   "Early works to 1800"],
   ["Magic, Jewish",
   "Early works to 1800"]],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "327692",
   "entrydate": "2014-07-27",
@@ -13735,6 +14085,7 @@
   "lcc": {
     "code": "PR5815"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "11096959",
   "entrydate": "2014-07-27",
@@ -13796,6 +14147,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Calvin and Hobbes",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "32092",
   "entrydate": "2014-07-27",
@@ -13894,6 +14246,7 @@
     "29": ["biographical fiction"],
     "30": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "4053",
   "entrydate": "2014-07-27",
@@ -14054,6 +14407,7 @@
     "34": ["fantasy"],
     "35": ["fiction in English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "1527",
   "entrydate": "2014-07-27",
@@ -14147,6 +14501,7 @@
     "19": ["Saint Petersburg (Russia)",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "10072",
   "entrydate": "2014-07-27",
@@ -14220,6 +14575,7 @@
     "11": ["Political fiction"],
     "13": ["Psychological fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "5069",
   "entrydate": "2014-07-27",
@@ -14300,6 +14656,7 @@
     "Fiction"],
     "17": ["occult fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2108",
   "entrydate": "2014-07-27",
@@ -14405,6 +14762,7 @@
     "25": ["historical fiction"]
   },
   "series": "D'Artagnan Romances",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3745066",
   "entrydate": "2014-07-27",
@@ -14514,6 +14872,8 @@
     "code": "PN6728.T68E"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "29719",
   "entrydate": "2014-07-27",
@@ -14564,6 +14924,7 @@
   "lcc": {
     "code": "PG3347.A2"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "12160452",
   "entrydate": "2014-07-27",
@@ -14646,6 +15007,8 @@
     "19": ["fiction in English"],
     "20": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "11494",
   "entrydate": "2014-07-27",
@@ -14705,6 +15068,8 @@
     "code": "PN6728.T68E"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11651",
   "entrydate": "2014-07-27",
@@ -14765,6 +15130,8 @@
     "code": "PN6728.T68E4455"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11652",
   "entrydate": "2014-07-27",
@@ -14816,6 +15183,7 @@
     "code": "PN6728.H45M54"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10563",
   "entrydate": "2014-07-27",
@@ -14874,6 +15242,9 @@
     "code": "PR6106.F67S53"
   },
   "series": "Shades of Grey",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "4701142",
   "entrydate": "2014-07-27",
@@ -14939,6 +15310,7 @@
   "Fiction"],
   ["Science fiction comic books, strips, etc"]],
   "series": "The Absolute Sandman",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "3260977",
   "entrydate": "2014-07-27",
@@ -14993,6 +15365,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11645",
   "entrydate": "2014-07-27",
@@ -15032,6 +15406,7 @@
   "originallanguage": ["English"],
   "lcc": [],
   "series": "Wayside School",
+  "genre": ["Children's Books"],
   "source": "amazon.com",
   "workcode": "3358822",
   "entrydate": "2014-07-27",
@@ -15092,6 +15467,8 @@
     "code": "PN6728.T68E"
   },
   "series": "Transmetropolitan",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11650",
   "entrydate": "2014-07-27",
@@ -15150,6 +15527,8 @@
     "code": "PR6057.A319.A27"
   },
   "series": "The Absolute Sandman",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "2333448",
   "entrydate": "2014-07-27",
@@ -15205,6 +15584,7 @@
   "Handbooks, manuals, etc"],
   ["English language",
   "Handbooks, manuals, etc"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "30739",
   "entrydate": "2014-07-27",
@@ -15315,6 +15695,8 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3206242",
   "entrydate": "2014-07-27",
@@ -15373,6 +15755,7 @@
     "3": ["Watchmen (Comic strip)"]
   },
   "series": "Watchmen - Alan Moore",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7233",
   "entrydate": "2014-07-27",
@@ -15446,6 +15829,8 @@
     "Fiction"],
     "10": ["fiction in English"]
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "4918",
   "entrydate": "2014-07-27",
@@ -15499,6 +15884,8 @@
     "code": "PZ7.B25046 Th"
   },
   "series": "Clive Barker's The Thief Of Always",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "11691026",
   "entrydate": "2014-07-27",
@@ -15563,6 +15950,8 @@
     "8": ["Science fiction"],
     "10": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "815646",
   "entrydate": "2014-07-27",
@@ -15622,6 +16011,7 @@
   ["Plague",
   "Comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8078",
   "entrydate": "2014-07-27",
@@ -15676,6 +16066,7 @@
     "code": "PS3523.O833A6"
   },
   "subject": [["Horror tales, American"]],
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "92314",
   "entrydate": "2014-07-27",
@@ -15735,6 +16126,7 @@
   ["Heroes",
   "Comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8077",
   "entrydate": "2014-07-27",
@@ -15795,6 +16187,7 @@
     "1966"],
     "4": ["fiction in English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "8883",
   "entrydate": "2014-07-27",
@@ -15897,7 +16290,8 @@
   "assassins",
   "RECOMMENDER:Tessa",
   "TYPE:graphic novels & comics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "1607069318",
   "isbn": {
@@ -15922,6 +16316,8 @@
     "code": "PN6728.S225V38"
   },
   "series": "Saga",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14542492",
   "entrydate": "2014-07-27",
@@ -15965,6 +16361,8 @@
   "lcc": {
     "code": "PA3612.S6"
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "3105488",
   "entrydate": "2014-07-27",
@@ -16031,6 +16429,8 @@
     "10": ["science fiction"]
   },
   "series": "Leibowitz",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "48053",
   "entrydate": "2014-07-27",
@@ -16081,6 +16481,8 @@
     "code": "PS3608.O9566W66"
   },
   "series": "Wool",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "12239418",
   "entrydate": "2014-07-27",
@@ -16123,6 +16525,7 @@
   "lcc": {
     "code": "GR203.17"
   },
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "81324",
   "entrydate": "2014-07-27",
@@ -16170,6 +16573,8 @@
   },
   "lcc": [],
   "series": "East of West",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14076579",
   "entrydate": "2014-07-27",
@@ -16219,6 +16624,8 @@
     "0": ["Magic"],
     "2": ["magic"]
   },
+  "genre": ["Nonfiction",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "165389",
   "entrydate": "2014-07-27",
@@ -16269,6 +16676,7 @@
   "lcc": {
     "code": "BF1611.A7313"
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "6931392",
   "entrydate": "2014-07-27",
@@ -16332,6 +16740,7 @@
     "4": ["Science fiction comic books, strips, etc"]
   },
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8076",
   "entrydate": "2014-07-27",
@@ -16401,6 +16810,8 @@
     "12": ["Psychological fiction"],
     "14": ["Publishers' advertisements"]
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "30254",
   "entrydate": "2014-07-27",
@@ -16459,6 +16870,8 @@
     "4": ["Occultism"],
     "5": ["magic"]
   },
+  "genre": ["Nonfiction",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "355870",
   "entrydate": "2014-07-27",
@@ -16509,6 +16922,9 @@
     "Witchcraft - Sorcery"]
   },
   "lcc": [],
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "92758",
   "entrydate": "2014-07-27",
@@ -16605,6 +17021,7 @@
     "10": ["Tokyo (Japan)",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "637581",
   "entrydate": "2014-07-27",
@@ -16689,6 +17106,7 @@
     "14": ["Winnie-the-Pooh (Fictitious character)"],
     "16": ["taoism"]
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "6058",
   "entrydate": "2014-07-27",
@@ -16759,6 +17177,7 @@
     "Sacred books"],
     "11": ["taoism"]
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "24392",
   "entrydate": "2014-07-27",
@@ -16819,6 +17238,7 @@
     "Early works to 1900"]
   },
   "series": "Three Books of Occult Philosophy",
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "112265",
   "entrydate": "2014-07-27",
@@ -16874,6 +17294,9 @@
     "3": ["Pattern perception"],
     "5": ["design"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "1338106",
   "entrydate": "2014-07-27",
@@ -16918,6 +17341,9 @@
     "code": "BL2532.S3G674"
   },
   "subject": [["Santeria"]],
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "243150",
   "entrydate": "2014-07-27",
@@ -16994,6 +17420,9 @@
     "19": ["science fiction"]
   },
   "series": "Hainish Cycle",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "21142",
   "entrydate": "2014-07-27",
@@ -17104,6 +17533,8 @@
     "39": ["Romantic suspense novels"],
     "40": ["fiction in English"]
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "15585",
   "entrydate": "2014-07-27",
@@ -17229,6 +17660,7 @@
     "6": ["fantasy fiction"]
   },
   "series": "Discworld",
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "1044311",
   "entrydate": "2014-07-27",
@@ -17286,6 +17718,8 @@
     "4": ["Science fiction, American"],
     "6": ["science fiction"]
   },
+  "genre": ["Science Fiction",
+  "Romance"],
   "source": "amazon.com",
   "workcode": "128",
   "entrydate": "2014-07-27",
@@ -17332,6 +17766,7 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["Art & Design"],
   "source": "amazon.com",
   "workcode": "14350734",
   "entrydate": "2014-07-27",
@@ -17385,6 +17820,7 @@
     "4": ["fantastic fiction"]
   },
   "series": "Dragaera: Vlad Taltos: Publication Order",
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "46737",
   "entrydate": "2014-07-27",
@@ -17440,6 +17876,8 @@
     "Maps"],
     "2": ["History, Ancient"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "63489",
   "entrydate": "2014-07-27",
@@ -17498,6 +17936,8 @@
     "5": ["Writing",
     "History"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "227859",
   "entrydate": "2014-07-27",
@@ -17679,6 +18119,8 @@
     "0": ["Fantastic fiction"],
     "2": ["fantastic fiction"]
   },
+  "genre": ["Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1045491",
   "entrydate": "2014-07-27",
@@ -17731,6 +18173,7 @@
   "lcc": {
     "code": "PN56.C83N67"
   },
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "5686867",
   "entrydate": "2014-07-27",
@@ -17789,6 +18232,9 @@
     "10": ["magic"],
     "11": ["witchcraft"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "92632",
   "entrydate": "2014-07-27",
@@ -17886,6 +18332,9 @@
   ["Witchcraft",
   "France",
   "Early works to 1800"]],
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "4573017",
   "entrydate": "2014-07-27",
@@ -17946,6 +18395,9 @@
     "0": ["Labyrinths"],
     "2": ["Maze gardens"]
   },
+  "genre": ["History",
+  "Religion & Spirituality",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "146054",
   "entrydate": "2014-07-27",
@@ -18016,6 +18468,7 @@
     "Fiction"]
   },
   "series": "Calvin and Hobbes",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "5905",
   "entrydate": "2014-07-27",
@@ -18079,6 +18532,8 @@
     "Fiction"],
     "7": ["biographical fiction"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "15614",
   "entrydate": "2014-07-27",
@@ -18135,6 +18590,7 @@
     "code": "PS3527.A15P3"
   },
   "subject": [["Experimental fiction"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "7714",
   "entrydate": "2014-07-27",
@@ -18190,6 +18646,7 @@
   "lcc": {
     "code": "PG7158.L39 W513"
   },
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "90256",
   "entrydate": "2014-07-27",
@@ -18348,6 +18805,8 @@
     "0": ["Tarot"],
     "2": ["tarot"]
   },
+  "genre": ["Nonfiction",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "66399",
   "entrydate": "2014-07-27",
@@ -18435,6 +18894,8 @@
     "25": ["fantasy fiction"]
   },
   "series": "His Dark Materials",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "4432994",
   "entrydate": "2014-07-27",
@@ -18502,6 +18963,7 @@
   ["Symbolism in folklore",
   "Dictionaries"]],
   "series": "Penguin Dictionaries",
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "37692",
   "entrydate": "2014-07-27",
@@ -18570,6 +19032,9 @@
     "9": ["Young adult fiction"],
     "11": ["science fiction"]
   },
+  "genre": ["Science Fiction",
+  "Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "109818",
   "entrydate": "2014-07-27",
@@ -18619,6 +19084,7 @@
     "code": "PN6727.H486L63"
   },
   "series": "Locke & Key",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "9689890",
   "entrydate": "2014-07-27",
@@ -18678,6 +19144,8 @@
   "subject": [["Scotland",
   "Fiction"],
   ["Suspense fiction"]],
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "14044",
   "entrydate": "2014-07-27",
@@ -18736,6 +19204,7 @@
     "2": ["Witchcraft",
     "Puerto Rico"]
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "1758624",
   "entrydate": "2014-07-27",
@@ -18784,6 +19253,8 @@
   "lcc": {
     "code": "PL875.5.A45O7813"
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "8419505",
   "entrydate": "2014-07-27",
@@ -18841,6 +19312,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "641699",
   "entrydate": "2014-07-27",
@@ -18890,6 +19362,7 @@
     "Drawing; Decoration; Design "]
   },
   "lcc": [],
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "7792237",
   "entrydate": "2014-07-27",
@@ -18965,6 +19438,7 @@
     "Social life and customs"],
     "18": ["adolescence"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "4597843",
   "entrydate": "2014-07-27",
@@ -19067,6 +19541,8 @@
   "lcc": {
     "code": "GN419.5.N36"
   },
+  "genre": ["Religion & Spirituality",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "1448536",
   "entrydate": "2014-07-27",
@@ -19115,6 +19591,7 @@
     "code": "PN6728"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "5156516",
   "entrydate": "2014-07-27",
@@ -19183,6 +19660,8 @@
     "12": ["fantasy"],
     "14": ["fantasy fiction"]
   },
+  "genre": ["Children's Books",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6320",
   "entrydate": "2014-07-27",
@@ -19244,6 +19723,7 @@
     "5": ["Nonsense verses"],
     "7": ["Nonsense verses, English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "51714",
   "entrydate": "2014-07-27",
@@ -19301,6 +19781,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Preacher",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "45075",
   "entrydate": "2014-07-27",
@@ -19362,6 +19843,7 @@
     "2": ["Castles",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "9615",
   "entrydate": "2014-07-27",
@@ -19412,6 +19894,7 @@
   },
   "subject": [["Kafka, Franz, 1883-1924",
   "Translations into English"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2969633",
   "entrydate": "2014-07-27",
@@ -19471,6 +19954,7 @@
     "4": ["Southern states",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "33254",
   "entrydate": "2014-07-27",
@@ -19520,6 +20004,7 @@
   "subject": [["Graphic Novels"],
   ["Graphic novels"]],
   "series": "Preacher",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "45076",
   "entrydate": "2014-07-27",
@@ -19588,6 +20073,9 @@
     "Soviet Union"],
     "8": ["fantastic fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "52032",
   "entrydate": "2014-07-27",
@@ -19662,6 +20150,7 @@
     "8": ["humorous fiction"]
   },
   "series": "Jeeves",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "16538",
   "entrydate": "2014-07-27",
@@ -19717,6 +20206,7 @@
   "subject": [["Poland",
   "Social life and customs",
   "Fiction"]],
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "142828",
   "entrydate": "2014-07-27",
@@ -19779,6 +20269,7 @@
     "3": ["Imaginary places",
     "Dictionaries"]
   },
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "7076",
   "entrydate": "2014-07-27",
@@ -19832,6 +20323,7 @@
     "code": "PN6728.G65B77"
   },
   "series": "Gotham Central",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10526542",
   "entrydate": "2014-07-27",
@@ -19892,6 +20384,7 @@
   ["Jerome, Jerome K. (Jerome Klapka), 1859-1927",
   "Travel",
   "Europe"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "224768",
   "entrydate": "2014-07-27",
@@ -19940,6 +20433,7 @@
     "Specific Topics"]
   },
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "7862612",
   "entrydate": "2014-07-27",
@@ -20013,6 +20507,8 @@
     "5": ["Graphic novels"],
     "7": ["Stonewall Book Award"]
   },
+  "genre": ["Graphic Novels",
+  "LGBT"],
   "source": "amazon.com",
   "workcode": "627079",
   "entrydate": "2014-07-27",
@@ -20129,6 +20625,7 @@
     "code": "PN6727.M53H448"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "3349925",
   "entrydate": "2014-07-27",
@@ -20183,6 +20680,7 @@
   "lcc": {
     "code": "PN6733.B76P39"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10998484",
   "entrydate": "2014-07-27",
@@ -20234,6 +20732,7 @@
     "code": "PN6728.G65R836"
   },
   "series": "Gotham Central",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11038667",
   "entrydate": "2014-07-27",
@@ -20279,6 +20778,7 @@
   },
   "lcc": [],
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "598998",
   "entrydate": "2014-07-27",
@@ -20336,6 +20836,7 @@
     "code": "PN6728.G65B78"
   },
   "series": "Gotham Central",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "8227098",
   "entrydate": "2014-07-27",
@@ -20391,6 +20892,8 @@
     "4": ["Voynich, Wilfred Michael, 1865-1930"],
     "5": ["Yale University. Library. Beinecke Rare Book and Manuscript Library"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "188321",
   "entrydate": "2014-07-27",
@@ -20470,6 +20973,7 @@
     "Comic books, strips, etc"]
   },
   "series": "From Hell",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "5779",
   "entrydate": "2014-07-27",
@@ -20570,6 +21074,9 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "12987",
   "entrydate": "2014-07-27",
@@ -20613,6 +21120,8 @@
   "lcc": {
     "code": "PN6727.V466 D545"
   },
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "14416172",
   "entrydate": "2014-07-27",
@@ -20662,6 +21171,7 @@
   ["English language",
   "Slang",
   "Dictionaries"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "201870",
   "entrydate": "2014-07-27",
@@ -20713,6 +21223,8 @@
     "code": "PS3557.I2264Z47"
   },
   "series": "Blue Ant",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "8445628",
   "entrydate": "2014-07-27",
@@ -20762,6 +21274,7 @@
     "code": "PN6728.G65R835"
   },
   "series": "Gotham Central",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "9608415",
   "entrydate": "2014-07-27",
@@ -20807,6 +21320,10 @@
   "lcc": {
     "code": "QA29.C353W55"
   },
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "5715097",
   "entrydate": "2014-07-27",
@@ -20860,6 +21377,7 @@
   "lcc": {
     "code": "BS185 2008.O94"
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "4666453",
   "entrydate": "2014-07-27",
@@ -20969,6 +21487,7 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
+  "genre": ["Science Fiction"],
   "source": "amazon.com",
   "workcode": "664846",
   "entrydate": "2014-07-27",
@@ -21016,6 +21535,7 @@
     "code": "PN6727.Y36S25"
   },
   "series": "Boxers & Saints",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "13517093",
   "entrydate": "2014-07-27",
@@ -21065,6 +21585,9 @@
   "History"],
   ["Witchcraft",
   "History"]],
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "21443",
   "entrydate": "2014-07-27",
@@ -21125,6 +21648,8 @@
     "code": "PL876.A396B3813"
   },
   "series": "Battle Royale",
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "5691177",
   "entrydate": "2014-07-27",
@@ -21187,6 +21712,7 @@
   "Comic books, strips, etc"],
   ["Science fiction comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "768938",
   "entrydate": "2014-07-27",
@@ -21241,6 +21767,8 @@
   "lcc": {
     "code": "PN6727.B3757Z46"
   },
+  "genre": ["Graphic Novels",
+  "LGBT"],
   "source": "amazon.com",
   "workcode": "11739809",
   "entrydate": "2014-07-27",
@@ -21286,6 +21814,7 @@
     "code": "BC135.C336"
   },
   "subject": [["Logic, Symbolic and mathematical"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "2352440",
   "entrydate": "2014-07-27",
@@ -21342,6 +21871,9 @@
     "4": ["magic"],
     "5": ["witchcraft"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "385204",
   "entrydate": "2014-07-27",
@@ -21389,6 +21921,7 @@
     "code": "PN6727.Y36B68"
   },
   "series": "Boxers & Saints",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "13517092",
   "entrydate": "2014-07-27",
@@ -21442,6 +21975,9 @@
     "4": ["Alchemy",
     "bibliography"]
   },
+  "genre": ["Biography & Memoir",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "310991",
   "entrydate": "2014-07-27",
@@ -21492,6 +22028,7 @@
   },
   "subject": [["Graphic novels"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "1038601",
   "entrydate": "2014-07-27",
@@ -21552,6 +22089,8 @@
     "5": ["Totemism"],
     "7": ["totemism"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "98252",
   "entrydate": "2014-07-27",
@@ -21608,6 +22147,7 @@
     "code": "PN6728.Y3V38"
   },
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "2939158",
   "entrydate": "2014-07-27",
@@ -21658,6 +22198,7 @@
     "code": "P105.S2"
   },
   "subject": [["Language and languages"]],
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "58924",
   "entrydate": "2014-07-27",
@@ -21718,6 +22259,9 @@
     "2": ["Witchcraft",
     "Dictionaries"]
   },
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "192348",
   "entrydate": "2014-07-27",
@@ -21777,6 +22321,8 @@
     "3": ["fantasy fiction"]
   },
   "series": "The Sandman",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5891",
   "entrydate": "2014-07-27",
@@ -21825,6 +22371,7 @@
     "Specific Topics"]
   },
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "6888432",
   "entrydate": "2014-07-27",
@@ -21865,6 +22412,7 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["History"],
   "source": "amazon.com",
   "workcode": "15205692",
   "entrydate": "2014-07-27",
@@ -22051,6 +22599,8 @@
     "0": ["Number theory"],
     "2": ["Numeration"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature"],
   "source": "amazon.com",
   "workcode": "49315",
   "entrydate": "2014-07-28",
@@ -22123,6 +22673,7 @@
     "11": ["Monsters",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "5127",
   "entrydate": "2014-07-28",
@@ -22188,6 +22739,8 @@
     "0": ["Occultism"],
     "2": ["occultism"]
   },
+  "genre": ["Nonfiction",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "259938",
   "entrydate": "2014-07-28",
@@ -22253,6 +22806,7 @@
   "originallanguage": ["English"],
   "lcc": [],
   "series": "I Feel Sick",
+  "genre": ["Graphic Novels"],
   "workcode": "12779774",
   "entrydate": "2014-07-29",
   "copies": "1",
@@ -22304,6 +22858,8 @@
     "3": ["Egyptian language",
     "Writing"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "176395",
   "entrydate": "2014-07-29",
@@ -22352,6 +22908,9 @@
   "Social life and customs"],
   ["Nommo (African deity)"],
   ["Philosophy, Dogon"]],
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "967399",
   "entrydate": "2014-07-29",
@@ -22497,6 +23056,7 @@
   "originallanguage": ["English"],
   "lcc": [],
   "series": "I Feel Sick",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "308671",
   "entrydate": "2014-07-29",
@@ -22606,6 +23166,8 @@
     "2": ["Fantasy comic books, strips, etc"]
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "37721",
   "entrydate": "2014-09-14",
@@ -22661,6 +23223,8 @@
     "code": "PN6727.W52F33"
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "37723",
   "entrydate": "2014-09-14",
@@ -22716,6 +23280,8 @@
     "code": "PN6727.W52F33"
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "37722",
   "entrydate": "2014-09-14",
@@ -22766,6 +23332,8 @@
   },
   "lcc": [],
   "series": "Lazarus",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "15210012",
   "entrydate": "2014-09-14",
@@ -22815,6 +23383,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "59077",
   "entrydate": "2014-09-14",
@@ -22870,6 +23440,8 @@
     "code": "PN6727.W52F33"
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "90441",
   "entrydate": "2014-09-14",
@@ -22944,6 +23516,7 @@
     "21": ["adaptation"],
     "22": ["fiction in English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "913",
   "entrydate": "2014-09-14",
@@ -22997,6 +23570,7 @@
   "Fiction"],
   ["Outlaws",
   "Fiction"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "23546",
   "entrydate": "2014-09-14",
@@ -23073,6 +23647,7 @@
     "England",
     "Drama"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "12474",
   "entrydate": "2014-09-14",
@@ -23119,6 +23694,7 @@
   "lcc": {
     "code": "BF1598.A2"
   },
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "8155410",
   "entrydate": "2014-09-14",
@@ -23230,6 +23806,8 @@
     "code": "PS3552.R2"
   },
   "series": "Eric John Stark",
+  "genre": ["Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "128253",
   "entrydate": "2014-09-14",
@@ -23312,6 +23890,7 @@
     "Fiction"],
     "13": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "820829",
   "entrydate": "2014-09-14",
@@ -23390,6 +23969,7 @@
     "fiction"],
     "11": ["adventure stories"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2150",
   "entrydate": "2014-09-14",
@@ -23505,6 +24085,7 @@
     "28": ["War stories"],
     "30": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "995",
   "entrydate": "2014-09-14",
@@ -23662,6 +24243,7 @@
   "Comic books, strips, etc"],
   ["Science fiction comic books, strips, etc"]],
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "132830",
   "entrydate": "2014-09-14",
@@ -23727,6 +24309,7 @@
     "4": ["Supernatural",
     "Fiction"]
   },
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "162508",
   "entrydate": "2014-09-14",
@@ -23834,6 +24417,7 @@
     "27": ["fantasy"],
     "29": ["juvenile literature"]
   },
+  "genre": ["Children's Books"],
   "source": "amazon.com",
   "workcode": "1534",
   "entrydate": "2014-09-14",
@@ -23912,6 +24496,9 @@
     "11": ["science fiction"]
   },
   "series": "Vurt",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "19214",
   "entrydate": "2014-09-14",
@@ -23986,6 +24573,9 @@
     "11": ["science fiction"]
   },
   "series": "Blade Runner",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "881",
   "entrydate": "2014-09-14",
@@ -24052,6 +24642,8 @@
     "Italy",
     "Fiction"]
   },
+  "genre": ["Fiction",
+  "Children's Books"],
   "source": "amazon.com",
   "workcode": "18027",
   "entrydate": "2014-09-14",
@@ -24176,6 +24768,9 @@
     "50": ["satire"],
     "51": ["video"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "5658",
   "entrydate": "2014-09-14",
@@ -24261,6 +24856,7 @@
     "New York",
     "1948"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2147",
   "entrydate": "2014-09-14",
@@ -24411,6 +25007,7 @@
     "42": ["War stories"],
     "44": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "17728",
   "entrydate": "2014-09-14",
@@ -24470,6 +25067,7 @@
   "lcc": {
     "code": "PQ4809.A45P713"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "18072",
   "entrydate": "2014-09-14",
@@ -24539,6 +25137,8 @@
     "6": ["Spy stories"]
   },
   "series": "George Smiley novels",
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "101280",
   "entrydate": "2014-09-14",
@@ -24589,6 +25189,7 @@
   "lcc": {
     "code": "PN2287.B6955A3"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "13884933",
   "entrydate": "2014-09-14",
@@ -24674,6 +25275,8 @@
     "24": ["fantasy fiction"],
     "25": ["historical fiction"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3364309",
   "entrydate": "2014-09-15",
@@ -24721,6 +25324,7 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "9949243",
   "entrydate": "2014-09-15",
@@ -24766,6 +25370,9 @@
     "code": "ND653.B65 A4"
   },
   "subject": [["Bosch, Hieronymus, d. 1516"]],
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "288135",
   "entrydate": "2014-09-15",
@@ -24873,6 +25480,7 @@
     "36": ["Scandinavia",
     "Poetry"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "2449742",
   "entrydate": "2014-09-15",
@@ -24959,6 +25567,8 @@
     "To 1500"]
   },
   "series": "Cambridge Studies In Medieval Life And Thought [4th Series]",
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "71094",
   "entrydate": "2014-09-20",
@@ -25056,6 +25666,7 @@
     null,
     "Guides, manuels, etc"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "7335",
   "entrydate": "2014-09-20",
@@ -25109,6 +25720,7 @@
   "lcc": {
     "code": "PS3531.A5855Af"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "408421",
   "entrydate": "2014-09-20",
@@ -25155,6 +25767,9 @@
     "code": "BF1584.E9W59"
   },
   "series": "Witchcraft and Magic in Europe, vol. 6",
+  "genre": ["Nonfiction",
+  "History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "2625682",
   "entrydate": "2014-10-02",
@@ -25263,6 +25878,8 @@
   "lcc": {
     "code": "NE1325.A5A4"
   },
+  "genre": ["Biography & Memoir",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "4818166",
   "entrydate": "2014-10-02",
@@ -25335,6 +25952,9 @@
     "16": ["cryptography",
     "history"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "8340",
   "entrydate": "2014-10-02",
@@ -25388,6 +26008,7 @@
     "code": "PN6733.L45S95"
   },
   "series": "Sweet Tooth",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "9074627",
   "entrydate": "2014-10-02",
@@ -25443,6 +26064,9 @@
   },
   "subject": [["Imaginary books and libraries",
   "Reviews"]],
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "18413",
   "entrydate": "2014-10-02",
@@ -25503,6 +26127,7 @@
     "3": ["Women"],
     "5": ["women"]
   },
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "1901650",
   "entrydate": "2014-10-02",
@@ -25556,6 +26181,7 @@
   "lcc": {
     "code": "PN 6727.M53 A63"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10092045",
   "entrydate": "2014-10-02",
@@ -25620,6 +26246,8 @@
     "6": ["Transsexuals",
     "Fiction"]
   },
+  "genre": ["Fiction",
+  "LGBT"],
   "source": "amazon.com",
   "workcode": "5421",
   "entrydate": "2014-10-02",
@@ -25690,6 +26318,8 @@
     "18": ["Transsexualism"],
     "19": ["sex role"]
   },
+  "genre": ["Nonfiction",
+  "LGBT"],
   "source": "amazon.com",
   "workcode": "44615",
   "entrydate": "2014-10-02",
@@ -25764,6 +26394,7 @@
     "Juvenile drama"],
     "14": ["Shakespeare, William, 1564-1616. Much ado about nothing"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "10259",
   "entrydate": "2014-10-19",
@@ -25841,6 +26472,7 @@
     "12": ["Romances"],
     "14": ["Waley, Arthur, translator"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "18323",
   "entrydate": "2014-10-19",
@@ -25966,6 +26598,7 @@
   "lcc": {
     "code": "PS3566.L27A17"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "7240",
   "entrydate": "2014-10-19",
@@ -26045,6 +26678,8 @@
     "16": ["mythology"],
     "18": ["religion"]
   },
+  "genre": ["History",
+  "Religion & Spirituality"],
   "source": "amazon.com",
   "workcode": "11390",
   "entrydate": "2014-10-19",
@@ -26094,6 +26729,7 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["Art & Design"],
   "source": "amazon.com",
   "workcode": "14963121",
   "entrydate": "2014-10-21",
@@ -26139,6 +26775,7 @@
     "code": "PN6728.Y2"
   },
   "series": "Y: The Last Man",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "4531343",
   "entrydate": "2014-10-21",
@@ -26209,6 +26846,8 @@
     "11": ["Marathon, Battle of, Greece, 490 B.C"],
     "12": ["Sardis (Extinct city)"]
   },
+  "genre": ["Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "1020",
   "entrydate": "2014-10-21",
@@ -26283,6 +26922,7 @@
     "17": ["Video recordings for the hearing impaired"],
     "18": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "3035",
   "entrydate": "2014-10-26",
@@ -26339,6 +26979,7 @@
   "lcc": {
     "code": "PS3563.A6375F57"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "11478228",
   "entrydate": "2014-10-26",
@@ -26410,6 +27051,7 @@
     "Translations into English"],
     "15": ["historical fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "50852",
   "entrydate": "2014-10-26",
@@ -26533,6 +27175,9 @@
     "14": ["fantastic fiction"],
     "15": ["fantasy fiction"]
   },
+  "genre": ["Fiction",
+  "Mystery",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "7210",
   "entrydate": "2014-10-29",
@@ -26585,6 +27230,7 @@
   "lcc": {
     "code": "PQ2631.O643P33"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "564582",
   "entrydate": "2014-10-29",
@@ -26656,6 +27302,8 @@
     "10": ["Ships",
     "Fiction"]
   },
+  "genre": ["Children's Books",
+  "Young Adult"],
   "source": "amazon.com",
   "workcode": "10044",
   "entrydate": "2014-10-29",
@@ -26713,6 +27361,9 @@
   ["Eccentrics and eccentricities"],
   ["Great Britain",
   "Biography"]],
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "History"],
   "source": "amazon.com",
   "workcode": "19246",
   "entrydate": "2014-10-29",
@@ -26875,6 +27526,7 @@
     "41": ["Tragedies"],
     "43": ["Young adult drama, English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "4948864",
   "entrydate": "2014-10-30",
@@ -26959,6 +27611,7 @@
     "United States",
     "Fiction"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "1512",
   "entrydate": "2014-10-30",
@@ -27031,6 +27684,8 @@
     "17": ["satire"],
     "19": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "1770164",
   "entrydate": "2014-11-06",
@@ -27090,6 +27745,8 @@
   },
   "lcc": [],
   "series": "The Wicked & The Divine",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "15289887",
   "entrydate": "2014-11-23",
@@ -27148,6 +27805,8 @@
     "code": "PN6728"
   },
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "12201599",
   "entrydate": "2014-11-30",
@@ -27201,6 +27860,8 @@
   "lcc": {
     "code": "NA2563.M36"
   },
+  "genre": ["Nonfiction",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "8195382",
   "entrydate": "2014-11-30",
@@ -27269,6 +27930,7 @@
     "code": "PN6728"
   },
   "series": "Hellboy Weird Tales",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "10564",
   "entrydate": "2014-11-30",
@@ -27328,6 +27990,7 @@
     "code": "PN6728.H383D45"
   },
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "5574053",
   "entrydate": "2014-12-06",
@@ -27371,6 +28034,7 @@
   "lcc": {
     "code": "PS3606.O38T74"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "10621017",
   "entrydate": "2014-12-06",
@@ -27424,6 +28088,7 @@
   },
   "lcc": [],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "5574012",
   "entrydate": "2014-12-06",
@@ -27468,6 +28133,7 @@
   },
   "lcc": [],
   "series": "The League of Extraordinary Gentlemen",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "6354247",
   "entrydate": "2014-12-08",
@@ -27525,6 +28191,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "641696",
   "entrydate": "2014-12-09",
@@ -27596,6 +28263,7 @@
     "3": ["Humorous stories, English"],
     "5": ["Satire, English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "88126",
   "entrydate": "2014-12-09",
@@ -27651,6 +28319,8 @@
     "code": "PN6727.W52 F33 2002 vol. 6"
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "133489",
   "entrydate": "2014-12-09",
@@ -27720,6 +28390,7 @@
     "code": "PN6727.E56J64"
   },
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "124499",
   "entrydate": "2014-12-21",
@@ -27781,6 +28452,8 @@
   "lcc": {
     "code": "PS3566.Y55I54"
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "6663533",
   "entrydate": "2014-12-28",
@@ -27841,6 +28514,7 @@
   "History",
   "1783-1865",
   "Fiction"]],
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "5364148",
   "entrydate": "2014-12-28",
@@ -27895,6 +28569,7 @@
   "lcc": {
     "code": "PZ7.7.C369Th"
   },
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14877785",
   "entrydate": "2014-12-28",
@@ -27944,6 +28619,8 @@
   "lcc": {
     "code": "PS3623.E39775G65"
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "13181202",
   "entrydate": "2014-12-28",
@@ -27988,6 +28665,7 @@
   },
   "lcc": [],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "3901112",
   "entrydate": "2014-12-28",
@@ -28058,6 +28736,8 @@
     "15": ["Science fiction"],
     "17": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "2516333",
   "entrydate": "2014-12-29",
@@ -28111,6 +28791,7 @@
   "language": ["English"],
   "lcc": [],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "15141556",
   "entrydate": "2014-12-29",
@@ -28174,6 +28855,8 @@
     "code": "PN6728.W555F33"
   },
   "series": "Fables",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1033739",
   "entrydate": "2014-12-29",
@@ -28213,7 +28896,8 @@
   "assassins",
   "RECOMMENDER:Tessa",
   "TYPE:graphic novels & comics",
-  "READABILITY:medium"],
+  "READABILITY:medium",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "1632150778",
   "isbn": {
@@ -28236,6 +28920,8 @@
   },
   "lcc": [],
   "series": "Saga Collected",
+  "genre": ["Science Fiction",
+  "Graphic Novels"],
   "source": "amazon.com",
   "workcode": "15340121",
   "entrydate": "2014-12-29",
@@ -28275,7 +28961,8 @@
   "future",
   "first contact",
   "coming of age",
-  "competition"],
+  "competition",
+  "space opera"],
   "collections": ["Your library"],
   "originalisbn": "0812550706",
   "isbn": {
@@ -28319,6 +29006,8 @@
     "17": ["science fiction"]
   },
   "series": "Ender's Game",
+  "genre": ["Science Fiction",
+  "Young Adult"],
   "source": "amazon.com",
   "workcode": "825739",
   "entrydate": "2015-01-06",
@@ -28423,6 +29112,9 @@
     "8": ["fiction in English"],
     "9": ["science fiction"]
   },
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "16570",
   "entrydate": "2015-01-18",
@@ -28566,6 +29258,7 @@
     "10": ["Psychological fiction"],
     "12": ["fiction in English"]
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "7923",
   "entrydate": "2015-01-18",
@@ -28626,6 +29319,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "124488",
   "entrydate": "2015-02-02",
@@ -28686,6 +29380,7 @@
   "originallanguage": ["English"],
   "lcc": [],
   "series": "Swamp Thing",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14611389",
   "entrydate": "2015-02-02",
@@ -28752,6 +29447,7 @@
   "subject": [["Graphic Novels"],
   ["Graphic novels"]],
   "series": "Batman",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "74608",
   "entrydate": "2015-02-02",
@@ -28810,6 +29506,7 @@
   "lcc": {
     "code": "PS3553.A7667N69"
   },
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "9655388",
   "entrydate": "2015-02-10",
@@ -28972,6 +29669,8 @@
     "code": "PN6728.S26G365"
   },
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6040",
   "entrydate": "2015-02-10",
@@ -29065,6 +29764,8 @@
   "United States"],
   ["fantastic fiction"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6037",
   "entrydate": "2015-02-10",
@@ -29154,6 +29855,8 @@
   ["Graphic novels"],
   ["Horror comic books, strips, etc"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6044",
   "entrydate": "2015-02-10",
@@ -29248,6 +29951,8 @@
   ["Graphic novels"],
   ["Horror comic books, strips, etc"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6042",
   "entrydate": "2015-02-10",
@@ -29305,6 +30010,8 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["Biography & Memoir",
+  "Art & Design"],
   "source": "amazon.com",
   "workcode": "15681289",
   "entrydate": "2015-02-15",
@@ -29360,6 +30067,8 @@
   "lcc": {
     "code": "PS3566.Y55B54"
   },
+  "genre": ["Fiction",
+  "Mystery"],
   "source": "amazon.com",
   "workcode": "13663209",
   "entrydate": "2015-02-15",
@@ -29416,6 +30125,9 @@
     "code": "QA272.N34"
   },
   "subject": [["Differential games"]],
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "2311189",
   "entrydate": "2015-02-15",
@@ -29557,6 +30269,7 @@
     "15": ["family"],
     "16": ["fantasy"]
   },
+  "genre": ["Children's Books"],
   "source": "amazon.com",
   "workcode": "6295",
   "entrydate": "2015-02-20",
@@ -29637,6 +30350,7 @@
     "Northwest coast of North America",
     "Masks"]
   },
+  "genre": ["Art & Design"],
   "source": "amazon.com",
   "workcode": "791960",
   "entrydate": "2015-02-20",
@@ -29727,6 +30441,8 @@
   ["Graphic novels"],
   ["Horror comic books, strips, etc"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6039",
   "entrydate": "2015-02-20",
@@ -29829,6 +30545,8 @@
   "subject": [["Graphic Novels"],
   ["Graphic novels"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6041",
   "entrydate": "2015-02-20",
@@ -29898,6 +30616,8 @@
   ["Graphic novels"],
   ["Horror comic books, strips, etc"]],
   "series": "The Sandman",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6045",
   "entrydate": "2015-02-20",
@@ -29981,6 +30701,8 @@
     "7": ["Horror comic books, strips, etc"]
   },
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6038",
   "entrydate": "2015-02-20",
@@ -30056,6 +30778,8 @@
     "code": "PN6728.S26G35"
   },
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "9347622",
   "entrydate": "2015-02-20",
@@ -30135,6 +30859,8 @@
   ["Graphic novels"],
   ["Horror comic books, strips, etc"]],
   "series": "The Sandman TPBs",
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "6043",
   "entrydate": "2015-02-21",
@@ -30191,6 +30917,8 @@
   "summary": "John Constantine Hellblazer Vol. 9: Critical Mass by Paul Jenkins (2014)",
   "language": ["English"],
   "lcc": [],
+  "genre": ["Graphic Novels",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "15130361",
   "entrydate": "2015-02-24",
@@ -30248,6 +30976,7 @@
     "code": "PN6728.P75 M667 2003 vol. 3"
   },
   "series": "Promethea",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "641693",
   "entrydate": "2015-02-24",
@@ -30308,6 +31037,7 @@
   "lcc": {
     "code": "PR4030"
   },
+  "genre": ["Romance"],
   "source": "amazon.com",
   "workcode": "7857716",
   "entrydate": "2015-02-24",
@@ -30375,6 +31105,7 @@
   },
   "lcc": [],
   "series": "Swamp Thing, Volume 3",
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "15205729",
   "entrydate": "2015-02-25",
@@ -30434,6 +31165,8 @@
     "Modern Period"]
   },
   "lcc": [],
+  "genre": ["Fiction",
+  "Romance"],
   "source": "amazon.com",
   "workcode": "404481",
   "entrydate": "2015-02-26",
@@ -30499,6 +31232,7 @@
     "code": "PN6728.S93S85"
   },
   "series": "Swamp Thing",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "11951853",
   "entrydate": "2015-02-26",
@@ -30552,6 +31286,7 @@
   "language": ["English"],
   "originallanguage": ["English"],
   "lcc": [],
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "15445942",
   "entrydate": "2015-03-28",
@@ -30613,6 +31348,7 @@
   "language": ["English"],
   "lcc": [],
   "series": "Five Ghosts",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "14316035",
   "entrydate": "2015-03-28",
@@ -30684,6 +31420,9 @@
     "code": "PG3488.T73T713"
   },
   "series": "Noon Universe",
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "3533838",
   "entrydate": "2015-03-28",
@@ -30744,6 +31483,7 @@
   },
   "lcc": [],
   "series": "Hellboy graphic novels",
+  "genre": ["Graphic Novels"],
   "source": "amazon.com",
   "workcode": "9535113",
   "entrydate": "2015-04-04",
@@ -30817,6 +31557,9 @@
     "Russian Literature"]
   },
   "lcc": [],
+  "genre": ["Fiction",
+  "Mystery",
+  "Science Fiction"],
   "source": "amazon.com",
   "workcode": "2835814",
   "entrydate": "2015-04-04",
@@ -30939,6 +31682,7 @@
   "lcc": {
     "code": "PR4621.K55"
   },
+  "genre": ["Mystery"],
   "source": "amazon.com",
   "workcode": "4187381",
   "entrydate": "2015-05-24",
@@ -31050,6 +31794,7 @@
     "Drama"]
   },
   "series": "Century Cycle: Chronological Order",
+  "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "162357",
   "entrydate": "2015-06-07",
@@ -31111,6 +31856,8 @@
     "4": ["fantasy"]
   },
   "series": "Chronicles of the Imaginarium Geographica",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1088160",
   "entrydate": "2015-06-07",
@@ -31198,6 +31945,8 @@
     "23": ["juvenile literature"]
   },
   "series": "Discworld: Young Adult",
+  "genre": ["Young Adult",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "1045174",
   "entrydate": "2015-06-07",
@@ -31292,6 +32041,8 @@
     "24": ["fantasy fiction"],
     "25": ["horror tales"]
   },
+  "genre": ["Fiction",
+  "Fantasy"],
   "source": "amazon.com",
   "workcode": "897386",
   "entrydate": "2015-06-07",
@@ -31352,6 +32103,7 @@
   },
   "subject": [["Fantasy fiction"]],
   "series": "Chronicles of the Black Company",
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "1232660",
   "entrydate": "2015-06-07",
@@ -31412,6 +32164,7 @@
     "2": ["fantasy fiction"]
   },
   "series": "The First Law",
+  "genre": ["Fantasy"],
   "source": "amazon.com",
   "workcode": "1153954",
   "entrydate": "2015-06-07",
@@ -31488,6 +32241,8 @@
     "Greece",
     "Poetry"]
   },
+  "genre": ["Fiction",
+  "LGBT"],
   "source": "amazon.com",
   "workcode": "58699",
   "entrydate": "2015-06-07",
@@ -31734,6 +32489,7 @@
   },
   "subject": [["Yanomamo Indians"]],
   "series": "Case Studies in Cultural Anthropology",
+  "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "206226",
   "entrydate": "2015-06-07",
@@ -31784,6 +32540,7 @@
   "lcc": {
     "code": "NE850.F82"
   },
+  "genre": ["Art & Design"],
   "source": "amazon.com",
   "workcode": "900278",
   "entrydate": "2015-06-07",
@@ -31889,6 +32646,9 @@
     "Early works to 1850"],
     "4": ["electricity"]
   },
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History"],
   "source": "amazon.com",
   "workcode": "335893",
   "entrydate": "2015-06-11",
@@ -31906,4 +32666,135 @@
   "weight": "0.82 pounds",
   "pages": "368 ",
   "fromwhere": "gift"
+},
+"119212863": {
+  "books_id": "119212863",
+  "title": "Hyperion (Hyperion Cantos)",
+  "sortcharacter": "1",
+  "primaryauthor": "Simmons, Dan",
+  "authors": [{
+    "lf": "Simmons, Dan",
+    "fl": "Dan Simmons"
+  }],
+  "tags": ["future",
+  "planet",
+  "artificial intelligence",
+  "aliens",
+  "war",
+  "religion",
+  "space opera",
+  "epic",
+  "TYPE:novel",
+  "RECOMMENDER:Cole"],
+  "collections": ["Your library"],
+  "originalisbn": "0553283685",
+  "isbn": {
+    "0": "0553283685",
+    "2": "9780553283686"
+  },
+  "publication": "Spectra (1990), Mass Market Paperback, 481 pages",
+  "date": "1990",
+  "summary": "Hyperion (Hyperion Cantos) by Dan Simmons (1990)",
+  "language": ["English"],
+  "originallanguage": ["Finnish"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3569.I47292H97"
+  },
+  "subject": {
+    "0": ["Science Fiction"],
+    "2": ["Science fiction"],
+    "4": ["science fiction"]
+  },
+  "series": "Hyperion Cantos",
+  "genre": ["Science Fiction"],
+  "source": "amazon.com",
+  "workcode": "23078",
+  "entrydate": "2015-06-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "481 p.; 4.2 inches",
+  "height": "4.2 inches",
+  "thickness": "6.9 inches",
+  "length": "1.1 inches",
+  "dimensions": "4.2 x 1.1 x 6.9 inches",
+  "weight": "2.45 pounds",
+  "pages": "481 ",
+  "fromwhere": "Green Apple Books"
+},
+"119212867": {
+  "books_id": "119212867",
+  "title": "The Fall of Hyperion",
+  "sortcharacter": "5",
+  "primaryauthor": "Simmons, Dan",
+  "authors": [{
+    "lf": "Simmons, Dan",
+    "fl": "Dan Simmons"
+  }],
+  "tags": ["future",
+  "planet",
+  "artificial intelligence",
+  "aliens",
+  "war",
+  "religion",
+  "space opera",
+  "epic",
+  "TYPE:novel",
+  "RECOMMENDER:Cole"],
+  "collections": ["Your library"],
+  "originalisbn": "0553288202",
+  "isbn": {
+    "0": "0553288202",
+    "2": "9780553288209"
+  },
+  "publication": "Spectra (1991), Mass Market Paperback, 528 pages",
+  "date": "1991",
+  "summary": "The Fall of Hyperion by Dan Simmons (1991)",
+  "language": ["English"],
+  "originallanguage": ["Finnish"],
+  "ddc": {
+    "code": ["813"],
+    "wording": ["American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3569.I47292F35"
+  },
+  "subject": {
+    "0": ["Science Fiction"],
+    "2": ["Science fiction"],
+    "4": ["science fiction"]
+  },
+  "series": "Hyperion Cantos",
+  "genre": ["Science Fiction",
+  "Fantasy"],
+  "source": "amazon.com",
+  "workcode": "2592013",
+  "entrydate": "2015-06-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "528 p.; 4.17 inches",
+  "height": "4.17 inches",
+  "thickness": "6.9 inches",
+  "length": "1.13 inches",
+  "dimensions": "4.17 x 1.13 x 6.9 inches",
+  "weight": "0.56 pounds",
+  "pages": "528 ",
+  "fromwhere": "Green Apple Books"
 }}
