@@ -3168,7 +3168,8 @@
   "BookDepository's 100 Best Books Ever",
   "\u0413\u0435\u043d\u043e\u043c \u0440\u0443\u0441\u0441\u043a\u043e\u0439 \u0434\u0443\u0448\u0438",
   "NPR's Top 100 Science-Fiction, Fantasy Books",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438"],
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
+  "ALA 100 Most Frequently Challenged Books of 2000-2009"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -5570,7 +5571,8 @@
   "From Zero to Well-Read in 100 Books",
   "The 100 Favorite Novels of Librarians",
   "Harvard Bookstore Top 100",
-  "NPR's Top 100 Science-Fiction, Fantasy Books"],
+  "NPR's Top 100 Science-Fiction, Fantasy Books",
+  "ALA 100 Most Frequently Challenged Books of 2000-2009"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -10999,7 +11001,6 @@
   "lcc": {
     "code": "PM8008.O37"
   },
-  "originaltitle": "In the Land of Invented Languages : Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language",
   "genre": ["Nonfiction"],
   "source": "amazon.com",
   "workcode": "8077823",
@@ -11361,7 +11362,8 @@
   "John W. Campbell Memorial Award Finalist",
   "Center for Fiction First Novel Prize Shortlist",
   "YALSA Outstanding Books for the College Bound 2014",
-  "World Fantasy Award"],
+  "World Fantasy Award",
+  "Reading List Award shortlist"],
   "genre": ["Fiction",
   "Fantasy"],
   "source": "amazon.com",
@@ -13553,8 +13555,8 @@
   "workcode": "10119041",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
@@ -13672,8 +13674,8 @@
   "workcode": "5978",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "physical_description": "144 p.; 8.2 inches",
@@ -18281,7 +18283,8 @@
     "code": "PS3608.O9566W66"
   },
   "series": "Wool",
-  "awards": ["Prix des libraires du Qu\u00e9bec"],
+  "awards": ["Prix des libraires du Qu\u00e9bec",
+  "Reading List Award shortlist"],
   "genre": ["Fiction",
   "Science Fiction"],
   "source": "amazon.com",
@@ -20995,7 +20998,8 @@
   },
   "awards": ["ALA Best Books for Young Adults",
   "ALA Popular Paperbacks for Young Adults",
-  "CBCA Notable Books - Older Readers"],
+  "CBCA Notable Books - Older Readers",
+  "ALA 100 Most Frequently Challenged Books of 2000-2009"],
   "genre": ["Science Fiction",
   "Young Adult",
   "Fantasy"],
@@ -27801,7 +27805,8 @@
   "awards": ["Mythopoeic Fantasy Award Nominee",
   "ALA Outstanding Books for the College Bound",
   "Horror: The 100 Best Books",
-  "David Pringle's Modern Fantasy: The 100 Best Novels"],
+  "David Pringle's Modern Fantasy: The 100 Best Novels",
+  "ALA 100 Most Frequently Challenged Books of 2000-2009"],
   "genre": ["Fiction",
   "Fantasy"],
   "source": "amazon.com",
@@ -31388,7 +31393,8 @@
   "The IAFA William L. Crawford Fantasy Award Finalist",
   "Locus Award Finalist",
   "World Fantasy Award Nominee",
-  "Mythopoeic Fantasy Award"],
+  "Mythopoeic Fantasy Award",
+  "Reading List Award shortlist"],
   "genre": ["Fiction",
   "Fantasy"],
   "source": "amazon.com",
@@ -35845,6 +35851,7 @@
     "2": "9780802142641"
   },
   "asin": "0802142648",
+  "ean": ["9780802142641"],
   "publication": "Grove Press (2006), Edition: Reprint, Paperback, 488 pages",
   "date": "2006",
   "summary": "Please Kill Me: The Uncensored Oral History of Punk by Legs McNeil (2006)",
@@ -35886,4 +35893,60 @@
   "weight": "1.21 pounds",
   "pages": "488 ",
   "fromwhere": "Green Apple Books"
+},
+"119642790": {
+  "books_id": "119642790",
+  "title": "The Fade Out Volume 1",
+  "sortcharacter": "5",
+  "primaryauthor": "Brubaker, Ed",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Sean Phillips",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "Brubaker, Ed",
+    "fl": "Ed Brubaker",
+    "role": "Author"
+  },
+  {
+    "lf": "Sean Phillips",
+    "fl": "Sean Phillips",
+    "role": "Illustrator"
+  }],
+  "tags": ["TYPE:graphic novels & comics",
+  "RECOMMENDER:Tessa",
+  "crime",
+  "movies",
+  "hollywood",
+  "murder"],
+  "collections": ["Your library"],
+  "originalisbn": "1632151715",
+  "isbn": {
+    "0": "1632151715",
+    "2": "9781632151711"
+  },
+  "asin": "1632151715",
+  "ean": ["9781632151711"],
+  "publication": "Image Comics (2015), 120 pages",
+  "date": "2015",
+  "summary": "The Fade Out Volume 1 by Ed Brubaker (2015)",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "source": "amazon.com",
+  "workcode": "15297593",
+  "entrydate": "2015-07-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "120 p.; 10.1 inches",
+  "height": "10.1 inches",
+  "thickness": "0.2 inches",
+  "length": "6.6 inches",
+  "dimensions": "10.1 x 6.6 x 0.2 inches",
+  "weight": "0.51 pounds",
+  "pages": "120 ",
+  "fromwhere": "Copperfield's Books - Sebastopol"
 }}
