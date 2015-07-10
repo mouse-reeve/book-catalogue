@@ -70,7 +70,7 @@
   "workcode": "5879713",
   "entrydate": "2014-01-21",
   "format": [{
-    "code": "9",
+    "code": 9,
     "text": "Unknown"
   }],
   "copies": "1"
@@ -2600,7 +2600,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["364.1680973"],
-    "wording": ["Crimes of property",
+    "wording": ["--",
+    "Crimes of property",
     "Criminology",
     "Social Problems, Social Services",
     "Social Sciences "]
@@ -10841,7 +10842,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["364.15230978144"],
-    "wording": ["Criminology",
+    "wording": ["--",
+    "Criminology",
     "Murder",
     "Murder",
     "Social Problems, Social Services",
@@ -11691,7 +11693,8 @@
   "originallanguage": ["German"],
   "ddc": {
     "code": ["364.15230977311"],
-    "wording": ["Criminology",
+    "wording": ["--",
+    "Criminology",
     "Murder",
     "Murder",
     "Social Problems, Social Services",
@@ -13738,7 +13741,7 @@
   "workcode": "15205409",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "9",
+    "code": 9,
     "text": "Unknown"
   }],
   "copies": "1"
@@ -13783,7 +13786,7 @@
   "workcode": "211316",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "9",
+    "code": 9,
     "text": "Unknown"
   }],
   "copies": "1",
@@ -14380,7 +14383,8 @@
   "originallanguage": ["French"],
   "ddc": {
     "code": ["364.106609794"],
-    "wording": ["Criminology",
+    "wording": ["--",
+    "Criminology",
     "Social Problems, Social Services",
     "Social Sciences "]
   },
@@ -15807,7 +15811,8 @@
   "International IMPAC Dublin Literary Award Longlist",
   "Scotiabank Giller Prize Winner",
   "Governor General's Literary Award Finalist",
-  "AbeBooks: 50 Essential Historical Fiction Books"],
+  "AbeBooks: 50 Essential Historical Fiction Books",
+  "Arthur Ellis Award Nominee"],
   "genre": ["Fiction"],
   "source": "amazon.com",
   "workcode": "4053",
@@ -24981,7 +24986,7 @@
   "workcode": "15209836",
   "entrydate": "2014-07-29",
   "format": [{
-    "code": "9",
+    "code": 9,
     "text": "Unknown"
   }],
   "copies": "1",
@@ -25014,7 +25019,7 @@
   "workcode": "12779774",
   "entrydate": "2014-07-29",
   "format": [{
-    "code": "9",
+    "code": 9,
     "text": "Unknown"
   }],
   "copies": "1",
@@ -31272,7 +31277,6 @@
   "Fiction"]],
   "awards": ["New York Times Notable Book of the Year",
   "Alex Award",
-  "John Sargent Sr. First Novel Prize",
   "International IMPAC Dublin Literary Award Longlist",
   "Center for Fiction First Novel Prize"],
   "genre": ["Fiction"],
@@ -35949,4 +35953,69 @@
   "weight": "0.51 pounds",
   "pages": "120 ",
   "fromwhere": "Copperfield's Books - Sebastopol"
+},
+"119872435": {
+  "books_id": "119872435",
+  "title": "The Future is Wild: A Natural History of the Future",
+  "sortcharacter": "5",
+  "primaryauthor": "Dixon, Dougal",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Dixon, Dougal",
+    "fl": "Dougal Dixon",
+    "role": "Author"
+  }],
+  "tags": ["biology",
+  "evolution",
+  "future",
+  "natural history",
+  "futurism",
+  "cryptozoology",
+  "TYPE:nonfiction"],
+  "collections": ["Your library"],
+  "originalisbn": "1552977234",
+  "isbn": {
+    "0": "1552977234",
+    "2": "9781552977231"
+  },
+  "asin": "1552977234",
+  "ean": ["9781552977231"],
+  "publication": "Firefly Books (2002), 160 pages",
+  "date": "2002",
+  "summary": "The Future is Wild: A Natural History of the Future by Dougal Dixon (2002)",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "ddc": {
+    "code": ["578.8"],
+    "wording": ["Biology",
+    "Mathematics And Science",
+    "Natural history of organisms and related subjects"]
+  },
+  "lcc": {
+    "code": "QH367.D589"
+  },
+  "subject": [["Ecological succession"],
+  ["Evolution (Biology)"],
+  ["Natural history"],
+  ["Sciences naturelles"],
+  [null],
+  [null,
+  null]],
+  "source": "amazon.com",
+  "workcode": "379234",
+  "entrydate": "2015-07-10",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "160 p.; 9.75 inches",
+  "height": "9.75 inches",
+  "thickness": "11 inches",
+  "length": "0.5 inches",
+  "dimensions": "9.75 x 0.5 x 11 inches",
+  "weight": "1.75 pounds",
+  "pages": "160 ",
+  "fromwhere": "Found on the curb"
 }}
