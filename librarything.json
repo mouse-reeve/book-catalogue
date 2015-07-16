@@ -69,10 +69,6 @@
   "lcc": [],
   "workcode": "5879713",
   "entrydate": "2014-01-21",
-  "format": [{
-    "code": 9,
-    "text": "Unknown"
-  }],
   "copies": "1"
 },
 "105446546": {
@@ -11266,6 +11262,7 @@
     "25": ["satire"]
   },
   "series": "Catch-22",
+  "originaltitle": "Catch - 22",
   "awards": ["Waterstones Books of the Century",
   "Time's All-Time 100 Novels selection",
   "BBC's Big Read",
@@ -13740,10 +13737,6 @@
   "lcc": [],
   "workcode": "15205409",
   "entrydate": "2014-07-27",
-  "format": [{
-    "code": 9,
-    "text": "Unknown"
-  }],
   "copies": "1"
 },
 "111130360": {
@@ -13785,10 +13778,6 @@
   },
   "workcode": "211316",
   "entrydate": "2014-07-27",
-  "format": [{
-    "code": 9,
-    "text": "Unknown"
-  }],
   "copies": "1",
   "fromwhere": "Pegasus Downtown"
 },
@@ -24985,10 +24974,6 @@
   "lcc": [],
   "workcode": "15209836",
   "entrydate": "2014-07-29",
-  "format": [{
-    "code": 9,
-    "text": "Unknown"
-  }],
   "copies": "1",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
 },
@@ -25018,10 +25003,6 @@
   "genre": ["Graphic Novels"],
   "workcode": "12779774",
   "entrydate": "2014-07-29",
-  "format": [{
-    "code": 9,
-    "text": "Unknown"
-  }],
   "copies": "1",
   "fromwhere": "Funny Monkey Comics"
 },
@@ -25473,8 +25454,8 @@
   "workcode": "37721",
   "entrydate": "2014-09-14",
   "format": [{
-    "code": "1.1.8",
-    "text": "Comic book"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "physical_description": "128 p.; 10.32 inches",
@@ -26508,8 +26489,8 @@
   "workcode": "995",
   "entrydate": "2014-09-14",
   "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "volumes": "1",
@@ -27725,8 +27706,8 @@
   "workcode": "13884933",
   "entrydate": "2014-09-14",
   "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "volumes": "1",
@@ -31879,8 +31860,8 @@
   "workcode": "15659897",
   "entrydate": "2015-01-18",
   "format": [{
-    "code": "1.1",
-    "text": "Paper Book"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "volumes": "1",
@@ -36018,4 +35999,131 @@
   "weight": "1.75 pounds",
   "pages": "160 ",
   "fromwhere": "Found on the curb"
+},
+"119989476": {
+  "books_id": "119989476",
+  "title": "The Wicked The Divine Volume 2: Fandemonium",
+  "sortcharacter": "5",
+  "primaryauthor": "Gillen, Kieron",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "McKelvie, Jamie|Wilson, Matt",
+  "secondaryauthorroles": "Illustrator|Illustrator",
+  "authors": [{
+    "lf": "Gillen, Kieron",
+    "fl": "Kieron Gillen",
+    "role": "Author"
+  },
+  {
+    "lf": "McKelvie, Jamie",
+    "fl": "Jamie McKelvie",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Wilson, Matt",
+    "fl": "Matt Wilson",
+    "role": "Illustrator"
+  }],
+  "tags": ["celebrity",
+  "gods",
+  "religion",
+  "murder",
+  "RECOMMENDER:Tessa",
+  "TYPE:graphic novels & comics",
+  "READABILITY:medium"],
+  "collections": ["Your library"],
+  "originalisbn": "1632153270",
+  "isbn": {
+    "0": "1632153270",
+    "2": "9781632153272"
+  },
+  "asin": "1632153270",
+  "ean": ["9781632153272"],
+  "publication": "Image Comics (2015), 168 pages",
+  "date": "2015",
+  "summary": "The Wicked The Divine Volume 2: Fandemonium by Kieron Gillen (2015)",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "lcc": [],
+  "series": "The Wicked & The Divine",
+  "originaltitle": "The Wicked + The Divine, Vol.2: Fandemonium",
+  "genre": ["Fantasy"],
+  "source": "amazon.com",
+  "workcode": "15938687",
+  "entrydate": "2015-07-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "168 p.; 10.2 inches",
+  "height": "10.2 inches",
+  "thickness": "6.69 inches",
+  "length": "0.67 inches",
+  "dimensions": "10.2 x 0.67 x 6.69 inches",
+  "pages": "168 ",
+  "fromwhere": "Green Apple Books"
+},
+"119989477": {
+  "books_id": "119989477",
+  "title": "Everything Is Its Own Reward: An All Over Coffee Collection",
+  "sortcharacter": "1",
+  "primaryauthor": "Madonna, Paul",
+  "primaryauthorrole": "Illustrator",
+  "authors": [{
+    "lf": "Madonna, Paul",
+    "fl": "Paul Madonna",
+    "role": "Illustrator"
+  }],
+  "tags": ["San Francisco",
+  "architecture",
+  "art",
+  "TYPE:graphic novels & comics",
+  "sketchbook",
+  "drawing",
+  "journal",
+  "watercolor",
+  "slice of life"],
+  "collections": ["Your library"],
+  "originalisbn": "0872865150",
+  "isbn": {
+    "0": "0872865150",
+    "2": "9780872865150"
+  },
+  "asin": "0872865150",
+  "ean": ["9780872865150"],
+  "publication": "City Lights Publishers (2011), Edition: Har/Pstr, 240 pages",
+  "date": "2011",
+  "summary": "Everything Is Its Own Reward: An All Over Coffee Collection by Paul Madonna (2011)",
+  "language": ["English"],
+  "originallanguage": ["English"],
+  "ddc": {
+    "code": ["741.56973"],
+    "wording": ["Arts And Leisure",
+    "Comics; Graphic Novels",
+    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
+    "Drawing; Decoration; Design "]
+  },
+  "lcc": {
+    "code": "NC1429.M1557A4"
+  },
+  "series": "All Over Coffee",
+  "genre": ["Graphic Novels"],
+  "source": "amazon.com",
+  "workcode": "11116694",
+  "entrydate": "2015-07-15",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "240 p.; 1.25 inches",
+  "height": "1.25 inches",
+  "thickness": "11.75 inches",
+  "length": "9.25 inches",
+  "dimensions": "1.25 x 9.25 x 11.75 inches",
+  "weight": "2.9 pounds",
+  "pages": "240 ",
+  "fromwhere": "City Lights Books"
 }}
