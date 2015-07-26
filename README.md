@@ -9,4 +9,4 @@ The `librarything` JSON is an export from my [LibraryThing](https://www.libraryt
 
 The `goodreads` CSV is an export of my GoodReads data, which is the only place that stores the date I started a book and the date I finished it.
 
-The `merged-data` JSON is produced by my [book-merger](https://github.com/mouse-reeve/book-merger), which combines relevant fields from each data source by isbn with an entry for each book. 
+This data is merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
