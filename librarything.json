@@ -42918,6 +42918,7 @@
   [null],
   [null,
   null]],
+  "genre": ["Science & Nature"],
   "source": "amazon.com",
   "workcode": "379234",
   "entrydate": "2015-07-10",
@@ -44189,5 +44190,73 @@
   "dimensions": "5.13 x 0.88 x 8 inches",
   "weight": "0.59 pounds",
   "pages": "320 ",
+  "fromwhere": "Moe's Books"
+},
+"122267724": {
+  "books_id": "122267724",
+  "title": "Mutations",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Koolhaas, Rem",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Koolhaas, Rem",
+    "fl": "Rem Koolhaas",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction",
+  "urbanism",
+  "urban planning",
+  "architecture",
+  "cities",
+  "theory"],
+  "tagidA": [12751214,
+  36937,
+  43884,
+  3408,
+  6581,
+  631241],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "8495273519",
+  "isbn": {
+    "0": "8495273519",
+    "2": "9788495273512"
+  },
+  "asin": "8495273519",
+  "ean": ["8495273519"],
+  "publication": "Actar (2001), Edition: First Edition, 720 pages",
+  "date": "2000",
+  "summary": "Mutations by Rem Koolhaas (2000)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["720"],
+    "wording": ["Architecture",
+    "Architecture",
+    "Arts And Leisure"]
+  },
+  "lcc": {
+    "code": "NA9095.M87"
+  },
+  "genre": ["Art & Design"],
+  "source": "amazon.com books",
+  "workcode": "2433277",
+  "entrydate": "2015-10-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "720 p.; 7.68 inches",
+  "height": "7.68 inches",
+  "thickness": "2.03 inches",
+  "length": "6.2 inches",
+  "dimensions": "7.68 x 6.2 x 2.03 inches",
+  "weight": "3.24 pounds",
+  "pages": "720 ",
   "fromwhere": "Moe's Books"
 }}
