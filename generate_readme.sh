@@ -16,4 +16,15 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 $(jq '.[].genre | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
     echo "- $line"
 done )
+
+### Original language:
+$( jq '.[].originallanguage | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
+    echo "- $line"
+done )
+
+### Author:
+$( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -20 | while read line; do
+    echo "- $line"
+done )
+
 " > README.md
