@@ -12,8 +12,13 @@ The \`goodreads\` CSV is an export of my GoodReads data, which is the only place
 This data is merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
 
 ## Stats
-### Librarything grenres:
+### LibraryThing grenres:
 $(jq '.[].genre | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
+    echo "- $line"
+done )
+
+### Tagged types:
+$(jq '.[].tags | select(.) | .[]' librarything.json | grep TYPE | sed 's/TYPE://g' | sort | uniq -c | sort -r | while read line; do
     echo "- $line"
 done )
 
