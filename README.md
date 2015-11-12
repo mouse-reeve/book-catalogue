@@ -49,6 +49,28 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 4 "saga"
 - 4 "sacred text"
 
+### Content tags:
+- 60 "occult"
+- 56 "future"
+- 42 "magic"
+- 32 "mythology"
+- 31 "horror"
+- 24 "humor"
+- 23 "witchcraft"
+- 23 "religion"
+- 23 "anthropology"
+- 22 "satire"
+- 22 "history"
+- 21 "art"
+- 20 "primary source"
+- 19 "russia"
+- 19 "demons"
+- 19 "christianity"
+- 17 "magical realism"
+- 17 "england"
+- 16 "mathematics"
+- 16 "coming of age"
+
 ### Original language:
 - 383 "English"
 - 20 "French"

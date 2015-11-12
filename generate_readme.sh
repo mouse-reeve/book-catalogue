@@ -22,6 +22,11 @@ $(jq '.[].tags | select(.) | .[]' librarything.json | grep TYPE | sed 's/TYPE://
     echo "- $line"
 done )
 
+### Content tags:
+$(jq '.[].tags | select(.) | .[]' librarything.json | grep -v : | sort | uniq -c | sort -r | head -20 | sort -r | while read line; do
+    echo "- $line"
+done )
+
 ### Original language:
 $( jq '.[].originallanguage | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
     echo "- $line"
