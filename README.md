@@ -46,9 +46,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 8 "memoir"
 - 8 "art"
 - 5 "fictional nonfiction"
+- 4 "saga"
 - 4 "sacred text"
-- 3 "saga"
-- 1 "TYPE;saga"
 
 ### Original language:
 - 383 "English"
