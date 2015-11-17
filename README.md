@@ -35,7 +35,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Tagged types:
 - 147 "novel"
 - 121 "nonfiction"
-- 100 "graphic novels & comics"
+- 101 "graphic novels & comics"
 - 27 "short stories"
 - 18 "reference"
 - 17 "children's"
@@ -48,6 +48,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "fictional nonfiction"
 - 4 "saga"
 - 4 "sacred text"
+- 1 "anthology"
 
 ### Content tags:
 - 60 "occult"
@@ -72,7 +73,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 16 "coming of age"
 
 ### Original language:
-- 383 "English"
+- 384 "English"
 - 20 "French"
 - 16 "Russian"
 - 8 "Japanese"
