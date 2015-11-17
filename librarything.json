@@ -36304,7 +36304,7 @@
   "lcc": {
     "code": "PN6728.S26G35"
   },
-  "series": "The Sandman TPBs",
+  "series": "The Sandman",
   "originaltitle": "The Sandman: Preludes and Nocturnes",
   "awards": ["1001 Comics You Must Read Before You Die",
   "Longbox of the Damned"],
@@ -40273,4 +40273,64 @@
   "weight": "0.75 pounds",
   "pages": "224 ",
   "fromwhere": "Powell's City of Books (Portland)"
+},
+"123388306": {
+  "books_id": "123388306",
+  "title": "As You Were Volume 4: Living Situations: a punk comix anthology",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Clem, Mitch",
+  "primaryauthorrole": "Editor",
+  "authors": [{
+    "lf": "Clem, Mitch",
+    "fl": "Mitch Clem",
+    "role": "Editor"
+  }],
+  "tags": ["TYPE:graphic novels & comics",
+  "TYPE:anthology",
+  "punk",
+  "roommates",
+  "filth",
+  "music",
+  "home"],
+  "tagidA": [12751207,
+  13875625,
+  15040,
+  69458,
+  51918,
+  15028,
+  339131],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0867198222",
+  "isbn": {
+    "0": "0867198222",
+    "2": "9780867198225"
+  },
+  "asin": "0867198222",
+  "ean": ["0867198222"],
+  "publication": "Last Gasp (2016), 112 pages",
+  "date": "2016",
+  "summary": "As You Were Volume 4: Living Situations: a punk comix anthology by Mitch Clem (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "16776572",
+  "entrydate": "2015-11-17",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "112 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.5 inches",
+  "length": "0.2 inches",
+  "dimensions": "5.5 x 0.2 x 8.5 inches",
+  "pages": "112 ",
+  "fromwhere": "Silver Sprocket Bicycle Club"
 }}
