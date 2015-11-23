@@ -13,11 +13,11 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### LibraryThing grenres:
-- 146 "Fiction"
-- 102 "Graphic Novels"
-- 87 "Fantasy"
+- 145 "Fiction"
+- 97 "Graphic Novels"
+- 86 "Fantasy"
 - 76 "Nonfiction"
-- 75 "Science Fiction"
+- 74 "Science Fiction"
 - 50 "History"
 - 48 "Religion & Spirituality"
 - 21 "Science & Nature"
@@ -26,16 +26,16 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "Art & Design"
 - 9 "Children's Books"
 - 9 "Biography & Memoir"
-- 6 "LGBT"
+- 5 "LGBT"
 - 4 "Romance"
 - 4 "Health & Wellness"
 - 3 "Food & Cooking"
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 147 "novel"
+- 146 "novel"
 - 121 "nonfiction"
-- 101 "graphic novels & comics"
+- 100 "graphic novels & comics"
 - 27 "short stories"
 - 18 "reference"
 - 17 "children's"
@@ -48,18 +48,20 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "fictional nonfiction"
 - 4 "saga"
 - 4 "sacred text"
+- 2 "zine"
+- 1 "cookbook"
 - 1 "anthology"
 
 ### Content tags:
-- 60 "occult"
+- 59 "occult"
 - 56 "future"
 - 42 "magic"
 - 32 "mythology"
-- 31 "horror"
+- 30 "horror"
 - 24 "humor"
-- 23 "witchcraft"
 - 23 "religion"
 - 23 "anthropology"
+- 22 "witchcraft"
 - 22 "satire"
 - 22 "history"
 - 21 "art"
@@ -73,7 +75,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 16 "coming of age"
 
 ### Original language:
-- 384 "English"
+- 383 "English"
 - 20 "French"
 - 16 "Russian"
 - 8 "Japanese"
