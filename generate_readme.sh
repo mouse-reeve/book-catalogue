@@ -35,4 +35,7 @@ $( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -2
     echo "- $line"
 done )
 
+### Books read so far this year:
+$( tail -n +2 goodreads.csv | cut -d , -f 17 | grep ^`date +'%Y'` | wc -l )
+
 " > README.md
