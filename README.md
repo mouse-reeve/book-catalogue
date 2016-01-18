@@ -11,11 +11,11 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### LibraryThing grenres:
-- 147 "Fiction"
-- 100 "Graphic Novels"
+- 148 "Fiction"
+- 97 "Graphic Novels"
 - 86 "Fantasy"
-- 77 "Science Fiction"
 - 77 "Nonfiction"
+- 75 "Science Fiction"
 - 51 "History"
 - 49 "Religion & Spirituality"
 - 23 "Science & Nature"
@@ -24,16 +24,16 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "Mystery"
 - 10 "Children's Books"
 - 9 "Biography & Memoir"
+- 5 "Romance"
 - 5 "LGBT"
-- 4 "Romance"
 - 4 "Health & Wellness"
 - 3 "Food & Cooking"
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 147 "novel"
+- 148 "novel"
 - 125 "nonfiction"
-- 103 "graphic novels & comics"
+- 104 "graphic novels & comics"
 - 29 "short stories"
 - 18 "reference"
 - 18 "children's"
@@ -41,8 +41,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 14 "grimoire"
 - 10 "play"
 - 9 "essays"
-- 8 "memoir"
 - 8 "art"
+- 7 "memoir"
 - 5 "fictional nonfiction"
 - 4 "saga"
 - 4 "sacred text"
@@ -51,9 +51,9 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "anthology"
 
 ### Content tags:
-- 61 "occult"
+- 62 "occult"
 - 57 "future"
-- 43 "magic"
+- 44 "magic"
 - 32 "mythology"
 - 32 "horror"
 - 24 "humor"
@@ -64,8 +64,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 22 "satire"
 - 21 "art"
 - 20 "primary source"
+- 20 "demons"
 - 19 "russia"
-- 19 "demons"
 - 19 "christianity"
 - 18 "magical realism"
 - 17 "mathematics"
@@ -73,12 +73,12 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 16 "coming of age"
 
 ### Original language:
-- 394 "English"
-- 20 "French"
+- 397 "English"
+- 18 "French"
 - 16 "Russian"
-- 8 "Japanese"
 - 7 "Polish"
 - 7 "Latin"
+- 7 "Japanese"
 - 6 "Italian"
 - 5 "Spanish"
 - 5 "Icelandic"
@@ -108,7 +108,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 4 "Shakespeare, William"
 - 4 "Pynchon, Thomas"
 - 4 "Nix, Garth"
+- 4 "Jenkins, Paul"
 - 4 "Delano, Jamie"
-- 4 "Calvino, Italo"
 
 
