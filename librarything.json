@@ -57,8 +57,8 @@
   "workcode": "136419",
   "entrydate": "2014-01-21",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "fromwhere": "Amazon.com"
@@ -11171,8 +11171,8 @@
   "workcode": "5271836",
   "entrydate": "2014-01-21",
   "format": [{
-    "code": "4",
-    "text": "Other"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "physical_description": "384 p.; 8.86 inches",
@@ -14772,8 +14772,8 @@
   "workcode": "9281947",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
@@ -14811,6 +14811,10 @@
   "lcc": [],
   "workcode": "15205409",
   "entrydate": "2014-07-27",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
   "copies": "1"
 },
 "111130360": {
@@ -23897,8 +23901,8 @@
   "workcode": "33254",
   "entrydate": "2014-07-27",
   "format": [{
-    "code": "1.3",
-    "text": "Ebook"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "fromwhere": "Green Apple Books"
@@ -27177,8 +27181,8 @@
   "workcode": "15209836",
   "entrydate": "2014-07-29",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.2",
+    "text": "Hardcover"
   }],
   "copies": "1",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
@@ -27223,8 +27227,8 @@
   "workcode": "12779774",
   "entrydate": "2014-07-29",
   "format": [{
-    "code": "1",
-    "text": "Book"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "fromwhere": "Funny Monkey Comics"
@@ -36570,7 +36574,12 @@
   "length": "0.64 inches",
   "dimensions": "6.66 x 0.64 x 10.2 inches",
   "pages": "288 ",
-  "fromwhere": "Comix Experience"
+  "fromwhere": "Comix Experience",
+  "circulation": [{
+    "start_date": "2015-11-20",
+    "item_id": "117317354-1",
+    "status": "Checked out"
+  }]
 },
 "117317356": {
   "books_id": "117317356",
