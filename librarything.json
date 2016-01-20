@@ -1971,14 +1971,18 @@
   "russia",
   "TYPE:novel",
   "READABILITY:medium",
-  "MOOD:cerebral"],
+  "MOOD:cerebral",
+  "fashion",
+  "film"],
   "tagidA": [12558641,
   630331,
   631278,
   12184,
   12751209,
   12835000,
-  12836737],
+  12836737,
+  9664,
+  129],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0425192938",
@@ -4379,89 +4383,6 @@
   "dimensions": "8.52 x 5.38 x 0.34  inches",
   "weight": "0.32 pounds",
   "pages": "128 "
-},
-"105446625": {
-  "books_id": "105446625",
-  "title": "Spook Country",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Gibson, William",
-  "authors": [{
-    "lf": "Gibson, William",
-    "fl": "William Gibson"
-  }],
-  "tags": ["almost now",
-  "espionage",
-  "vancouver",
-  "locative art",
-  "TYPE:novel",
-  "READABILITY:medium",
-  "MOOD:cerebral"],
-  "tagidA": [12558641,
-  4167,
-  629808,
-  977988,
-  12751209,
-  12835000,
-  12836737],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0425221415",
-  "isbn": {
-    "0": "0425221415",
-    "2": "9780425221419"
-  },
-  "asin": "0425221415",
-  "ean": ["0425221415"],
-  "publication": "Berkley Trade (2008), Edition: First Edition, Paperback, 384 pages",
-  "date": "2008",
-  "summary": "Spook Country by William Gibson (2008)",
-  "language": ["English"],
-  "language_codeA": ["eng",
-  "xxx"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng",
-  "xxx"],
-  "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3557.I2264S66"
-  },
-  "subject": {
-    "0": ["Intelligence officers",
-    "Fiction"],
-    "2": ["Suspense fiction"]
-  },
-  "series": "Blue Ant",
-  "awards": ["Locus Award Finalist",
-  "Sunburst Award Honorable Mention",
-  "New York Times bestseller"],
-  "genre": ["Fiction",
-  "Science Fiction"],
-  "genre_id": ["2",
-  "281"],
-  "source": "amazon.com",
-  "workcode": "2380436",
-  "entrydate": "2014-01-21",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "physical_description": "384 p.; 9 inches",
-  "height": "9 inches",
-  "thickness": "1.01 inches",
-  "length": "5.96 inches",
-  "dimensions": "9 x 5.96 x 1.01  inches",
-  "weight": "0.92 pounds",
-  "pages": "384 ",
-  "fromwhere": "Goodwill"
 },
 "105446627": {
   "books_id": "105446627",
@@ -9107,7 +9028,8 @@
   }],
   "copies": "1",
   "fromwhere": "Amazon.com"
-},"105446703": {
+},
+"105446703": {
   "books_id": "105446703",
   "title": "The Taqwacores",
   "sortcharacter": "5",
@@ -9171,8 +9093,7 @@
   "weight": "0.41 pounds",
   "pages": "256 ",
   "fromwhere": "Amazon.com"
-},
-"105446705": {
+},"105446705": {
   "books_id": "105446705",
   "title": "Three Men in a Boat: To Say Nothing of the Dog!",
   "sortcharacter": "1",
@@ -17402,7 +17323,8 @@
   "weight": "0.2 pounds",
   "pages": "272 ",
   "fromwhere": "Aardvark Books"
-},"111130399": {
+},
+"111130399": {
   "books_id": "111130399",
   "title": "Crime and Punishment (Penguin Classics)",
   "sortcharacter": "1",
@@ -17540,8 +17462,7 @@
   "dimensions": "7.7 x 5 x 1.1  inches",
   "weight": "0.85 pounds",
   "pages": "656 "
-},
-"111130400": {
+},"111130400": {
   "books_id": "111130400",
   "title": "The Wind-Up Bird Chronicle: A Novel",
   "sortcharacter": "5",
@@ -25397,7 +25318,8 @@
   "weight": "0.84 pounds",
   "pages": "499 ",
   "fromwhere": "Amazon.com"
-},"111130529": {
+},
+"111130529": {
   "books_id": "111130529",
   "title": "Digger: The Complete Omnibus Edition",
   "sortcharacter": "1",
@@ -25453,8 +25375,7 @@
   }],
   "copies": "1",
   "fromwhere": "Amazon.com"
-},
-"111130530": {
+},"111130530": {
   "books_id": "111130530",
   "title": "Underground Dictionary",
   "sortcharacter": "1",
@@ -25519,87 +25440,6 @@
   }],
   "copies": "1",
   "fromwhere": "Green Apple Books"
-},
-"111130531": {
-  "books_id": "111130531",
-  "title": "Zero History",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Gibson, William",
-  "authors": [{
-    "lf": "Gibson, William",
-    "fl": "William Gibson"
-  }],
-  "tags": ["almost now",
-  "london",
-  "espionage",
-  "fashion",
-  "marketing",
-  "branding",
-  "TYPE:novel",
-  "READABILITY:medium",
-  "MOOD:cerebral"],
-  "tagidA": [12558641,
-  631278,
-  4167,
-  9664,
-  21630,
-  630331,
-  12751209,
-  12835000,
-  12836737],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0425240770",
-  "isbn": {
-    "0": "0425240770",
-    "2": "9780425240779"
-  },
-  "asin": "0425240770",
-  "ean": ["0425240770"],
-  "publication": "Berkley Trade (2011), Edition: Reprint, Paperback, 416 pages",
-  "date": "2011",
-  "summary": "Zero History by William Gibson (2011)",
-  "language": ["English"],
-  "language_codeA": ["eng",
-  "xxx"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng",
-  "xxx"],
-  "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3557.I2264Z47"
-  },
-  "series": "Blue Ant",
-  "awards": ["New York Times bestseller",
-  "SF Site Editor's Choice",
-  "Locus Award Finalist",
-  "John W. Campbell Memorial Award Finalist",
-  "Locus Recommended Reading",
-  "CBC Bookies Nominee"],
-  "genre": ["Fiction",
-  "Science Fiction"],
-  "genre_id": ["2",
-  "281"],
-  "source": "amazon.com",
-  "workcode": "8445628",
-  "entrydate": "2014-07-27",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "physical_description": "416 p.",
-  "weight": "1 pounds",
-  "pages": "416 ",
-  "fromwhere": "Aardvark Books"
 },
 "111130532": {
   "books_id": "111130532",
@@ -33758,7 +33598,8 @@
   }],
   "copies": "1",
   "fromwhere": "Green Apple Books on the Park"
-},"115004416": {
+},
+"115004416": {
   "books_id": "115004416",
   "title": "Flowers for Algernon",
   "sortcharacter": "1",
@@ -33936,8 +33777,7 @@
   "weight": "1.14 pounds",
   "pages": "384 ",
   "fromwhere": "Green Apple Books"
-},
-"115028353": {
+},"115028353": {
   "books_id": "115028353",
   "title": "Saga Volume 4",
   "sortcharacter": "1",
@@ -36883,84 +36723,6 @@
   "pages": "160 ",
   "fromwhere": "Green Apple Books"
 },
-"118420690": {
-  "books_id": "118420690",
-  "title": "Vermilion",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Tanzer, Molly",
-  "authors": [{
-    "lf": "Tanzer, Molly",
-    "fl": "Molly Tanzer"
-  }],
-  "tags": ["TYPE:novel",
-  "panacea",
-  "health",
-  "immortality",
-  "fountain of youth",
-  "steampunk",
-  "western",
-  "san francisco",
-  "race",
-  "RECOMMENDER:Sigmund",
-  "death",
-  "psychopomp",
-  "ghosts",
-  "anthropomorphism",
-  "gender"],
-  "tagidA": [12751209,
-  2848613,
-  34498,
-  567,
-  84727,
-  18622,
-  10097,
-  631312,
-  8626,
-  12648835,
-  631225,
-  2925094,
-  166,
-  1797,
-  6880],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1939905087",
-  "isbn": {
-    "0": "1939905087",
-    "2": "9781939905086"
-  },
-  "asin": "1939905087",
-  "ean": ["1939905087"],
-  "publication": "Word Horde (2015), Paperback, 386 pages",
-  "date": "2015",
-  "summary": "Vermilion by Molly Tanzer (2015)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "originaltitle": "Vermilion",
-  "genre": ["Fantasy"],
-  "genre_id": ["5280"],
-  "source": "amazon.com",
-  "workcode": "15931142",
-  "entrydate": "2015-05-15",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "386 p.; 5.98 inches",
-  "height": "5.98 inches",
-  "thickness": "9.02 inches",
-  "length": "0.86 inches",
-  "dimensions": "5.98 x 0.86 x 9.02 inches",
-  "weight": "1.24 pounds",
-  "pages": "386 ",
-  "fromwhere": "Amazon.com"
-},
 "118633822": {
   "books_id": "118633822",
   "title": "The New Annotated Sherlock Holmes: The Complete Short Stories (2 Vol. Set)",
@@ -39160,6 +38922,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
+  "awards": ["Alex Award"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -40948,11 +40711,17 @@
   "tags": ["TYPE:novel",
   "Berlin",
   "nazis",
-  "queer"],
+  "queer",
+  "expat",
+  "TYPE:memoir",
+  "Weimer republic"],
   "tagidA": [12751209,
   23073,
   24704,
-  20301],
+  20301,
+  23562,
+  12751225,
+  8587781],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "081121804X",
