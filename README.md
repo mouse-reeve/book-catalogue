@@ -11,11 +11,11 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### LibraryThing grenres:
-- 148 "Fiction"
+- 146 "Fiction"
 - 97 "Graphic Novels"
-- 86 "Fantasy"
-- 77 "Nonfiction"
-- 75 "Science Fiction"
+- 85 "Fantasy"
+- 79 "Nonfiction"
+- 73 "Science Fiction"
 - 51 "History"
 - 49 "Religion & Spirituality"
 - 23 "Science & Nature"
@@ -24,30 +24,30 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "Mystery"
 - 10 "Children's Books"
 - 9 "Biography & Memoir"
+- 6 "Health & Wellness"
 - 5 "Romance"
 - 5 "LGBT"
-- 4 "Health & Wellness"
-- 3 "Food & Cooking"
+- 5 "Food & Cooking"
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 148 "novel"
+- 145 "novel"
 - 125 "nonfiction"
 - 104 "graphic novels & comics"
 - 29 "short stories"
-- 18 "reference"
+- 20 "reference"
 - 18 "children's"
 - 16 "poetry"
 - 14 "grimoire"
 - 10 "play"
 - 9 "essays"
+- 8 "memoir"
 - 8 "art"
-- 7 "memoir"
 - 5 "fictional nonfiction"
 - 4 "saga"
 - 4 "sacred text"
+- 3 "cookbook"
 - 2 "zine"
-- 1 "cookbook"
 - 1 "anthology"
 
 ### Content tags:
@@ -73,9 +73,9 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 16 "coming of age"
 
 ### Original language:
-- 397 "English"
-- 18 "French"
-- 16 "Russian"
+- 395 "English"
+- 17 "French"
+- 15 "Russian"
 - 7 "Polish"
 - 7 "Latin"
 - 7 "Japanese"
@@ -86,7 +86,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "German"
 - 2 "Chinese"
 - 1 "Swedish"
-- 1 "Old English"
 - 1 "Arabic"
 
 ### Author:
