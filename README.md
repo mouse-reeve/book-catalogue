@@ -111,6 +111,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 4 "Delano, Jamie"
 
 ### Books read so far this year:
-       5
+       6
 
 
