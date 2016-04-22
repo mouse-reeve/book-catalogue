@@ -112,6 +112,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 3 "Waite, Arthur Edward"
 
 ### Books read so far this year:
-       7
+       8
 
 
