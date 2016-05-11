@@ -11,17 +11,17 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### LibraryThing grenres:
-- 120 "Fiction"
-- 102 "Graphic Novels"
-- 90 "Fantasy"
+- 121 "Fiction"
+- 104 "Graphic Novels"
+- 89 "Fantasy"
 - 66 "Nonfiction"
-- 62 "Science Fiction"
+- 64 "Science Fiction"
 - 46 "Religion & Spirituality"
 - 41 "History"
-- 17 "Science & Nature"
+- 16 "Science & Nature"
 - 13 "Young Adult"
-- 12 "Mystery"
-- 12 "Art & Design"
+- 11 "Mystery"
+- 11 "Art & Design"
 - 10 "Children's Books"
 - 8 "Biography & Memoir"
 - 7 "Romance"
@@ -31,13 +31,13 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 119 "novel"
+- 120 "novel"
 - 103 "graphic novels & comics"
-- 100 "nonfiction"
+- 101 "nonfiction"
 - 22 "short stories"
 - 19 "reference"
 - 18 "children's"
-- 14 "grimoire"
+- 15 "grimoire"
 - 13 "poetry"
 - 10 "play"
 - 8 "memoir"
@@ -61,9 +61,9 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 23 "humor"
 - 21 "anthropology"
 - 20 "primary source"
+- 20 "christianity"
 - 19 "witchcraft"
 - 19 "demons"
-- 19 "christianity"
 - 19 "art"
 - 17 "history"
 - 16 "england"
@@ -74,17 +74,17 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 14 "cyberpunk"
 
 ### Original language:
-- 345 "English"
-- 14 "French"
+- 348 "English"
+- 13 "French"
 - 11 "Russian"
-- 7 "Polish"
+- 6 "Polish"
 - 6 "Latin"
 - 6 "Italian"
 - 5 "Japanese"
 - 5 "Icelandic"
 - 5 "Greek (Ancient)"
 - 5 "German"
-- 3 "Spanish"
+- 2 "Spanish"
 - 2 "Chinese"
 - 1 "Swedish"
 - 1 "Arabic"
@@ -112,6 +112,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 3 "Waite, Arthur Edward"
 
 ### Books read so far this year:
-       8
+      10
 
 
