@@ -2027,6 +2027,7 @@
     "code": ["306.7099541"],
     "wording": ["Biography And History",
     "Culture and Institutions",
+    "New Guinea",
     "Pacific",
     "Sexuality",
     "Social Sciences ",
@@ -6009,7 +6010,7 @@
     "code": ["039"],
     "wording": ["Dictionaries And Encyclopedias",
     "Information",
-    "Minor Languages"]
+    "Other Languages"]
   },
   "lcc": {
     "code": "PN6381.S4"
@@ -8800,7 +8801,8 @@
     "code": ["293.211"],
     "wording": ["Germanic religion",
     "Other Religions",
-    "Religion "]
+    "Religion ",
+    "Theological Conceptions and Doctrines"]
   },
   "lcc": {
     "code": "BL860.D36"
@@ -10664,8 +10666,8 @@
   "chi"],
   "ddc": {
     "code": ["299.51482"],
-    "wording": ["Asia",
-    "By Region",
+    "wording": ["By Region/Civilization",
+    "Of Asian Origin",
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
@@ -11878,7 +11880,8 @@
   "xxx"],
   "ddc": {
     "code": ["070.92"],
-    "wording": ["Biography And History",
+    "wording": ["Biographies",
+    "Biography And History",
     "Information",
     "Journalism And Publishing",
     "Journalism And Publishing"]
@@ -16155,8 +16158,8 @@
   "xxx"],
   "ddc": {
     "code": ["299.514"],
-    "wording": ["Asia",
-    "By Region",
+    "wording": ["By Region/Civilization",
+    "Of Asian Origin",
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
@@ -16256,8 +16259,8 @@
   "chi"],
   "ddc": {
     "code": ["299.51482"],
-    "wording": ["Asia",
-    "By Region",
+    "wording": ["By Region/Civilization",
+    "Of Asian Origin",
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
@@ -16480,8 +16483,9 @@
   "xxx"],
   "ddc": {
     "code": ["299.67"],
-    "wording": ["Africa",
-    "By Region",
+    "wording": ["By Particular Movement or Cult",
+    "By Region/Civilization",
+    "Of African Origin",
     "Other Religions",
     "Religion "]
   },
@@ -17174,6 +17178,7 @@
     "code": ["235.4"],
     "wording": ["Angels; Devils; Satan",
     "Christianity",
+    "Devils, Demons",
     "Religion "]
   },
   "lcc": {
@@ -18286,6 +18291,7 @@
     "wording": ["Biography And History",
     "Culture and Institutions",
     "Pacific",
+    "Polynesia",
     "Social Sciences ",
     "Social Sciences, Sociology, Anthropology"]
   },
@@ -20151,6 +20157,7 @@
     "Bible",
     "Modern versions and translations",
     "Religion ",
+    "Revised Standard Version and Related",
     "Versions in English and Anglo-Saxon"]
   },
   "lcc": {
@@ -20565,8 +20572,9 @@
   "fre"],
   "ddc": {
     "code": ["155.81"],
-    "wording": ["Culture Studies",
+    "wording": ["Cultural Psychology",
     "Developmental And Differential Psychology",
+    "Nonliterate societies",
     "Philosophy And Psychology",
     "Psychology"]
   },
@@ -21249,7 +21257,6 @@
     "47": ["Young adult drama, English"],
     "48": ["drama"]
   },
-  "series": "Tragedies",
   "originaltitle": "Hamlet",
   "awards": ["The Ten Greatest Books of All Time - TIME",
   "Newsweek's Top 100 Books: The Meta-List",
@@ -30202,7 +30209,8 @@
     "code": ["306.08998"],
     "wording": ["Culture and Institutions",
     "Social Sciences ",
-    "Social Sciences, Sociology, Anthropology"]
+    "Social Sciences, Sociology, Anthropology",
+    "With Respect to Particular Groups"]
   },
   "lcc": {
     "code": "F2520.1.Y3C5"
@@ -30669,7 +30677,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["578.8"],
-    "wording": ["Biology",
+    "wording": ["Life Sciences",
     "Mathematics And Science",
     "Natural history of organisms and related subjects"]
   },
@@ -32642,10 +32650,20 @@
   "lcc": {
     "code": "QK41.G3"
   },
-  "genre": ["Science & Nature"],
-  "genre_id": ["1457"],
+  "subject": [["Botany",
+  "Pre-Linnean works"],
+  ["Gerard, John, 1545-1612"],
+  ["Herbals"]],
+  "genre": ["Nonfiction",
+  "Science & Nature",
+  "History",
+  "Home & Garden"],
+  "genre_id": ["1247",
+  "1457",
+  "1599",
+  "37454"],
   "source": "amazon.com books",
-  "workcode": "3854895",
+  "workcode": "427011",
   "entrydate": "2015-11-30",
   "format": [{
     "code": "1.1.2",
@@ -32977,101 +32995,6 @@
   "dimensions": "6.6 x 0.7 x 10.2 inches",
   "pages": "304 ",
   "fromwhere": "Amazing Fantasy"
-},
-"126337450": {
-  "books_id": "126337450",
-  "title": "Vegan Cupcakes Take Over the World: 75 Dairy-Free Recipes for Cupcakes that Rule",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Moskowitz, Isa Chandra",
-  "primaryauthorrole": "Author",
-  "secondaryauthor": "Quin, Sara|Bent, Rebecca",
-  "secondaryauthorroles": "Foreword|Photographer",
-  "authors": [{
-    "lf": "Moskowitz, Isa Chandra",
-    "fl": "Isa Chandra Moskowitz",
-    "role": "Author"
-  },
-  {
-    "lf": "Quin, Sara",
-    "fl": "Sara Quin",
-    "role": "Foreword"
-  },
-  {
-    "lf": "Bent, Rebecca",
-    "fl": "Rebecca Bent",
-    "role": "Photographer"
-  }],
-  "tags": ["TYPE:cookbook",
-  "TYPE:reference",
-  "cooking",
-  "veganism",
-  "food",
-  "recipes"],
-  "tagidA": [13881272,
-  12751221,
-  20444,
-  35694,
-  23613,
-  631221],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1569242739",
-  "isbn": {
-    "0": "1569242739",
-    "2": "9781569242735"
-  },
-  "asin": "1569242739",
-  "ean": ["1569242739"],
-  "publication": "Da Capo Press (2006), Edition: Original, 176 pages",
-  "date": "2006",
-  "summary": "Vegan Cupcakes Take Over the World: 75 Dairy-Free Recipes for Cupcakes that Rule by Isa Chandra Moskowitz (2006)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["641.5636"],
-    "wording": ["Cooking",
-    "Cooking, Specialized Situations ",
-    "Food And Drink",
-    "Healthy Cooking",
-    "Home Economics",
-    "Technology"]
-  },
-  "lcc": {
-    "code": "TX771.M7885"
-  },
-  "subject": {
-    "0": ["Cake"],
-    "2": ["Milk-free diet",
-    "Recipes"],
-    "4": ["Vegan cookery"],
-    "6": ["cake"]
-  },
-  "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
-  "genre_id": ["1247",
-  "20444",
-  "683927"],
-  "source": "amazon.com books",
-  "workcode": "1699289",
-  "entrydate": "2016-01-31",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "176 p.; 6.5 inches",
-  "height": "6.5 inches",
-  "thickness": "7 inches",
-  "length": "0.4 inches",
-  "dimensions": "6.5 x 0.4 x 7 inches",
-  "weight": "0.64 pounds",
-  "pages": "176 ",
-  "fromwhere": "Green Apple Books"
 },
 "126337664": {
   "books_id": "126337664",
@@ -33525,4 +33448,82 @@
   "dimensions": "5.32 x 0.76 x 8.16 inches",
   "pages": "240 ",
   "fromwhere": "Museum der Dinge"
+},
+"132464736": {
+  "books_id": "132464736",
+  "title": "Ancillary Justice (Imperial Radch)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Leckie, Ann",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Leckie, Ann",
+    "fl": "Ann Leckie",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:novel",
+  "space travel",
+  "artificial intelligence",
+  "gender"],
+  "tagidA": [12751209,
+  631000,
+  17374,
+  6880],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "031624662X",
+  "isbn": {
+    "0": "031624662X",
+    "2": "9780316246620"
+  },
+  "asin": "031624662X",
+  "ean": ["031624662X"],
+  "publication": "Orbit (2013), Edition: paperback / softback, 416 pages",
+  "date": "2013",
+  "summary": "Ancillary Justice (Imperial Radch) by Ann Leckie (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.6"],
+    "wording": ["21st Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3612.E3353A83"
+  },
+  "series": "Imperial Radch",
+  "originaltitle": "Ancillary Justice",
+  "awards": ["Kitschies: Golden Tentacle Award",
+  "Philip K. Dick Award Finalist",
+  "James Tiptree, Jr. Award Honor List",
+  "Nebula",
+  "British Science Fiction Association Award",
+  "Arthur C. Clarke Award",
+  "Hugo",
+  "John W. Campbell Memorial Award Finalist",
+  "Locus",
+  "Compton Crook Award Nominee"],
+  "genre": ["Science Fiction"],
+  "genre_id": ["281"],
+  "source": "amazon.com books",
+  "workcode": "14046991",
+  "entrydate": "2016-07-20",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "416 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.25 inches",
+  "length": "1.25 inches",
+  "dimensions": "5.5 x 1.25 x 8.25 inches",
+  "weight": "0.8 pounds",
+  "pages": "416 ",
+  "fromwhere": "Amazon.com"
 }}
