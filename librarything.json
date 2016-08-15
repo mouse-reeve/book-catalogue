@@ -4034,7 +4034,9 @@
   "xxx"],
   "ddc": {
     "code": ["133.40967"],
-    "wording": ["Parapsychology And Occultism",
+    "wording": ["Africa",
+    "Biography; History By Place",
+    "Parapsychology And Occultism",
     "Philosophy And Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery"]
@@ -5249,7 +5251,6 @@
     "20": ["humorous fiction"],
     "21": ["humorous stories"]
   },
-  "originaltitle": "A Confederacy of Dunces",
   "awards": ["Pulitzer Prize",
   "PEN/Faulkner Award finalist",
   "New York Times: Best Work of American Fiction of the Last 25 Years",
@@ -6620,7 +6621,7 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The Hobbit",
+  "originaltitle": "The Hobbit ; or, There and back again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -12552,7 +12553,12 @@
   "dimensions": "9.64 x 6.66 x 2.24  inches",
   "weight": "2.79 pounds",
   "pages": "800 ",
-  "fromwhere": "Friends of the Seattle Public Library"
+  "fromwhere": "Friends of the Seattle Public Library",
+  "circulation": [{
+    "start_date": "2016-07-25",
+    "item_id": "111130383-1",
+    "status": "Checked out"
+  }]
 },
 "111130384": {
   "books_id": "111130384",
@@ -14277,6 +14283,7 @@
   },
   "originaltitle": "The War of the Worlds",
   "awards": ["BBC's Big Read",
+  "IBBY Honour Book",
   "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
   "Guardian 1000",
   "1001 Books You Must Read Before You Die",
@@ -14932,7 +14939,7 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The Hobbit",
+  "originaltitle": "The Hobbit ; or, There and back again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -15957,7 +15964,10 @@
   "xxx"],
   "ddc": {
     "code": ["133.43094209031"],
-    "wording": ["Parapsychology And Occultism",
+    "wording": ["Biography; History By Place",
+    "England & Wales",
+    "Europe",
+    "Parapsychology And Occultism",
     "Philosophy And Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
@@ -17425,10 +17435,8 @@
   "language": ["English"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Italian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "ita"],
+  "xxx"],
   "ddc": {
     "code": ["853.914"],
     "wording": ["1900-",
@@ -18003,7 +18011,10 @@
   "xxx"],
   "ddc": {
     "code": ["133.43097295"],
-    "wording": ["Parapsychology And Occultism",
+    "wording": ["Biography; History By Place",
+    "Mexico, Central America, and the Caribbean",
+    "North America",
+    "Parapsychology And Occultism",
     "Philosophy And Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
@@ -23699,7 +23710,9 @@
   "xxx"],
   "ddc": {
     "code": ["133.430940904"],
-    "wording": ["Parapsychology And Occultism",
+    "wording": ["Biography; History By Place",
+    "Europe",
+    "Parapsychology And Occultism",
     "Philosophy And Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
@@ -24688,10 +24701,8 @@
   "language": ["English"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Greek (Ancient)"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "grc"],
+  "xxx"],
   "ddc": {
     "code": ["930"],
     "wording": ["Ancient History",
@@ -25362,7 +25373,7 @@
   "dimensions": "7.56 x 4.96 x 0.39  inches",
   "weight": "0.49 pounds",
   "pages": "128 ",
-  "fromwhere": "Dog Eared Books"
+  "fromwhere": "Dog Eared Books - Valencia"
 },
 "113662469": {
   "books_id": "113662469",
@@ -25478,7 +25489,7 @@
   "dimensions": "7.64 x 4.96 x 0.71  inches",
   "weight": "0.31 pounds",
   "pages": "234 ",
-  "fromwhere": "Dog Eared Books"
+  "fromwhere": "Dog Eared Books - Valencia"
 },
 "113834305": {
   "books_id": "113834305",
@@ -29314,12 +29325,7 @@
   "length": "0.64 inches",
   "dimensions": "6.66 x 0.64 x 10.2 inches",
   "pages": "288 ",
-  "fromwhere": "Comix Experience",
-  "circulation": [{
-    "start_date": "2015-11-20",
-    "item_id": "117317354-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Comix Experience"
 },
 "117317356": {
   "books_id": "117317356",
@@ -31031,7 +31037,10 @@
   "ice"],
   "ddc": {
     "code": ["133.43094912"],
-    "wording": ["Parapsychology And Occultism",
+    "wording": ["Biography; History By Place",
+    "Europe",
+    "Other Countries",
+    "Parapsychology And Occultism",
     "Philosophy And Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
@@ -33525,5 +33534,84 @@
   "dimensions": "5.5 x 1.25 x 8.25 inches",
   "weight": "0.8 pounds",
   "pages": "416 ",
+  "fromwhere": "Amazon.com"
+},
+"133353953": {
+  "books_id": "133353953",
+  "title": "The Black Books of Elverum",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Rustad, Mary S.",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Rustad, Mary S.",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Rustad, Mary S.",
+    "fl": "Mary S. Rustad",
+    "role": "Author"
+  },
+  {
+    "lf": "Rustad, Mary S.",
+    "fl": "Mary S. Rustad",
+    "role": "Translator"
+  }],
+  "tags": ["TYPE:grimoire",
+  "Norway",
+  "black magic",
+  "magic",
+  "spells"],
+  "tagidA": [12989395,
+  14033,
+  1396,
+  4,
+  630561],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1880090759",
+  "isbn": {
+    "0": "1880090759",
+    "2": "9781880090756"
+  },
+  "asin": "1880090759",
+  "ean": ["1880090759"],
+  "publication": "Galde Press, Inc. (1999), Edition: 1 Ed, 176 pages",
+  "date": "1999",
+  "summary": "The Black Books of Elverum by Mary S. Rustad (1999)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["Norwegian"],
+  "originallanguage_codeA": ["eng",
+  "nor"],
+  "ddc": {
+    "code": ["133.4309481"],
+    "wording": ["Biography; History By Place",
+    "Europe",
+    "Parapsychology And Occultism",
+    "Philosophy And Psychology",
+    "Scandinavia",
+    "Specific Topics",
+    "Witchcraft - Sorcery",
+    "Witchcraft and Magickal Practice"]
+  },
+  "lcc": {
+    "code": "BF1622.N67S8313"
+  },
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "532185",
+  "entrydate": "2016-08-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "176 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "0.44 inches",
+  "dimensions": "6 x 0.44 x 9 inches",
+  "pages": "176 ",
   "fromwhere": "Amazon.com"
 }}
