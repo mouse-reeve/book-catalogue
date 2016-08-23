@@ -13958,10 +13958,8 @@
   "language": ["English"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["French"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "fre"],
+  "xxx"],
   "ddc": {
     "code": ["843.7"],
     "wording": ["1815-1848",
@@ -33614,4 +33612,64 @@
   "dimensions": "6 x 0.44 x 9 inches",
   "pages": "176 ",
   "fromwhere": "Amazon.com"
+},
+"133602899": {
+  "books_id": "133602899",
+  "title": "Stone Mattress: Nine Wicked Tales",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Atwood, Margaret",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Atwood, Margaret",
+    "fl": "Margaret Atwood",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0804173508",
+  "isbn": {
+    "0": "0804173508",
+    "2": "9780804173506"
+  },
+  "asin": "0804173508",
+  "ean": ["0804173508"],
+  "publication": "Anchor (2015), Edition: Reprint, 304 pages",
+  "date": "2015",
+  "summary": "Stone Mattress: Nine Wicked Tales by Margaret Atwood (2015)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR9199.3.A8S86"
+  },
+  "originaltitle": "Stone mattress : nine tales",
+  "awards": ["Scotiabank Giller Prize Longlist"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
+  "source": "amazon.com books",
+  "workcode": "14934351",
+  "entrydate": "2016-08-23",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "304 p.; 5.2 inches",
+  "height": "5.2 inches",
+  "thickness": "8 inches",
+  "length": "0.7 inches",
+  "dimensions": "5.2 x 0.7 x 8 inches",
+  "weight": "0.81 pounds",
+  "pages": "304 "
 }}
