@@ -11,7 +11,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### LibraryThing grenres:
-- 109 "Fiction"
+- 110 "Fiction"
 - 96 "Graphic Novels"
 - 83 "Fantasy"
 - 60 "Nonfiction"
@@ -74,8 +74,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "space travel"
 
 ### Original language:
-- 326 "English"
-- 10 "French"
+- 327 "English"
+- 9 "French"
 - 8 "Russian"
 - 6 "Polish"
 - 5 "Latin"
@@ -95,9 +95,9 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 10 "Ellis, Warren"
 - 8 "Lem, Stanislaw"
 - 7 "Moore, Alan"
+- 6 "Atwood, Margaret"
 - 5 "Vaughan, Brian K."
 - 5 "Tolkien, J.R.R."
-- 5 "Atwood, Margaret"
 - 4 "Watterson, Bill"
 - 4 "Vasquez, Jhonen"
 - 4 "Shakespeare, William"
@@ -112,6 +112,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 3 "Pullman, Philip"
 
 ### Books read so far this year:
-      10
+      13
 
 
