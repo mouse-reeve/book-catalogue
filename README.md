@@ -33,8 +33,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ### Tagged types:
 - 109 "novel"
+- 96 "nonfiction"
 - 96 "graphic novels & comics"
-- 95 "nonfiction"
 - 23 "short stories"
 - 17 "grimoire"
 - 15 "children's"
@@ -54,7 +54,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Content tags:
 - 57 "occult"
 - 46 "future"
-- 37 "magic"
+- 38 "magic"
 - 27 "mythology"
 - 27 "horror"
 - 23 "humor"
@@ -74,7 +74,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "space travel"
 
 ### Original language:
-- 329 "English"
+- 330 "English"
 - 9 "French"
 - 6 "Russian"
 - 5 "Polish"
