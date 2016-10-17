@@ -10,6 +10,9 @@ The `goodreads` CSV is an export of my GoodReads data, which is the only place t
 This data is merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
 
 ## Stats
+### Number of books:
+435
+
 ### LibraryThing grenres:
 - 119 "Fiction"
 - 96 "Graphic Novels"
