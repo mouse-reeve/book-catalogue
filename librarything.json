@@ -6941,7 +6941,6 @@
     "19": ["fantasy"],
     "21": ["fantasy fiction"]
   },
-  "series": "Oz : Baum",
   "originaltitle": "The Wonderful Wizard of Oz",
   "awards": ["Radcliffe Publishing Course Top 100 Novels of the 20th Century",
   "Locus 1987 Poll, All-Time Best Fantasy Novel",
@@ -8498,7 +8497,12 @@
     "text": "Paperback"
   }],
   "copies": "1",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2016-11-15",
+    "item_id": "105446723-1",
+    "status": "Checked out"
+  }]
 },
 "105446726": {
   "books_id": "105446726",
@@ -9609,39 +9613,6 @@
   },
   "series": "Catch-22",
   "originaltitle": "Catch - 22",
-  "awards": ["Waterstones Books of the Century",
-  "Time's All-Time 100 Novels selection",
-  "BBC's Big Read",
-  "The Modern Library's 100 Best Novels: The Board's List",
-  "The Modern Library's 100 Best Novels: The Reader's List",
-  "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
-  "National Book Award finalist",
-  "The Observer's 100 Greatest Novels of All Time",
-  "Larry McCaffery's 20th Century Greatest Hits",
-  "Anthony Burgess: 99 Novels",
-  "Whitcoulls top 100, 2008",
-  "1001 Books You Must Read Before You Die",
-  "Guardian 1000",
-  "Newsweek's Top 100 Books: The Meta-List",
-  "ALA Outstanding Books for the College Bound",
-  "New York Public Library's Books of the Century",
-  "The Modern Library: the 200 best novels in English since 1950",
-  "Harenberg Buch der 1000 B\u00fccher",
-  "The Telegraph's 100 novels everyone should read",
-  "The Top Ten: Writers Pick Their Favorite Books",
-  "The Essential Man's Library: 100 Must-Read Books",
-  "Torchlight List",
-  "Library of Congress Books that Shaped America",
-  "Boston Public Library's 100 Most Influential Books of the Century",
-  "The 50 Most Essential Works Of Jewish Fiction Of The Last 100 Years",
-  "From Zero to Well-Read in 100 Books",
-  "The 100 Favorite Novels of Librarians",
-  "BookDepository's 100 Best Books Ever",
-  "Harvard Bookstore Top 100",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
-  "The Observer's 100 Best Novels",
-  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"Marie Claire\""],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -36315,7 +36286,8 @@
   "thickness": "12.2 inches",
   "length": "1.1 inches",
   "dimensions": "9.2 x 1.1 x 12.2 inches",
-  "pages": "336 "
+  "pages": "336 ",
+  "fromwhere": "Green Apple Books"
 },
 "135764738": {
   "books_id": "135764738",
@@ -36397,7 +36369,8 @@
   "length": "0.69 inches",
   "dimensions": "8.5 x 0.69 x 5.5 inches",
   "weight": "0.79 pounds",
-  "pages": "265 "
+  "pages": "265 ",
+  "fromwhere": "Green Apple Books"
 },
 "135764768": {
   "books_id": "135764768",
@@ -36469,5 +36442,81 @@
   "length": "0.8 inches",
   "dimensions": "6.06 x 0.8 x 8.98 inches",
   "weight": "0.88 pounds",
-  "pages": "312 "
+  "pages": "312 ",
+  "fromwhere": "Amazon.com"
+},
+"136039622": {
+  "books_id": "136039622",
+  "title": "The Art of Memory",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Yates, Frances",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Yates, Frances",
+    "fl": "Frances Yates",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction",
+  "memory",
+  "Bruno",
+  "renaissance"],
+  "tagidA": [12751214,
+  6184,
+  124064,
+  3456],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1847922929",
+  "isbn": {
+    "0": "1847922929",
+    "2": "9781847922922"
+  },
+  "asin": "1847922929",
+  "ean": ["1847922929"],
+  "publication": "Random House UK (2014), 448 pages",
+  "date": "2014",
+  "summary": "The Art of Memory by Frances Yates (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["153.1409"],
+    "wording": ["Cognition And Memory",
+    "Learning, Memory, And Motivation",
+    "Memory Improvement",
+    "Philosophy And Psychology",
+    "Psychology"]
+  },
+  "lcc": {
+    "code": "BF381.Y3"
+  },
+  "subject": [["Humans Memory (Mental processes)"],
+  ["Mnemonics",
+  "History"]],
+  "originaltitle": "The Art of Memory",
+  "awards": ["The Modern Library's 100 Best Nonfiction: The Board's List",
+  "CounterPunch's Top 100 [and a few more] Non-fiction Works of the 20th Century",
+  "The Modern Library's 100 Best Nonfiction: The Reader's List",
+  "100 \u043a\u043d\u0438\u0433 non-fiction \u043e\u0442 The Prime Russian Magazine"],
+  "genre": ["History"],
+  "genre_id": ["1599"],
+  "source": "amazon.com books",
+  "workcode": "21081",
+  "entrydate": "2016-11-14",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "448 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "1.4 inches",
+  "dimensions": "6 x 1.4 x 9 inches",
+  "weight": "1.45 pounds",
+  "pages": "448 ",
+  "fromwhere": "Amazon.com"
 }}
