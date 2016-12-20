@@ -11,26 +11,26 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-439
+441
 
 ### LibraryThing grenres:
-- 119 "Fiction"
+- 117 "Fiction"
 - 96 "Graphic Novels"
 - 91 "Fantasy"
-- 68 "Nonfiction"
+- 74 "Nonfiction"
 - 60 "Science Fiction"
 - 49 "Religion & Spirituality"
 - 42 "History"
 - 18 "Science & Nature"
 - 14 "Mystery"
 - 13 "Young Adult"
-- 11 "Art & Design"
+- 12 "Art & Design"
 - 10 "Biography & Memoir"
 - 9 "Children's Books"
 - 7 "Romance"
-- 6 "Health & Wellness"
+- 7 "Health & Wellness"
 - 5 "LGBT"
-- 4 "Food & Cooking"
+- 5 "Food & Cooking"
 - 1 "Home & Garden"
 - 1 "Christian Fiction"
 
@@ -38,7 +38,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 116 "novel"
 - 112 "nonfiction"
 - 96 "graphic novels & comics"
-- 24 "short stories"
+- 25 "short stories"
 - 18 "grimoire"
 - 16 "reference"
 - 16 "poetry"
@@ -49,8 +49,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 7 "memoir"
 - 5 "fictional nonfiction"
 - 4 "sacred text"
+- 4 "cookbook"
 - 3 "textbook"
-- 3 "cookbook"
 - 2 "zine"
 - 1 "anthology"
 
@@ -77,12 +77,12 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "space travel"
 
 ### Original language:
-- 360 "English"
-- 9 "French"
+- 362 "English"
+- 8 "French"
 - 6 "Russian"
-- 5 "Polish"
 - 5 "Latin"
 - 5 "German"
+- 4 "Polish"
 - 4 "Japanese"
 - 4 "Italian"
 - 1 "Swedish"
@@ -102,6 +102,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Vaughan, Brian K."
 - 5 "Tolkien, J.R.R."
 - 5 "Shakespeare, William"
+- 5 "Calvino, Italo"
 - 4 "Watterson, Bill"
 - 4 "Vasquez, Jhonen"
 - 4 "Rucka, Greg"
@@ -111,7 +112,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 4 "Murakami, Haruki"
 - 4 "Jenkins, Paul"
 - 4 "Delano, Jamie"
-- 4 "Calvino, Italo"
 - 3 "Wodehouse, P. G."
 
 ### Books read so far this year:
