@@ -11,20 +11,20 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-441
+442
 
 ### LibraryThing grenres:
 - 117 "Fiction"
 - 96 "Graphic Novels"
 - 91 "Fantasy"
-- 74 "Nonfiction"
+- 75 "Nonfiction"
 - 60 "Science Fiction"
 - 49 "Religion & Spirituality"
 - 42 "History"
 - 18 "Science & Nature"
 - 14 "Mystery"
 - 13 "Young Adult"
-- 12 "Art & Design"
+- 13 "Art & Design"
 - 10 "Biography & Memoir"
 - 9 "Children's Books"
 - 7 "Romance"
@@ -36,7 +36,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ### Tagged types:
 - 116 "novel"
-- 112 "nonfiction"
+- 113 "nonfiction"
 - 96 "graphic novels & comics"
 - 25 "short stories"
 - 18 "grimoire"
@@ -77,7 +77,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 13 "space travel"
 
 ### Original language:
-- 362 "English"
+- 363 "English"
 - 8 "French"
 - 6 "Russian"
 - 5 "Latin"
@@ -115,6 +115,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 3 "Wodehouse, P. G."
 
 ### Books read so far this year:
-      18
+      19
 
 
