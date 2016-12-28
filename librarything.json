@@ -7771,7 +7771,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -13999,7 +13999,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -16801,7 +16801,6 @@
     "39": ["Romantic suspense novels"],
     "40": ["fiction in English"]
   },
-  "originaltitle": "The Woman in White",
   "awards": ["BBC's Big Read",
   "The Observer's 100 Greatest Novels of All Time",
   "Guardian 1000",
@@ -17625,7 +17624,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -20017,18 +20016,6 @@
     "19th century",
     "Comic books, strips, etc"]
   },
-  "series": "From Hell",
-  "originaltitle": "From Hell",
-  "awards": ["Eisner Award",
-  "Eisner Award",
-  "Harvey Award",
-  "International Horror Guild Award",
-  "Ignatz Award",
-  "Squiddy Award",
-  "Horror: Another 100 Best Books",
-  "1001 Comics You Must Read Before You Die",
-  "Prix B\u00e9d\u00e9lys",
-  "Grand Prix de la Critique ACBD"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -22144,7 +22131,6 @@
   "lcc": {
     "code": "PS3552.R2"
   },
-  "series": "Eric John Stark",
   "originaltitle": "The Ginger Star",
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -22919,7 +22905,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -23186,7 +23172,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -25489,6 +25475,7 @@
   ["Eccentrics and eccentricities"],
   ["Great Britain",
   "Biography"]],
+  "originaltitle": "English Eccentrics",
   "genre": ["Biography & Memoir",
   "Nonfiction",
   "History"],
@@ -32734,7 +32721,7 @@
     "wording": ["1900-",
     "1945-1999",
     "20th Century",
-    "Italian And Romanian",
+    "Italian",
     "Italian fiction",
     "Literature"]
   },
@@ -34619,7 +34606,7 @@
   "ddc": {
     "code": ["851.1"],
     "wording": ["Early Italian; Age of Dante (-1375)",
-    "Italian And Romanian",
+    "Italian",
     "Italian poetry",
     "Literature"]
   },
@@ -35290,7 +35277,7 @@
   "ddc": {
     "code": ["851.1"],
     "wording": ["Early Italian; Age of Dante (-1375)",
-    "Italian And Romanian",
+    "Italian",
     "Italian poetry",
     "Literature"]
   },
@@ -36989,4 +36976,79 @@
   "weight": "2.29 pounds",
   "pages": "800 ",
   "fromwhere": "Green Apple Books"
+},
+"137192196": {
+  "books_id": "137192196",
+  "title": "The Book of Trees: Visualizing Branches of Knowledge",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Lima, Manuel",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Shneiderman, Ben",
+  "secondaryauthorroles": "Foreword",
+  "authors": [{
+    "lf": "Lima, Manuel",
+    "fl": "Manuel Lima",
+    "role": "Author"
+  },
+  {
+    "lf": "Shneiderman, Ben",
+    "fl": "Ben Shneiderman",
+    "role": "Foreword"
+  }],
+  "tags": ["TYPE:nonfiction",
+  "graphs",
+  "data visualization",
+  "data"],
+  "tagidA": [12751214,
+  81150,
+  244535,
+  630015],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616892188",
+  "isbn": {
+    "0": "1616892188",
+    "2": "9781616892180"
+  },
+  "asin": "1616892188",
+  "ean": ["1616892188"],
+  "upc": ["884566392737"],
+  "publication": "Princeton Architectural Press (2014), 208 pages",
+  "date": "2014",
+  "summary": "The Book of Trees: Visualizing Branches of Knowledge by Manuel Lima (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["001.2"],
+    "wording": ["Computing And Information",
+    "Information",
+    "Knowledge",
+    "Scholarship And Learning"]
+  },
+  "lcc": {
+    "code": "AZ108.L56"
+  },
+  "genre": ["Nonfiction",
+  "Art & Design"],
+  "genre_id": ["1247",
+  "9985304"],
+  "source": "amazon.com books",
+  "workcode": "14905211",
+  "entrydate": "2016-12-26",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "208 p.; 8 inches",
+  "height": "8 inches",
+  "thickness": "10.5 inches",
+  "length": "1 inch",
+  "dimensions": "8 x 1 x 10.5 inches",
+  "pages": "208 ",
+  "fromwhere": "Gift"
 }}
