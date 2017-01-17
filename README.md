@@ -115,6 +115,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 3 "Wodehouse, P. G."
 
 ### Books read so far this year:
-       1
+       2
 
 
