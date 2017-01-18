@@ -2211,6 +2211,7 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
@@ -2659,7 +2660,6 @@
     "22": ["Orientalism"],
     "24": ["imperialism"]
   },
-  "originaltitle": "Orientalism",
   "awards": ["CounterPunch's Top 100 [and a few more] Non-fiction Works of the 20th Century",
   "The Modern Library's 100 Best Nonfiction: The Reader's List",
   "National Book Critics Circle Award finalist",
@@ -8549,10 +8549,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "rus"],
+  "xxx"],
   "ddc": {
     "code": ["813"],
     "wording": ["American And Canadian",
@@ -8989,6 +8987,7 @@
   "lcc": {
     "code": "G1527.S22S6"
   },
+  "series": "Rebecca Solnit's City Atlases",
   "genre": ["Nonfiction",
   "History"],
   "genre_id": ["1247",
@@ -10855,6 +10854,7 @@
   "lcc": {
     "code": "PR4825.J3A67"
   },
+  "originaltitle": "The Idle Thoughts of an Idle Fellow",
   "source": "amazon.com",
   "workcode": "27805",
   "entrydate": "2014-01-21",
@@ -11811,6 +11811,7 @@
     "code": "PS3601.B7367S47"
   },
   "originaltitle": "S.",
+  "awards": ["Buzzfeed"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -12660,12 +12661,7 @@
   "dimensions": "9.64 x 6.66 x 2.24  inches",
   "weight": "2.79 pounds",
   "pages": "800 ",
-  "fromwhere": "Friends of the Seattle Public Library",
-  "circulation": [{
-    "start_date": "2016-07-25",
-    "item_id": "111130383-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Friends of the Seattle Public Library"
 },
 "111130384": {
   "books_id": "111130384",
@@ -14324,12 +14320,7 @@
   "dimensions": "10.22 x 7.14 x 0.36  inches",
   "weight": "0.47 pounds",
   "pages": "144 ",
-  "fromwhere": "Green Apple Books",
-  "circulation": [{
-    "start_date": "2016-10-17",
-    "item_id": "111130405-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Green Apple Books"
 },
 "111130408": {
   "books_id": "111130408",
@@ -14535,12 +14526,7 @@
   "dimensions": "10.74 x 6.34 x 0.33  inches",
   "weight": "0.47 pounds",
   "pages": "144 ",
-  "fromwhere": "Green Apple Books",
-  "circulation": [{
-    "start_date": "2016-10-17",
-    "item_id": "111130409-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Green Apple Books"
 },
 "111130410": {
   "books_id": "111130410",
@@ -14617,12 +14603,7 @@
   }],
   "copies": "1",
   "pages": "144 ",
-  "fromwhere": "Amazon.com",
-  "circulation": [{
-    "start_date": "2016-10-17",
-    "item_id": "111130410-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Amazon.com"
 },
 "111130411": {
   "books_id": "111130411",
@@ -14911,12 +14892,7 @@
   "dimensions": "10.04 x 6.66 x 0.38  inches",
   "weight": "0.47 pounds",
   "pages": "144 ",
-  "fromwhere": "Green Apple Books",
-  "circulation": [{
-    "start_date": "2016-10-17",
-    "item_id": "111130417-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Green Apple Books"
 },
 "111130419": {
   "books_id": "111130419",
@@ -19379,12 +19355,7 @@
   "dimensions": "9.9 x 6.9 x 1  inches",
   "weight": "1.9 pounds",
   "pages": "496 ",
-  "fromwhere": "Amazon.com",
-  "circulation": [{
-    "start_date": "2015-12-20",
-    "item_id": "111130515-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Amazon.com"
 },
 "111130516": {
   "books_id": "111130516",
@@ -37050,5 +37021,74 @@
   "length": "1 inch",
   "dimensions": "8 x 1 x 10.5 inches",
   "pages": "208 ",
+  "fromwhere": "Gift"
+},
+"137981270": {
+  "books_id": "137981270",
+  "title": "Eunoia",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "B\u00f3k, Christian",
+  "authors": [{
+    "lf": "B\u00f3k, Christian",
+    "fl": "Christian B\u00f3k"
+  }],
+  "tags": ["TYPE:poetry",
+  "vowels",
+  "language",
+  "oulipo",
+  "RECOMMENDER:Noah"],
+  "tagidA": [12751212,
+  275401,
+  222,
+  52484,
+  14999715],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1847672396",
+  "isbn": {
+    "0": "1847672396",
+    "2": "9781847672391"
+  },
+  "asin": "1847672396",
+  "ean": ["1847672396"],
+  "publication": "Canongate",
+  "date": "?",
+  "summary": "Eunoia by Christian B\u00f3k (?)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["811.54"],
+    "wording": ["1950-1999",
+    "20th Century",
+    "American And Canadian",
+    "Literature",
+    "Poetry"]
+  },
+  "lcc": {
+    "code": "PR9199.3.B575E95"
+  },
+  "awards": ["Griffin Poetry Prize",
+  "ReLit Award Shortlist"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
+  "source": "amazon.com books",
+  "workcode": "241372",
+  "entrydate": "2017-01-18",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "5.35 inches",
+  "height": "5.35 inches",
+  "thickness": "8.07 inches",
+  "length": "0.39 inches",
+  "dimensions": "5.35 x 0.39 x 8.07 inches",
+  "weight": "0.4 pounds",
+  "pages": "112 ",
   "fromwhere": "Gift"
 }}
