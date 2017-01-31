@@ -1197,7 +1197,7 @@
   ["Horror comic books, strips, etc"],
   ["Private investigators",
   "Comic books, strips, etc"]],
-  "series": "Hellboy graphic novels",
+  "series": "Hellboy",
   "awards": ["Eisner Award",
   "1001 Comics You Must Read Before You Die"],
   "genre": ["Graphic Novels"],
@@ -5072,10 +5072,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "jpn"],
+  "xxx"],
   "ddc": {
     "code": ["895.635"],
     "wording": ["1945-1999",
@@ -15165,7 +15163,6 @@
     "2": ["Graphic novels"],
     "3": ["Watchmen (Comic strip)"]
   },
-  "series": "Watchmen",
   "awards": ["Eisner Award",
   "Eisner Award",
   "Hugo",
@@ -27583,7 +27580,7 @@
   "lcc": {
     "code": "PN6728.S26G365"
   },
-  "series": "The Sandman TPBs",
+  "series": "The Sandman",
   "originaltitle": "The Sandman: Dream Country",
   "awards": ["ALA Popular Paperbacks for Young Adults",
   "Harvey Award",
@@ -28926,7 +28923,7 @@
   "lcc": {
     "code": "PN6728.S26G35"
   },
-  "series": "The Sandman TPBs",
+  "series": "The Sandman",
   "awards": ["1001 Comics You Must Read Before You Die",
   "Longbox of the Damned"],
   "genre": ["Graphic Novels",
@@ -37091,4 +37088,59 @@
   "weight": "0.4 pounds",
   "pages": "112 ",
   "fromwhere": "Gift"
+},
+"138394176": {
+  "books_id": "138394176",
+  "title": "Pandemonium: A Discordant Concordance of Diverse Spirit Catalogues",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Stratton-Kent, Jake",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Stratton-Kent, Jake",
+    "fl": "Jake Stratton-Kent",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:grimoire",
+  "demons",
+  "magic",
+  "occult",
+  "contemporary practice"],
+  "tagidA": [12989395,
+  1538,
+  4,
+  3142,
+  2574903],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1907881662",
+  "isbn": {
+    "0": "1907881662",
+    "2": "9781907881664"
+  },
+  "asin": "1907881662",
+  "ean": ["1907881662"],
+  "publication": "Hadean Press (2016)",
+  "date": "2016",
+  "summary": "Pandemonium: A Discordant Concordance of Diverse Spirit Catalogues by Jake Stratton-Kent (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "18814258",
+  "entrydate": "2017-01-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "0.55 inches",
+  "dimensions": "6 x 0.55 x 9 inches",
+  "fromwhere": "Amazon.com"
 }}
