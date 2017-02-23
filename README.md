@@ -11,18 +11,18 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-444
+450
 
 ### LibraryThing grenres:
-- 118 "Fiction"
+- 123 "Fiction"
 - 96 "Graphic Novels"
 - 91 "Fantasy"
 - 75 "Nonfiction"
 - 60 "Science Fiction"
 - 49 "Religion & Spirituality"
 - 42 "History"
+- 19 "Mystery"
 - 18 "Science & Nature"
-- 14 "Mystery"
 - 13 "Young Adult"
 - 13 "Art & Design"
 - 10 "Biography & Memoir"
@@ -35,8 +35,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 116 "novel"
-- 113 "nonfiction"
+- 121 "novel"
+- 114 "nonfiction"
 - 96 "graphic novels & comics"
 - 25 "short stories"
 - 19 "grimoire"
@@ -57,7 +57,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Content tags:
 - 59 "occult"
 - 46 "future"
-- 42 "magic"
+- 43 "magic"
 - 27 "mythology"
 - 27 "horror"
 - 23 "humor"
@@ -68,17 +68,17 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 20 "primary source"
 - 18 "witchcraft"
 - 18 "art"
+- 17 "murder"
 - 16 "history"
 - 16 "england"
 - 15 "hell"
 - 14 "russia"
 - 14 "magical realism"
 - 14 "crime"
-- 13 "space travel"
 
 ### Original language:
-- 366 "English"
-- 8 "French"
+- 373 "English"
+- 7 "French"
 - 5 "Russian"
 - 5 "Latin"
 - 5 "German"
