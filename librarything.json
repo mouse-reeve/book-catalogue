@@ -43,7 +43,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "GN8.M286"
+    "code": "GN8 .M286"
   },
   "subject": {
     "0": ["Anthropology"],
@@ -109,16 +109,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S225V38"
+    "code": "PN6727 .V387"
   },
   "series": "Saga",
   "awards": ["Hugo Nominee"],
@@ -175,13 +175,13 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": [],
   "series": "Tank Girl: Remastered",
@@ -250,16 +250,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S225V38"
+    "code": "PN6727 .V387"
   },
   "series": "Saga",
   "awards": ["Hugo"],
@@ -323,15 +323,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "British",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European"]
   },
   "lcc": {
-    "code": "PN6737.M66V2"
+    "code": "PN6737 .M66"
   },
   "subject": [["Graphic novels"]],
   "series": "V For Vendetta",
@@ -339,7 +340,8 @@
   "awards": ["Prometheus Hall of Fame Award",
   "Prometheus Award Shortlist",
   "Prometheus Award Shortlist",
-  "Fauve d'or d'Angoul\u00eame"],
+  "Fauve d'or d'Angoul\u00eame",
+  "Berkeley Summer Reading"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -396,16 +398,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.M593H35"
+    "code": "PN6727 .M593"
   },
   "series": "Hellboy graphic novels",
   "genre": ["Graphic Novels"],
@@ -476,16 +478,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
@@ -551,12 +553,12 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6738.T35M553"
+    "code": "PN6738 .T35"
   },
   "series": "Tank Girl",
   "genre": ["Graphic Novels"],
@@ -627,12 +629,12 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6727.V38S78"
+    "code": "PN6727 .V38"
   },
   "series": "Squee!",
   "genre": ["Graphic Novels"],
@@ -691,13 +693,13 @@
   "xxx"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6728.S26G37"
+    "code": "PN6728 .S26"
   },
   "subject": {
     "0": ["Graphic Novels"],
@@ -772,16 +774,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.T48Z46"
+    "code": "PN6727 .T48"
   },
   "subject": [["Comic books, strips, etc"],
   ["Voyages and travels",
@@ -851,11 +853,11 @@
   "ddc": {
     "code": ["955.0542092"],
     "wording": ["Asia",
-    "Biography And History",
+    "Biography and History",
     "Iran"]
   },
   "lcc": {
-    "code": "PN6747.S245P4913"
+    "code": "PN6747 .S245"
   },
   "subject": [["Iran",
   "History",
@@ -933,16 +935,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.C34W3865"
+    "code": "PN6728 .C34"
   },
   "subject": {
     "0": ["American wit and humor, Pictorial"],
@@ -1019,7 +1021,7 @@
     "Russian"]
   },
   "lcc": {
-    "code": "PG2129.E5C78"
+    "code": "PG2129 .E5"
   },
   "subject": [["English language",
   "Grammar, Comparative",
@@ -1101,16 +1103,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.M54"
+    "code": "PN6728 .H45"
   },
   "series": "Hellboy graphic novels",
   "awards": ["International Horror Guild Award"],
@@ -1176,16 +1178,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.H38M54"
+    "code": "PN6728 .H38"
   },
   "subject": [["Comic books, strips, etc.",
   "United States"],
@@ -1263,16 +1265,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.H45M56"
+    "code": "PN6728 .H45"
   },
   "series": "Hellboy graphic novels",
   "genre": ["Graphic Novels"],
@@ -1337,10 +1339,10 @@
     "code": ["500"],
     "wording": ["General Science",
     "General Science",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "Q171.F385"
+    "code": "Q171 .F385"
   },
   "subject": {
     "0": ["Physics"],
@@ -1417,7 +1419,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .T68"
+  },
   "series": "Transmetropolitan",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -1488,16 +1492,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan",
@@ -1571,12 +1575,12 @@
   "ddc": {
     "code": ["133.4"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
-    "code": "BF1569.A2 I5"
+    "code": "BF1569 .A2"
   },
   "subject": {
     "0": ["Criminal Law"],
@@ -1665,16 +1669,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "genre": ["Science Fiction",
@@ -1743,21 +1747,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "ddc": {
-    "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
-  },
   "lcc": {
-    "code": "PN6738.H45"
+    "code": "PN6728 .H383"
   },
-  "subject": [["Comic books, strips, etc"]],
   "series": "Hellblazer",
-  "genre": ["Graphic Novels"],
-  "genre_id": ["4778"],
   "source": "amazon.com",
-  "workcode": "81878",
+  "workcode": "19504593",
   "entrydate": "2014-01-21",
   "format": [{
     "code": "1.1.1",
@@ -1828,7 +1823,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557.I2264P38"
+    "code": "PS3557 .I2264"
   },
   "subject": {
     "0": ["Business intelligence",
@@ -1921,15 +1916,17 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -1986,16 +1983,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.T48H33"
+    "code": "PN6727 .T48"
   },
   "awards": ["Pacific Northwest Booksellers Association Award",
   "1001 Comics You Must Read Before You Die",
@@ -2061,7 +2058,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "HQ504.M34"
+    "code": "HQ504 .M34"
   },
   "subject": {
     "0": ["Anthropology"],
@@ -2142,16 +2139,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.W284K65"
+    "code": "PN6727 .W284"
   },
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -2216,16 +2213,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5944"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French comics",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European",
+    "French"]
   },
   "lcc": {
-    "code": "PN6747.S245P4713"
+    "code": "PN6747 .S245"
   },
   "subject": [["Animated films"],
   ["Biographical"],
@@ -2285,7 +2282,8 @@
   "IBBY Honour Book",
   "Capitol Choices Noteworthy Book for Children and Teens",
   "VDL Green Mountain Book Award Nominee",
-  "CCBC Choices"],
+  "CCBC Choices",
+  "ALA Popular Paperbacks for Young Adults"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -2352,16 +2350,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.C34W383"
+    "code": "PN6728 .C34"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Calvin and Hobbes",
@@ -2432,7 +2430,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "UB271.R92H477"
+    "code": "UB271 .R92"
   },
   "subject": {
     "0": ["Computer crimes",
@@ -2461,7 +2459,8 @@
     "12": ["Hess, Markus"],
     "13": ["Stoll, Clifford"]
   },
-  "awards": ["ALA Best Books for Young Adults"],
+  "awards": ["ALA Best Books for Young Adults",
+  "Berkeley Summer Reading"],
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
   "source": "amazon.com",
@@ -2530,11 +2529,11 @@
     "code": ["915.3"],
     "wording": ["Arabian Peninsula",
     "Asia",
-    "Biography And History",
+    "Biography and History",
     "Geography, Voyages And Travel"]
   },
   "lcc": {
-    "code": "DT72.B4A28"
+    "code": "DT72 .B4"
   },
   "subject": {
     "0": ["Bedouins",
@@ -2623,10 +2622,10 @@
     "code": ["950.072"],
     "wording": ["Asia",
     "Asia",
-    "Biography And History"]
+    "Biography and History"]
   },
   "lcc": {
-    "code": "DS12.S24"
+    "code": "DS12 .S24"
   },
   "subject": {
     "0": ["Asia",
@@ -2747,7 +2746,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572.O5S6"
+    "code": "PS3572 .O5"
   },
   "subject": {
     "0": ["Extraterrestrial beings",
@@ -2895,7 +2894,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "BF637.N4S3"
+    "code": "BF637 .N4"
   },
   "subject": {
     "0": ["Games of strategy (Mathematics)"],
@@ -2963,11 +2962,11 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": {
-    "code": "BF1611.L4713"
+    "code": "BF1611 .L4713"
   },
   "subject": {
     "0": ["Bible and theosophy"],
@@ -3055,7 +3054,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552.U827K5"
+    "code": "PS3552 .U827"
   },
   "subject": {
     "0": ["African American women",
@@ -3168,13 +3167,13 @@
   "ddc": {
     "code": ["133.4409"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Spell casting",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
-    "code": "PN56.M23O93"
+    "code": "PN56 .M23"
   },
   "genre": ["Nonfiction",
   "History",
@@ -3253,7 +3252,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.P968Am"
+    "code": "PZ7 .P968"
   },
   "series": "His Dark Materials",
   "originaltitle": "The Amber Spyglass",
@@ -3361,7 +3360,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568.U76678S63"
+    "code": "PS3568 .U76678"
   },
   "subject": {
     "0": ["Jesuits",
@@ -3384,7 +3383,8 @@
   "Gaylactic Spectrum",
   "Locus Nominee",
   "Gaylactic Spectrum Nominee",
-  "ISFDB Top 100 Books - Critical List"],
+  "ISFDB Top 100 Books - Critical List",
+  "Berkeley Summer Reading"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy",
@@ -3461,7 +3461,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562.E42L39"
+    "code": "PS3562 .E42"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -3491,7 +3491,8 @@
   "Bloomsbury's 100 Must-Read Science Fiction Novels",
   "San Francisco Chronicle list of The 20th Century's 100 Best Fiction of the American West",
   "AbeBooks: 50 Essential Science Fiction Books",
-  "Harvard Bookstore Top 100"],
+  "Harvard Bookstore Top 100",
+  "Berkeley Summer Reading"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -3572,7 +3573,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039.O32L6 2002b pt. 1"
+    "code": "PR6039 .O32"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -3598,6 +3599,7 @@
   },
   "series": "The Lord of the Rings",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
+  "IBBY Honour Book",
   "Academy Award for Writing Adapted Screenplay Nominee",
   "501 Must-Read Books",
   "IBBY Honour Book",
@@ -3666,7 +3668,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.T5744Ro"
+    "code": "PZ7 .T5744"
   },
   "subject": {
     "0": ["Children's stories. lcsh"],
@@ -3745,12 +3747,12 @@
   "ddc": {
     "code": ["962.9004965"],
     "wording": ["Africa",
-    "Biography And History",
+    "Biography and History",
     "Egypt; Sudan; South Sudan",
     "South Sudan"]
   },
   "lcc": {
-    "code": "GN480.E78"
+    "code": "GN480 .E78"
   },
   "genre": ["History"],
   "genre_id": ["1599"],
@@ -3815,11 +3817,11 @@
   "ddc": {
     "code": ["952"],
     "wording": ["Asia",
-    "Biography And History",
+    "Biography and History",
     "Japan"]
   },
   "lcc": {
-    "code": "DS821.B46"
+    "code": "DS821 .B46"
   },
   "subject": {
     "0": ["Japan",
@@ -3899,12 +3901,12 @@
   "fre"],
   "ddc": {
     "code": ["981.00498"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "Brazil",
     "South America"]
   },
   "lcc": {
-    "code": "F2520.L4813"
+    "code": "F2520 .L4813"
   },
   "subject": {
     "0": ["Brazil",
@@ -3984,7 +3986,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039.O32S5"
+    "code": "PR6039 .O32"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -4088,12 +4090,12 @@
     "wording": ["Africa",
     "Biography; History By Place",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
-    "code": "DT155.2.A93E92"
+    "code": "DT155.2 .A93"
   },
   "subject": {
     "0": ["Causation"],
@@ -4189,7 +4191,7 @@
     "Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "DS110.5.L2"
+    "code": "DS110.5"
   },
   "genre": ["Nonfiction",
   "History"],
@@ -4246,10 +4248,10 @@
     "code": ["513"],
     "wording": ["Arithmetic",
     "Mathematics",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "QA11.P6"
+    "code": "QA11 .P6"
   },
   "subject": {
     "0": ["Mathematics",
@@ -4323,7 +4325,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL856.U673"
+    "code": "PL856 .U673"
   },
   "series": "The Rat",
   "originaltitle": "1973\u5e74\u306e\u30d4\u30f3\u30dc\u30fc\u30eb",
@@ -4403,7 +4405,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8H3"
+    "code": "PR9199.3 .A8"
   },
   "subject": {
     "0": ["Canadian fiction"],
@@ -4470,7 +4472,8 @@
   "Harvard Bookstore Top 100",
   "NPR's Top 100 Science-Fiction, Fantasy Books",
   "ALA 100 Most Frequently Challenged Books of 2000-2009",
-  "100 novels that make you proud to be a Canadian"],
+  "100 novels that make you proud to be a Canadian",
+  "The Literary Review of Canada's 100 most important Canadian books"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -4551,7 +4554,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.P8865Am"
+    "code": "PZ7 .P8865"
   },
   "subject": {
     "0": ["Cats",
@@ -4654,7 +4657,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3570.I66B7"
+    "code": "PS3570 .I66"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -4738,7 +4741,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6103.L375L33"
+    "code": "PR6103 .L375"
   },
   "subject": {
     "0": ["Fairies",
@@ -4751,7 +4754,8 @@
   "originaltitle": "The Ladies of Grace Adieu and Other Stories",
   "awards": ["World Fantasy Award Nominee",
   "SF Site Editor's Choice",
-  "Christian Science Monitor Best Book"],
+  "Christian Science Monitor Best Book",
+  "Locus Award Finalist"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
   "source": "amazon.com",
@@ -4823,7 +4827,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.P968Go"
+    "code": "PZ7 .P968"
   },
   "subject": {
     "0": ["Arctic Regions",
@@ -4976,7 +4980,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558.A353F67"
+    "code": "PS3558 .A353"
   },
   "subject": {
     "0": ["Aging",
@@ -5083,7 +5087,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL856.U673S4513"
+    "code": "PL856 .U673"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -5174,7 +5178,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6063.I265C58"
+    "code": "PR6063 .I265"
   },
   "originaltitle": "The City & The City",
   "awards": ["Amazon.com Best Books",
@@ -5193,7 +5197,8 @@
   "Los Angeles Times Best Books of the Year",
   "Kitschies: Red Tentacle Award",
   "Prix Elbakin.net",
-  "Grand Prix de l'Imaginaire"],
+  "Grand Prix de l'Imaginaire",
+  "Locus Award Finalist"],
   "genre": ["Fiction",
   "Mystery",
   "Science Fiction",
@@ -5278,7 +5283,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3570.O54C66"
+    "code": "PS3570 .O54"
   },
   "subject": {
     "0": ["English Fiction"],
@@ -5400,7 +5405,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2469.V75E5"
+    "code": "PQ2469 .V75"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -5512,7 +5517,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039.O32 L6 2001 pt. 2"
+    "code": "PR6039 .O32"
   },
   "subject": {
     "0": ["Adventure"],
@@ -5626,7 +5631,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6039.O32L6 1986 pt. 3"
+    "code": "PR6039 .O32"
   },
   "subject": {
     "0": ["Adventure"],
@@ -5738,7 +5743,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4494.M62"
+    "code": "PR4494 .M62"
   },
   "subject": {
     "0": ["Country homes",
@@ -5843,7 +5848,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.R79835Har"
+    "code": "PZ7 .R79835"
   },
   "subject": {
     "0": ["Alchemy",
@@ -6082,7 +6087,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PN6381.S4"
+    "code": "PN6381 .S4"
   },
   "subject": {
     "0": ["Encyclopedias and dictionaries",
@@ -6160,7 +6165,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6057.A319G6"
+    "code": "PR6057 .A319"
   },
   "subject": {
     "0": ["End of the world",
@@ -6266,7 +6271,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6057.A319O28"
+    "code": "PR6057 .A319"
   },
   "awards": ["Kirkus Reviews Best Book of the Year",
   "NextReads Best Fantasy",
@@ -6280,7 +6285,9 @@
   "Time Magazine's Best Books of the Year",
   "Galaxy National Book Awards Shortlist",
   "Galaxy National Book Awards Shortlist",
-  "Galaxy National Book Awards Shortlist"],
+  "Galaxy National Book Awards Shortlist",
+  "Locus Award Finalist",
+  "IBBY Honour Book"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -6359,7 +6366,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569.H39125I4"
+    "code": "PS3569 .H39125"
   },
   "subject": {
     "0": ["Conspiracy",
@@ -6446,7 +6453,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3572.O5C3"
+    "code": "PS3572 .O5"
   },
   "subject": {
     "0": ["End of the world",
@@ -6539,7 +6546,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3551.S5A6"
+    "code": "PS3551 .S5"
   },
   "subject": {
     "0": ["Life on other planets",
@@ -6643,7 +6650,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.T5744Ho"
+    "code": "PZ7 .T5744"
   },
   "subject": {
     "0": ["Adventure"],
@@ -6783,12 +6790,12 @@
   "xxx"],
   "ddc": {
     "code": ["944"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "Europe",
     "France And Monaco"]
   },
   "lcc": {
-    "code": "DC20.5.R63"
+    "code": "DC20.5 .R63"
   },
   "subject": [["Bicycle touring",
   "France"],
@@ -6873,7 +6880,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.G1273Co"
+    "code": "PZ7 .G1273"
   },
   "subject": {
     "0": ["Courage",
@@ -6979,7 +6986,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.B327Wi"
+    "code": "PZ7 .B327"
   },
   "subject": {
     "0": ["Adventure and adventurers",
@@ -7091,7 +7098,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3620.O53 V37"
+    "code": "PS3620 .O53 V37"
   },
   "subject": {
     "0": ["Biotechnology",
@@ -7181,7 +7188,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3515.A4347M3"
+    "code": "PS3515 .A4347"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -7350,7 +7357,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3611.N55T37"
+    "code": "PS3611 .N55"
   },
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -7427,7 +7434,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR4825.J3A7753"
+    "code": "PR4825 .J3"
   },
   "subject": {
     "0": ["Adventure fiction"],
@@ -7532,7 +7539,7 @@
     "Spanish fiction"]
   },
   "lcc": {
-    "code": "PQ8180.17.A73A813"
+    "code": "PQ8180.17 .A73"
   },
   "subject": {
     "0": ["Colombia",
@@ -7623,7 +7630,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4879.L2 N5"
+    "code": "PR4879 .L2"
   },
   "subject": {
     "0": ["Nonsense literature, English"],
@@ -7690,7 +7697,7 @@
     "Linguistics"]
   },
   "lcc": {
-    "code": "P371.L96"
+    "code": "P371 .L96"
   },
   "subject": [["Language and languages"]],
   "source": "amazon.com",
@@ -7773,7 +7780,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4865.C6N613"
+    "code": "PQ4865 .C6"
   },
   "originaltitle": "Il nome della rosa",
   "genre": ["Fiction",
@@ -7843,13 +7850,13 @@
   "ddc": {
     "code": ["598.147"],
     "wording": ["Crocodilia: Crocodiles",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Reptiles",
     "Reptiles; Birds ",
     "Zoology"]
   },
   "lcc": {
-    "code": "QL697.4.H36"
+    "code": "QL697.4 .H36"
   },
   "awards": ["Pacific Northwest Booksellers Association Award",
   "Samuel Johnson Prize for Non-fiction Longlist",
@@ -7922,7 +7929,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6059.S5N48"
+    "code": "PR6059 .S5"
   },
   "subject": {
     "0": ["Cloning",
@@ -8041,7 +8048,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "RC351.S195"
+    "code": "RC351 .S195"
   },
   "subject": {
     "0": ["Large Type Books"],
@@ -8127,7 +8134,7 @@
   "ddc": {
     "code": ["150.1954"],
     "wording": ["Jungian system",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Psychoanalytic systems",
     "Psychology",
     "Psychology",
@@ -8135,7 +8142,7 @@
     "Theory And Instruction"]
   },
   "lcc": {
-    "code": "BF109.J8A3"
+    "code": "BF109 .J8"
   },
   "originaltitle": "The Red Book. Liber Novus",
   "genre": ["Religion & Spirituality"],
@@ -8209,7 +8216,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PG3483.U498N613"
+    "code": "PG3483 .U498"
   },
   "subject": [["Fantasy fiction"],
   ["Vampires",
@@ -8281,7 +8288,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PA6522.M2H8"
+    "code": "PA6522 .M2"
   },
   "subject": {
     "0": ["Didactic poetry, Latin"],
@@ -8391,7 +8398,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3366.A6"
+    "code": "PG3366 .A6"
   },
   "subject": {
     "0": ["Adultery",
@@ -8555,7 +8562,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PG3476.S78835P5513"
+    "code": "PG3476 .S78835"
   },
   "subject": [["Russian fiction"],
   ["Science Fiction"],
@@ -8644,7 +8651,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PG7158.L39S613"
+    "code": "PG7158 .L39"
   },
   "subject": {
     "0": ["Authors, Polish",
@@ -8746,7 +8753,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045.O53B4"
+    "code": "PR6045 .O53"
   },
   "subject": {
     "0": ["England",
@@ -8835,7 +8842,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3488.L35A61613"
+    "code": "PG3488 .L35"
   },
   "awards": ["\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0411\u0443\u043a\u0435\u0440"],
   "genre": ["Fiction"],
@@ -8903,7 +8910,7 @@
     "Theological Conceptions and Doctrines"]
   },
   "lcc": {
-    "code": "BL860.D36"
+    "code": "BL860 .D36"
   },
   "subject": {
     "0": ["Europe, Northern",
@@ -8975,14 +8982,14 @@
   "ddc": {
     "code": ["912.7946"],
     "wording": ["Atlases of North America",
-    "Biography And History",
+    "Biography and History",
     "California",
     "Geography, Voyages And Travel",
     "Maps and Atlases",
     "West Coast U.S."]
   },
   "lcc": {
-    "code": "G1527.S22S6"
+    "code": "G1527 .S22"
   },
   "series": "Rebecca Solnit's City Atlases",
   "genre": ["Nonfiction",
@@ -9061,7 +9068,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PG7158.L39C813"
+    "code": "PG7158 .L39"
   },
   "subject": {
     "0": ["Poland",
@@ -9143,7 +9150,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PG3476.T6A813"
+    "code": "PG3476 .T6"
   },
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
@@ -9206,7 +9213,7 @@
     "Types of crimes"]
   },
   "lcc": {
-    "code": "HV6533.K3C3"
+    "code": "HV6533 .K3"
   },
   "subject": {
     "0": ["Crime films and programs"],
@@ -9310,7 +9317,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6069.T6A84"
+    "code": "PR6069 .T6"
   },
   "subject": [["Literature, Comparative",
   "Periodicals"]],
@@ -9388,7 +9395,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PM8008.O37"
+    "code": "PM8008 .O37"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
@@ -9462,7 +9469,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3476.B78M313"
+    "code": "PG3476 .B78"
   },
   "subject": {
     "0": ["Allegories"],
@@ -9584,7 +9591,7 @@
     "Writing: Materials, Typewriters"]
   },
   "lcc": {
-    "code": "P211.S36"
+    "code": "P211 .S36"
   },
   "subject": [["Linguistics"],
   ["Typology (Linguistics)"],
@@ -9669,7 +9676,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3558.E476C3"
+    "code": "PS3558 .E476"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -9779,7 +9786,7 @@
     "Linguistics"]
   },
   "lcc": {
-    "code": "P106.C523"
+    "code": "P106 .C523"
   },
   "subject": [["Language and languages"]],
   "genre": ["Nonfiction"],
@@ -9844,14 +9851,14 @@
   "xxx"],
   "ddc": {
     "code": ["910.45"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "Geography and Travels ",
     "Geography, Voyages And Travel",
     "Ocean voyages, pirates",
     "Special Topics"]
   },
   "lcc": {
-    "code": "GV822.A4"
+    "code": "GV822 .A4"
   },
   "source": "amazon.com",
   "workcode": "609419",
@@ -9924,7 +9931,7 @@
     "Types of crimes"]
   },
   "lcc": {
-    "code": "HV6248.M8L37"
+    "code": "HV6248 .M8"
   },
   "subject": {
     "0": ["Architects",
@@ -10048,7 +10055,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PN6162.M247"
+    "code": "PN6162 .M247"
   },
   "subject": [["American Wit and humor"],
   ["American wit and humor"]],
@@ -10114,7 +10121,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3476.Z34M913"
+    "code": "PG3476 .Z34"
   },
   "subject": [["Science Fiction"],
   ["Science fiction"],
@@ -10267,12 +10274,12 @@
   "xxx"],
   "ddc": {
     "code": ["910"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "Geography and Travels ",
     "Geography, Voyages And Travel"]
   },
   "lcc": {
-    "code": "G765.T5K38"
+    "code": "G765 .T5"
   },
   "subject": [["Arctic Regions",
   "Discovery and exploration"],
@@ -10353,7 +10360,7 @@
     "Pidgins, creoles, mixed languages"]
   },
   "lcc": {
-    "code": "PM7801.H65"
+    "code": "PM7801 .H65"
   },
   "series": "Cambridge Textbooks in Linguistics",
   "source": "amazon.com",
@@ -10410,7 +10417,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "SF523.D22"
+    "code": "SF523 .D22"
   },
   "subject": {
     "0": ["Bee culture"],
@@ -10489,11 +10496,11 @@
     "code": ["510.1"],
     "wording": ["General Mathematics",
     "Mathematics",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Philosophy And Psychology"]
   },
   "lcc": {
-    "code": "QA9.8.H63"
+    "code": "QA9.8 .H63"
   },
   "subject": {
     "0": ["Artificial Intelligence"],
@@ -10588,11 +10595,11 @@
   "ddc": {
     "code": ["792.04"],
     "wording": ["Amusements and Recreation",
-    "Arts And Leisure",
+    "Arts and Recreation",
     "Stage Entertainments"]
   },
   "lcc": {
-    "code": "PN2021.A713"
+    "code": "PN2021 .A713"
   },
   "subject": {
     "0": ["THEATER"],
@@ -10666,7 +10673,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2603.E378E53"
+    "code": "PQ2603 .E378"
   },
   "subject": [["Audio-visual materials",
   "Sound recordings"],
@@ -10759,7 +10766,7 @@
     "Taoism"]
   },
   "lcc": {
-    "code": "BL1900.L3E5"
+    "code": "BL1900 .L3"
   },
   "subject": {
     "0": ["Chinese language materials",
@@ -10849,7 +10856,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR4825.J3A67"
+    "code": "PR4825 .J3"
   },
   "originaltitle": "The Idle Thoughts of an Idle Fellow",
   "source": "amazon.com",
@@ -10915,7 +10922,7 @@
     "Tales and lore of places and times"]
   },
   "lcc": {
-    "code": "GN751.D38"
+    "code": "GN751 .D38"
   },
   "subject": {
     "0": ["Atlantis"],
@@ -10989,11 +10996,11 @@
   "ddc": {
     "code": ["795"],
     "wording": ["Amusements and Recreation",
-    "Arts And Leisure",
+    "Arts and Recreation",
     "Games Of Chance"]
   },
   "lcc": {
-    "code": "GV1469.B2B33"
+    "code": "GV1469 .B2"
   },
   "source": "amazon.com",
   "workcode": "1241211",
@@ -11066,7 +11073,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PG7158.L39O613"
+    "code": "PG7158 .L39"
   },
   "subject": [["Poland",
   "Fiction"],
@@ -11145,7 +11152,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6069.T6R6"
+    "code": "PR6069 .T6"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -11222,7 +11229,7 @@
     "Spanish fiction"]
   },
   "lcc": {
-    "code": "PQ8180.17.A73C513"
+    "code": "PQ8180.17 .A73"
   },
   "subject": {
     "0": ["Epic fiction"],
@@ -11345,7 +11352,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.M64Wo"
+    "code": "PZ7 .M64"
   },
   "subject": {
     "0": ["Animals",
@@ -11432,7 +11439,7 @@
     "Poetry"]
   },
   "lcc": {
-    "code": "PR5308.A1"
+    "code": "PR5308 .A1"
   },
   "subject": [["Lady of the Lake (Legendary character)",
   "Poetry"]],
@@ -11537,7 +11544,7 @@
     "Information"]
   },
   "lcc": {
-    "code": "Z992.T16"
+    "code": "Z992 .T16"
   },
   "subject": {
     "0": ["Bibliomania"],
@@ -11606,7 +11613,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.N647Ab"
+    "code": "PZ7 .N647"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -11698,7 +11705,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.N647Li"
+    "code": "PZ7 .N647"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -11805,7 +11812,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3601.B7367S47"
+    "code": "PS3601 .B7367"
   },
   "originaltitle": "S.",
   "awards": ["Buzzfeed"],
@@ -11874,7 +11881,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.N647Sab"
+    "code": "PZ7 .N647"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -11988,7 +11995,7 @@
     "Journalism And Publishing"]
   },
   "lcc": {
-    "code": "PN4874.T444A3"
+    "code": "PN4874 .T444"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -12068,7 +12075,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.D1515Sk"
+    "code": "PZ7"
   },
   "subject": [["Short Stories"],
   ["Short stories"],
@@ -12184,12 +12191,12 @@
   "ddc": {
     "code": ["598.2924"],
     "wording": ["Birds: Aves",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Reptiles; Birds ",
     "Zoology"]
   },
   "lcc": {
-    "code": "QL673.H29"
+    "code": "QL673 .H29"
   },
   "subject": {
     "0": ["Birds",
@@ -12261,11 +12268,11 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": {
-    "code": "BF1561.P6813"
+    "code": "BF1561 .P6813"
   },
   "originaltitle": "La poule noire",
   "genre": ["Religion & Spirituality",
@@ -12396,7 +12403,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8M34"
+    "code": "PR9199.3 .A8"
   },
   "series": "MaddAddam Trilogy",
   "awards": ["Baileys Women's Prize for Fiction Longlist",
@@ -12460,16 +12467,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "DS135.P63S68"
+    "code": "DS135 .P63"
   },
   "subject": [["Children of Holocaust survivors",
   "United States",
@@ -12576,7 +12583,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6103.L375J65"
+    "code": "PR6103 .L375"
   },
   "subject": {
     "0": ["Fairies",
@@ -12638,7 +12645,8 @@
   "Virgin Books Newcomer of the Year Award",
   "JoMA Mythic Fiction Reading List",
   "San Francisco Chronicle Best Book of the Year",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u0440\u043e\u043c\u0430\u043d\u043e\u0432 XXI \u0432\u0435\u043a\u0430 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"\u0410\u0444\u0438\u0448\u0430\""],
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u0440\u043e\u043c\u0430\u043d\u043e\u0432 XXI \u0432\u0435\u043a\u0430 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"\u0410\u0444\u0438\u0448\u0430\"",
+  "Locus Award Finalist"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -12705,10 +12713,12 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "BF1611 .P48"
+  },
   "genre": ["Nonfiction",
   "Religion & Spirituality",
   "Health & Wellness"],
@@ -12781,7 +12791,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8Y43"
+    "code": "PR9199.3 .A8"
   },
   "series": "MaddAddam Trilogy",
   "awards": ["New York Times bestseller",
@@ -12865,7 +12875,7 @@
     "Persian"]
   },
   "lcc": {
-    "code": "PZ4.L537Re "
+    "code": "PZ4 .L537"
   },
   "originaltitle": "Powr\u00f3t z gwiazd",
   "genre": ["Science Fiction"],
@@ -12941,7 +12951,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8 O79"
+    "code": "PR9199.3 .A8"
   },
   "subject": {
     "0": ["Dystopias"],
@@ -13038,16 +13048,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E4325"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "awards": ["1001 Comics You Must Read Before You Die"],
@@ -13116,12 +13126,12 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6727.V38J8"
+    "code": "PN6727 .V38"
   },
   "series": "Johnny the Homicidal Maniac",
   "genre": ["Graphic Novels"],
@@ -13191,7 +13201,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.G1273Co"
+    "code": "PZ7 .G1273"
   },
   "subject": {
     "0": ["Courage",
@@ -13309,13 +13319,13 @@
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1601.C4313"
+    "code": "BF1601 .C4313"
   },
   "subject": [["Magic",
   "Early works to 1800"],
@@ -13458,16 +13468,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.C34W386"
+    "code": "PN6728 .C34"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Calvin and Hobbes",
@@ -13539,7 +13549,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8A79"
+    "code": "PR9199.3 .A8"
   },
   "subject": {
     "0": ["Biographical fiction"],
@@ -13586,6 +13596,7 @@
     "29": ["biographical fiction"],
     "30": ["historical fiction"]
   },
+  "originaltitle": "Alias Grace",
   "awards": ["Booker Prize Shortlist",
   "Scotiabank Giller Prize Shortlist",
   "1001 Books You Must Read Before You Die",
@@ -13673,7 +13684,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045.O53A6"
+    "code": "PR6045 .O53"
   },
   "subject": {
     "0": ["England",
@@ -13748,7 +13759,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR5819.A1"
+    "code": "PR5819 .A1"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -13883,7 +13894,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL856.U673N4513"
+    "code": "PL856 .U673"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -13997,7 +14008,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4865.C6P4613"
+    "code": "PQ4865 .C6"
   },
   "subject": {
     "0": ["Alchemists",
@@ -14086,7 +14097,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2228.A355"
+    "code": "PZ3 .D89"
   },
   "subject": {
     "0": ["Adventure and adventurers",
@@ -14218,7 +14229,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR5812.S53"
+    "code": "PR5812 .S53"
   },
   "source": "amazon.com",
   "workcode": "27408",
@@ -14286,16 +14297,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "genre": ["Science Fiction",
@@ -14376,7 +14387,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR5774.W3"
+    "code": "PR5774 .W3"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -14492,16 +14503,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "genre": ["Science Fiction",
@@ -14574,16 +14585,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E4455"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "originaltitle": "Transmetropolitan Vol. 09: The Cure",
@@ -14645,16 +14656,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.H45M54"
+    "code": "PN6728 .H45"
   },
   "series": "Hellboy graphic novels",
   "awards": ["Eisner Award"],
@@ -14724,7 +14735,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .T68"
+  },
   "series": "Transmetropolitan",
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -14858,16 +14871,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.T68E"
+    "code": "PN6728 .T68"
   },
   "series": "Transmetropolitan",
   "genre": ["Science Fiction",
@@ -14927,7 +14940,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "lcc": [],
+  "lcc": {
+    "code": "PE1112 .G578"
+  },
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
   "source": "amazon.com",
@@ -15007,7 +15022,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.T5744Ho"
+    "code": "PZ7 .T5744"
   },
   "subject": {
     "0": ["Adventure"],
@@ -15147,15 +15162,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "British",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European"]
   },
   "lcc": {
-    "code": "PN6737.M66W38"
+    "code": "PN6737 .M66"
   },
   "subject": {
     "0": ["Comic books, strips, etc"],
@@ -15255,7 +15271,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566.Y55C79"
+    "code": "PS3566 .Y55"
   },
   "subject": {
     "0": ["Administration of estates",
@@ -15348,7 +15364,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3523.O833A6"
+    "code": "PS3523 .O833"
   },
   "subject": [["Horror tales, American"]],
   "genre": ["Fantasy"],
@@ -15414,7 +15430,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566.Y55V2"
+    "code": "PS3566 .Y55"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -15504,7 +15520,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "GR550.P7613"
+    "code": "GR550 .P7613"
   },
   "subject": {
     "0": [null],
@@ -15584,16 +15600,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S225V38"
+    "code": "PN6728 .S225"
   },
   "series": "Saga",
   "awards": ["Hugo Nominee"],
@@ -15665,7 +15681,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3563.I4215C3"
+    "code": "PS3563 .I4215"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -15763,7 +15779,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3608.O9566W66"
+    "code": "PS3608 .O9566"
   },
   "series": "Silo Series",
   "awards": ["Prix des libraires du Qu\u00e9bec",
@@ -15876,20 +15892,18 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["French"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "fre"],
+  "xxx"],
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1611.M38"
+    "code": "BF1611 .M38"
   },
   "subject": {
     "0": ["Magic"],
@@ -15955,13 +15969,13 @@
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1611.A7313"
+    "code": "BF1611 .A7313"
   },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -16023,13 +16037,13 @@
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1611.W3"
+    "code": "BF1611 .W3"
   },
   "subject": {
     "0": ["Demonology"],
@@ -16103,7 +16117,7 @@
     "England & Wales",
     "Europe",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
@@ -16209,8 +16223,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "jpn"],
   "ddc": {
     "code": ["895.635"],
     "wording": ["1945-1999",
@@ -16221,7 +16237,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL856.U673A6613"
+    "code": "PL856 .U673"
   },
   "subject": {
     "0": ["Japanese literature",
@@ -16312,7 +16328,7 @@
     "Taoism"]
   },
   "lcc": {
-    "code": "PR6025.I65Z68"
+    "code": "PR6025 .I65"
   },
   "subject": {
     "0": ["Children",
@@ -16412,7 +16428,7 @@
     "Taoism"]
   },
   "lcc": {
-    "code": "BL1900.L3E5"
+    "code": "BL1900 .L3"
   },
   "subject": {
     "0": ["Chinese language materials",
@@ -16494,11 +16510,11 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": {
-    "code": "BF1600.A3613"
+    "code": "BF1600 .A3613"
   },
   "subject": {
     "0": ["Magic",
@@ -16564,13 +16580,13 @@
   "xxx"],
   "ddc": {
     "code": ["745.4"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Decorative Art And Design",
     "Drawing; Decoration; Design ",
     "Pure And Applied"]
   },
   "lcc": {
-    "code": "NK1510.C5"
+    "code": "NK1510 .C5"
   },
   "subject": {
     "0": ["DESIGN"],
@@ -16639,7 +16655,7 @@
     "Religion "]
   },
   "lcc": {
-    "code": "BL2532.S3G674"
+    "code": "BL2532 .S3"
   },
   "subject": [["Santeria"]],
   "genre": ["Nonfiction",
@@ -16712,7 +16728,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4494.W5"
+    "code": "PR4494 .W5"
   },
   "subject": {
     "0": ["Apparitions",
@@ -16863,7 +16879,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "lcc": [],
+  "lcc": {
+    "code": "BT981 D5"
+  },
   "genre": ["Art & Design"],
   "genre_id": ["9985304"],
   "source": "amazon.com",
@@ -16923,7 +16941,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552.R84 A6"
+    "code": "PS3552 .R84"
   },
   "subject": {
     "0": ["Fantastic fiction"],
@@ -16992,7 +17010,7 @@
     "Phonology and phonetics"]
   },
   "lcc": {
-    "code": "PE1135.A2"
+    "code": "PE1135 .A2"
   },
   "subject": [["English language",
   "Phonetics"],
@@ -17049,7 +17067,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PN43.B65"
+    "code": "PN43 .B65"
   },
   "subject": {
     "0": ["Allusions"],
@@ -17148,7 +17166,7 @@
     "Literature and science"]
   },
   "lcc": {
-    "code": "PN56.C83N67"
+    "code": "PN56 .C83"
   },
   "genre": ["Science & Nature"],
   "genre_id": ["1457"],
@@ -17200,12 +17218,12 @@
   "xxx"],
   "ddc": {
     "code": ["900"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "History",
     "History and Geography"]
   },
   "lcc": {
-    "code": "BF1565.S4"
+    "code": "BF1565 .S4"
   },
   "subject": {
     "0": ["Demonology"],
@@ -17342,7 +17360,7 @@
     "Religion "]
   },
   "lcc": {
-    "code": "BF1582.A2B63"
+    "code": "BF1582 .A2"
   },
   "subject": [["Criminal law",
   "France"],
@@ -17428,12 +17446,12 @@
   "xxx"],
   "ddc": {
     "code": ["712"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Gardens",
     "Landscape Gardening"]
   },
   "lcc": {
-    "code": "SB475.M3"
+    "code": "SB475 .M3"
   },
   "subject": {
     "0": ["Labyrinths"],
@@ -17512,16 +17530,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.C34W387"
+    "code": "PN6728 .C34"
   },
   "subject": {
     "0": ["Cartoons and comics"],
@@ -17600,7 +17618,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4809.A45C513"
+    "code": "PQ4809 .A45"
   },
   "subject": {
     "0": ["Biographical fiction"],
@@ -17693,7 +17711,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3527.A15P3"
+    "code": "PS3527 .A15"
   },
   "subject": [["Experimental fiction"]],
   "awards": ["Time's All-Time 100 Novels selection",
@@ -17786,7 +17804,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PG7158.L39 W513"
+    "code": "PG7158 .L39"
   },
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
@@ -17850,7 +17868,7 @@
     "Speller-dividers--English language"]
   },
   "lcc": {
-    "code": "PE1680.G58"
+    "code": "PE1680 .G58"
   },
   "subject": {
     "0": ["English language",
@@ -17917,10 +17935,10 @@
     "code": ["160"],
     "wording": ["Logic",
     "Logic",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "P142.L23"
+    "code": "P142 .L23"
   },
   "subject": [["Linguistic change"]],
   "series": "Language in Society",
@@ -17988,7 +18006,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.P968Su"
+    "code": "PZ7 .P968"
   },
   "subject": {
     "0": ["Arctic Regions",
@@ -18101,16 +18119,17 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6727.H486L63"
+    "code": "PN6727 .H486"
   },
   "series": "Locke & Key",
   "awards": ["YALSA Great Graphic Novels for Teens",
-  "Mythopoeic Fantasy Award Nominee"],
+  "Mythopoeic Fantasy Award Nominee",
+  "ALA Popular Paperbacks for Young Adults"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -18175,13 +18194,13 @@
     "Mexico, Central America, and the Caribbean",
     "North America",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1584.P9R66"
+    "code": "BF1584 .P9"
   },
   "subject": {
     "0": ["Magic",
@@ -18253,7 +18272,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL875.5.A45O7813"
+    "code": "PL875.5 .A45"
   },
   "awards": ["Prix Actusf de l\u2019Uchronie"],
   "genre": ["Science Fiction"],
@@ -18317,15 +18336,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "British",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European"]
   },
   "lcc": {
-    "code": "PN6728.P75M667"
+    "code": "PN6728 .P75"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
@@ -18391,11 +18411,13 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .T267"
+  },
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -18469,7 +18491,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "DU813.M4"
+    "code": "DU813 .M4"
   },
   "subject": {
     "0": ["Adolescence"],
@@ -18561,7 +18583,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "GN419.5.N36"
+    "code": "GN419.5 .N36"
   },
   "genre": ["Religion & Spirituality",
   "Art & Design"],
@@ -18616,13 +18638,13 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
     "code": "PN6728"
@@ -18691,7 +18713,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4611.H8"
+    "code": "PR4611 .H8"
   },
   "subject": {
     "0": ["California",
@@ -18770,7 +18792,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3565.C57Ev"
+    "code": "PS3565 .C57"
   },
   "subject": {
     "0": ["Short stories, English"],
@@ -18847,7 +18869,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3562.E42A79"
+    "code": "PS3562 .E42"
   },
   "subject": {
     "0": ["California",
@@ -18946,7 +18968,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6045.O53M3"
+    "code": "PR6045 .O53"
   },
   "subject": {
     "0": ["England",
@@ -19035,7 +19057,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PG7158.L39O613"
+    "code": "PG7158 .L39"
   },
   "subject": [["Poland",
   "Social life and customs",
@@ -19108,7 +19130,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "GR650.M36"
+    "code": "GR650 .M36"
   },
   "subject": {
     "0": ["Fantastic literature",
@@ -19184,12 +19206,12 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6728.G65B77"
+    "code": "PN6728 .G65"
   },
   "series": "Gotham Central",
   "originaltitle": "Gotham Central, Book One: In the Line of Duty",
@@ -19255,7 +19277,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR4825.J3 A64x"
+    "code": "PR4825 .J3"
   },
   "subject": [["British",
   "Europe",
@@ -19329,10 +19351,12 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "BF1623 .E55 D45"
+  },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
   "source": "amazon.com",
@@ -19402,16 +19426,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.B3757Z46"
+    "code": "PN6727 .B3757"
   },
   "subject": {
     "0": ["Authors, American",
@@ -19435,7 +19459,7 @@
   "Publishing Triangle",
   "Harvey Award Nominee",
   "Time Magazine's Best Books of the Year",
-  "ALA Rainbow List",
+  "ALA Rainbow Book List",
   "Ignatz Award nominee",
   "Salon Book Award",
   "Guardian 1000",
@@ -19512,7 +19536,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.D1515Um"
+    "code": "PZ7"
   },
   "subject": {
     "0": ["Short Stories"],
@@ -19580,16 +19604,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6727.M53H448"
+    "code": "PN6727 .M53"
   },
   "series": "Hellboy graphic novels",
   "genre": ["Graphic Novels"],
@@ -19656,16 +19680,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.G65R836"
+    "code": "PN6728 .G65"
   },
   "series": "Gotham Central",
   "genre": ["Graphic Novels"],
@@ -19724,11 +19748,13 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H38"
+  },
   "series": "Hellboy graphic novels",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -19794,16 +19820,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.G65B78"
+    "code": "PN6728 .G65"
   },
   "series": "Gotham Central",
   "originaltitle": "Gotham Central, Book Two: Jokers and Madmen",
@@ -19871,7 +19897,7 @@
     "Manuscripts; Autographs"]
   },
   "lcc": {
-    "code": "Z105.5.V65K46"
+    "code": "Z105.5 .V65"
   },
   "subject": {
     "0": ["Bacon, Roger, 1214?-1294",
@@ -19953,16 +19979,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6737.M6"
+    "code": "PN6737 .M6"
   },
   "subject": {
     "0": ["Detective and mystery comic books, strips, etc"],
@@ -20059,7 +20085,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569.T3868D53"
+    "code": "PS3569 .T3868"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -20139,7 +20165,7 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "lcc": {
-    "code": "PN6727.V466 D545"
+    "code": "PN6727 .V466 D545"
   },
   "awards": ["Mythopoeic Fantasy Award",
   "Hugo"],
@@ -20202,12 +20228,12 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6728.G65R835"
+    "code": "PN6728 .G65"
   },
   "series": "Gotham Central",
   "originaltitle": "Gotham Central, Book Three: On the Freak Beat",
@@ -20266,10 +20292,10 @@
     "Biography And History",
     "General Mathematics",
     "Mathematics",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "QA29.C353W55"
+    "code": "QA29 .C353"
   },
   "genre": ["Biography & Memoir",
   "Nonfiction",
@@ -20344,7 +20370,7 @@
     "Versions in English and Anglo-Saxon"]
   },
   "lcc": {
-    "code": "BS185 2008.O94"
+    "code": "BS185 .O94"
   },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -20409,7 +20435,7 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": [],
@@ -20481,7 +20507,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3476.S78835Z3213"
+    "code": "PG3476 .S78835"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -20542,12 +20568,12 @@
   "xxx"],
   "ddc": {
     "code": ["914.031"],
-    "wording": ["Biography And History",
+    "wording": ["Biography and History",
     "Europe",
     "Geography, Voyages And Travel"]
   },
   "lcc": {
-    "code": "BF1569.R88"
+    "code": "BF1569 .R88"
   },
   "subject": [["Witchcraft",
   "Europe",
@@ -20620,10 +20646,10 @@
     "wording": ["General Principles",
     "Logic",
     "Mathematics",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "BC135.C336"
+    "code": "BC135 .C336"
   },
   "subject": [["Logic, Symbolic and mathematical"]],
   "genre": ["Nonfiction"],
@@ -20688,11 +20714,11 @@
     "code": ["540.1"],
     "wording": ["Chemistry",
     "Chemistry",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Theory And Instruction"]
   },
   "lcc": {
-    "code": "QD24.A1W3"
+    "code": "QD24 .A1"
   },
   "subject": {
     "0": ["Alchemists",
@@ -20762,11 +20788,11 @@
     "wording": ["Cultural Psychology",
     "Developmental And Differential Psychology",
     "Nonliterate societies",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Psychology"]
   },
   "lcc": {
-    "code": "GN451.L3813"
+    "code": "GN451 .L3813"
   },
   "subject": {
     "0": ["Ethnophilosophy"],
@@ -20838,7 +20864,7 @@
     "Language"]
   },
   "lcc": {
-    "code": "P105.S2"
+    "code": "P105 .S2"
   },
   "subject": [["Language and languages"]],
   "genre": ["Nonfiction"],
@@ -20912,7 +20938,7 @@
     "Religion "]
   },
   "lcc": {
-    "code": "BF1503.R6"
+    "code": "BF1503 .R6"
   },
   "subject": {
     "0": ["Demonology",
@@ -20990,7 +21016,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6057.A319S36"
+    "code": "PR6057 .A319"
   },
   "subject": {
     "0": ["Fantasy comic books, strips, etc."],
@@ -21065,7 +21091,7 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": [],
@@ -21140,7 +21166,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554.U47G4"
+    "code": "PS3554 .U47"
   },
   "subject": {
     "0": ["Carnival owners",
@@ -21307,7 +21333,7 @@
     "code": ["110"],
     "wording": ["Metaphysics",
     "Metaphysics",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
     "code": "DT530"
@@ -21391,7 +21417,7 @@
     "Shakespeare, William"]
   },
   "lcc": {
-    "code": "PR2807.A1"
+    "code": "PR2807 .A2"
   },
   "subject": {
     "0": ["Cartoons and comics"],
@@ -21595,7 +21621,7 @@
     "Information"]
   },
   "lcc": {
-    "code": "QA76.73.J38W448"
+    "code": "QA76.73 .J38"
   },
   "source": "amazon.com",
   "workcode": "9163593",
@@ -21659,7 +21685,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3527.A15L6"
+    "code": "PS3527 .A15"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -21785,7 +21811,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ7797.B635H513"
+    "code": "PQ7797 .B635"
   },
   "subject": [["Brigands and robbers",
   "Fiction"],
@@ -21861,7 +21887,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR5363.P8"
+    "code": "PR5363 .P8"
   },
   "subject": {
     "0": ["Comedies"],
@@ -21947,13 +21973,13 @@
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1598.A2"
+    "code": "BF1598 .A2"
   },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -22016,10 +22042,10 @@
     "wording": ["--",
     "Applied Mathematics, Probabilities",
     "Mathematics",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "QA297.I8"
+    "code": "QA297 .I8"
   },
   "source": "amazon.com",
   "workcode": "232515",
@@ -22093,8 +22119,9 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3552.R2"
+    "code": "PS3552 .R2"
   },
+  "series": "Eric John Stark",
   "originaltitle": "The Ginger Star",
   "genre": ["Science Fiction",
   "Fantasy"],
@@ -22174,7 +22201,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3570.S84S26"
+    "code": "PS3570 .S84"
   },
   "subject": {
     "0": ["Chinese",
@@ -22277,7 +22304,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3366.V6"
+    "code": "PG3366 .V6"
   },
   "subject": {
     "0": ["Adaptations"],
@@ -22362,7 +22389,8 @@
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "ZEIT-Bibliothek der 100 B\u00fccher",
   "Somerset Maugham\u2019s 10 greatest novels",
-  "Newark Public Library's 1904 List of a Thousand of the Best Novels"],
+  "Newark Public Library's 1904 List of a Thousand of the Best Novels",
+  "Berkeley Summer Reading"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -22447,7 +22475,7 @@
     "Spanish And Portuguese"]
   },
   "lcc": {
-    "code": "PQ7797.B635L3"
+    "code": "PQ7797 .B635"
   },
   "subject": {
     "0": ["Argentina",
@@ -22541,7 +22569,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3523.O833A6"
+    "code": "PS3523 .O833"
   },
   "subject": {
     "0": ["Fantasy fiction, American"],
@@ -22612,7 +22640,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PZ7.G759Wi"
+    "code": "PZ10.3 .G76"
   },
   "subject": {
     "0": ["Amiti\u00e9",
@@ -22670,6 +22698,8 @@
     "27": ["fantasy"],
     "29": ["juvenile literature"]
   },
+  "series": "Wind in the Willows",
+  "originaltitle": "The wind in the willows",
   "awards": ["Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
   "BBC's Big Read",
@@ -22771,7 +22801,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ4.D547PS3554.I3Dm"
+    "code": "PS3554 .I3"
   },
   "subject": {
     "0": ["Androids",
@@ -22874,7 +22904,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4809.A45M313"
+    "code": "PQ4809 .A45"
   },
   "subject": {
     "0": ["City and town life",
@@ -22962,7 +22992,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4571.A1"
+    "code": "PR4571 .A1"
   },
   "subject": {
     "0": ["City and town life",
@@ -23141,7 +23171,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4809.A45P713"
+    "code": "PQ4809 .A45"
   },
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -23218,7 +23248,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4.L4526PR6062.E33Ti3"
+    "code": "PZ4 .L4526 .E33"
   },
   "subject": {
     "0": ["Intelligence service",
@@ -23308,12 +23338,12 @@
   "ddc": {
     "code": ["792.702"],
     "wording": ["Amusements and Recreation",
-    "Arts And Leisure",
+    "Arts and Recreation",
     "Comedy, Variety",
     "Stage Entertainments"]
   },
   "lcc": {
-    "code": "PN2287.B6955A3"
+    "code": "PN2287 .B6955"
   },
   "originaltitle": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
   "awards": ["Goodreads Choice Awards"],
@@ -23390,7 +23420,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3557.A712G7"
+    "code": "PS3557 .A712"
   },
   "subject": {
     "0": ["Beowulf",
@@ -23545,14 +23575,14 @@
   "ger"],
   "ddc": {
     "code": ["759.9492"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Europe",
     "Other Schools",
     "Painting",
     "Various Schools"]
   },
   "lcc": {
-    "code": "ND653.B65 A4"
+    "code": "ND653 .B65"
   },
   "subject": [["Bosch, Hieronymus, d. 1516"]],
   "genre": ["Biography & Memoir",
@@ -23628,7 +23658,7 @@
     "Old English literature, ca. 450-1100"]
   },
   "lcc": {
-    "code": "PR1583.H43"
+    "code": "PR1583 .H43"
   },
   "subject": {
     "0": ["Beowulf"],
@@ -23683,7 +23713,6 @@
     "36": ["Scandinavia",
     "Poetry"]
   },
-  "series": "Legends From the Ancient North",
   "awards": ["Whitbread Book of the Year",
   "ALA Notable Books for Adults",
   "Whitbread",
@@ -23765,7 +23794,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "HC254.3.B4"
+    "code": "HC254.3 .B4"
   },
   "subject": {
     "0": ["England",
@@ -23867,7 +23896,7 @@
     "Swedish miscellany"]
   },
   "lcc": {
-    "code": "PS3531.A5855Af"
+    "code": "PS3531 .A5855"
   },
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -23925,13 +23954,13 @@
     "wording": ["Biography; History By Place",
     "Europe",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1584.E9W59"
+    "code": "BF1584 .E9"
   },
   "series": "Witchcraft and Magic in Europe",
   "genre": ["Nonfiction",
@@ -24002,12 +24031,12 @@
   "xxx"],
   "ddc": {
     "code": ["709"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Biography And History",
     "General Art"]
   },
   "lcc": {
-    "code": "NE1325.A5A4"
+    "code": "NE1325 .A5"
   },
   "genre": ["Biography & Memoir",
   "Art & Design"],
@@ -24087,7 +24116,7 @@
     "Writing: Materials, Typewriters"]
   },
   "lcc": {
-    "code": "Z103.S56"
+    "code": "Z103 .S56"
   },
   "subject": {
     "0": ["Ciphers"],
@@ -24104,7 +24133,6 @@
     "16": ["cryptography",
     "history"]
   },
-  "originaltitle": "The code book",
   "awards": ["Guardian Essential Library",
   "Los Angeles Times Book Prize finalist"],
   "genre": ["Nonfiction",
@@ -24167,8 +24195,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["Polish"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "pol"],
   "ddc": {
     "code": ["891.85373"],
     "wording": ["1919-1989",
@@ -24181,7 +24211,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PZ4.L537Pl "
+    "code": "PZ4 .L537"
   },
   "subject": [["Imaginary books and libraries",
   "Reviews"]],
@@ -24258,7 +24288,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "HQ1221.R73"
+    "code": "HQ1221 .R73"
   },
   "subject": {
     "0": ["Single women"],
@@ -24323,16 +24353,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN 6727.M53 A63"
+    "code": "PN6727 .M53"
   },
   "awards": ["YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels"],
@@ -24408,7 +24438,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3556.E427S7"
+    "code": "PS3556 .E427"
   },
   "subject": {
     "0": ["Coming out (Sexual orientation)",
@@ -24497,7 +24527,7 @@
     "Women by social group"]
   },
   "lcc": {
-    "code": "HQ75.5.H33"
+    "code": "HQ75.5 .H33"
   },
   "subject": {
     "0": ["Gender Identity"],
@@ -24587,7 +24617,7 @@
     "Shakespeare, William"]
   },
   "lcc": {
-    "code": "PR2828.A2M6"
+    "code": "PR2828 .A2"
   },
   "subject": {
     "0": ["Comedies"],
@@ -24666,8 +24696,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "jpn"],
   "ddc": {
     "code": ["895.6314"],
     "wording": ["East Asian",
@@ -24677,7 +24709,7 @@
     "Other Languages"]
   },
   "lcc": {
-    "code": "PL788.4.G4E3"
+    "code": "PL788.4 .G4"
   },
   "subject": {
     "0": ["Aristocracy (Social class)",
@@ -24789,7 +24821,7 @@
     "Shakespeare, William"]
   },
   "lcc": {
-    "code": "PR2833.A2G73"
+    "code": "PR2833 .A2"
   },
   "subject": {
     "0": ["Fathers and daughters",
@@ -24929,10 +24961,10 @@
     "code": ["930"],
     "wording": ["Ancient History",
     "Ancient World",
-    "Biography And History"]
+    "Biography and History"]
   },
   "lcc": {
-    "code": "D58.H4713"
+    "code": "D58 .H4713"
   },
   "subject": {
     "0": ["Greece",
@@ -25037,7 +25069,7 @@
     "Russian Fiction"]
   },
   "lcc": {
-    "code": "PG3347.E8J6"
+    "code": "PG3347 .E8"
   },
   "subject": {
     "0": ["English poetry",
@@ -25146,7 +25178,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR4453.C4M4"
+    "code": "PR4453 .C4"
   },
   "subject": {
     "0": ["Allegories"],
@@ -25244,7 +25276,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ2631.O643P33"
+    "code": "PQ2631 .O643"
   },
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -25320,7 +25352,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.A953Tr"
+    "code": "PZ7 .A953"
   },
   "subject": {
     "0": ["Mutiny",
@@ -25429,7 +25461,7 @@
     "code": ["920.042"],
     "wording": ["Biography",
     "Biography",
-    "Biography And History",
+    "Biography and History",
     "General and collective by localities",
     "Of Europe"]
   },
@@ -25515,7 +25547,7 @@
     "Shakespeare, William"]
   },
   "lcc": {
-    "code": "PR2823.A2"
+    "code": "PR2823 .A2"
   },
   "subject": {
     "0": ["Cartoons and comics"],
@@ -25655,7 +25687,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566.L27B4"
+    "code": "PS3566 .L27"
   },
   "subject": {
     "0": ["Autobiographical fiction"],
@@ -25768,7 +25800,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR5774.F5"
+    "code": "PR5774 .F5"
   },
   "subject": {
     "0": ["Fiction in English"],
@@ -25864,15 +25896,18 @@
   "xxx"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6737 .G5"
+  },
   "series": "The Wicked & The Divine",
   "originaltitle": "The Wicked + The Divine, Vol. 1: The Faust Act",
-  "awards": ["British Fantasy Award Nominee"],
+  "awards": ["British Fantasy Award Nominee",
+  "YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels",
   "Fantasy"],
   "genre_id": ["4778",
@@ -26020,10 +26055,10 @@
     "code": ["720"],
     "wording": ["Architecture",
     "Architecture",
-    "Arts And Leisure"]
+    "Arts and Recreation"]
   },
   "lcc": {
-    "code": "NA2563.M36"
+    "code": "NA2563 .M36"
   },
   "awards": ["Amazon's Best Books of the Year: 2009",
   "Amazon's Best Books of the Month"],
@@ -26092,7 +26127,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -26151,7 +26188,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3606.O38T74"
+    "code": "N7433.4 .F65"
   },
   "originaltitle": "Tree of Codes",
   "genre": ["Fiction"],
@@ -26220,9 +26257,9 @@
   "xxx"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": [],
   "series": "Hellblazer",
@@ -26282,15 +26319,16 @@
   "xxx"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "British",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European"]
   },
   "lcc": {
-    "code": "PN6728.P75M667"
+    "code": "PN6728 .P75"
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
@@ -26374,7 +26412,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6069.E3654Q36"
+    "code": "PR6069 .E3654"
   },
   "subject": {
     "0": ["England",
@@ -26545,7 +26583,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566.Y55I54"
+    "code": "PS3566 .Y55"
   },
   "originaltitle": "Inherent Vice",
   "awards": ["New York Times bestseller",
@@ -26614,13 +26652,13 @@
   "xxx"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PZ7.7.C369Th"
+    "code": "PZ7.7 .C369"
   },
   "awards": ["Green Carnation Prize Longlist",
   "ALA Quick Picks for Reluctant Young Adult Readers",
@@ -26747,7 +26785,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
-  "series": "Hellblazer New Edition",
+  "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -26817,15 +26855,17 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6727 .V387"
+  },
   "series": "Saga",
   "awards": ["British Fantasy Award Nominee"],
   "genre": ["Science Fiction",
@@ -26953,7 +26993,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3554.I3M26"
+    "code": "PS3554 .I3"
   },
   "subject": {
     "0": ["Alternative histories"],
@@ -26977,7 +27017,8 @@
   "61 Essential Postmodern Reads",
   "The SF Book Club's \"The Most Significant SF & Fantasy Books of the Last 50 Years From 1953-2002\"",
   "BookDepository's 100 Best Books Ever",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438"],
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
+  "San Francisco Chronicle list of The 20th Century's 100 Best Fiction of the American West"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -27070,7 +27111,9 @@
     "Political Science ",
     "Social Sciences "]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "HM1131 B47"
+  },
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
   "source": "amazon.com",
@@ -27137,7 +27180,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4.F788Mag2 "
+    "code": "PZ4 .F788"
   },
   "subject": {
     "0": ["British",
@@ -27228,7 +27271,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -27304,7 +27349,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .S93"
+  },
   "series": "Swamp Thing",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -27381,7 +27428,7 @@
     "Poetry"]
   },
   "lcc": {
-    "code": "PS3553.A7667N69"
+    "code": "PS3553 .A7667"
   },
   "awards": ["National Book Critics Circle Award finalist",
   "The Morning News Tournament of Books",
@@ -27466,10 +27513,10 @@
     "code": ["194"],
     "wording": ["French",
     "Modern western philosophy",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B77.D413"
+    "code": "B77 .D413"
   },
   "subject": {
     "0": ["Philosophy"],
@@ -27566,16 +27613,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G365"
+    "code": "PN6728 .S26"
   },
   "series": "The Sandman",
   "originaltitle": "The Sandman: Dream Country",
@@ -27667,16 +27714,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "subject": [["England",
   "Fiction"],
@@ -27782,16 +27829,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6737.G3S368"
+    "code": "PN6728 .S26"
   },
   "subject": [["Fantasy comic books, strips, etc"],
   ["Graphic Novels"],
@@ -27895,16 +27942,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G357"
+    "code": "PN6728 .S26"
   },
   "subject": [["Comic books, strips, etc"],
   ["Graphic Novels"],
@@ -28058,7 +28105,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3566.Y55B54"
+    "code": "PS3566 .Y55"
   },
   "awards": ["National Book Award finalist",
   "Kitschies: Red Tentacle Award Finalist",
@@ -28131,10 +28178,10 @@
     "wording": ["Applied Mathematics, Probabilities",
     "Game Theory",
     "Mathematics",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "QA272.N34"
+    "code": "QA272 .N34"
   },
   "subject": [["Differential games"]],
   "genre": ["Nonfiction",
@@ -28210,7 +28257,7 @@
     "Special Topics"]
   },
   "lcc": {
-    "code": "T385.H646"
+    "code": "T385 .H646"
   },
   "subject": [["Computer graphics",
   "Mathematics"]],
@@ -28286,7 +28333,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.W58277St7"
+    "code": "PZ7 .W58277"
   },
   "subject": {
     "0": ["Adaptation"],
@@ -28385,11 +28432,11 @@
   "ddc": {
     "code": ["732.2"],
     "wording": ["Ancient",
-    "Arts And Leisure",
+    "Arts and Recreation",
     "Sculpture"]
   },
   "lcc": {
-    "code": "E78.N78L4513"
+    "code": "E78 .N78"
   },
   "subject": {
     "0": ["Indian art",
@@ -28498,16 +28545,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "subject": [["Comic books, strips, etc"],
   ["Fantasy comic books, strips, etc"],
@@ -28622,16 +28669,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "subject": [["Graphic Novels"],
   ["Graphic novels"]],
@@ -28711,16 +28758,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "subject": [["Fantasy comic books, strips, etc"],
   ["Graphic Novels"],
@@ -28809,16 +28856,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26 G35 1992 vol. 5"
+    "code": "PN6728 .S26 G35"
   },
   "subject": {
     "0": ["Comic books, strips, etc"],
@@ -28909,16 +28956,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "series": "The Sandman",
   "awards": ["1001 Comics You Must Read Before You Die",
@@ -29000,16 +29047,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
-    "code": "PN6728.S26G35"
+    "code": "PN6728 .S26"
   },
   "subject": [["Comic books, strips, etc"],
   ["Fantasy comic books, strips, etc"],
@@ -29092,8 +29139,10 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "series": "Hellblazer New Edition",
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
+  "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -29153,15 +29202,16 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5941"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
+    "British",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "French language comics",
-    "History, geographic treatment, biography"]
+    "Drawing; Drawings",
+    "European"]
   },
   "lcc": {
-    "code": "PN6728.P75 M667 2003 vol. 3"
+    "code": "PN6728 .P75 M667"
   },
   "series": "Promethea",
   "genre": ["Graphic Novels"],
@@ -29313,12 +29363,14 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .S93"
+  },
   "series": "Swamp Thing, Volume 3",
   "source": "amazon.com",
   "workcode": "15205729",
@@ -29400,7 +29452,9 @@
     "Literature",
     "Modern Period"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PR6052 .L555"
+  },
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -29473,12 +29527,12 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6728.S93S85"
+    "code": "PN6728 .S93"
   },
   "series": "Swamp Thing",
   "genre": ["Graphic Novels"],
@@ -29690,13 +29744,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": [],
   "series": "Hellboy graphic novels",
@@ -29783,7 +29837,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4621.K55"
+    "code": "PR4621 .K55"
   },
   "series": "New Annotated Sherlock Holmes",
   "awards": ["Edgar Award",
@@ -29864,7 +29918,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.P8865Win"
+    "code": "PZ7 .P8865"
   },
   "subject": {
     "0": ["Children's stories"],
@@ -29904,7 +29958,8 @@
   "USBBY Outstanding International Book",
   "Capitol Choices Noteworthy Book for Children and Teens",
   "BCCB Blue Ribbon Book",
-  "Colorado Blue Spruce Award Nominee"],
+  "Colorado Blue Spruce Award Nominee",
+  "Locus Award Finalist"],
   "genre": ["Young Adult",
   "Fantasy"],
   "genre_id": ["1879",
@@ -29981,7 +30036,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3553.O5536C48"
+    "code": "PS3553 .O5536"
   },
   "subject": [["Fantasy fiction"]],
   "series": "Chronicles of the Black Company",
@@ -30052,7 +30107,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6101.B49B57"
+    "code": "PR6101 .B49"
   },
   "subject": {
     "0": ["Fantasy fiction"],
@@ -30140,7 +30195,7 @@
     "Sappho"]
   },
   "lcc": {
-    "code": "PA4408.E5B3"
+    "code": "PA4408 .E5"
   },
   "subject": {
     "0": ["Lesbos Island (Greece)",
@@ -30218,7 +30273,7 @@
     "Poetry"]
   },
   "lcc": {
-    "code": "PS595.T75S66"
+    "code": "PS595 .T75"
   },
   "subject": {
     "0": ["Adventure and adventurers",
@@ -30388,7 +30443,7 @@
     "Poetry"]
   },
   "lcc": {
-    "code": "PS586.S49"
+    "code": "PS586 .S49"
   },
   "subject": [["American poetry"]],
   "source": "amazon.com",
@@ -30460,7 +30515,7 @@
     "With Respect to Particular Groups"]
   },
   "lcc": {
-    "code": "F2520.1.Y3C5"
+    "code": "F2520.1 .Y3"
   },
   "subject": [["Yanomamo Indians"]],
   "series": "Case Studies in Cultural Anthropology",
@@ -30533,7 +30588,9 @@
   "originallanguage": ["Latin"],
   "originallanguage_codeA": ["eng",
   "lat"],
-  "lcc": [],
+  "lcc": {
+    "code": "BF1601 .B6613"
+  },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
   "source": "amazon.com",
@@ -30586,11 +30643,11 @@
   "ddc": {
     "code": ["537"],
     "wording": ["Electricity",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Physics"]
   },
   "lcc": {
-    "code": "AC1.E8 no. 576"
+    "code": "QC503 .F21"
   },
   "subject": {
     "0": ["Electricity"],
@@ -30676,7 +30733,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569.I47292H97"
+    "code": "PS3569 .I47292"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -30773,7 +30830,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3569.I47292F35"
+    "code": "PS3569 .I47292"
   },
   "subject": {
     "0": ["Science Fiction"],
@@ -30858,7 +30915,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6727 .B77 F33"
+  },
   "series": "The Fade Out",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -30925,11 +30984,11 @@
   "ddc": {
     "code": ["578.8"],
     "wording": ["Life Sciences",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Natural history of organisms and related subjects"]
   },
   "lcc": {
-    "code": "QH367.D589"
+    "code": "QH367 .D589"
   },
   "subject": [["Ecological succession"],
   ["Evolution (Biology)"],
@@ -31010,9 +31069,12 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6738 .W55"
+  },
   "series": "The Wicked & The Divine",
   "originaltitle": "The Wicked + The Divine, Vol. 2: Fandemonium",
+  "awards": ["YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels",
   "Fantasy"],
   "genre_id": ["4778",
@@ -31082,13 +31144,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.56973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "NC1429.M1557A4"
+    "code": "NC1429"
   },
   "series": "All Over Coffee",
   "genre": ["Graphic Novels"],
@@ -31282,13 +31344,13 @@
     "Europe",
     "Other Countries",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1622.G3F56"
+    "code": "BF1622 .G3"
   },
   "subject": [["Iceland",
   "Early works to 1800"],
@@ -31498,8 +31560,11 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "awards": ["Alex Award"],
+  "lcc": {
+    "code": "PN6727 .S848"
+  },
+  "awards": ["Alex Award",
+  "YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -31614,7 +31679,7 @@
     "Swedish miscellany"]
   },
   "lcc": {
-    "code": "PZ7.N7756Fe"
+    "code": "PZ7 .N7756"
   },
   "series": "Pettson & Findus",
   "originaltitle": "Kackel i gr\u00f6nsakslandet",
@@ -31679,8 +31744,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "awards": ["Bank Street CBC Best Children's Book of the Year"],
+  "lcc": {
+    "code": "PN6733 .T35"
+  },
+  "awards": ["Bank Street CBC Best Children's Book of the Year",
+  "ALA Rainbow Book List",
+  "ALA Rainbow Book List Top Ten",
+  "YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -31750,8 +31820,10 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "series": "Hellblazer New Edition",
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
+  "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -31811,12 +31883,12 @@
   "ddc": {
     "code": ["938.2421"],
     "wording": ["Ancient World",
-    "Biography And History",
+    "Biography and History",
     "Greece ",
     "Thessaly; Epirus"]
   },
   "lcc": {
-    "code": "PF3112.5.R87"
+    "code": "PF3112.5 .R87"
   },
   "series": "Teach Yourself Languages",
   "source": "amazon.com books",
@@ -31880,7 +31952,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PT1338.S46"
+    "code": "PT1338 .S46"
   },
   "subject": {
     "0": ["Short stories, German"],
@@ -31956,7 +32028,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "TX837.M754"
+    "code": "TX837 .M754"
   },
   "subject": [["Gluten-free diet",
   "Recipes"],
@@ -32058,13 +32130,13 @@
   "ddc": {
     "code": ["133.43"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1611.C5413"
+    "code": "BF1611 .C5413"
   },
   "subject": {
     "0": ["Demonology"],
@@ -32269,13 +32341,13 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741.5973"],
-    "wording": ["Arts And Leisure",
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
     "Drawing; Decoration; Design ",
-    "English language comics",
-    "History, geographic treatment, biography",
-    "U.S.A. comics"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
     "code": "PN6728"
@@ -32367,9 +32439,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["741"],
-    "wording": ["Arts And Leisure",
-    "Drawing \u2014 Technique; Caricatures and cartoons; Specific drawing techniques ",
-    "Drawing; Decoration; Design "]
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
   },
   "lcc": {
     "code": "PN6728"
@@ -32437,11 +32509,11 @@
     "wording": ["General Principles",
     "Logic",
     "Mathematics",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Set Theory"]
   },
   "lcc": {
-    "code": "QA8.4.T54"
+    "code": "QA8.4 .T54"
   },
   "source": "amazon.com books",
   "workcode": "1005257",
@@ -32506,7 +32578,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6017.S5"
+    "code": "PR6017 .S5"
   },
   "subject": [["Berlin (Germany)",
   "Fiction"],
@@ -32603,7 +32675,7 @@
     "West and South Slavic languages (Bulgarian, Slovene, Polish, Czech, Slovak, Serbo-Croatian, and Macedonian)"]
   },
   "lcc": {
-    "code": "PG7158.L39O613"
+    "code": "PG7158 .L39"
   },
   "subject": [["Poland",
   "Fiction"],
@@ -32691,7 +32763,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4809.A45C65"
+    "code": "PQ4809 .A45"
   },
   "originaltitle": "Tutte le cosmicomiche",
   "genre": ["Fiction",
@@ -32820,7 +32892,7 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": [],
@@ -32894,11 +32966,11 @@
   "ddc": {
     "code": ["581"],
     "wording": ["Botany",
-    "Mathematics And Science",
+    "Mathematics and Science",
     "Physiologic and Structural "]
   },
   "lcc": {
-    "code": "QK41.G3"
+    "code": "QK41 .G3"
   },
   "subject": [["Botany",
   "Pre-Linnean works"],
@@ -32975,10 +33047,10 @@
     "wording": ["Astronomy",
     "Geodesy",
     "Map projections (See 515.5 spheric projections)",
-    "Mathematics And Science"]
+    "Mathematics and Science"]
   },
   "lcc": {
-    "code": "GA105.M64"
+    "code": "GA105 .M64"
   },
   "subject": [["Cartography"],
   ["cartography"]],
@@ -33043,8 +33115,12 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .G485"
+  },
   "series": "Giant Days",
+  "awards": ["Amelia Bloomer List",
+  "YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com books",
@@ -33126,7 +33202,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6017.S5 A6"
+    "code": "PR6017 .S5"
   },
   "subject": {
     "0": ["Autobiographical fiction, English"],
@@ -33225,7 +33301,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -33296,7 +33374,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "TX837.M75"
+    "code": "TX837 .M75"
   },
   "subject": [["Vegetarian cookery"]],
   "genre": ["Nonfiction",
@@ -33387,7 +33465,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "PN6727 .G54"
+  },
   "series": "The Wicked & The Divine",
   "originaltitle": "The Wicked + The Divine, Vol. 3: Commercial Suicide",
   "genre": ["Graphic Novels",
@@ -33454,7 +33534,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "TX837 .S322"
+  },
   "genre": ["Nonfiction",
   "Food & Cooking",
   "Health & Wellness"],
@@ -33749,7 +33831,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3612.E3353A83"
+    "code": "PS3612 .E3353"
   },
   "series": "Imperial Radch",
   "originaltitle": "Ancillary Justice",
@@ -33762,7 +33844,8 @@
   "Hugo",
   "John W. Campbell Memorial Award Finalist",
   "Locus",
-  "Compton Crook Award Nominee"],
+  "Compton Crook Award Nominee",
+  "Locus Award Finalist"],
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
   "source": "amazon.com books",
@@ -33834,14 +33917,14 @@
     "wording": ["Biography; History By Place",
     "Europe",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Scandinavia",
     "Specific Topics",
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
   "lcc": {
-    "code": "BF1622.N67S8313"
+    "code": "BF1622 .N67"
   },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -33913,7 +33996,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR9199.3.A8S86"
+    "code": "PR9199.3 .A8"
   },
   "originaltitle": "Stone mattress : nine tales",
   "awards": ["Scotiabank Giller Prize Longlist"],
@@ -33979,7 +34062,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "GR166.K5613"
+    "code": "GR166 .K5613"
   },
   "originaltitle": "Kinder- und Hausm\u00e4rchen",
   "awards": ["YALSA Outstanding Books for the College Bound 2014",
@@ -34229,7 +34312,7 @@
   "dimensions": "6.9 x 4.1 x 0.7 inches",
   "weight": "0.35 pounds",
   "pages": "282 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135267630": {
   "books_id": "135267630",
@@ -34277,7 +34360,7 @@
     "Theory And Instruction"]
   },
   "lcc": {
-    "code": "HM55.D8583"
+    "code": "HM55 .D8583"
   },
   "subject": {
     "0": ["Philosophy"],
@@ -34300,7 +34383,7 @@
   "length": "4.4 inches",
   "dimensions": "6.99 x 4.4 x 0.37 inches",
   "pages": "97 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271889": {
   "books_id": "135271889",
@@ -34342,7 +34425,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6023.E926Z6642"
+    "code": "PR6023 .E926"
   },
   "subject": [["Authors, English",
   "20th century",
@@ -34381,7 +34464,7 @@
   "dimensions": "6.1 x 0.8 x 9.2 inches",
   "weight": "1.12 pounds",
   "pages": "293 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271890": {
   "books_id": "135271890",
@@ -34423,7 +34506,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ4.G63In5 "
+    "code": "PZ4 .G63"
   },
   "subject": {
     "0": ["Historical Fiction"],
@@ -34460,7 +34543,7 @@
   "dimensions": "5.31 x 0.64 x 8 inches",
   "weight": "0.55 pounds",
   "pages": "240 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271891": {
   "books_id": "135271891",
@@ -34499,11 +34582,11 @@
   "ddc": {
     "code": ["123"],
     "wording": ["Chance, Free Will, And Necessity",
-    "Philosophy And Psychology",
-    "Philosophy Of Humanity"]
+    "Philosophy Of Humanity",
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "BJ1461.D427"
+    "code": "BJ1461 .D427"
   },
   "subject": {
     "0": ["Decision Making"],
@@ -34532,7 +34615,7 @@
   "dimensions": "6.5 x 1.21 x 9.58 inches",
   "weight": "1.44 pounds",
   "pages": "368 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271893": {
   "books_id": "135271893",
@@ -34576,14 +34659,14 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4315.3.C5"
+    "code": "PQ4315.3 .C5"
   },
   "subject": [["Italian poetry",
   "To 1400"],
   ["Purgatory",
   "Poetry"]],
   "series": "The Divine Comedy",
-  "originaltitle": "La Comedia - Purgatorio",
+  "originaltitle": "Divina Commedia : Purgatorio",
   "awards": ["National Book Award finalist",
   "Prix Langlois de l'Acad\u00e9mie fran\u00e7aise",
   "Prix Halp\u00e9rine-Kaminsky de la SGDL",
@@ -34606,7 +34689,7 @@
   "dimensions": "4.1 x 1 x 6.8 inches",
   "weight": "0.49 pounds",
   "pages": "448 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271894": {
   "books_id": "135271894",
@@ -34646,7 +34729,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3611.O74927H57"
+    "code": "PS3611 .O74927"
   },
   "subject": {
     "0": ["Gothic novels"],
@@ -34692,7 +34775,7 @@
   "dimensions": "6.38 x 1.88 x 9.63 inches",
   "weight": "2.1 pounds",
   "pages": "642 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271895": {
   "books_id": "135271895",
@@ -34733,7 +34816,7 @@
   "ddc": {
     "code": ["746"],
     "wording": ["Art Needlework",
-    "Arts And Leisure",
+    "Arts and Recreation",
     "Drawing; Decoration; Design "]
   },
   "lcc": [],
@@ -34755,7 +34838,7 @@
   "dimensions": "0.75 x 8.25 x 11 inches",
   "weight": "1.17 pounds",
   "pages": "128 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271896": {
   "books_id": "135271896",
@@ -34793,7 +34876,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["745"],
-    "wording": ["Arts And Leisure",
+    "wording": ["Arts and Recreation",
     "Decorative Art And Design",
     "Drawing; Decoration; Design "]
   },
@@ -34813,7 +34896,7 @@
   "length": "9.74 inches",
   "dimensions": "11.71 x 9.74 x 0.97 inches",
   "pages": "256 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271898": {
   "books_id": "135271898",
@@ -34860,7 +34943,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PF3112.D48"
+    "code": "PF3112 .D48"
   },
   "subject": {
     "0": ["German language",
@@ -34888,7 +34971,7 @@
   "dimensions": "11.2 x 8.1 x 1 inches",
   "weight": "2.65 pounds",
   "pages": "1 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271899": {
   "books_id": "135271899",
@@ -34928,10 +35011,10 @@
     "code": ["103"],
     "wording": ["Dictionaries And Encyclopedias",
     "Philosophy",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B41.C35"
+    "code": "B41 .C35"
   },
   "subject": [["Philosophy",
   "Dictionaries"]],
@@ -34952,7 +35035,7 @@
   "dimensions": "6.97 x 2.05 x 9.96 inches",
   "weight": "3.9 pounds",
   "pages": "1039 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271900": {
   "books_id": "135271900",
@@ -34994,7 +35077,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PA4414.A2F3"
+    "code": "PA4414 .A2"
   },
   "subject": {
     "0": ["Antigone"],
@@ -35024,7 +35107,6 @@
     "Drama"],
     "20": ["Tragedies"]
   },
-  "series": "Penguin Classics",
   "awards": ["The Globe & Mail 50 Greatest Books",
   "The Top Ten: Writers Pick Their Favorite Books",
   "Western World's Greatest Books - Project Gutenberg",
@@ -35047,7 +35129,7 @@
   "dimensions": "8.43 x 5.85 x 0.73 inches",
   "weight": "0.79 pounds",
   "pages": "430 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271901": {
   "books_id": "135271901",
@@ -35085,10 +35167,10 @@
     "code": ["192"],
     "wording": ["British",
     "Modern western philosophy",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B3376.W564E37"
+    "code": "B3376 .W564"
   },
   "subject": [["Philosophers, Modern"],
   ["Philosophers, Modern",
@@ -35124,7 +35206,7 @@
   "dimensions": "5 x 1.22 x 7.13 inches",
   "weight": "0.95 pounds",
   "pages": "352 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271902": {
   "books_id": "135271902",
@@ -35170,7 +35252,7 @@
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
-    "code": "HM291.B535"
+    "code": "HM291 .B535"
   },
   "subject": {
     "0": ["Behavior evolution"],
@@ -35201,7 +35283,7 @@
   "dimensions": "7.7 x 0.8 x 5 inches",
   "weight": "0.44 pounds",
   "pages": "288 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271903": {
   "books_id": "135271903",
@@ -35247,7 +35329,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PQ4315.2.C5"
+    "code": "PQ4315.2 .C5"
   },
   "subject": {
     "0": ["Dante Alighieri, 1265-1321",
@@ -35293,7 +35375,7 @@
   "dimensions": "4.2 x 1 x 6.9 inches",
   "weight": "0.46 pounds",
   "pages": "432 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271904": {
   "books_id": "135271904",
@@ -35335,7 +35417,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "JA71.M457"
+    "code": "JA71 .M457"
   },
   "subject": [["Political science",
   "Philosophy"]],
@@ -35359,7 +35441,7 @@
   "dimensions": "7 x 0.6 x 4.4 inches",
   "weight": "0.34 pounds",
   "pages": "160 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271905": {
   "books_id": "135271905",
@@ -35406,7 +35488,7 @@
     "Taoism"]
   },
   "lcc": {
-    "code": "BL1900.C5E5"
+    "code": "BL1900 .C5"
   },
   "subject": [["Taoism"]],
   "genre": ["Religion & Spirituality"],
@@ -35427,7 +35509,7 @@
   "dimensions": "7.95 x 5.15 x 0.49 inches",
   "weight": "0.39 pounds",
   "pages": "160 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271906": {
   "books_id": "135271906",
@@ -35484,7 +35566,7 @@
   "dimensions": "6 x 0.18 x 9 inches",
   "weight": "0.26 pounds",
   "pages": "76 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271907": {
   "books_id": "135271907",
@@ -35532,7 +35614,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "JA81.H58"
+    "code": "JA81 .H58"
   },
   "subject": [["Political science",
   "History"]],
@@ -35556,7 +35638,7 @@
   "dimensions": "6 x 2.3 x 9 inches",
   "weight": "2.84 pounds",
   "pages": "980 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271908": {
   "books_id": "135271908",
@@ -35597,7 +35679,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.P61464Tq"
+    "code": "PZ7 .P61464"
   },
   "subject": {
     "0": ["Fantasy"],
@@ -35629,7 +35711,7 @@
   "dimensions": "5.56 x 1 x 8.31 inches",
   "weight": "0.86 pounds",
   "pages": "467 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271909": {
   "books_id": "135271909",
@@ -35669,7 +35751,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ5.N55"
+    "code": "PZ5 .N55"
   },
   "subject": [["Short stories, American"]],
   "awards": ["IPPY Finalist"],
@@ -35689,7 +35771,7 @@
   "dimensions": "6.1 x 0.93 x 8.58 inches",
   "weight": "1.14 pounds",
   "pages": "208 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271910": {
   "books_id": "135271910",
@@ -35730,7 +35812,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PZ7.P61464Wil"
+    "code": "PZ7 .P61464"
   },
   "subject": {
     "0": ["Courts and courtiers",
@@ -35765,7 +35847,7 @@
   "dimensions": "8.54 x 5.82 x 1.63 inches",
   "weight": "1.6 pounds",
   "pages": "560 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271911": {
   "books_id": "135271911",
@@ -35824,7 +35906,7 @@
   "dimensions": "9.2 x 6.34 x 0.34 inches",
   "weight": "0.3 pounds",
   "pages": "82 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271912": {
   "books_id": "135271912",
@@ -35864,10 +35946,10 @@
     "code": ["100"],
     "wording": ["General Philosophy",
     "Philosophy",
-    "Philosophy And Psychology"]
+    "Philosophy and Psychology"]
   },
   "lcc": {
-    "code": "B52.7.F45"
+    "code": "B52.7 .F45"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
@@ -35887,7 +35969,7 @@
   "dimensions": "0.5 x 5.75 x 8.25 inches",
   "weight": "0.34 pounds",
   "pages": "128 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271913": {
   "books_id": "135271913",
@@ -35928,7 +36010,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3568.I3794O7"
+    "code": "PS3568 .I3794"
   },
   "subject": {
     "0": ["Historical Fiction"],
@@ -35971,7 +36053,7 @@
   "dimensions": "5.2 x 1.5 x 7.9 inches",
   "weight": "1.2 pounds",
   "pages": "544 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271914": {
   "books_id": "135271914",
@@ -36075,7 +36157,7 @@
   "dimensions": "1 x 5.25 x 8.25 inches",
   "weight": "1.25 pounds",
   "pages": "496 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271915": {
   "books_id": "135271915",
@@ -36136,7 +36218,7 @@
   "dimensions": "2 x 6 x 8.75 inches",
   "weight": "2.98 pounds",
   "pages": "1264 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271917": {
   "books_id": "135271917",
@@ -36179,7 +36261,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PT2607.U493B43"
+    "code": "PT2607 .U493"
   },
   "subject": {
     "0": [null],
@@ -36214,7 +36296,7 @@
   "dimensions": "5.5 x 0.55 x 8.25 inches",
   "weight": "0.6 pounds",
   "pages": "240 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271918": {
   "books_id": "135271918",
@@ -36252,7 +36334,7 @@
     "Victorian period 1837-1900"]
   },
   "lcc": {
-    "code": "PR4565.A1"
+    "code": "PR4565 .A1"
   },
   "subject": {
     "0": ["Booksellers' labels (Provenance)",
@@ -36329,7 +36411,7 @@
   "dimensions": "7.5 x 7.5 x 4.5 inches",
   "weight": "0.79 pounds",
   "pages": "816 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135271919": {
   "books_id": "135271919",
@@ -36376,7 +36458,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PZ7.N647Cl"
+    "code": "PZ7 .N647"
   },
   "series": "Old Kingdom / Abhorsen",
   "awards": ["Locus Award Finalist",
@@ -36402,7 +36484,7 @@
   "length": "1.25 inches",
   "dimensions": "6 x 1.25 x 9 inches",
   "pages": "400 ",
-  "fromwhere": "Gift",
+  "fromwhere": "gift",
   "circulation": [{
     "start_date": "2016-10-17",
     "item_id": "135271919-1",
@@ -36450,7 +36532,7 @@
     "Shakespeare, William"]
   },
   "lcc": {
-    "code": "PR2754.E9"
+    "code": "PR2754 .E9"
   },
   "subject": [["Actors",
   "Great Britain",
@@ -36496,7 +36578,7 @@
   "dimensions": "9.1 x 6.2 x 2.6  inches",
   "weight": "3.1 pounds",
   "pages": "VIII; 1263 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "135764729": {
   "books_id": "135764729",
@@ -36543,7 +36625,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "Z105.5 .V65"
+  },
   "source": "amazon.com books",
   "workcode": "17978951",
   "entrydate": "2016-11-04",
@@ -36596,12 +36680,12 @@
     "wording": ["Africa",
     "Biography; History By Place",
     "Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics",
     "Witchcraft - Sorcery"]
   },
   "lcc": {
-    "code": "DT155.2.A93E92"
+    "code": "DT155.2 .A93"
   },
   "subject": {
     "0": ["Causation"],
@@ -36689,11 +36773,11 @@
   "ddc": {
     "code": ["133"],
     "wording": ["Parapsychology And Occultism",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Specific Topics"]
   },
   "lcc": {
-    "code": "R133.H5813"
+    "code": "R133 .H5813"
   },
   "subject": [["Medicine, Magic, mystic, and spagiric"]],
   "originaltitle": "Der Lange Verborgene Freund",
@@ -36758,11 +36842,11 @@
     "wording": ["Cognition And Memory",
     "Learning, Memory, And Motivation",
     "Memory Improvement",
-    "Philosophy And Psychology",
+    "Philosophy and Psychology",
     "Psychology"]
   },
   "lcc": {
-    "code": "BF381.Y3"
+    "code": "BF381 .Y3"
   },
   "subject": [["Humans Memory (Mental processes)"],
   ["Mnemonics",
@@ -36843,7 +36927,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "TX837.P337"
+    "code": "TX837 .P337"
   },
   "subject": [["Vegan cookery"]],
   "genre": ["Nonfiction",
@@ -36918,7 +37002,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "GR176.C3413"
+    "code": "GR176 .C3413"
   },
   "subject": [["Tales",
   "Italy"]],
@@ -36994,7 +37078,7 @@
     "Scholarship And Learning"]
   },
   "lcc": {
-    "code": "AZ108.L56"
+    "code": "AZ108 .L56"
   },
   "genre": ["Nonfiction",
   "Art & Design"],
@@ -37015,7 +37099,7 @@
   "length": "1 inch",
   "dimensions": "8 x 1 x 10.5 inches",
   "pages": "208 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "137981270": {
   "books_id": "137981270",
@@ -37062,7 +37146,7 @@
     "Poetry"]
   },
   "lcc": {
-    "code": "PR9199.3.B575E95"
+    "code": "PR9199.3 .B575"
   },
   "awards": ["Griffin Poetry Prize",
   "ReLit Award Shortlist"],
@@ -37084,7 +37168,7 @@
   "dimensions": "5.35 x 0.39 x 8.07 inches",
   "weight": "0.4 pounds",
   "pages": "112 ",
-  "fromwhere": "Gift"
+  "fromwhere": "gift"
 },
 "138394176": {
   "books_id": "138394176",
@@ -37258,7 +37342,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3505.H3224B5"
+    "code": "PS3505 .H3224"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -37365,7 +37449,7 @@
     "Modern Period"]
   },
   "lcc": {
-    "code": "PR6005.H66M85"
+    "code": "PR6005 .H66"
   },
   "subject": {
     "0": ["Belgians",
@@ -37455,7 +37539,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PR6005.H66E5"
+    "code": "PR6005 .H66"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -37530,7 +37614,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3505.H3224F3"
+    "code": "PS3505 .H3224"
   },
   "subject": {
     "0": ["Detective and mystery stories"],
@@ -37621,7 +37705,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3515.A4347T47"
+    "code": "PS3515 .A4347"
   },
   "subject": {
     "0": ["Charles, Nick (Fictitious character)",
@@ -37783,7 +37867,7 @@
     "Literature"]
   },
   "lcc": {
-    "code": "PS3563.O88456D48"
+    "code": "PS3563 .O88456"
   },
   "subject": {
     "0": ["African American men",
@@ -37871,7 +37955,7 @@
     "Technology"]
   },
   "lcc": {
-    "code": "TX773.O78"
+    "code": "TX773 .O78"
   },
   "subject": [["Desserts"]],
   "genre": ["Food & Cooking"],
@@ -37893,4 +37977,646 @@
   "weight": "1.65 pounds",
   "pages": "336 ",
   "fromwhere": "Green Apple Books"
+},
+"140628755": {
+  "books_id": "140628755",
+  "title": "The Bathhouse at Midnight: An Historical Survey of Magic and Divination in Russia (Magic in History)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Ryan, W. F.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ryan, W. F.",
+    "fl": "W. F. Ryan",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0271019670",
+  "isbn": {
+    "0": "0271019670",
+    "2": "9780271019673"
+  },
+  "asin": "0271019670",
+  "ean": ["0271019670"],
+  "publication": "Penn State University Press (1999), Edition: 1, 512 pages",
+  "date": "1999",
+  "summary": "The Bathhouse at Midnight: An Historical Survey of Magic and Divination in Russia (Magic in History) by W. F. Ryan (1999)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["133.430947"],
+    "wording": ["Biography; History By Place",
+    "Europe",
+    "Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Russia & Eastern Europe",
+    "Specific Topics",
+    "Witchcraft - Sorcery",
+    "Witchcraft and Magickal Practice"]
+  },
+  "lcc": {
+    "code": "BF1584 .R9"
+  },
+  "subject": {
+    "0": ["Divination",
+    "Russia",
+    "History"],
+    "2": ["Magic",
+    "History",
+    "Russia"],
+    "3": ["Magic",
+    "Russia.",
+    "History"]
+  },
+  "genre": ["History",
+  "Religion & Spirituality"],
+  "genre_id": ["1599",
+  "1944"],
+  "source": "amazon.com books",
+  "workcode": "10459",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "512 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "1.5 inches",
+  "dimensions": "6 x 1.5 x 9 inches",
+  "weight": "1.62 pounds",
+  "pages": "512 ",
+  "fromwhere": "gift"
+},
+"140628762": {
+  "books_id": "140628762",
+  "title": "Accelerated Piano Adventures For The Older Beginner, Technique and Artistry Book 1",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Faber, Nancy",
+  "primaryauthorrole": "Composer",
+  "secondaryauthor": "Faber, Randall",
+  "secondaryauthorroles": "Composer",
+  "authors": [{
+    "lf": "Faber, Nancy",
+    "fl": "Nancy Faber",
+    "role": "Composer"
+  },
+  {
+    "lf": "Faber, Randall",
+    "fl": "Randall Faber",
+    "role": "Composer"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616774207",
+  "isbn": {
+    "0": "1616774207",
+    "2": "9781616774202"
+  },
+  "asin": "1616774207",
+  "ean": ["1616774207"],
+  "upc": ["674398214129"],
+  "publication": "Faber Piano Adventures (2004), 64 pages",
+  "date": "2004",
+  "summary": "Accelerated Piano Adventures For The Older Beginner, Technique and Artistry Book 1 by Nancy Faber (2004)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["781"],
+    "wording": ["Arts and Recreation",
+    "Genres And Theory",
+    "Music"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "9974594",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "64 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "12 inches",
+  "length": "0.17 inches",
+  "dimensions": "9 x 0.17 x 12 inches",
+  "weight": "21 pounds",
+  "pages": "64 ",
+  "fromwhere": "Amazon.com"
+},
+"140628773": {
+  "books_id": "140628773",
+  "title": "Accelerated Piano Adventures for the Older Beginner: Lesson Book 1",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Faber, Nancy",
+  "primaryauthorrole": "Composer",
+  "secondaryauthor": "Faber, Randall",
+  "secondaryauthorroles": "Composer",
+  "authors": [{
+    "lf": "Faber, Nancy",
+    "fl": "Nancy Faber",
+    "role": "Composer"
+  },
+  {
+    "lf": "Faber, Randall",
+    "fl": "Randall Faber",
+    "role": "Composer"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616772050",
+  "isbn": {
+    "0": "1616772050",
+    "2": "9781616772055"
+  },
+  "asin": "1616772050",
+  "ean": ["1616772050"],
+  "upc": ["674398202423"],
+  "publication": "Faber Piano Adventures (1998), 96 pages",
+  "date": "1998",
+  "summary": "Accelerated Piano Adventures for the Older Beginner: Lesson Book 1 by Nancy Faber (1998)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["781"],
+    "wording": ["Arts and Recreation",
+    "Genres And Theory",
+    "Music"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "9974594",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "96 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "12 inches",
+  "length": "0.25 inches",
+  "dimensions": "9 x 0.25 x 12 inches",
+  "weight": "0.75 pounds",
+  "pages": "96 ",
+  "fromwhere": "Amazon.com"
+},
+"140628775": {
+  "books_id": "140628775",
+  "title": "Accelerated Piano Adventures for the Older Beginner: Theory Book 1",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Faber, Nancy",
+  "primaryauthorrole": "Composer",
+  "secondaryauthor": "Faber, Randall",
+  "secondaryauthorroles": "Composer",
+  "authors": [{
+    "lf": "Faber, Nancy",
+    "fl": "Nancy Faber",
+    "role": "Composer"
+  },
+  {
+    "lf": "Faber, Randall",
+    "fl": "Randall Faber",
+    "role": "Composer"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616772069",
+  "isbn": {
+    "0": "1616772069",
+    "2": "9781616772062"
+  },
+  "asin": "1616772069",
+  "ean": ["1616772069"],
+  "upc": ["674398204946"],
+  "publication": "Faber Piano Adventures (1998), Edition: 00420228, 64 pages",
+  "date": "1998",
+  "summary": "Accelerated Piano Adventures for the Older Beginner: Theory Book 1 by Nancy Faber (1998)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "17776247",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "64 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "12 inches",
+  "length": "0.18 inches",
+  "dimensions": "9 x 0.18 x 12 inches",
+  "weight": "0.5 pounds",
+  "pages": "64 ",
+  "fromwhere": "Amazon.com"
+},
+"140628778": {
+  "books_id": "140628778",
+  "title": "Accelerated Piano Adventures For The Older Beginner, Performance Book 1",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Faber, Nancy",
+  "primaryauthorrole": "Composer",
+  "secondaryauthor": "Faber, Randall",
+  "secondaryauthorroles": "Composer",
+  "authors": [{
+    "lf": "Faber, Nancy",
+    "fl": "Nancy Faber",
+    "role": "Composer"
+  },
+  {
+    "lf": "Faber, Randall",
+    "fl": "Randall Faber",
+    "role": "Composer"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616772077",
+  "isbn": {
+    "0": "1616772077",
+    "2": "9781616772079"
+  },
+  "asin": "1616772077",
+  "ean": ["1616772077"],
+  "upc": ["674398202430"],
+  "publication": "Faber Piano Adventures (2000), 40 pages",
+  "date": "2000",
+  "summary": "Accelerated Piano Adventures For The Older Beginner, Performance Book 1 by Nancy Faber (2000)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["781"],
+    "wording": ["Arts and Recreation",
+    "Genres And Theory",
+    "Music"]
+  },
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "9974594",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "40 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "12 inches",
+  "length": "0.12 inches",
+  "dimensions": "9 x 0.12 x 12 inches",
+  "weight": "0.35 pounds",
+  "pages": "40 ",
+  "fromwhere": "Amazon.com"
+},
+"140628783": {
+  "books_id": "140628783",
+  "title": "Complete Book of Pastry",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Clayton, Bernard",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Clayton, Bernard",
+    "fl": "Bernard Clayton",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0671530747",
+  "isbn": {
+    "0": "0671530747",
+    "2": "9780671530747"
+  },
+  "asin": "0671530747",
+  "ean": ["0671530747"],
+  "publication": "Touchstone (1984), 416 pages",
+  "date": "1984",
+  "summary": "Complete Book of Pastry by Bernard Clayton (1984)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.865"],
+    "wording": ["Baking",
+    "Cooking Specific Dishes",
+    "Desserts",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX773 .C58"
+  },
+  "subject": {
+    "0": ["Cookery, International"],
+    "2": ["Desserts"],
+    "4": ["Pastry"]
+  },
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "195591",
+  "entrydate": "2017-04-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "416 p.; 6 x 1 inches",
+  "height": "1 inch",
+  "thickness": "9.25 inches",
+  "length": "6 inches",
+  "dimensions": "1 x 6 x 9.25 inches",
+  "weight": "1.2 pounds",
+  "pages": "416 ",
+  "fromwhere": "Green Apple Books"
+},
+"143097245": {
+  "books_id": "143097245",
+  "title": "A Void by Georges Perec (1997-05-04)",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Perec, Georges",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Perec, Georges",
+    "fl": "Georges Perec",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B01FIY5MUU",
+  "publication": "The Harvill Press (1898)",
+  "date": "1898",
+  "summary": "A Void by Georges Perec (1997-05-04) by Georges Perec (1898)",
+  "ddc": {
+    "code": ["843.914"],
+    "wording": ["1900-",
+    "1945-1999",
+    "20th Century",
+    "Fiction",
+    "French",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PQ2676 .E67 D513"
+  },
+  "subject": {
+    "0": ["Gothic fiction"],
+    "2": ["Paris (France)",
+    "Fiction"]
+  },
+  "originaltitle": "La disparition",
+  "awards": ["Firecracker Alternative Book Award",
+  "1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "Scott Moncrieff Prize for French Translation"],
+  "genre": ["Fiction",
+  "Mystery"],
+  "genre_id": ["2",
+  "46"],
+  "source": "amazon.com books",
+  "workcode": "39050",
+  "entrydate": "2017-07-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "8.43 inches",
+  "height": "8.43 inches",
+  "thickness": "0.73 inches",
+  "length": "5.85 inches",
+  "dimensions": "8.43 x 5.85 x 0.73 inches",
+  "weight": "0.79 pounds",
+  "fromwhere": "Green Apple Books"
+},
+"143097253": {
+  "books_id": "143097253",
+  "title": "The Blind Assassin: A Novel",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Atwood, Margaret",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Atwood, Margaret",
+    "fl": "Margaret Atwood",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0385720955",
+  "isbn": {
+    "0": "0385720955",
+    "2": "9780385720953"
+  },
+  "asin": "0385720955",
+  "ean": ["0385720955"],
+  "publication": "Anchor (2001), 521 pages",
+  "date": "2001",
+  "summary": "The Blind Assassin: A Novel by Margaret Atwood (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PR9199.3 .A8"
+  },
+  "subject": {
+    "0": ["Betrayal",
+    "Fiction"],
+    "2": ["Canada",
+    "Social life and customs",
+    "20th century",
+    "Fiction"],
+    "3": ["Domestic Fiction"],
+    "4": ["Domestic fiction"],
+    "6": ["Fiction",
+    "Authorship",
+    "Fiction"],
+    "8": ["Love Stories"],
+    "9": ["Love stories"],
+    "11": ["Older women",
+    "Fiction"],
+    "13": ["Psychological fiction"],
+    "15": ["Reminiscing in old age",
+    "Fiction"],
+    "17": ["SIsters",
+    "Fiction"],
+    "19": ["Sisters",
+    "Death",
+    "Fiction"],
+    "21": ["Sisters",
+    "Fiction"],
+    "23": ["Widows",
+    "Fiction"],
+    "25": ["Women novelists",
+    "Canada",
+    "Fiction"],
+    "26": ["Women novelists",
+    "Fiction"]
+  },
+  "originaltitle": "The Blind Assassin",
+  "awards": ["Booker Prize",
+  "Guardian 1000",
+  "Time Magazine's Best Books of the Year",
+  "International IMPAC Dublin Literary Award Shortlist",
+  "1001 Books You Must Read Before You Die",
+  "Orange Prize Shortlist",
+  "Hammett Prize",
+  "Time's All-Time 100 Novels selection",
+  "ALA Notable Books for Adults",
+  "World Book Night selection",
+  "61 Essential Postmodern Reads",
+  "Orange Prize for Fiction's \"50 Essential Reads by Contemporary Authors\"",
+  "Governor General's Literary Award Finalist",
+  "Toronto Book Award Nominee"],
+  "genre": ["Fiction",
+  "Romance"],
+  "genre_id": ["2",
+  "2019"],
+  "source": "amazon.com books",
+  "workcode": "409",
+  "entrydate": "2017-07-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "544 p.; 5.2 inches",
+  "height": "5.2 inches",
+  "thickness": "8 inches",
+  "length": "0.9 inches",
+  "dimensions": "5.2 x 0.9 x 8 inches",
+  "weight": "1 pound",
+  "pages": "544 ",
+  "fromwhere": "Green Apple Books"
+},
+"143097276": {
+  "books_id": "143097276",
+  "title": "Morphy&#039;s Games: A Selection of the Best Games Played by the Distinguished Champion in Europe and America",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Morphy, Paul Charles",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Morphy, Paul Charles",
+    "fl": "Paul Charles Morphy",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1146354827",
+  "isbn": {
+    "0": "1146354827",
+    "2": "9781146354820"
+  },
+  "asin": "1146354827",
+  "ean": ["1146354827"],
+  "publication": "Nabu Press (2010), 504 pages",
+  "date": "2010",
+  "summary": "Morphy&#039;s Games: A Selection of the Best Games Played by the Distinguished Champion in Europe and America by Paul Charles Morphy (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "19806241",
+  "entrydate": "2017-07-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "504 p.; 7.44 inches",
+  "height": "7.44 inches",
+  "thickness": "9.69 inches",
+  "length": "1.01 inches",
+  "dimensions": "7.44 x 1.01 x 9.69 inches",
+  "weight": "1.96 pounds",
+  "pages": "504 ",
+  "fromwhere": "gift"
+},
+"143097415": {
+  "books_id": "143097415",
+  "title": "Fingerpower: Level 1 (Schaum Publications Fingerpower(r))",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Schaum, John W.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schaum, John W.",
+    "fl": "John W. Schaum",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1936098253",
+  "isbn": {
+    "0": "1936098253",
+    "2": "9781936098255"
+  },
+  "asin": "1936098253",
+  "ean": ["1936098253"],
+  "publication": "Alfred Publishing Co., Inc. (1985), 24 pages",
+  "date": "1985",
+  "summary": "Fingerpower: Level 1 (Schaum Publications Fingerpower(r)) by John W. Schaum (1985)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "19312063",
+  "entrydate": "2017-07-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "24 p.; 11.9 inches",
+  "height": "11.9 inches",
+  "thickness": "0.6 inches",
+  "length": "8.8 inches",
+  "dimensions": "11.9 x 8.8 x 0.6 inches",
+  "pages": "24 ",
+  "fromwhere": "Amazon.com"
 }}
