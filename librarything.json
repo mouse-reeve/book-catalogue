@@ -3600,6 +3600,7 @@
   "series": "The Lord of the Rings",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
   "IBBY Honour Book",
+  "IBBY Honour Book",
   "Academy Award for Writing Adapted Screenplay Nominee",
   "501 Must-Read Books",
   "IBBY Honour Book",
@@ -16223,10 +16224,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "jpn"],
+  "xxx"],
   "ddc": {
     "code": ["895.635"],
     "wording": ["1945-1999",
@@ -24696,10 +24695,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "jpn"],
+  "xxx"],
   "ddc": {
     "code": ["895.6314"],
     "wording": ["East Asian",
@@ -35107,6 +35104,7 @@
     "Drama"],
     "20": ["Tragedies"]
   },
+  "series": "Oedipus Cycle",
   "awards": ["The Globe & Mail 50 Greatest Books",
   "The Top Ten: Writers Pick Their Favorite Books",
   "Western World's Greatest Books - Project Gutenberg",
@@ -38619,4 +38617,51 @@
   "dimensions": "11.9 x 8.8 x 0.6 inches",
   "pages": "24 ",
   "fromwhere": "Amazon.com"
+},
+"143292868": {
+  "books_id": "143292868",
+  "title": "Fortune Teller and Dreamer&#039;s Dictionary",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Marchand, Madame Le",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Marchand, Madame Le",
+    "fl": "Madame Le Marchand",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1557093091",
+  "isbn": {
+    "0": "1557093091",
+    "2": "9781557093097"
+  },
+  "asin": "1557093091",
+  "ean": ["1557093091"],
+  "publication": "Applewood Books (2005), 134 pages",
+  "date": "2005",
+  "summary": "Fortune Teller and Dreamer&#039;s Dictionary by Madame Le Marchand (2005)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "2734055",
+  "entrydate": "2017-07-07",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "134 p.; 5 inches",
+  "height": "5 inches",
+  "thickness": "8 inches",
+  "length": "0.41 inches",
+  "dimensions": "5 x 0.41 x 8 inches",
+  "weight": "0.38 pounds",
+  "pages": "134 ",
+  "fromwhere": "gift"
 }}

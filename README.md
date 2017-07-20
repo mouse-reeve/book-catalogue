@@ -11,7 +11,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-463
+464
 
 ### LibraryThing grenres:
 - 126 "Fiction"
@@ -77,14 +77,14 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 14 "crime"
 
 ### Original language:
-- 384 "English"
+- 385 "English"
 - 6 "French"
 - 5 "Russian"
 - 5 "Polish"
 - 5 "Latin"
 - 5 "German"
-- 4 "Japanese"
 - 4 "Italian"
+- 2 "Japanese"
 - 1 "Swedish"
 - 1 "Spanish"
 - 1 "Norwegian"
