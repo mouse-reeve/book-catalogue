@@ -11,25 +11,25 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-453
+463
 
 ### LibraryThing grenres:
-- 124 "Fiction"
-- 96 "Graphic Novels"
+- 126 "Fiction"
+- 95 "Graphic Novels"
 - 91 "Fantasy"
 - 75 "Nonfiction"
 - 60 "Science Fiction"
-- 49 "Religion & Spirituality"
-- 42 "History"
-- 20 "Mystery"
+- 50 "Religion & Spirituality"
+- 43 "History"
+- 21 "Mystery"
 - 18 "Science & Nature"
 - 13 "Young Adult"
 - 13 "Art & Design"
 - 10 "Biography & Memoir"
 - 9 "Children's Books"
-- 7 "Romance"
+- 8 "Romance"
 - 7 "Health & Wellness"
-- 6 "Food & Cooking"
+- 7 "Food & Cooking"
 - 5 "LGBT"
 - 1 "Home & Garden"
 - 1 "Christian Fiction"
@@ -77,14 +77,14 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 14 "crime"
 
 ### Original language:
-- 375 "English"
-- 7 "French"
+- 384 "English"
+- 6 "French"
 - 5 "Russian"
+- 5 "Polish"
 - 5 "Latin"
 - 5 "German"
-- 4 "Polish"
+- 4 "Japanese"
 - 4 "Italian"
-- 2 "Japanese"
 - 1 "Swedish"
 - 1 "Spanish"
 - 1 "Norwegian"
@@ -98,7 +98,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 10 "Ellis, Warren"
 - 8 "Lem, Stanislaw"
 - 7 "Moore, Alan"
-- 6 "Atwood, Margaret"
+- 7 "Atwood, Margaret"
 - 5 "Vaughan, Brian K."
 - 5 "Tolkien, J.R.R."
 - 5 "Shakespeare, William"
@@ -111,10 +111,10 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 4 "Nix, Garth"
 - 4 "Murakami, Haruki"
 - 4 "Jenkins, Paul"
+- 4 "Faber, Nancy"
 - 4 "Delano, Jamie"
-- 3 "Wodehouse, P. G."
 
 ### Books read so far this year:
-       6
+      10
 
 
