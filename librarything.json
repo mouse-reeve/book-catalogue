@@ -1419,6 +1419,16 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "North American"]
+  },
   "lcc": {
     "code": "PN6728 .T68"
   },
@@ -1747,6 +1757,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741"],
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -4246,8 +4262,9 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["513"],
-    "wording": ["Arithmetic",
+    "code": ["510.7"],
+    "wording": ["Education And Research",
+    "General Mathematics",
     "Mathematics",
     "Mathematics and Science"]
   },
@@ -14736,6 +14753,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741"],
+    "wording": ["Arts and Recreation",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .T68"
   },
@@ -14941,6 +14964,13 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["428.2"],
+    "wording": ["English",
+    "English language--grammar--prescriptive approach",
+    "Language",
+    "Standard English usage (Prescriptive linguistics)"]
+  },
   "lcc": {
     "code": "PE1112 .G578"
   },
@@ -16878,6 +16908,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["778.4"],
+    "wording": ["Arts and Recreation",
+    "Photography",
+    "Special Applications"]
+  },
   "lcc": {
     "code": "BT981 D5"
   },
@@ -17352,11 +17388,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["235.4"],
-    "wording": ["Angels; Devils; Satan",
-    "Christianity",
-    "Devils, Demons",
-    "Religion "]
+    "code": ["133.4"],
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics",
+    "Witchcraft - Sorcery"]
   },
   "lcc": {
     "code": "BF1582 .A2"
@@ -20498,12 +20534,11 @@
   "xxx",
   "rus"],
   "ddc": {
-    "code": ["891.73"],
+    "code": ["891.7"],
     "wording": ["Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
-    "Russian",
-    "Russian Fiction"]
+    "Russian"]
   },
   "lcc": {
     "code": "PG3476 .S78835"
@@ -25978,6 +26013,16 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "North American"]
+  },
   "lcc": {
     "code": "PN6728"
   },
@@ -26124,6 +26169,13 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -26781,6 +26833,16 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "North American"]
+  },
   "lcc": [],
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
@@ -27268,6 +27330,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -27346,6 +27415,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .S93"
   },
@@ -29136,6 +29212,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -30585,6 +30668,13 @@
   "originallanguage": ["Latin"],
   "originallanguage_codeA": ["eng",
   "lat"],
+  "ddc": {
+    "code": ["133.4"],
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics",
+    "Witchcraft - Sorcery"]
+  },
   "lcc": {
     "code": "BF1601 .B6613"
   },
@@ -30912,6 +31002,16 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "North American"]
+  },
   "lcc": {
     "code": "PN6727 .B77 F33"
   },
@@ -31066,6 +31166,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6738 .W55"
   },
@@ -31557,6 +31664,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6727 .S848"
   },
@@ -31741,6 +31855,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6733 .T35"
   },
@@ -31817,6 +31938,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -32821,12 +32949,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["839.7374"],
+    "code": ["839.78"],
     "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
-    "Swedish Fiction",
-    "Swedish literature"]
+    "Swedish literature",
+    "Swedish miscellany"]
   },
   "lcc": [],
   "series": "Pettson & Findus",
@@ -33112,6 +33240,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .G485"
   },
@@ -33298,6 +33433,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6728 .H383"
   },
@@ -33462,6 +33604,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": {
     "code": "PN6727 .G54"
   },
@@ -33531,6 +33680,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.5"],
+    "wording": ["Cooking",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
   "lcc": {
     "code": "TX837 .S322"
   },
@@ -33589,10 +33745,10 @@
   "originallanguage": ["German"],
   "originallanguage_codeA": ["ger"],
   "ddc": {
-    "code": ["438.2"],
-    "wording": ["German",
+    "code": ["400"],
+    "wording": ["Language",
     "Language",
-    "School Texts"]
+    "Language"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -33651,10 +33807,10 @@
   "originallanguage": ["German"],
   "originallanguage_codeA": ["ger"],
   "ddc": {
-    "code": ["438.2"],
-    "wording": ["German",
+    "code": ["400"],
+    "wording": ["Language",
     "Language",
-    "School Texts"]
+    "Language"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -33709,6 +33865,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["133.43"],
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics",
+    "Witchcraft - Sorcery",
+    "Witchcraft and Magickal Practice"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "17657507",
@@ -36623,6 +36787,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["025.341"],
+    "wording": ["Administration; Departments",
+    "Cataloging of Particular Classes of Materials",
+    "Catalogs, Cataloging and Description",
+    "Information",
+    "Library and Information Sciences"]
+  },
   "lcc": {
     "code": "Z105.5 .V65"
   },
@@ -38664,4 +38836,346 @@
   "weight": "0.38 pounds",
   "pages": "134 ",
   "fromwhere": "gift"
+},
+"143839058": {
+  "books_id": "143839058",
+  "title": "The Lowland (Vintage Contemporaries)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Lahiri, Jhumpa",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lahiri, Jhumpa",
+    "fl": "Jhumpa Lahiri",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0307278263",
+  "isbn": {
+    "0": "0307278263",
+    "2": "9780307278265"
+  },
+  "asin": "0307278263",
+  "ean": ["0307278263"],
+  "publication": "Vintage (2014), Edition: Reprint, 432 pages",
+  "date": "2014",
+  "summary": "The Lowland (Vintage Contemporaries) by Jhumpa Lahiri (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3562 .A316"
+  },
+  "awards": ["Booker Prize Shortlist",
+  "National Book Award finalist",
+  "Christian Science Monitor 15 best fiction",
+  "Andrew Carnegie Medals for Excellence in Fiction Longlist",
+  "The Morning News Tournament of Books",
+  "Baileys Women's Prize for Fiction Shortlist",
+  "DSC Prize for South Asian Literature",
+  "Time Magazine's Best Books of the Year"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
+  "source": "amazon.com books",
+  "workcode": "13443124",
+  "entrydate": "2017-07-20",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "432 p.; 5.2 inches",
+  "height": "5.2 inches",
+  "thickness": "8 inches",
+  "length": "0.9 inches",
+  "dimensions": "5.2 x 0.9 x 8 inches",
+  "weight": "0.79 pounds",
+  "pages": "432 ",
+  "fromwhere": "Amazon.com"
+},
+"144033636": {
+  "books_id": "144033636",
+  "title": "Mrs. Caliban",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Ingalls, Rachel",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ingalls, Rachel",
+    "fl": "Rachel Ingalls",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0876451121",
+  "isbn": {
+    "0": "0876451121",
+    "2": "9780876451120"
+  },
+  "asin": "0876451121",
+  "ean": ["0876451121"],
+  "publication": "Harvard Common Press (1982), Edition: New Ed, 128 pages",
+  "date": "1982",
+  "summary": "Mrs. Caliban by Rachel Ingalls (1982)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3559 .N38"
+  },
+  "genre": ["Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "122506",
+  "entrydate": "2017-07-25",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "128 p.; 5 inches",
+  "height": "5 inches",
+  "thickness": "8.25 inches",
+  "length": "1.5 inches",
+  "dimensions": "5 x 1.5 x 8.25 inches",
+  "weight": "0.25 pounds",
+  "pages": "128 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144034741": {
+  "books_id": "144034741",
+  "title": "A History of Western Music (Revised Edition)",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Grout, Donald Jay",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Grout, Donald Jay",
+    "fl": "Donald Jay Grout",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0393094162",
+  "isbn": {
+    "0": "0393094162",
+    "2": "9780393094169"
+  },
+  "asin": "0393094162",
+  "ean": ["0393094162"],
+  "publication": "WW Norton & Co (1973), Edition: Rev ed., 818 pages",
+  "date": "1973",
+  "summary": "A History of Western Music (Revised Edition) by Donald Jay Grout (1973)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["780.9"],
+    "wording": ["Arts and Recreation",
+    "Biography And History",
+    "Music",
+    "Music"]
+  },
+  "lcc": {
+    "code": "ML160 .G87"
+  },
+  "subject": [["Music",
+  "History and Criticism"],
+  ["Music",
+  "History and criticism"]],
+  "genre": ["Nonfiction",
+  "History"],
+  "genre_id": ["1247",
+  "1599"],
+  "source": "amazon.com books",
+  "workcode": "11658",
+  "entrydate": "2017-07-25",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "818 p.; 9.5 inches",
+  "height": "9.5 inches",
+  "thickness": "1.5 inches",
+  "length": "6.5 inches",
+  "dimensions": "9.5 x 6.5 x 1.5 inches",
+  "weight": "3 pounds",
+  "pages": "818 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144034833": {
+  "books_id": "144034833",
+  "title": "Beard on Bread",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Beard, James",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Beard, James",
+    "fl": "James Beard",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0394473450",
+  "isbn": {
+    "0": "0394473450",
+    "2": "9780394473451"
+  },
+  "asin": "0394473450",
+  "ean": ["0394473450"],
+  "publication": "Knopf (1973), Edition: 1st, 230 pages",
+  "date": "1973",
+  "summary": "Beard on Bread by James Beard (1973)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.815"],
+    "wording": ["Appetizers",
+    "Breads",
+    "Cooking Specific Dishes",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX769 .B33"
+  },
+  "subject": [["Bread"]],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "94608",
+  "entrydate": "2017-07-25",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "230 p.; 6.5 x 1 inches",
+  "height": "1 inch",
+  "thickness": "8.25 inches",
+  "length": "6.5 inches",
+  "dimensions": "1 x 6.5 x 8.25 inches",
+  "weight": "0.95 pounds",
+  "pages": "230 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144034893": {
+  "books_id": "144034893",
+  "title": "Notes from the Underground (Dover Thrift Editions)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Dostoyevsky, Fyodor",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Dostoyevsky, Fyodor",
+    "fl": "Fyodor Dostoyevsky",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "048627053X",
+  "isbn": {
+    "0": "048627053X",
+    "2": "9780486270531"
+  },
+  "asin": "048627053X",
+  "ean": ["048627053X"],
+  "upc": ["800759270538"],
+  "publication": "Dover Publications (1992), Edition: New edition, 96 pages",
+  "date": "1992",
+  "summary": "Notes from the Underground (Dover Thrift Editions) by Fyodor Dostoyevsky (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["891.733"],
+    "wording": ["1800-1917",
+    "Literature",
+    "Literature of other Indo-European languages",
+    "Other Languages",
+    "Russian",
+    "Russian Fiction"]
+  },
+  "lcc": {
+    "code": "PG3326 .Z4"
+  },
+  "subject": {
+    "0": ["Dostoyevsky, Fyodor, 1821-1881",
+    "Translations into English"],
+    "1": [null],
+    "2": ["Political fiction"],
+    "4": ["Russia",
+    "Fiction"],
+    "5": ["Russia",
+    "Fiction.",
+    "1801-1917"],
+    "6": ["Russia",
+    "History",
+    "1801-1917",
+    "Fiction"],
+    "8": ["Russia",
+    "Officials and employees",
+    "Fiction"],
+    "10": ["Russia",
+    "Social life and customs",
+    "Fiction"]
+  },
+  "originaltitle": "\u0417\u0430\u043f\u0438\u0441\u043a\u0438 \u0438\u0437 \u043f\u043e\u0434\u043f\u043e\u043b\u044c\u044f",
+  "awards": ["1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "Christianity Today Book Awards",
+  "The Top Ten: Writers Pick Their Favorite Books",
+  "Western World's Greatest Books - Project Gutenberg",
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
+  "source": "amazon.com books",
+  "workcode": "8454",
+  "entrydate": "2017-07-25",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "96 p.; 5.25 x 0.5 inches",
+  "height": "0.5 inches",
+  "thickness": "8.25 inches",
+  "length": "5.25 inches",
+  "dimensions": "0.5 x 5.25 x 8.25 inches",
+  "weight": "0.18 pounds",
+  "pages": "96 ",
+  "fromwhere": "Powell's City of Books (Portland)"
 }}
