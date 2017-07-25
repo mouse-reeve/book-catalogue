@@ -11,16 +11,16 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-464
+469
 
 ### LibraryThing grenres:
-- 126 "Fiction"
+- 129 "Fiction"
 - 95 "Graphic Novels"
-- 91 "Fantasy"
-- 75 "Nonfiction"
+- 92 "Fantasy"
+- 76 "Nonfiction"
 - 60 "Science Fiction"
 - 50 "Religion & Spirituality"
-- 43 "History"
+- 44 "History"
 - 21 "Mystery"
 - 18 "Science & Nature"
 - 13 "Young Adult"
@@ -28,8 +28,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 10 "Biography & Memoir"
 - 9 "Children's Books"
 - 8 "Romance"
+- 8 "Food & Cooking"
 - 7 "Health & Wellness"
-- 7 "Food & Cooking"
 - 5 "LGBT"
 - 1 "Home & Garden"
 - 1 "Christian Fiction"
@@ -77,7 +77,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 14 "crime"
 
 ### Original language:
-- 385 "English"
+- 390 "English"
 - 6 "French"
 - 5 "Russian"
 - 5 "Polish"
