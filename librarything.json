@@ -37966,6 +37966,8 @@
     "fl": "Jason Toney",
     "role": "Illustrator"
   }],
+  "tags": ["TYPE:short stories"],
+  "tagidA": [12751217],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0983862907",
@@ -38012,6 +38014,8 @@
     "fl": "Walter Mosley",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel"],
+  "tagidA": [12751209],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0743451791",
@@ -38100,6 +38104,8 @@
     "fl": "Joe Ortiz",
     "role": "Author"
   }],
+  "tags": ["TYPE:cookbook"],
+  "tagidA": [13881272],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0898158699",
@@ -38160,6 +38166,8 @@
     "fl": "W. F. Ryan",
     "role": "Author"
   }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0271019670",
@@ -38242,6 +38250,10 @@
     "fl": "Randall Faber",
     "role": "Composer"
   }],
+  "tags": ["TYPE:textbook",
+  "TYPE:music"],
+  "tagidA": [14160578,
+  15489648],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1616774207",
@@ -38303,6 +38315,10 @@
     "fl": "Randall Faber",
     "role": "Composer"
   }],
+  "tags": ["TYPE:textbook",
+  "TYPE:music"],
+  "tagidA": [14160578,
+  15489648],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1616772050",
@@ -38364,6 +38380,10 @@
     "fl": "Randall Faber",
     "role": "Composer"
   }],
+  "tags": ["TYPE:textbook",
+  "TYPE:music"],
+  "tagidA": [14160578,
+  15489648],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1616772069",
@@ -38419,6 +38439,10 @@
     "fl": "Randall Faber",
     "role": "Composer"
   }],
+  "tags": ["TYPE:textbook",
+  "TYPE:music"],
+  "tagidA": [14160578,
+  15489648],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1616772077",
@@ -38473,6 +38497,8 @@
     "fl": "Bernard Clayton",
     "role": "Author"
   }],
+  "tags": ["TYPE:cookbook"],
+  "tagidA": [13881272],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0671530747",
@@ -38538,6 +38564,8 @@
     "fl": "Georges Perec",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel"],
+  "tagidA": [12751209],
   "collections_idA": [1],
   "collections": ["Your library"],
   "asin": "B01FIY5MUU",
@@ -38599,6 +38627,10 @@
     "fl": "Margaret Atwood",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel",
+  "RECOMMENDER:Bookclub"],
+  "tagidA": [12751209,
+  15489645],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0385720955",
@@ -38709,6 +38741,8 @@
     "fl": "Paul Charles Morphy",
     "role": "Author"
   }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1146354827",
@@ -38756,6 +38790,10 @@
     "fl": "John W. Schaum",
     "role": "Author"
   }],
+  "tags": ["TYPE:textbook",
+  "TYPE:music"],
+  "tagidA": [14160578,
+  15489648],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1936098253",
@@ -38802,6 +38840,8 @@
     "fl": "Madame Le Marchand",
     "role": "Author"
   }],
+  "tags": ["TYPE:grimoire"],
+  "tagidA": [12989395],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1557093091",
@@ -38849,6 +38889,10 @@
     "fl": "Jhumpa Lahiri",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel",
+  "RECOMMENDER:Bookclub"],
+  "tagidA": [12751209,
+  15489645],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0307278263",
@@ -38916,6 +38960,10 @@
     "fl": "Rachel Ingalls",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel",
+  "RECOMMENDER:Bookclub"],
+  "tagidA": [12751209,
+  15489645],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0876451121",
@@ -38977,6 +39025,8 @@
     "fl": "Donald Jay Grout",
     "role": "Author"
   }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0393094162",
@@ -39041,6 +39091,8 @@
     "fl": "James Beard",
     "role": "Author"
   }],
+  "tags": ["TYPE:cookbook"],
+  "tagidA": [13881272],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0394473450",
@@ -39102,6 +39154,10 @@
     "fl": "Fyodor Dostoyevsky",
     "role": "Author"
   }],
+  "tags": ["TYPE:novel",
+  "RECOMMENDER:Bookclub"],
+  "tagidA": [12751209,
+  15489645],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "048627053X",
