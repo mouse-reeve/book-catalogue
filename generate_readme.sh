@@ -13,7 +13,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Number of books:
 $(jq '. | length' librarything.json)
 
-### LibraryThing grenres:
+### Genres:
 $(jq '.[].genre | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
     echo "- $line"
 done )
@@ -23,8 +23,8 @@ $(jq '.[].tags | select(.) | .[]' librarything.json | grep TYPE | sed 's/TYPE://
     echo "- $line"
 done )
 
-### Content tags:
-$(jq '.[].tags | select(.) | .[]' librarything.json | grep -v : | sort | uniq -c | sort -r | head -20 | sort -r | while read line; do
+### Subject:
+$(jq '.[].subject' librarything.json | tr '[:upper:]' '[:lower:]' | grep '^\s*"[a-z\s]*"$' | sort | uniq -c | sort -r | head -15 | while read line; do
     echo "- $line"
 done )
 
@@ -34,7 +34,7 @@ $( jq '.[].originallanguage | select(.) | .[]' librarything.json | sort | uniq -
 done )
 
 ### Author:
-$( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -20 | while read line; do
+$( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -10 | while read line; do
     echo "- $line"
 done )
 

@@ -13,7 +13,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Number of books:
 469
 
-### LibraryThing grenres:
+### Genres:
 - 129 "Fiction"
 - 95 "Graphic Novels"
 - 92 "Fantasy"
@@ -54,27 +54,22 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 2 "zine"
 - 1 "anthology"
 
-### Content tags:
-- 59 "occult"
-- 46 "future"
-- 43 "magic"
-- 27 "mythology"
-- 27 "horror"
-- 23 "humor"
-- 22 "religion"
-- 21 "demons"
-- 21 "christianity"
-- 21 "anthropology"
-- 20 "primary source"
-- 18 "witchcraft"
-- 18 "art"
-- 17 "murder"
-- 16 "history"
-- 16 "england"
-- 15 "hell"
-- 14 "russia"
-- 14 "magical realism"
-- 14 "crime"
+### Subject:
+- 478     "fiction"
+- 72     "drama"
+- 39     "fantasy"
+- 31     "poetry"
+- 20     "history"
+- 17     "dictionaries"
+- 14     "magic"
+- 11     "biography"
+- 11     "adaptations"
+- 8     "feature"
+- 7     "taoism"
+- 7     "philosophy"
+- 7     "features"
+- 6     "women"
+- 6     "witchcraft"
 
 ### Original language:
 - 390 "English"
@@ -103,16 +98,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Tolkien, J.R.R."
 - 5 "Shakespeare, William"
 - 5 "Calvino, Italo"
-- 4 "Watterson, Bill"
-- 4 "Vasquez, Jhonen"
-- 4 "Rucka, Greg"
-- 4 "Pynchon, Thomas"
-- 4 "Pullman, Philip"
-- 4 "Nix, Garth"
-- 4 "Murakami, Haruki"
-- 4 "Jenkins, Paul"
-- 4 "Faber, Nancy"
-- 4 "Delano, Jamie"
 
 ### Books read so far this year:
       10
