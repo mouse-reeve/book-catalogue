@@ -11,7 +11,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-469
+468
 
 ### Genres:
 - 129 "Fiction"
@@ -24,7 +24,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 21 "Mystery"
 - 18 "Science & Nature"
 - 13 "Young Adult"
-- 13 "Art & Design"
+- 12 "Art & Design"
 - 10 "Biography & Memoir"
 - 9 "Children's Books"
 - 8 "Romance"
@@ -41,15 +41,15 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 26 "short stories"
 - 20 "grimoire"
 - 17 "poetry"
-- 16 "reference"
 - 15 "children's"
+- 14 "reference"
 - 12 "play"
 - 8 "textbook"
 - 8 "essays"
 - 8 "art"
 - 7 "memoir"
 - 7 "cookbook"
-- 5 "music"
+- 6 "music"
 - 5 "fictional nonfiction"
 - 4 "sacred text"
 - 2 "zine"
@@ -73,12 +73,12 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 390 "English"
+- 389 "English"
 - 6 "French"
-- 5 "Russian"
-- 5 "Polish"
 - 5 "Latin"
 - 5 "German"
+- 4 "Russian"
+- 4 "Polish"
 - 4 "Italian"
 - 2 "Japanese"
 - 1 "Swedish"

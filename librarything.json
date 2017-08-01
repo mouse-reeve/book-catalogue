@@ -2439,7 +2439,7 @@
   "xxx"],
   "ddc": {
     "code": ["364.1680973"],
-    "wording": ["--",
+    "wording": ["Crimes and Offenses",
     "Crimes of property",
     "Criminology",
     "Social Problems, Social Services",
@@ -9222,7 +9222,7 @@
   "xxx"],
   "ddc": {
     "code": ["364.15230978144"],
-    "wording": ["--",
+    "wording": ["Crimes and Offenses",
     "Criminology",
     "Murder",
     "Murder",
@@ -9473,10 +9473,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "rus"],
+  "xxx"],
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
@@ -9940,7 +9938,7 @@
   "xxx"],
   "ddc": {
     "code": ["364.15230977311"],
-    "wording": ["--",
+    "wording": ["Crimes and Offenses",
     "Criminology",
     "Murder",
     "Murder",
@@ -10781,6 +10779,7 @@
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
+    "Scriptures",
     "Taoism"]
   },
   "lcc": {
@@ -11954,7 +11953,12 @@
   "length": "4.18 inches",
   "dimensions": "6.78 x 4.18 x 1.1  inches",
   "weight": "0.52 pounds",
-  "pages": "496 "
+  "pages": "496 ",
+  "circulation": [{
+    "start_date": "2017-07-22",
+    "item_id": "111130366-1",
+    "status": "Checked out"
+  }]
 },
 "111130369": {
   "books_id": "111130369",
@@ -16454,6 +16458,7 @@
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
+    "Scriptures",
     "Taoism"]
   },
   "lcc": {
@@ -18300,7 +18305,8 @@
   "xxx"],
   "ddc": {
     "code": ["895.636"],
-    "wording": ["East Asian",
+    "wording": ["21st Century",
+    "East Asian",
     "Japanese",
     "Japanese fiction",
     "Literature",
@@ -22177,7 +22183,12 @@
   "dimensions": "0.59 x 5.24 x 7.99 inches",
   "weight": "0.45 pounds",
   "pages": "220 ",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2017-07-14",
+    "item_id": "112520289-1",
+    "status": "Checked out"
+  }]
 },
 "112520315": {
   "books_id": "112520315",
@@ -23611,6 +23622,7 @@
     "code": ["759.9492"],
     "wording": ["Arts and Recreation",
     "Europe",
+    "Netherlands",
     "Other Schools",
     "Painting",
     "Various Schools"]
@@ -24229,10 +24241,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Polish"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "pol"],
+  "xxx"],
   "ddc": {
     "code": ["891.85373"],
     "wording": ["1919-1989",
@@ -24734,7 +24744,9 @@
   "xxx"],
   "ddc": {
     "code": ["895.6314"],
-    "wording": ["East Asian",
+    "wording": ["Early period to 1185",
+    "East Asian",
+    "Heian period",
     "Japanese",
     "Japanese fiction",
     "Literature",
@@ -32733,12 +32745,7 @@
   "dimensions": "6.8 x 4.4 x 0.5 inches",
   "weight": "0.25 pounds",
   "pages": "192 ",
-  "fromwhere": "Powell's City of Books (Portland)",
-  "circulation": [{
-    "start_date": "2016-01-16",
-    "item_id": "123828796-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Powell's City of Books (Portland)"
 },
 "123828802": {
   "books_id": "123828802",
@@ -34938,127 +34945,6 @@
   "pages": "642 ",
   "fromwhere": "gift"
 },
-"135271895": {
-  "books_id": "135271895",
-  "title": "Love to Knit: 25 Quick and Stylish Fashion Projects You Will Love to Knit",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Lowenthal, Bronwyn",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Lowenthal, Bronwyn",
-    "fl": "Bronwyn Lowenthal",
-    "role": "Author"
-  }],
-  "tags": ["RECOMMENDER:Nimbus",
-  "TYPE:reference",
-  "DIY",
-  "knitting",
-  "fashion"],
-  "tagidA": [14767980,
-  12751221,
-  1038708,
-  27622,
-  9664],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1906094039",
-  "isbn": {
-    "0": "1906094039",
-    "2": "9781906094034"
-  },
-  "asin": "1906094039",
-  "ean": ["1906094039"],
-  "publication": "Cima Books (2007), 128 pages",
-  "date": "2007",
-  "summary": "Love to Knit: 25 Quick and Stylish Fashion Projects You Will Love to Knit by Bronwyn Lowenthal (2007)",
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["746"],
-    "wording": ["Art Needlework",
-    "Arts and Recreation",
-    "Drawing; Decoration; Design "]
-  },
-  "lcc": [],
-  "genre": ["Art & Design"],
-  "genre_id": ["9985304"],
-  "source": "amazon.com books",
-  "workcode": "4313274",
-  "entrydate": "2016-10-16",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "128 p.; 8.25 x 0.75 inches",
-  "height": "0.75 inches",
-  "thickness": "11 inches",
-  "length": "8.25 inches",
-  "dimensions": "0.75 x 8.25 x 11 inches",
-  "weight": "1.17 pounds",
-  "pages": "128 ",
-  "fromwhere": "gift"
-},
-"135271896": {
-  "books_id": "135271896",
-  "title": "The Ultimate Book of Doing Up Old Junk",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Books, Whitecap",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Books, Whitecap",
-    "fl": "Whitecap Books",
-    "role": "Author"
-  }],
-  "tags": ["RECOMMENDER:Nimbus",
-  "TYPE:reference",
-  "DIY",
-  "restoration"],
-  "tagidA": [14767980,
-  12751221,
-  1038708,
-  630775],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1853918709",
-  "isbn": {
-    "0": "1853918709",
-    "2": "9781853918704"
-  },
-  "asin": "1853918709",
-  "ean": ["1853918709"],
-  "publication": "Whitecap Books (2000), 256 pages",
-  "date": "2000",
-  "summary": "The Ultimate Book of Doing Up Old Junk by Whitecap Books (2000)",
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["745"],
-    "wording": ["Arts and Recreation",
-    "Decorative Art And Design",
-    "Drawing; Decoration; Design "]
-  },
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "830469",
-  "entrydate": "2016-10-16",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "256 p.; 11.71 inches",
-  "height": "11.71 inches",
-  "thickness": "0.97 inches",
-  "length": "9.74 inches",
-  "dimensions": "11.71 x 9.74 x 0.97 inches",
-  "pages": "256 ",
-  "fromwhere": "gift"
-},
 "135271898": {
   "books_id": "135271898",
   "title": "Deutsch, Na Klar: An Introductory German Course (German Edition)",
@@ -35647,6 +35533,7 @@
     "Other Religions",
     "Religion ",
     "Religions of Chinese Origin",
+    "Scriptures",
     "Taoism"]
   },
   "lcc": {
@@ -37660,8 +37547,8 @@
   "workcode": "3011",
   "entrydate": "2017-02-22",
   "format": [{
-    "code": "1.3",
-    "text": "Ebook"
+    "code": "1.1.1",
+    "text": "Paperback"
   }],
   "copies": "1",
   "volumes": "1",
@@ -38607,12 +38494,13 @@
   }],
   "copies": "1",
   "volumes": "1",
-  "physical_description": "8.43 inches",
+  "physical_description": "284 p.; 8.43 inches",
   "height": "8.43 inches",
   "thickness": "0.73 inches",
   "length": "5.85 inches",
   "dimensions": "8.43 x 5.85 x 0.73 inches",
   "weight": "0.79 pounds",
+  "pages": "284 ",
   "fromwhere": "Green Apple Books"
 },
 "143097253": {
@@ -39091,8 +38979,10 @@
     "fl": "James Beard",
     "role": "Author"
   }],
-  "tags": ["TYPE:cookbook"],
-  "tagidA": [13881272],
+  "tags": ["TYPE:cookbook",
+  "RECOMMENDER:Tessa"],
+  "tagidA": [13881272,
+  12648814],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0394473450",
@@ -39234,4 +39124,54 @@
   "weight": "0.18 pounds",
   "pages": "96 ",
   "fromwhere": "Powell's City of Books (Portland)"
+},
+"144340269": {
+  "books_id": "144340269",
+  "title": "25 Easy and Progressive Studies, Op.100: Easier Piano Pieces 19 (Easier Piano Pieces (ABRSM))",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Burgmuller, Johann Friedrich Franz",
+  "primaryauthorrole": "Composer",
+  "authors": [{
+    "lf": "Burgmuller, Johann Friedrich Franz",
+    "fl": "Johann Friedrich Franz Burgmuller",
+    "role": "Composer"
+  }],
+  "tags": ["TYPE:music"],
+  "tagidA": [15489648],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1854722484",
+  "isbn": {
+    "0": "1854722484",
+    "2": "9781854722485"
+  },
+  "asin": "1854722484",
+  "ean": ["1854722484"],
+  "publication": "Associated Board of the Royal Schools of Music (1983), 36 pages",
+  "date": "1983",
+  "summary": "25 Easy and Progressive Studies, Op.100: Easier Piano Pieces 19 (Easier Piano Pieces (ABRSM)) by Johann Friedrich Franz Burgmuller (1983)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "series": "Easier Piano Pieces",
+  "originaltitle": "25 \u00e9tudes faciles et progressives pour le piano compos\u00e9s pour des petites mains",
+  "source": "amazon.com all media",
+  "workcode": "19918423",
+  "entrydate": "2017-08-01",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "36 p.; 8.98 inches",
+  "height": "8.98 inches",
+  "thickness": "12.01 inches",
+  "length": "0.12 inches",
+  "dimensions": "8.98 x 0.12 x 12.01 inches",
+  "pages": "36 ",
+  "fromwhere": "Exploring Music"
 }}
