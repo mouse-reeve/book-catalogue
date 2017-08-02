@@ -6720,7 +6720,6 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The Hobbit ; or, There and back again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -15109,7 +15108,6 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The Hobbit ; or, There and back again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -17203,7 +17201,8 @@
     "By topic",
     "History and criticism of three or more works",
     "Literature",
-    "Literature and science"]
+    "Physical and natural phenomena",
+    "Specific themes and subjects"]
   },
   "lcc": {
     "code": "PN56 .C83"
@@ -19168,7 +19167,9 @@
     "wording": ["By Topic",
     "By topic",
     "History and criticism of three or more works",
-    "Literature"]
+    "Literature",
+    "Specific themes and subjects",
+    "Supernatural, mythological, legendary themes"]
   },
   "lcc": {
     "code": "GR650 .M36"
@@ -22183,12 +22184,7 @@
   "dimensions": "0.59 x 5.24 x 7.99 inches",
   "weight": "0.45 pounds",
   "pages": "220 ",
-  "fromwhere": "Amazon.com",
-  "circulation": [{
-    "start_date": "2017-07-14",
-    "item_id": "112520289-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Amazon.com"
 },
 "112520315": {
   "books_id": "112520315",
@@ -39174,4 +39170,318 @@
   "dimensions": "8.98 x 0.12 x 12.01 inches",
   "pages": "36 ",
   "fromwhere": "Exploring Music"
+},
+"144387399": {
+  "books_id": "144387399",
+  "title": "Patisserie: Mastering the Fundamentals of French Pastry",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Felder, Christophe",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Felder, Christophe",
+    "fl": "Christophe Felder",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:cookbook"],
+  "tagidA": [13881272],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0847839621",
+  "isbn": {
+    "0": "0847839621",
+    "2": "9780847839629"
+  },
+  "asin": "0847839621",
+  "ean": ["0847839621"],
+  "publication": "Rizzoli (2013), Edition: 1/27/2013, 800 pages",
+  "date": "2013",
+  "summary": "Patisserie: Mastering the Fundamentals of French Pastry by Christophe Felder (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.865"],
+    "wording": ["Baking",
+    "Cooking Specific Dishes",
+    "Desserts",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": [],
+  "originaltitle": "P\u00e2tisserie, l'ultime r\u00e9f\u00e9rence",
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "13321977",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "800 p.; 7.6 inches",
+  "height": "7.6 inches",
+  "thickness": "10.12 inches",
+  "length": "2.34 inches",
+  "dimensions": "7.6 x 2.34 x 10.12 inches",
+  "weight": "5.89 pounds",
+  "pages": "800 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144387436": {
+  "books_id": "144387436",
+  "title": "Music: A Very Short Introduction",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Cook, Nicholas",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Cook, Nicholas",
+    "fl": "Nicholas Cook",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0192853821",
+  "isbn": {
+    "0": "0192853821",
+    "2": "9780192853820"
+  },
+  "asin": "0192853821",
+  "ean": ["0192853821"],
+  "publication": "Oxford University Press (2000), Edition: 1, 152 pages",
+  "date": "2000",
+  "summary": "Music: A Very Short Introduction by Nicholas Cook (2000)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["780"],
+    "wording": ["Arts and Recreation",
+    "Music",
+    "Music"]
+  },
+  "lcc": {
+    "code": "MT6 .C775"
+  },
+  "subject": [["Music appreciation"]],
+  "series": "A Very Short Introduction",
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
+  "source": "amazon.com books",
+  "workcode": "103239",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "152 p.; 6.9 inches",
+  "height": "6.9 inches",
+  "thickness": "4.4 inches",
+  "length": "0.4 inches",
+  "dimensions": "6.9 x 0.4 x 4.4 inches",
+  "weight": "0.31 pounds",
+  "pages": "152 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144387442": {
+  "books_id": "144387442",
+  "title": "Structural Functions in Music (Dover Books on Music)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Berry, Wallace T.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Berry, Wallace T.",
+    "fl": "Wallace T. Berry",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0486253848",
+  "isbn": {
+    "0": "0486253848",
+    "2": "9780486253848"
+  },
+  "asin": "0486253848",
+  "ean": ["0486253848"],
+  "upc": ["800759253845"],
+  "publication": "Dover Publications (1987), Edition: Revised ed., 480 pages",
+  "date": "1987",
+  "summary": "Structural Functions in Music (Dover Books on Music) by Wallace T. Berry (1987)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["781"],
+    "wording": ["Arts and Recreation",
+    "Genres And Theory",
+    "Music"]
+  },
+  "lcc": {
+    "code": "MT6 .B465"
+  },
+  "subject": [["Musical analysis"]],
+  "source": "amazon.com books",
+  "workcode": "773070",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "480 p.; 5.38 inches",
+  "height": "5.38 inches",
+  "thickness": "8.47 inches",
+  "length": "0.88 inches",
+  "dimensions": "5.38 x 0.88 x 8.47 inches",
+  "weight": "1.07 pounds",
+  "pages": "480 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144387473": {
+  "books_id": "144387473",
+  "title": "Treatise on Harmony (Dover Books on Music)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Rameau, Jean-Philippe",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Rameau, Jean-Philippe",
+    "fl": "Jean-Philippe Rameau",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0486224619",
+  "isbn": {
+    "0": "0486224619",
+    "2": "9780486224619"
+  },
+  "asin": "0486224619",
+  "ean": ["0486224619"],
+  "upc": ["800759224616"],
+  "publication": "Dover Publications (1971), Edition: Revised ed., 512 pages",
+  "date": "1971",
+  "summary": "Treatise on Harmony (Dover Books on Music) by Jean-Philippe Rameau (1971)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["French"],
+  "originallanguage_codeA": ["eng",
+  "fre"],
+  "ddc": {
+    "code": ["781.3"],
+    "wording": ["Arts and Recreation",
+    "Composition & Harmony",
+    "Genres And Theory",
+    "Music"]
+  },
+  "lcc": {
+    "code": "MT50"
+  },
+  "subject": [["Harmony"]],
+  "originaltitle": "Traite de l'harmonie",
+  "source": "amazon.com books",
+  "workcode": "202088",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "512 p.; 6.13 inches",
+  "height": "6.13 inches",
+  "thickness": "9.23 inches",
+  "length": "1.01 inches",
+  "dimensions": "6.13 x 1.01 x 9.23 inches",
+  "weight": "1.64 pounds",
+  "pages": "512 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"144389510": {
+  "books_id": "144389510",
+  "title": "The Lives of the Great Composers",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Schonberg, Harold C.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schonberg, Harold C.",
+    "fl": "Harold C. Schonberg",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction",
+  "TYPE:biography"],
+  "tagidA": [12751214,
+  15501333],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0393038572",
+  "isbn": {
+    "0": "0393038572",
+    "2": "9780393038576"
+  },
+  "asin": "0393038572",
+  "ean": ["0393038572"],
+  "publication": "W. W. Norton & Company (1997), Edition: 3, 656 pages",
+  "date": "1997",
+  "summary": "The Lives of the Great Composers by Harold C. Schonberg (1997)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["780.922"],
+    "wording": ["Arts and Recreation",
+    "Biography",
+    "Biography And History",
+    "Music",
+    "Music"]
+  },
+  "lcc": {
+    "code": "ML390 .S393"
+  },
+  "subject": [["Composers"],
+  ["Composers",
+  "Biography"]],
+  "originaltitle": "The Lives of the Great Composers",
+  "genre": ["Biography & Memoir",
+  "Nonfiction",
+  "History"],
+  "genre_id": ["1240",
+  "1247",
+  "1599"],
+  "source": "amazon.com books",
+  "workcode": "72858",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "656 p.; 6.7 inches",
+  "height": "6.7 inches",
+  "thickness": "9.6 inches",
+  "length": "1.9 inches",
+  "dimensions": "6.7 x 1.9 x 9.6 inches",
+  "weight": "2.4 pounds",
+  "pages": "656 ",
+  "fromwhere": "Amazon.com"
 }}
