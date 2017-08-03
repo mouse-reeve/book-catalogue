@@ -11,7 +11,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-473
+474
 
 ### Genres:
 - 129 "Fiction"
@@ -41,8 +41,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 26 "short stories"
 - 20 "grimoire"
 - 17 "poetry"
+- 15 "reference"
 - 15 "children's"
-- 14 "reference"
 - 12 "play"
 - 8 "textbook"
 - 8 "essays"
@@ -74,7 +74,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 393 "English"
+- 394 "English"
 - 7 "French"
 - 5 "Latin"
 - 5 "German"
@@ -103,5 +103,10 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ### Books read so far this year:
       11
+
+
+### Average Goodreads rating for books read:
+4.02 / 5.00
+
 
 
