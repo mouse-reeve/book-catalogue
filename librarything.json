@@ -25653,6 +25653,7 @@
     "41": ["Tragedies"],
     "43": ["Young adult drama, English"]
   },
+  "series": "Shakespeare in Modern English",
   "originaltitle": "The Tragedy of Macbeth",
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -39483,5 +39484,63 @@
   "dimensions": "6.7 x 1.9 x 9.6 inches",
   "weight": "2.4 pounds",
   "pages": "656 ",
+  "fromwhere": "Amazon.com"
+},
+"144408338": {
+  "books_id": "144408338",
+  "title": "The Pianist&#039;s Dictionary",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Hinson, Maurice",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Hinson, Maurice",
+    "fl": "Maurice Hinson",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:reference"],
+  "tagidA": [12751221],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0253216826",
+  "isbn": {
+    "0": "0253216826",
+    "2": "9780253216823"
+  },
+  "asin": "0253216826",
+  "ean": ["0253216826"],
+  "publication": "Indiana University Press (2009), 240 pages",
+  "date": "2009",
+  "summary": "The Pianist&#039;s Dictionary by Maurice Hinson (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["786.203"],
+    "wording": ["Arts and Recreation",
+    "Music",
+    "Piano and Organ",
+    "Piano--about the instrument"]
+  },
+  "lcc": {
+    "code": "ML102 .P5"
+  },
+  "source": "amazon.com books",
+  "workcode": "2058449",
+  "entrydate": "2017-08-02",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "240 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.25 inches",
+  "length": "0.7 inches",
+  "dimensions": "5.5 x 0.7 x 8.25 inches",
+  "weight": "0.68 pounds",
+  "pages": "240 ",
   "fromwhere": "Amazon.com"
 }}
