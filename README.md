@@ -11,32 +11,32 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-474
+477
 
 ### Genres:
-- 129 "Fiction"
-- 95 "Graphic Novels"
-- 92 "Fantasy"
-- 78 "Nonfiction"
-- 60 "Science Fiction"
-- 50 "Religion & Spirituality"
-- 45 "History"
-- 21 "Mystery"
+- 131 "Fiction"
+- 96 "Graphic Novels"
+- 93 "Fantasy"
+- 79 "Nonfiction"
+- 61 "Science Fiction"
+- 53 "Religion & Spirituality"
+- 46 "History"
+- 20 "Mystery"
 - 18 "Science & Nature"
 - 13 "Young Adult"
+- 12 "Biography & Memoir"
 - 12 "Art & Design"
-- 11 "Biography & Memoir"
-- 9 "Food & Cooking"
+- 10 "Food & Cooking"
 - 9 "Children's Books"
-- 8 "Romance"
-- 7 "Health & Wellness"
+- 7 "Romance"
+- 6 "Health & Wellness"
 - 5 "LGBT"
 - 1 "Home & Garden"
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 127 "novel"
-- 121 "nonfiction"
+- 128 "novel"
+- 122 "nonfiction"
 - 96 "graphic novels & comics"
 - 26 "short stories"
 - 20 "grimoire"
@@ -44,15 +44,16 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 15 "reference"
 - 15 "children's"
 - 12 "play"
+- 9 "cookbook"
 - 8 "textbook"
 - 8 "essays"
-- 8 "cookbook"
 - 8 "art"
 - 7 "memoir"
 - 6 "music"
 - 5 "fictional nonfiction"
 - 4 "sacred text"
 - 2 "zine"
+- 1 "études"
 - 1 "biography"
 - 1 "anthology"
 
@@ -74,7 +75,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 394 "English"
+- 397 "English"
 - 7 "French"
 - 5 "Latin"
 - 5 "German"
@@ -102,11 +103,11 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Calvino, Italo"
 
 ### Books read so far this year:
-      12
+      13
 
 
 ### Average Goodreads rating for books read:
-4.02 / 5.00
+4.01 / 5.00
 
 
 

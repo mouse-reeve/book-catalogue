@@ -1767,6 +1767,8 @@
     "code": "PN6728 .H383"
   },
   "series": "Hellblazer",
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "19504593",
   "entrydate": "2014-01-21",
@@ -2904,8 +2906,8 @@
   "xxx"],
   "ddc": {
     "code": ["341.5"],
-    "wording": ["International Law",
-    "International private law",
+    "wording": ["Inter-state disputes and conflicts",
+    "International Law",
     "Law",
     "Social Sciences "]
   },
@@ -5678,6 +5680,7 @@
     "23": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "originaltitle": "The Return of The King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
   "1001 Books You Must Read Before You Die",
   "Whitcoulls top 100, 2008",
@@ -7046,7 +7049,8 @@
   "Library of Congress Books that Shaped America",
   "1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0445\u0443\u0434. \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
   "School Library Journal Top 100 Children\u2019s Novels, 2010 Poll",
-  "School Library Journal Top 100 Children's Novels, 2012 Poll"],
+  "School Library Journal Top 100 Children's Novels, 2012 Poll",
+  "Lewis Carroll Shelf Award"],
   "genre": ["Children's Books",
   "Fantasy"],
   "genre_id": ["11",
@@ -8507,7 +8511,6 @@
   "\u0421\u0430\u043c\u044b\u0435 \u0447\u0438\u0442\u0430\u0435\u043c\u044b\u0435 \u043a\u043d\u0438\u0433\u0438 \u043d\u0430 LiveLib",
   "Las joyas del milenio",
   "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430",
-  "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430",
   "Newark Public Library's 1904 List of a Thousand of the Best Novels"],
   "genre": ["Fiction",
   "Romance"],
@@ -8608,7 +8611,12 @@
     "text": "Paperback"
   }],
   "copies": "1",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2017-08-14",
+    "item_id": "105446723-1",
+    "status": "Checked out"
+  }]
 },
 "105446726": {
   "books_id": "105446726",
@@ -8936,11 +8944,9 @@
     "4": ["Mythology, Norse"]
   },
   "originaltitle": "Gods and Myths of Northern Europe",
-  "genre": ["Nonfiction",
-  "History",
+  "genre": ["History",
   "Religion & Spirituality"],
-  "genre_id": ["1247",
-  "1599",
+  "genre_id": ["1599",
   "1944"],
   "source": "amazon.com",
   "workcode": "31500",
@@ -9115,7 +9121,12 @@
   "dimensions": "7.8 x 5.3 x 1  inches",
   "weight": "0.65 pounds",
   "pages": "312 ",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2017-09-17",
+    "item_id": "105446734-1",
+    "status": "Checked out"
+  }]
 },
 "105446736": {
   "books_id": "105446736",
@@ -10218,10 +10229,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["301"],
-    "wording": ["Social Sciences ",
-    "Social Sciences, Sociology, Anthropology",
-    "Sociology, Anthropology"]
+    "code": ["133.4"],
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics",
+    "Witchcraft - Sorcery"]
   },
   "lcc": {
     "code": "BF1566"
@@ -11018,6 +11030,8 @@
   "lcc": {
     "code": "GV1469 .B2"
   },
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
   "source": "amazon.com",
   "workcode": "1241211",
   "entrydate": "2014-01-21",
@@ -12296,10 +12310,8 @@
     "code": "BF1561 .P6813"
   },
   "originaltitle": "La poule noire",
-  "genre": ["Religion & Spirituality",
-  "Health & Wellness"],
-  "genre_id": ["1944",
-  "683927"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com",
   "workcode": "1006460",
   "entrydate": "2014-07-27",
@@ -13723,6 +13735,8 @@
     "Fiction"]
   },
   "series": "Jeeves",
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
   "source": "amazon.com",
   "workcode": "16506",
   "entrydate": "2014-07-27",
@@ -13901,10 +13915,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "jpn"],
+  "xxx"],
   "ddc": {
     "code": ["895.635"],
     "wording": ["1945-1999",
@@ -15877,8 +15889,6 @@
   "lcc": {
     "code": "GR203.17"
   },
-  "genre": ["History"],
-  "genre_id": ["1599"],
   "source": "amazon.com",
   "workcode": "81324",
   "entrydate": "2014-07-27",
@@ -16085,10 +16095,8 @@
     "5": ["magic"]
   },
   "originaltitle": "The Book of Black Magic and Pacts",
-  "genre": ["Nonfiction",
-  "Religion & Spirituality"],
-  "genre_id": ["1247",
-  "1944"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com",
   "workcode": "355870",
   "entrydate": "2014-07-27",
@@ -22618,8 +22626,10 @@
     "4": ["Supernatural",
     "Fiction"]
   },
-  "genre": ["Fantasy"],
-  "genre_id": ["5280"],
+  "genre": ["Science Fiction",
+  "Fantasy"],
+  "genre_id": ["281",
+  "5280"],
   "source": "amazon.com",
   "workcode": "162508",
   "entrydate": "2014-09-14",
@@ -23315,10 +23325,8 @@
   "The Top Ten: Writers Pick Their Favorite Books",
   "Academy Award for Writing Adapted Screenplay Nominee",
   "BAFTA Award for Best Adapted Screenplay"],
-  "genre": ["Fiction",
-  "Mystery"],
-  "genre_id": ["2",
-  "46"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
   "source": "amazon.com",
   "workcode": "101280",
   "entrydate": "2014-09-14",
@@ -24081,8 +24089,10 @@
     "code": "NE1325 .A5"
   },
   "genre": ["Biography & Memoir",
+  "Nonfiction",
   "Art & Design"],
   "genre_id": ["1240",
+  "1247",
   "9985304"],
   "source": "amazon.com",
   "workcode": "4818166",
@@ -24736,8 +24746,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["Japanese"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "jpn"],
   "ddc": {
     "code": ["895.6314"],
     "wording": ["Early period to 1185",
@@ -25653,7 +25665,6 @@
     "41": ["Tragedies"],
     "43": ["Young adult drama, English"]
   },
-  "series": "Shakespeare in Modern English",
   "originaltitle": "The Tragedy of Macbeth",
   "genre": ["Fiction"],
   "genre_id": ["2"],
@@ -26781,6 +26792,16 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "North American"]
+  },
   "lcc": [],
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
@@ -29376,8 +29397,6 @@
   "lcc": {
     "code": "PR4030"
   },
-  "genre": ["Romance"],
-  "genre_id": ["2019"],
   "source": "amazon.com",
   "workcode": "7857716",
   "entrydate": "2015-02-24",
@@ -29691,6 +29710,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": [],
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
@@ -30278,7 +30304,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["884.2"],
-    "wording": ["Greek And Other Classical",
+    "wording": ["Greco e altre lingue classiche",
     "Greek and classical lyric poetry",
     "Literature",
     "Sappho"]
@@ -32018,7 +32044,7 @@
     "code": ["938.2421"],
     "wording": ["Ancient World",
     "Biography and History",
-    "Greece ",
+    "Greece to 323",
     "Thessaly; Epirus"]
   },
   "lcc": {
@@ -32347,8 +32373,10 @@
   "lcc": {
     "code": "GT2905.64"
   },
-  "genre": ["Food & Cooking"],
-  "genre_id": ["20444"],
+  "genre": ["Nonfiction",
+  "Food & Cooking"],
+  "genre_id": ["1247",
+  "20444"],
   "source": "amazon.com books",
   "workcode": "13858246",
   "entrydate": "2015-11-12",
@@ -33105,6 +33133,7 @@
   "Pre-Linnean works"],
   ["Gerard, John, 1545-1612"],
   ["Herbals"]],
+  "originaltitle": "The Herbal or General History of Plants: The Complete 1633 Edition as Revised and Enlarged by Thomas Johnson",
   "genre": ["Nonfiction",
   "Science & Nature",
   "History",
@@ -33183,7 +33212,6 @@
   },
   "subject": [["Cartography"],
   ["cartography"]],
-  "series": "University Paperbacks",
   "genre": ["Science & Nature",
   "Art & Design"],
   "genre_id": ["1457",
@@ -33878,6 +33906,8 @@
     "Witchcraft and Magickal Practice"]
   },
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "17657507",
   "entrydate": "2016-04-27",
@@ -34292,6 +34322,8 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "15794247",
   "entrydate": "2016-10-03",
@@ -34361,6 +34393,8 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "18501994",
   "entrydate": "2016-10-11",
@@ -34418,6 +34452,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
+  "genre": ["Biography & Memoir",
+  "History"],
+  "genre_id": ["1240",
+  "1599"],
   "source": "amazon.com books",
   "workcode": "17383530",
   "entrydate": "2016-10-14",
@@ -35115,7 +35153,7 @@
   "summary": "The Three Theban Plays: Antigone; Oedipus the King; Oedipus at Colonus by Sophocles (2012)",
   "ddc": {
     "code": ["882.01"],
-    "wording": ["Greek And Other Classical",
+    "wording": ["Greco e altre lingue classiche",
     "Greek drama and Classical drama",
     "Greek drama and Classical drama",
     "Literature"]
@@ -35392,16 +35430,6 @@
     "10": ["Literature",
     "Collections"]
   },
-  "series": "The Divine Comedy",
-  "originaltitle": "Divina Commedia: Inferno",
-  "awards": ["Los Angeles Times Book Prize",
-  "Harold Morton Landon Translation Award",
-  "Oxford-Weidenfeld Translation Prize",
-  "From Zero to Well-Read in 100 Books",
-  "ALA Notable Books for Adults",
-  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
-  "A Catholic Lifetime Reading Plan",
-  "David Bowie's Top 100"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -35537,6 +35565,7 @@
     "code": "BL1900 .C5"
   },
   "subject": [["Taoism"]],
+  "series": "Translations from the Asian Classics",
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
   "source": "amazon.com books",
@@ -35997,8 +36026,6 @@
   "lcc": {
     "code": "B52.7 .F45"
   },
-  "genre": ["Nonfiction"],
-  "genre_id": ["1247"],
   "source": "amazon.com books",
   "workcode": "168574",
   "entrydate": "2016-10-16",
@@ -38162,8 +38189,9 @@
     "Music"]
   },
   "lcc": [],
+  "series": "Faber Piano Adventures",
   "source": "amazon.com books",
-  "workcode": "9974594",
+  "workcode": "20101160",
   "entrydate": "2017-04-16",
   "format": [{
     "code": "1.1.1",
@@ -38221,14 +38249,17 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["781"],
+    "code": ["786"],
     "wording": ["Arts and Recreation",
-    "Genres And Theory",
-    "Music"]
+    "Music",
+    "Piano and Organ"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "MT222 .F116"
+  },
+  "series": "Faber Piano Adventures",
   "source": "amazon.com books",
-  "workcode": "9974594",
+  "workcode": "1671724",
   "entrydate": "2017-04-16",
   "format": [{
     "code": "1.1.1",
@@ -38285,9 +38316,16 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["786"],
+    "wording": ["Arts and Recreation",
+    "Music",
+    "Piano and Organ"]
+  },
   "lcc": [],
+  "series": "Faber Piano Adventures",
   "source": "amazon.com books",
-  "workcode": "17776247",
+  "workcode": "20101163",
   "entrydate": "2017-04-16",
   "format": [{
     "code": "1.1.1",
@@ -38351,8 +38389,9 @@
     "Music"]
   },
   "lcc": [],
+  "series": "Faber Piano Adventures",
   "source": "amazon.com books",
-  "workcode": "9974594",
+  "workcode": "20101142",
   "entrydate": "2017-04-16",
   "format": [{
     "code": "1.1.1",
@@ -39134,8 +39173,10 @@
     "fl": "Johann Friedrich Franz Burgmuller",
     "role": "Composer"
   }],
-  "tags": ["TYPE:music"],
-  "tagidA": [15489648],
+  "tags": ["TYPE:music",
+  "TYPE:\u00e9tudes"],
+  "tagidA": [15489648,
+  15701032],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1854722484",
@@ -39542,5 +39583,205 @@
   "dimensions": "5.5 x 0.7 x 8.25 inches",
   "weight": "0.68 pounds",
   "pages": "240 ",
+  "fromwhere": "Amazon.com"
+},
+"144591847": {
+  "books_id": "144591847",
+  "title": "Chocolates and Confections: Formula, Theory, and Technique for the Artisan Confectioner",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Greweling, Peter P.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Greweling, Peter P.",
+    "fl": "Peter P. Greweling",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:cookbook"],
+  "tagidA": [13881272],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0470424419",
+  "isbn": {
+    "0": "0470424419",
+    "2": "9780470424414"
+  },
+  "asin": "0470424419",
+  "ean": ["0470424419"],
+  "publication": "Wiley (2012), Edition: 2, 544 pages",
+  "date": "2012",
+  "summary": "Chocolates and Confections: Formula, Theory, and Technique for the Artisan Confectioner by Peter P. Greweling (2012)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.3374"],
+    "wording": ["Food And Drink",
+    "Food History, Culture",
+    "Home Economics",
+    "Tea, Chocolate, Coffee",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX791 .G786"
+  },
+  "subject": [["Chocolate candy"]],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "3066393",
+  "entrydate": "2017-08-06",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "544 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "11.2 inches",
+  "length": "1.6 inches",
+  "dimensions": "9 x 1.6 x 11.2 inches",
+  "weight": "5.38 pounds",
+  "pages": "544 ",
+  "fromwhere": "Green Apple Books on the Park"
+},
+"146736118": {
+  "books_id": "146736118",
+  "title": "The Buried Giant (Vintage International)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Ishiguro, Kazuo",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Ishiguro, Kazuo",
+    "fl": "Kazuo Ishiguro",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:novel"],
+  "tagidA": [12751209],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0307455793",
+  "isbn": {
+    "0": "0307455793",
+    "2": "9780307455796"
+  },
+  "asin": "0307455793",
+  "ean": ["0307455793"],
+  "publication": "Vintage (2016), Edition: Reprint, 336 pages",
+  "date": "2016",
+  "summary": "The Buried Giant (Vintage International) by Kazuo Ishiguro (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6059 .S5"
+  },
+  "originaltitle": "The Buried Giant",
+  "awards": ["100 Best Books of 2010-2015 by The Oyster Editors",
+  "Mythopoeic Fantasy Award Nominee",
+  "World Fantasy Award Nominee",
+  "International IMPAC Dublin Literary Award Longlist",
+  "The British Book Industry Awards Shortlist"],
+  "genre": ["Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "14938285",
+  "entrydate": "2017-10-06",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "336 p.; 5.18 inches",
+  "height": "5.18 inches",
+  "thickness": "8 inches",
+  "length": "0.71 inches",
+  "dimensions": "5.18 x 0.71 x 8 inches",
+  "weight": "0.81 pounds",
+  "pages": "336 ",
+  "fromwhere": "Amazon.com"
+},
+"146736135": {
+  "books_id": "146736135",
+  "title": "Apollo&#039;s Angels: A History of Ballet",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Homans, Jennifer",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Homans, Jennifer",
+    "fl": "Jennifer Homans",
+    "role": "Author"
+  }],
+  "tags": ["TYPE:nonfiction"],
+  "tagidA": [12751214],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0812968743",
+  "isbn": {
+    "0": "0812968743",
+    "2": "9780812968743"
+  },
+  "asin": "0812968743",
+  "ean": ["0812968743"],
+  "publication": "Random House Trade Paperbacks (2011), 672 pages",
+  "date": "2011",
+  "summary": "Apollo&#039;s Angels: A History of Ballet by Jennifer Homans (2011)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["792.8"],
+    "wording": ["Amusements and Recreation",
+    "Arts and Recreation",
+    "Dance",
+    "Stage Entertainments"]
+  },
+  "lcc": {
+    "code": "GV1787 .H58"
+  },
+  "awards": ["New York Times Best Books of the Year",
+  "New York Times Notable Book of the Year",
+  "National Book Critics Circle Award finalist",
+  "Choice Outstanding Academic Title",
+  "Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
+  "ALA Notable Books for Adults"],
+  "genre": ["Nonfiction",
+  "History"],
+  "genre_id": ["1247",
+  "1599"],
+  "source": "amazon.com books",
+  "workcode": "10414347",
+  "entrydate": "2017-10-06",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "672 p.; 6.1 inches",
+  "height": "6.1 inches",
+  "thickness": "9.2 inches",
+  "length": "1.5 inches",
+  "dimensions": "6.1 x 1.5 x 9.2 inches",
+  "weight": "1.63 pounds",
+  "pages": "672 ",
   "fromwhere": "Amazon.com"
 }}
