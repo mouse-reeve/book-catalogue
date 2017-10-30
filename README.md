@@ -11,20 +11,20 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-485
+486
 
 ### Genres:
-- 136 "Fiction"
+- 129 "Fiction"
 - 96 "Graphic Novels"
-- 94 "Fantasy"
+- 96 "Fantasy"
 - 79 "Nonfiction"
 - 61 "Science Fiction"
-- 53 "Religion & Spirituality"
+- 52 "Religion & Spirituality"
 - 46 "History"
-- 20 "Mystery"
 - 19 "Science & Nature"
+- 19 "Mystery"
+- 14 "Art & Design"
 - 13 "Young Adult"
-- 13 "Art & Design"
 - 12 "Biography & Memoir"
 - 10 "Food & Cooking"
 - 9 "Children's Books"
@@ -35,7 +35,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "Christian Fiction"
 
 ### Tagged types:
-- 131 "novel"
+- 132 "novel"
 - 123 "nonfiction"
 - 96 "graphic novels & comics"
 - 26 "short stories"
@@ -43,7 +43,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 19 "poetry"
 - 16 "reference"
 - 15 "children's"
-- 12 "play"
+- 13 "play"
 - 9 "cookbook"
 - 9 "art"
 - 8 "textbook"
@@ -59,7 +59,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "anthology"
 
 ### Subject:
-- 499     "fiction"
+- 507     "fiction"
 - 72     "drama"
 - 39     "fantasy"
 - 31     "poetry"
@@ -76,7 +76,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 404 "English"
+- 405 "English"
 - 7 "French"
 - 6 "German"
 - 5 "Latin"
@@ -110,5 +110,9 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 ### Average Goodreads rating for books read:
 4.01 / 5.00
 
+### Sum weight of books (incomplete):
+450.34
 
+### Total pages:
+129956
 
