@@ -490,7 +490,7 @@
     "code": "PN6728 .T68"
   },
   "subject": [["Comic books, strips, etc"]],
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -1432,7 +1432,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -1514,7 +1514,7 @@
     "code": "PN6728 .T68"
   },
   "subject": [["Comic books, strips, etc"]],
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -1690,7 +1690,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -1758,8 +1758,9 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["741"],
+    "code": ["741.5"],
     "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -2544,11 +2545,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["915.3"],
-    "wording": ["Arabian Peninsula",
-    "Asia",
-    "Biography and History",
-    "Geography, Voyages And Travel"]
+    "code": ["306.089927"],
+    "wording": ["Culture and Institutions",
+    "Social Sciences ",
+    "Social Sciences, Sociology, Anthropology",
+    "With Respect to Particular Groups"]
   },
   "lcc": {
     "code": "DT72 .B4"
@@ -4204,10 +4205,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["301"],
-    "wording": ["Social Sciences ",
-    "Social Sciences, Sociology, Anthropology",
-    "Sociology, Anthropology"]
+    "code": ["953.1"],
+    "wording": ["Arabian Peninsula",
+    "Asia",
+    "Biography and History",
+    "Sinai"]
   },
   "lcc": {
     "code": "DS110.5"
@@ -9170,10 +9172,12 @@
   "xxx",
   "rus"],
   "ddc": {
-    "code": ["813"],
-    "wording": ["American And Canadian",
-    "Fiction",
-    "Literature"]
+    "code": ["891.73"],
+    "wording": ["Literature",
+    "Literature of other Indo-European languages",
+    "Other Languages",
+    "Russian",
+    "Russian Fiction"]
   },
   "lcc": {
     "code": "PG3476 .T6"
@@ -11021,9 +11025,10 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["795"],
+    "code": ["795.1"],
     "wording": ["Amusements and Recreation",
     "Arts and Recreation",
+    "Dice Games",
     "Games Of Chance"]
   },
   "lcc": {
@@ -11567,10 +11572,12 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["010"],
-    "wording": ["Bibliographies",
-    "Bibliography",
-    "Information"]
+    "code": ["020.75"],
+    "wording": ["Collecting",
+    "Education And Research",
+    "Information",
+    "Library Science",
+    "Library and Information Sciences"]
   },
   "lcc": {
     "code": "Z992 .T16"
@@ -12223,7 +12230,7 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["598.2924"],
+    "code": ["598.29"],
     "wording": ["Birds: Aves",
     "Mathematics and Science",
     "Reptiles; Birds ",
@@ -13091,7 +13098,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "awards": ["1001 Comics You Must Read Before You Die"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -14338,7 +14345,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -14542,7 +14549,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -14624,7 +14631,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "originaltitle": "Transmetropolitan Vol. 09: The Cure",
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -14764,15 +14771,16 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["741"],
+    "code": ["741.5"],
     "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -14916,7 +14924,7 @@
   "lcc": {
     "code": "PN6728 .T68"
   },
-  "series": "Transmetropolitan",
+  "series": "Transmetropolitan TPB",
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -17392,11 +17400,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["133.4"],
-    "wording": ["Parapsychology And Occultism",
-    "Philosophy and Psychology",
-    "Specific Topics",
-    "Witchcraft - Sorcery"]
+    "code": ["235.4"],
+    "wording": ["Angels; Devils; Satan",
+    "Christianity",
+    "Devils, Demons",
+    "Religion "]
   },
   "lcc": {
     "code": "BF1582 .A2"
@@ -17969,10 +17977,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["160"],
-    "wording": ["Logic",
-    "Logic",
-    "Philosophy and Psychology"]
+    "code": ["417.7"],
+    "wording": ["Dialectology and historical linguistics",
+    "Historical linguistics (Diachronic linguistics)",
+    "Language",
+    "Linguistics"]
   },
   "lcc": {
     "code": "P142 .L23"
@@ -18226,15 +18235,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["133.43097295"],
-    "wording": ["Biography; History By Place",
-    "Mexico, Central America, and the Caribbean",
-    "North America",
-    "Parapsychology And Occultism",
+    "code": ["133.4"],
+    "wording": ["Parapsychology And Occultism",
     "Philosophy and Psychology",
     "Specific Topics",
-    "Witchcraft - Sorcery",
-    "Witchcraft and Magickal Practice"]
+    "Witchcraft - Sorcery"]
   },
   "lcc": {
     "code": "BF1584 .P9"
@@ -18823,8 +18828,9 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["813.5"],
-    "wording": ["20th Century",
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
     "American And Canadian",
     "Fiction",
     "Literature"]
@@ -19719,14 +19725,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["741.5973"],
-    "wording": ["American",
-    "Arts and Recreation",
-    "Collections",
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
-    "Drawing; Drawings",
-    "North American"]
+    "Drawing; Drawings"]
   },
   "lcc": {
     "code": "PN6728 .G65"
@@ -20268,8 +20271,9 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["741"],
+    "code": ["741.5"],
     "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -24944,6 +24948,14 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["709.42"],
+    "wording": ["Arts and Recreation",
+    "Biography And History",
+    "England & Wales",
+    "Europe",
+    "General Art"]
+  },
   "lcc": [],
   "genre": ["Art & Design"],
   "genre_id": ["9985304"],
@@ -26553,6 +26565,13 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": [],
   "series": "Hellblazer Collections",
   "genre": ["Graphic Novels",
@@ -26780,14 +26799,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["741.5973"],
-    "wording": ["American",
-    "Arts and Recreation",
-    "Collections",
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
-    "Drawing; Drawings",
-    "North American"]
+    "Drawing; Drawings"]
   },
   "lcc": [],
   "series": "Hellblazer",
@@ -26851,14 +26867,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["741.5973"],
-    "wording": ["American",
-    "Arts and Recreation",
-    "Collections",
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
     "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
-    "Drawing; Drawings",
-    "North American"]
+    "Drawing; Drawings"]
   },
   "lcc": [],
   "series": "Hellblazer",
@@ -27182,10 +27195,13 @@
   "originallanguage_codeA": ["eng",
   "ita"],
   "ddc": {
-    "code": ["320"],
-    "wording": ["Political Science ",
-    "Political Science ",
-    "Social Sciences "]
+    "code": ["302.544"],
+    "wording": ["Alienation",
+    "Relation of individual to society",
+    "Response of individuals",
+    "Social Interaction",
+    "Social Sciences ",
+    "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
     "code": "HM1131 B47"
@@ -28123,6 +28139,15 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["769.972"],
+    "wording": ["Arts and Recreation",
+    "Biography; History By Place",
+    "Collections of Engravings",
+    "Engraving",
+    "Mexico, Central America, and the Caribbean",
+    "North America"]
+  },
   "lcc": [],
   "genre": ["Biography & Memoir",
   "Art & Design"],
@@ -28340,7 +28365,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["006.660151"],
+    "code": ["006.6"],
     "wording": ["Computer Graphics",
     "Computing And Information",
     "Information",
@@ -29780,6 +29805,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5"],
+    "wording": ["Arts and Recreation",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings"]
+  },
   "lcc": [],
   "series": "Five Ghosts",
   "genre": ["Graphic Novels"],
@@ -31103,10 +31135,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["578.8"],
-    "wording": ["Life Sciences",
-    "Mathematics and Science",
-    "Natural history of organisms and related subjects"]
+    "code": ["576.8"],
+    "wording": ["Evolution",
+    "Evolution And Genetics",
+    "Life Sciences",
+    "Mathematics and Science"]
   },
   "lcc": {
     "code": "QH367 .D589"
@@ -31629,6 +31662,16 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["741.5952"],
+    "wording": ["Arts and Recreation",
+    "Asian",
+    "Collections",
+    "Comics; Graphic Novels",
+    "Drawing; Decoration; Design ",
+    "Drawing; Drawings",
+    "Japanese"]
+  },
   "lcc": [],
   "series": "Inuyashiki",
   "genre": ["Graphic Novels"],
@@ -33037,10 +33080,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["133"],
+    "code": ["133.4"],
     "wording": ["Parapsychology And Occultism",
     "Philosophy and Psychology",
-    "Specific Topics"]
+    "Specific Topics",
+    "Witchcraft - Sorcery"]
   },
   "lcc": [],
   "series": "Brief Histories Series",
@@ -33263,11 +33307,14 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["741.5"],
-    "wording": ["Arts and Recreation",
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
     "code": "PN6728 .G485"
@@ -33703,9 +33750,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["641.5"],
+    "code": ["641.5636"],
     "wording": ["Cooking",
+    "Cooking, Specialized Situations ",
     "Food And Drink",
+    "Healthy Cooking",
     "Home Economics",
     "Technology"]
   },
@@ -33767,10 +33816,10 @@
   "originallanguage": ["German"],
   "originallanguage_codeA": ["ger"],
   "ddc": {
-    "code": ["400"],
-    "wording": ["Language",
+    "code": ["438.2"],
+    "wording": ["German",
     "Language",
-    "Language"]
+    "School Texts"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -33829,10 +33878,10 @@
   "originallanguage": ["German"],
   "originallanguage_codeA": ["ger"],
   "ddc": {
-    "code": ["400"],
-    "wording": ["Language",
+    "code": ["438.2"],
+    "wording": ["German",
     "Language",
-    "Language"]
+    "School Texts"]
   },
   "lcc": [],
   "source": "amazon.com books",
@@ -33951,6 +34000,16 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["914.3155"],
+    "wording": ["Berlin",
+    "Berlin and Brandenburg",
+    "Berlin and NE Germany",
+    "Biography and History",
+    "Central Europe And Germany",
+    "Europe",
+    "Geography, Voyages And Travel"]
+  },
   "lcc": [],
   "series": "111 Places Series",
   "genre": ["Nonfiction"],
@@ -36845,10 +36904,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["133"],
-    "wording": ["Parapsychology And Occultism",
-    "Philosophy and Psychology",
-    "Specific Topics"]
+    "code": ["615.5"],
+    "wording": ["Drugs; Pharmacy  ",
+    "Medicine",
+    "Technology",
+    "Therapeutics; Action of medicines in general"]
   },
   "lcc": {
     "code": "R133 .H5813"
@@ -38377,9 +38437,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["784"],
+    "code": ["781"],
     "wording": ["Arts and Recreation",
-    "Instrumental",
+    "Genres And Theory",
     "Music"]
   },
   "lcc": [],
@@ -39238,7 +39298,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["641.865"],
+    "code": ["641.8659"],
     "wording": ["Baking",
     "Cooking Specific Dishes",
     "Desserts",
@@ -39819,6 +39879,15 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["914.4361"],
+    "wording": ["Biography and History",
+    "Champagne; Ile de France; Lorraine",
+    "Europe",
+    "France",
+    "Geography, Voyages And Travel",
+    "Paris"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "20120058",
@@ -40590,4 +40659,78 @@
   "weight": "1.06 pounds",
   "pages": "720 ",
   "fromwhere": "Green Apple Books"
+},
+"147920371": {
+  "books_id": "147920371",
+  "title": "The Invisibility Cloak (New York Review Books Classics)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Fei, Ge",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Morse, Canaan",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Fei, Ge",
+    "fl": "Ge Fei",
+    "role": "Author"
+  },
+  {
+    "lf": "Morse, Canaan",
+    "fl": "Canaan Morse",
+    "role": "Translator"
+  }],
+  "tags": ["TYPE:novel",
+  "RECOMMENDER:Bookclub"],
+  "tagidA": [12751209,
+  15489645],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1681370204",
+  "isbn": {
+    "0": "1681370204",
+    "2": "9781681370200"
+  },
+  "asin": "1681370204",
+  "ean": ["1681370204"],
+  "publication": "NYRB Classics (2016), 144 pages",
+  "date": "2016",
+  "summary": "The Invisibility Cloak (New York Review Books Classics) by Ge Fei (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["895.13"],
+    "wording": ["Chinese",
+    "East Asian",
+    "Fiction",
+    "Literature",
+    "Other Languages"]
+  },
+  "lcc": {
+    "code": "PL2872 .F364"
+  },
+  "genre": ["Fiction",
+  "Mystery",
+  "Recent Fiction"],
+  "genre_id": ["2",
+  "46",
+  "8278605"],
+  "source": "amazon.com books",
+  "workcode": "17900158",
+  "entrydate": "2017-11-07",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "144 p.; 5 inches",
+  "height": "5 inches",
+  "thickness": "8 inches",
+  "length": "0.4 inches",
+  "dimensions": "5 x 0.4 x 8 inches",
+  "weight": "0.81 pounds",
+  "pages": "144 ",
+  "fromwhere": "Amazon.com"
 }}
