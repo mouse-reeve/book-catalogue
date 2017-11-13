@@ -18,11 +18,6 @@ $(jq '.[].genre | select(.) | .[]' librarything.json | sort | uniq -c | sort -r 
     echo "- $line"
 done )
 
-### Tagged types:
-$(jq '.[].tags | select(.) | .[]' librarything.json | grep TYPE | sed 's/TYPE://g' | sort | uniq -c | sort -r | while read line; do
-    echo "- $line"
-done )
-
 ### Subject:
 $(jq '.[].subject' librarything.json | tr '[:upper:]' '[:lower:]' | grep '^\s*"[a-z\s]*"$' | sort | uniq -c | sort -r | head -15 | while read line; do
     echo "- $line"
