@@ -11,7 +11,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-488
+489
 
 ### Genres:
 - 130 "Fiction"
@@ -53,7 +53,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 407 "English"
+- 408 "English"
 - 7 "French"
 - 6 "German"
 - 5 "Latin"
@@ -88,8 +88,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 4.01 / 5.00
 
 ### Sum weight of books (incomplete):
-451.55 pounds
+453.75 pounds
 
 ### Total pages:
-130,136
+130,744
 
