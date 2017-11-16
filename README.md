@@ -11,10 +11,10 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-489
+490
 
 ### Genres:
-- 130 "Fiction"
+- 131 "Fiction"
 - 96 "Graphic Novels"
 - 96 "Fantasy"
 - 79 "Nonfiction"
@@ -31,7 +31,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 8 "Romance"
 - 6 "Health & Wellness"
 - 5 "LGBT"
-- 1 "Recent Fiction"
+- 2 "Recent Fiction"
 - 1 "Home & Garden"
 - 1 "Christian Fiction"
 
@@ -53,7 +53,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 6     "witchcraft"
 
 ### Original language:
-- 408 "English"
+- 409 "English"
 - 7 "French"
 - 6 "German"
 - 5 "Latin"
@@ -91,5 +91,5 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 453.75 pounds
 
 ### Total pages:
-130,744
+131,208
 

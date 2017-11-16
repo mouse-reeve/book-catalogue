@@ -19456,9 +19456,23 @@
   "sortcharacter": "1",
   "public": "1",
   "primaryauthor": "Strugatsky, Arkady",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Bouis, Antonina W.|Strugatsky, Boris",
+  "secondaryauthorroles": "Translator|Author",
   "authors": [{
     "lf": "Strugatsky, Arkady",
-    "fl": "Arkady Strugatsky"
+    "fl": "Arkady Strugatsky",
+    "role": "Author"
+  },
+  {
+    "lf": "Bouis, Antonina W.",
+    "fl": "Antonina W. Bouis",
+    "role": "Translator"
+  },
+  {
+    "lf": "Strugatsky, Boris",
+    "fl": "Boris Strugatsky",
+    "role": "Author"
   }],
   "tags": ["russia",
   "conspiracy",
@@ -19480,13 +19494,10 @@
   "publication": "Melville House (2014), Paperback, 160 pages",
   "date": "2014",
   "summary": "Definitely Maybe (Neversink) by Arkady Strugatsky (2014)",
-  "language": ["English",
-  "All"],
-  "language_codeA": ["eng",
-  "xxx"],
+  "language": ["English"],
+  "language_codeA": ["eng"],
   "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
   "rus"],
   "ddc": {
     "code": ["891.7"],
@@ -38775,6 +38786,12 @@
     "fl": "Jane Austen",
     "role": "Author"
   }],
+  "tags": ["matchmaking",
+  "romance",
+  "england"],
+  "tagidA": [8604,
+  2019,
+  18],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0140623302",
@@ -39213,5 +39230,78 @@
   "dimensions": "7.38 x 1.52 x 9.25 inches",
   "weight": "2.2 pounds",
   "pages": "608 ",
+  "fromwhere": "Amazon.com"
+},
+"148248783": {
+  "books_id": "148248783",
+  "title": "Swing Time: A Novel",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Smith, Zadie",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Smith, Zadie",
+    "fl": "Zadie Smith",
+    "role": "Author"
+  }],
+  "tags": ["dance",
+  "friendship",
+  "race",
+  "bookclub"],
+  "tagidA": [65119,
+  48,
+  8626,
+  2434],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0143111647",
+  "isbn": {
+    "0": "0143111647",
+    "2": "9780143111641"
+  },
+  "asin": "0143111647",
+  "ean": ["0143111647"],
+  "publication": "Penguin Books (2017), Edition: Reprint, 464 pages",
+  "date": "2017",
+  "summary": "Swing Time: A Novel by Zadie Smith (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.914"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
+  "lcc": {
+    "code": "PR6069 .M59"
+  },
+  "awards": ["Andrew Carnegie Medals for Excellence in Fiction Shortlist",
+  "National Book Critics Circle Award finalist",
+  "Los Angeles Times Book Prize finalist",
+  "Booker Prize Longlist"],
+  "genre": ["Fiction",
+  "Recent Fiction"],
+  "genre_id": ["2",
+  "8278605"],
+  "source": "amazon.com books",
+  "workcode": "17897154",
+  "entrydate": "2017-11-16",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "464 p.; 5.4 inches",
+  "height": "5.4 inches",
+  "thickness": "8.4 inches",
+  "length": "1 inch",
+  "dimensions": "5.4 x 1 x 8.4 inches",
+  "pages": "464 ",
   "fromwhere": "Amazon.com"
 }}
