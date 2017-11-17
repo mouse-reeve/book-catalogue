@@ -23,11 +23,6 @@ $(jq '.[].subject' librarything.json | tr '[:upper:]' '[:lower:]' | grep '^\s*"[
     echo "- $line"
 done )
 
-### Original language:
-$( jq '.[].originallanguage | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
-    echo "- $line"
-done )
-
 ### Author:
 $( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -10 | while read line; do
     echo "- $line"

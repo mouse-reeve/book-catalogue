@@ -11,24 +11,24 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-490
+493
 
 ### Genres:
-- 131 "Fiction"
+- 134 "Fiction"
 - 96 "Graphic Novels"
 - 96 "Fantasy"
 - 79 "Nonfiction"
 - 61 "Science Fiction"
 - 52 "Religion & Spirituality"
 - 46 "History"
+- 21 "Mystery"
 - 20 "Science & Nature"
-- 20 "Mystery"
 - 14 "Art & Design"
 - 13 "Young Adult"
 - 12 "Biography & Memoir"
 - 10 "Food & Cooking"
+- 9 "Romance"
 - 9 "Children's Books"
-- 8 "Romance"
 - 6 "Health & Wellness"
 - 5 "LGBT"
 - 2 "Recent Fiction"
@@ -36,7 +36,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "Christian Fiction"
 
 ### Subject:
-- 507     "fiction"
+- 512     "fiction"
 - 72     "drama"
 - 39     "fantasy"
 - 31     "poetry"
@@ -51,22 +51,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 7     "features"
 - 6     "women"
 - 6     "witchcraft"
-
-### Original language:
-- 409 "English"
-- 7 "French"
-- 6 "German"
-- 5 "Latin"
-- 4 "Russian"
-- 4 "Polish"
-- 4 "Italian"
-- 1 "Swedish"
-- 1 "Spanish"
-- 1 "Norwegian"
-- 1 "Japanese"
-- 1 "Icelandic"
-- 1 "Chinese"
-- 1 "Arabic"
 
 ### Author:
 - 15 "Gaiman, Neil"
@@ -88,8 +72,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 4.01 / 5.00
 
 ### Sum weight of books (incomplete):
-453.75 pounds
+454.91 pounds
 
 ### Total pages:
-131,208
+132,152
 
