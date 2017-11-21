@@ -39547,4 +39547,70 @@
   "weight": "0.37 pounds",
   "pages": "144 ",
   "fromwhere": "Thidwick Books"
+},
+"148402876": {
+  "books_id": "148402876",
+  "title": "A Dictionary of Russian Gesture",
+  "sortcharacter": "3",
+  "public": "1",
+  "primaryauthor": "Monahan, Barbara",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Monahan, Barbara",
+    "fl": "Barbara Monahan",
+    "role": "Author"
+  }],
+  "tags": ["reference",
+  "gesture",
+  "russia"],
+  "tagidA": [4877,
+  624447,
+  12184],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0938920383",
+  "isbn": {
+    "0": "0938920383",
+    "2": "9780938920380"
+  },
+  "asin": "0938920383",
+  "ean": ["0938920383"],
+  "publication": "Hermitage (1984), 184 pages",
+  "date": "1984",
+  "summary": "A Dictionary of Russian Gesture by Barbara Monahan (1984)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["491.7019"],
+    "wording": ["Language",
+    "Other Indo-European Languages",
+    "Other Languages",
+    "Russian"]
+  },
+  "lcc": {
+    "code": "P117.5 .S65 M66"
+  },
+  "subject": [["Gesture",
+  "Soviet Union"]],
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
+  "source": "amazon.com books",
+  "workcode": "642721",
+  "entrydate": "2017-11-21",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "184 p.; 5.25 inches",
+  "height": "5.25 inches",
+  "thickness": "7.75 inches",
+  "length": "0.5 inches",
+  "dimensions": "5.25 x 0.5 x 7.75 inches",
+  "weight": "0.5 pounds",
+  "pages": "184 ",
+  "fromwhere": "Amazon.com"
 }}

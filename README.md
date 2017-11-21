@@ -11,13 +11,13 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-493
+494
 
 ### Genres:
 - 134 "Fiction"
 - 96 "Graphic Novels"
 - 96 "Fantasy"
-- 79 "Nonfiction"
+- 80 "Nonfiction"
 - 61 "Science Fiction"
 - 52 "Religion & Spirituality"
 - 46 "History"
@@ -72,8 +72,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 4.01 / 5.00
 
 ### Sum weight of books (incomplete):
-454.91 pounds
+455.41 pounds
 
 ### Total pages:
-132,152
+132,336
 
