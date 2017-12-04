@@ -65,7 +65,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Pynchon, Thomas"
 
 ### Books read so far this year:
-      15
+      17
 
 
 ### Average Goodreads rating for books read:
