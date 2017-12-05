@@ -11,22 +11,22 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ## Stats
 ### Number of books:
-499
+485
 
 ### Genres:
-- 136 "Fiction"
-- 96 "Graphic Novels"
-- 96 "Fantasy"
-- 80 "Nonfiction"
-- 61 "Science Fiction"
+- 135 "Fiction"
+- 95 "Graphic Novels"
+- 92 "Fantasy"
+- 75 "Nonfiction"
+- 60 "Science Fiction"
 - 52 "Religion & Spirituality"
-- 47 "History"
+- 45 "History"
 - 21 "Mystery"
-- 20 "Science & Nature"
+- 18 "Science & Nature"
 - 14 "Art & Design"
-- 13 "Young Adult"
 - 12 "Food & Cooking"
-- 12 "Biography & Memoir"
+- 11 "Young Adult"
+- 10 "Biography & Memoir"
 - 9 "Romance"
 - 9 "Children's Books"
 - 7 "Health & Wellness"
@@ -36,14 +36,14 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 1 "Christian Fiction"
 
 ### Subject:
-- 512     "fiction"
-- 72     "drama"
-- 39     "fantasy"
+- 504     "fiction"
+- 69     "drama"
+- 35     "fantasy"
 - 31     "poetry"
 - 28     "dictionaries"
-- 20     "history"
+- 19     "history"
 - 14     "magic"
-- 12     "biography"
+- 11     "biography"
 - 11     "adaptations"
 - 8     "feature"
 - 7     "taoism"
@@ -61,8 +61,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 7 "Atwood, Margaret"
 - 5 "Vaughan, Brian K."
 - 5 "Tolkien, J.R.R."
-- 5 "Shakespeare, William"
 - 5 "Pynchon, Thomas"
+- 5 "Calvino, Italo"
 
 ### Books read so far this year:
       17
@@ -72,8 +72,8 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 4.01 / 5.00
 
 ### Sum weight of books (incomplete):
-458.35 pounds
+441.91 pounds
 
 ### Total pages:
-133,712
+128,554
 
