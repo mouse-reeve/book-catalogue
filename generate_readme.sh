@@ -30,6 +30,7 @@ done )
 
 ### Books read so far this year:
 $( tail -n +2 goodreads.csv | cut -d , -f 17 | grep ^`date +'%Y'` | wc -l )
+$( tail -n +2 goodreads.csv | grep "`date +'%Y'`\(/\d\{2\}\)\{2\},\d\{4\}\(/\d\{2\}\)\{2\},\+read," | wc -l )
 
 
 ### Average Goodreads rating for books read:

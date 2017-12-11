@@ -66,6 +66,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 ### Books read so far this year:
       17
+      15
 
 
 ### Average Goodreads rating for books read:
