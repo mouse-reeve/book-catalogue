@@ -65,11 +65,11 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Calvino, Italo"
 
 ### Books read so far this year:
-      15
+      16
 
 
 ### Average Goodreads rating for books read:
-4.01 / 5.00
+4.00 / 5.00
 
 ### Sum weight of books (incomplete):
 441.91 pounds
