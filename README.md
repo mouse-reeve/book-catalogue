@@ -69,7 +69,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 
 
 ### Average Goodreads rating for books read:
-4.00 / 5.00
+4.01 / 5.00
 
 ### Sum weight of books (incomplete):
 441.91 pounds
