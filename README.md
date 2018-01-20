@@ -65,7 +65,7 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Calvino, Italo"
 
 ### Books read so far this year:
-       2
+       3
 
 
 ### Average Goodreads rating for books read:
