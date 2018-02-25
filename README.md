@@ -3,14 +3,18 @@ book-catalogue
 
 A list of the books I own.
 
-The `librarything` JSON is an export from my [LibraryThing](https://www.librarything.com/catalog/tripofmice) catalogue, which now represents the canonical list of books I own (taking over from the now defunct `canonical.csv`).
+The `librarything` JSON is an export from my [LibraryThing](https://www.librarything.com/catalog/tripofmice) catalogue, which represents the canonical list of books I own.
 
-The `goodreads` CSV is an export of my GoodReads data, which is the only place that stores the date I started a book and the date I finished it.
+The `goodreads` CSV is an export of my GoodReads data, which stores the date I started a book and the date I finished it.
 
-This data is merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
+This data can be merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
 
 ## Stats
-### Number of books:
+
+### Books read so far this year:
+       9
+
+### Books owned:
 486
 
 ### Genres:
@@ -63,10 +67,6 @@ This data is merged, along with with [scraped LibraryThing data](https://github.
 - 5 "Tolkien, J.R.R."
 - 5 "Pynchon, Thomas"
 - 5 "Calvino, Italo"
-
-### Books read so far this year:
-       9
-
 
 ### Average Goodreads rating for books read:
 4.01 / 5.00

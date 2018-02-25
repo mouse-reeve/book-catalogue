@@ -3,14 +3,18 @@ echo "book-catalogue
 
 A list of the books I own.
 
-The \`librarything\` JSON is an export from my [LibraryThing](https://www.librarything.com/catalog/tripofmice) catalogue, which now represents the canonical list of books I own (taking over from the now defunct \`canonical.csv\`).
+The \`librarything\` JSON is an export from my [LibraryThing](https://www.librarything.com/catalog/tripofmice) catalogue, which represents the canonical list of books I own.
 
-The \`goodreads\` CSV is an export of my GoodReads data, which is the only place that stores the date I started a book and the date I finished it.
+The \`goodreads\` CSV is an export of my GoodReads data, which stores the date I started a book and the date I finished it.
 
-This data is merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
+This data can be merged, along with with [scraped LibraryThing data](https://github.com/mouse-reeve/book-scraper), in the [book-merger](https://github.com/mouse-reeve/book-merger) repository.
 
 ## Stats
-### Number of books:
+
+### Books read so far this year:
+$( tail -n +2 goodreads.csv | grep "`date +'%Y'`\(/\d\{2\}\)\{2\},\d\{4\}\(/\d\{2\}\)\{2\},\+read," | wc -l )
+
+### Books owned:
 $(jq '. | length' librarything.json)
 
 ### Genres:
@@ -27,10 +31,6 @@ done )
 $( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -10 | while read line; do
     echo "- $line"
 done )
-
-### Books read so far this year:
-$( tail -n +2 goodreads.csv | grep "`date +'%Y'`\(/\d\{2\}\)\{2\},\d\{4\}\(/\d\{2\}\)\{2\},\+read," | wc -l )
-
 
 ### Average Goodreads rating for books read:
 $( tail -n +2 goodreads.csv | sed 's/.*\([0-9]\.[0-9]\{2\}\).*/\1/g' | jq -s 'add/length' | sed 's/\([0-9]\.[0-9]\{2\}\).*/\1/g' ) / 5.00
