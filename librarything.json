@@ -113,6 +113,7 @@
     "code": "PN6727 .V387"
   },
   "series": "Saga",
+  "originaltitle": "Saga, Volume 2",
   "awards": ["Hugo Nominee"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -244,6 +245,7 @@
     "code": "PN6727 .V387"
   },
   "series": "Saga",
+  "originaltitle": "Saga, Volume 1",
   "awards": ["Hugo"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -379,7 +381,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6727 .M593"
+    "code": "PN6728 .H389"
   },
   "series": "Hellboy graphic novels",
   "originaltitle": "Hellboy: The Chained Coffin and Others",
@@ -519,7 +521,7 @@
     "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6738 .T35"
+    "code": "PN6738 .T36"
   },
   "series": "Tank Girl",
   "genre": ["Graphic Novels"],
@@ -1737,6 +1739,7 @@
     "Fiction"]
   },
   "series": "Blue Ant",
+  "originaltitle": "Pattern Recognition",
   "awards": ["Arthur C. Clarke Award Shortlist",
   "British Science Fiction Association Award Shortlist",
   "New York Times bestseller",
@@ -2663,7 +2666,8 @@
   "NPR's Top 100 Science-Fiction, Fantasy Books",
   "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
   "ALA 100 Most Frequently Challenged Books of 2000-2009",
-  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r"],
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction",
   "Science Fiction",
   "Fantasy"],
@@ -3554,7 +3558,7 @@
     "South Sudan"]
   },
   "lcc": {
-    "code": "GN480 .E78"
+    "code": "DT155.2 .N85"
   },
   "genre": ["History"],
   "genre_id": ["1599"],
@@ -3800,7 +3804,6 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
-  "series": "The Lord of the Rings",
   "originaltitle": "The Silmarillion",
   "awards": ["Ditmar Award",
   "Gandalf Award",
@@ -5389,7 +5392,6 @@
   "series": "The Lord of the Rings",
   "originaltitle": "The Return of The King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
-  "1001 Books You Must Read Before You Die",
   "Whitcoulls top 100, 2008",
   "The Telegraph's 110 Best Books: The Perfect Library",
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r"],
@@ -5973,6 +5975,7 @@
   "lcc": {
     "code": "PR6057 .A319"
   },
+  "originaltitle": "The Ocean at the End of the Lane",
   "awards": ["Kirkus Reviews Best Book of the Year",
   "NextReads Best Fantasy",
   "Nebula Nominee",
@@ -9066,7 +9069,8 @@
   "1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0445\u0443\u0434. \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "David Bowie's Top 100",
-  "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430"],
+  "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -9244,7 +9248,8 @@
   },
   "originaltitle": "Catch - 22",
   "awards": ["Torchlight List",
-  "The Observer's 100 Best Novels"],
+  "The Observer's 100 Best Novels",
+  "The 100 Favorite Novels of Librarians"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -9710,7 +9715,7 @@
     "Witchcraft - Sorcery"]
   },
   "lcc": {
-    "code": "BF1566"
+    "code": "BF1563 .M3"
   },
   "subject": {
     "0": ["Witchcraft"],
@@ -10319,7 +10324,8 @@
     "wording": ["Early 20th Century 1901-",
     "English",
     "Essays",
-    "Literature"]
+    "Literature",
+    "Modern Period"]
   },
   "lcc": {
     "code": "PR4825 .J3"
@@ -10619,7 +10625,8 @@
   "originaltitle": "Rosencrantz and Guildenstern Are Dead",
   "awards": ["Tony Award",
   "New York Drama Critics' Circle Award",
-  "ALA Outstanding Books for the College Bound"],
+  "ALA Outstanding Books for the College Bound",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -10738,9 +10745,9 @@
   "29 Best Latin American novels",
   "WLT's 40 Most Important Books, 1927-2001",
   "1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0445\u0443\u0434. \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
-  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430",
-  "Harenberg Buch der 1000 B\u00fccher"],
+  "Harenberg Buch der 1000 B\u00fccher",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -12426,7 +12433,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728 .T68"
+    "code": "PN6727 .E448"
   },
   "series": "Transmetropolitan TPB",
   "awards": ["1001 Comics You Must Read Before You Die"],
@@ -14748,10 +14755,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "rus"],
+  "xxx"],
   "ddc": {
     "code": ["398.210947"],
     "wording": ["Customs, Etiquette, Folklore",
@@ -14852,6 +14857,7 @@
     "code": "PN6728 .S225"
   },
   "series": "Saga",
+  "originaltitle": "Saga, Volume 3",
   "awards": ["Hugo Nominee"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -15332,7 +15338,9 @@
     "Witchcraft - Sorcery",
     "Witchcraft and Magickal Practice"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "BF1581 .W58"
+  },
   "genre": ["Nonfiction",
   "History",
   "Religion & Spirituality"],
@@ -15965,6 +15973,7 @@
     "39": ["Romantic suspense novels"],
     "40": ["fiction in English"]
   },
+  "originaltitle": "The Woman in White",
   "awards": ["BBC's Big Read",
   "The Observer's 100 Greatest Novels of All Time",
   "Guardian 1000",
@@ -17061,10 +17070,11 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["160"],
-    "wording": ["Logic",
-    "Logic",
-    "Philosophy and Psychology"]
+    "code": ["417.7"],
+    "wording": ["Dialectology and historical linguistics",
+    "Historical linguistics (Diachronic linguistics)",
+    "Language",
+    "Linguistics"]
   },
   "lcc": {
     "code": "P142 .L23"
@@ -17896,7 +17906,8 @@
   "1001 Books You Must Read Before You Die",
   "ALA Outstanding Books for the College Bound",
   "125 Great Southern Books",
-  "Georgia Top 25 Reading List"],
+  "Georgia Top 25 Reading List",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -18116,10 +18127,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Polish"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "pol"],
+  "xxx"],
   "ddc": {
     "code": ["891.8537"],
     "wording": ["1919-1989",
@@ -18419,7 +18428,7 @@
     "Specific Topics"]
   },
   "lcc": {
-    "code": "BF1623 .E55 D45"
+    "code": "BF1623 .E55"
   },
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -19793,10 +19802,8 @@
     "5": ["Totemism"],
     "7": ["totemism"]
   },
-  "genre": ["Nonfiction",
-  "History"],
-  "genre_id": ["1247",
-  "1599"],
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
   "source": "amazon.com",
   "workcode": "98252",
   "entrydate": "2014-07-27",
@@ -21603,7 +21610,6 @@
     "27": ["fantasy"],
     "29": ["juvenile literature"]
   },
-  "series": "Wind in the Willows",
   "originaltitle": "The wind in the willows",
   "awards": ["Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -21785,10 +21791,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Italian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "ita"],
+  "xxx"],
   "ddc": {
     "code": ["853.914"],
     "wording": ["1900-",
@@ -22261,7 +22265,8 @@
   "Horror: The 100 Best Books",
   "David Pringle's Modern Fantasy: The 100 Best Novels",
   "ALA 100 Most Frequently Challenged Books of 2000-2009",
-  "Alabama Camellia Children's Choice Book Award"],
+  "Alabama Camellia Children's Choice Book Award",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -23654,11 +23659,10 @@
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
-    "code": ["709.42"],
+    "code": ["709.2"],
     "wording": ["Arts and Recreation",
+    "Biography",
     "Biography And History",
-    "England & Wales",
-    "Europe",
     "General Art"]
   },
   "lcc": [],
@@ -24700,7 +24704,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6728"
+    "code": "PN6728 .H38"
   },
   "series": "Hellboy graphic novels",
   "originaltitle": "Hellboy, Vol. 12: The Storm and the Fury",
@@ -25033,10 +25037,8 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
-  "genre": ["Graphic Novels",
-  "Fantasy"],
-  "genre_id": ["4778",
-  "5280"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "641696",
   "entrydate": "2014-12-09",
@@ -25199,7 +25201,9 @@
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer Collections",
   "genre": ["Graphic Novels",
   "Fantasy"],
@@ -25567,6 +25571,7 @@
     "code": "PN6727 .V387"
   },
   "series": "Saga",
+  "originaltitle": "Saga, Volume 4",
   "awards": ["British Fantasy Award Nominee"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -25802,7 +25807,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "HM1131 B47"
+    "code": "B2430"
   },
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
@@ -26033,11 +26038,14 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["741.5"],
-    "wording": ["Arts and Recreation",
+    "code": ["741.5973"],
+    "wording": ["American",
+    "Arts and Recreation",
+    "Collections",
     "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "North American"]
   },
   "lcc": {
     "code": "PN6728 .S93"
@@ -27841,7 +27849,7 @@
     "European"]
   },
   "lcc": {
-    "code": "PN6728 .P75 M667"
+    "code": "PN6728 .P75"
   },
   "series": "Promethea",
   "genre": ["Graphic Novels"],
@@ -28215,7 +28223,9 @@
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6728 .H383"
+  },
   "series": "Hellblazer",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -29521,7 +29531,7 @@
     "North American"]
   },
   "lcc": {
-    "code": "PN6727 .B77 F33"
+    "code": "PN6727 .I43 F33"
   },
   "series": "The Fade Out",
   "genre": ["Graphic Novels"],
@@ -30109,7 +30119,9 @@
     "Drawing; Drawings",
     "Japanese"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PN6790 .J33"
+  },
   "series": "Inuyashiki",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -30175,7 +30187,7 @@
     "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6727 .S848"
+    "code": "PN6727 .S85"
   },
   "awards": ["Alex Award",
   "YALSA Great Graphic Novels for Teens"],
@@ -30279,12 +30291,11 @@
   "originallanguage_codeA": ["ger",
   "swe"],
   "ddc": {
-    "code": ["839.78"],
+    "code": ["839.7"],
     "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
-    "Swedish literature",
-    "Swedish miscellany"]
+    "Swedish literature"]
   },
   "lcc": {
     "code": "PZ7 .N7756"
@@ -30500,7 +30511,7 @@
     "Thessaly; Epirus"]
   },
   "lcc": {
-    "code": "PF3112.5 .R87"
+    "code": "PF3112.5 .P38"
   },
   "series": "Teach Yourself Languages",
   "source": "amazon.com books",
@@ -30635,7 +30646,8 @@
     "Food And Drink",
     "Healthy Cooking",
     "Home Economics",
-    "Technology"]
+    "Technology",
+    "Vegetarian cooking"]
   },
   "lcc": {
     "code": "TX837 .M754"
@@ -30819,7 +30831,7 @@
     "Social Sciences "]
   },
   "lcc": {
-    "code": "GT2905.64"
+    "code": "GT2905 .S688"
   },
   "genre": ["Nonfiction",
   "Food & Cooking"],
@@ -31554,7 +31566,7 @@
   "Pre-Linnean works"],
   ["Gerard, John, 1545-1612"],
   ["Herbals"]],
-  "originaltitle": "The Herbal or General History of Plants: The Complete 1633 Edition as Revised and Enlarged by Thomas Johnson",
+  "originaltitle": "Herball, or Generall Historie of Plantes",
   "genre": ["Nonfiction",
   "Science & Nature",
   "History",
@@ -31695,9 +31707,10 @@
     "Drawing; Drawings"]
   },
   "lcc": {
-    "code": "PN6728 .G485"
+    "code": "PZ7.7 .A45"
   },
   "series": "Giant Days",
+  "originaltitle": "Giant Days: Volume One",
   "awards": ["Amelia Bloomer List",
   "YALSA Great Graphic Novels for Teens"],
   "genre": ["Graphic Novels"],
@@ -31947,7 +31960,8 @@
     "Food And Drink",
     "Healthy Cooking",
     "Home Economics",
-    "Technology"]
+    "Technology",
+    "Vegetarian cooking"]
   },
   "lcc": {
     "code": "TX837 .M75"
@@ -32118,7 +32132,8 @@
     "Food And Drink",
     "Healthy Cooking",
     "Home Economics",
-    "Technology"]
+    "Technology",
+    "Vegetarian cooking"]
   },
   "lcc": {
     "code": "TX837 .S322"
@@ -32368,7 +32383,9 @@
     "Europe",
     "Geography, Voyages And Travel"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "DA995"
+  },
   "series": "111 Places Series",
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
@@ -32403,11 +32420,9 @@
   }],
   "tags": ["space travel",
   "artificial intelligence",
-  "gender",
   "RECOMMENDER:Toast slack"],
   "tagidA": [631000,
   17374,
-  6880,
   14759200],
   "collections_idA": [1],
   "collections": ["Your library"],
@@ -32436,7 +32451,6 @@
     "code": "PS3612 .E3353"
   },
   "series": "Imperial Radch",
-  "originaltitle": "Ancillary Justice",
   "awards": ["Kitschies: Golden Tentacle Award",
   "Philip K. Dick Award Finalist",
   "James Tiptree, Jr. Award Honor List",
@@ -33040,12 +33054,7 @@
   "To 1400"],
   ["Purgatory",
   "Poetry"]],
-  "series": "The Divine Comedy",
-  "originaltitle": "Divina Commedia : Purgatorio",
-  "awards": ["National Book Award finalist",
-  "Prix Langlois de l'Acad\u00e9mie fran\u00e7aise",
-  "Prix Halp\u00e9rine-Kaminsky de la SGDL",
-  "A Catholic Lifetime Reading Plan"],
+  "series": "The Devine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -33444,7 +33453,7 @@
     "10": ["Literature",
     "Collections"]
   },
-  "series": "The Divine Comedy",
+  "series": "The Devine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -34156,10 +34165,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["025.341"],
-    "wording": ["Administration; Departments",
-    "Cataloging of Particular Classes of Materials",
+    "wording": ["Cataloging of Particular Classes of Materials",
     "Catalogs, Cataloging and Description",
     "Information",
+    "Library and Archival Science",
     "Library and Information Sciences"]
   },
   "lcc": {
@@ -34459,7 +34468,8 @@
     "Food And Drink",
     "Healthy Cooking",
     "Home Economics",
-    "Technology"]
+    "Technology",
+    "Vegetarian cooking"]
   },
   "lcc": {
     "code": "TX837 .P337"
@@ -34744,6 +34754,14 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["133.43"],
+    "wording": ["Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics",
+    "Witchcraft - Sorcery",
+    "Witchcraft and Magickal Practice"]
+  },
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "18814258",
@@ -36194,7 +36212,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "MT755 S2972"
+  },
   "source": "amazon.com books",
   "workcode": "19312063",
   "entrydate": "2017-07-02",
@@ -36649,6 +36669,13 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["786.20264"],
+    "wording": ["Arts and Recreation",
+    "Music",
+    "Piano and Organ",
+    "Piano--about the instrument"]
+  },
   "lcc": [],
   "series": "Easier Piano Pieces",
   "originaltitle": "25 \u00e9tudes faciles et progressives pour le piano compos\u00e9s pour des petites mains",
@@ -37089,7 +37116,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["641.3374"],
-    "wording": ["Food And Drink",
+    "wording": ["Chocolate",
+    "Food And Drink",
     "Food History, Culture",
     "Home Economics",
     "Tea, Chocolate, Coffee",
@@ -37302,6 +37330,7 @@
     "Europe",
     "France",
     "Geography, Voyages And Travel",
+    "Paris",
     "Paris"]
   },
   "lcc": [],
@@ -38138,11 +38167,9 @@
     "code": "PL2872 .F364"
   },
   "genre": ["Fiction",
-  "Mystery",
-  "Recent Fiction"],
+  "Mystery"],
   "genre_id": ["2",
-  "46",
-  "8278605"],
+  "46"],
   "source": "amazon.com books",
   "workcode": "17900158",
   "entrydate": "2017-11-07",
@@ -38257,14 +38284,42 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["478.2"],
+    "code": ["478.2421"],
     "wording": ["Language",
     "Latin",
     "School Texts"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "PA2087.5 .W44"
+  },
+  "subject": {
+    "0": ["Latin language",
+    "Composition and exercises"],
+    "2": ["Latin language",
+    "Grammar"],
+    "4": ["Latin language",
+    "Grammar",
+    "1870-"],
+    "5": ["Latin language",
+    "Grammar",
+    "Problems, exercises, etc"],
+    "7": ["Latin language",
+    "Problems, exercises, etc"],
+    "8": ["Latin language",
+    "Textbooks for foreign speakers",
+    "English"],
+    "9": ["Latin language",
+    "composition and exercises"],
+    "10": ["Rome",
+    "Civilization",
+    "Problems, exercises, etc"],
+    "11": ["Rome",
+    "Problems, exercises, etc"]
+  },
+  "series": "Wheelock's Latin Series",
+  "originaltitle": "Wheelock's Latin",
   "source": "amazon.com books",
-  "workcode": "18729414",
+  "workcode": "41314",
   "entrydate": "2017-11-13",
   "format": [{
     "code": "1.1.1",
@@ -38973,7 +39028,8 @@
     "Food And Drink",
     "Healthy Cooking",
     "Home Economics",
-    "Technology"]
+    "Technology",
+    "Vegetarian cooking"]
   },
   "lcc": {
     "code": "TX837 .M745"
@@ -38999,82 +39055,4 @@
   "weight": "1.25 pounds",
   "pages": "256 ",
   "fromwhere": "Thidwick Books"
-},
-"149890683": {
-  "books_id": "149890683",
-  "title": "Ancillary Mercy (Imperial Radch)",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Leckie, Ann",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Leckie, Ann",
-    "fl": "Ann Leckie",
-    "role": "Author"
-  }],
-  "tags": ["space travel",
-  "artificial intelligence",
-  "gender"],
-  "tagidA": [631000,
-  17374,
-  6880],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0356502422",
-  "isbn": {
-    "0": "0356502422",
-    "2": "9780356502427"
-  },
-  "asin": "0356502422",
-  "ean": ["0356502422"],
-  "publication": "Orbit (2015)",
-  "date": "2015",
-  "summary": "Ancillary Mercy (Imperial Radch) by Ann Leckie (2015)",
-  "language": ["English",
-  "French"],
-  "language_codeA": ["eng",
-  "fre"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng",
-  "fre"],
-  "ddc": {
-    "code": ["813.6"],
-    "wording": ["21st Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3612 .E3353"
-  },
-  "series": "Imperial Radch",
-  "originaltitle": "Ancillary Mercy",
-  "awards": ["Kirkus Reviews Best Book of the Year",
-  "Amazon.com Best Books",
-  "Buzzfeed",
-  "Nebula Nominee",
-  "Hugo Nominee",
-  "Locus",
-  "Locus Award Finalist"],
-  "genre": ["Science Fiction",
-  "Fantasy"],
-  "genre_id": ["281",
-  "5280"],
-  "source": "amazon.com books",
-  "workcode": "15468875",
-  "entrydate": "2018-01-07",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "3",
-  "physical_description": "368 p.; 7.87 inches",
-  "height": "7.87 inches",
-  "thickness": "5.24 inches",
-  "length": "0.94 inches",
-  "dimensions": "7.87 x 0.94 x 5.24 inches",
-  "weight": "0.82 pounds",
-  "pages": "368 ",
-  "fromwhere": "Curious Fox"
 }}

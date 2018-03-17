@@ -15,16 +15,16 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
       12
 
 ### Books owned:
-486
+485
 
 ### Genres:
 - 144 "Fiction"
 - 95 "Graphic Novels"
-- 93 "Fantasy"
+- 91 "Fantasy"
 - 75 "Nonfiction"
-- 61 "Science Fiction"
+- 60 "Science Fiction"
 - 52 "Religion & Spirituality"
-- 45 "History"
+- 44 "History"
 - 21 "Mystery"
 - 18 "Science & Nature"
 - 13 "Art & Design"
@@ -35,8 +35,8 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 9 "Children's Books"
 - 7 "Health & Wellness"
 - 5 "LGBT"
-- 2 "Recent Fiction"
 - 2 "Home & Garden"
+- 1 "Recent Fiction"
 - 1 "Christian Fiction"
 
 ### Subject:
@@ -72,8 +72,8 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 4.01 / 5.00
 
 ### Sum weight of books (incomplete):
-442.73 pounds
+441.91 pounds
 
 ### Total pages:
-128,922
+128,554
 
