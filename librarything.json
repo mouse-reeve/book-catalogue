@@ -3804,6 +3804,7 @@
     "20": ["fantasy fiction"],
     "21": ["fiction in English"]
   },
+  "series": "The Lord of the Rings",
   "originaltitle": "The Silmarillion",
   "awards": ["Ditmar Award",
   "Gandalf Award",
@@ -4927,7 +4928,7 @@
   "lcc": {
     "code": "PR6063 .I265"
   },
-  "originaltitle": "The City & The City",
+  "originaltitle": "The City & the City",
   "awards": ["Amazon.com Best Books",
   "Amazon's Best Books of the Month",
   "Publishers Weekly's Best Books of the Year",
@@ -6379,6 +6380,7 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
+  "originaltitle": "The Hobbit, or There and Back Again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -7477,10 +7479,10 @@
   "xxx"],
   "ddc": {
     "code": ["598.147"],
-    "wording": ["Crocodilia: Crocodiles",
+    "wording": ["Birds ; Aves",
+    "Crocodilia: Crocodiles",
     "Mathematics and Science",
     "Reptiles",
-    "Reptiles; Birds ",
     "Zoology"]
   },
   "lcc": {
@@ -9618,8 +9620,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["Russian"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "rus"],
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
@@ -11610,9 +11614,9 @@
   "xxx"],
   "ddc": {
     "code": ["598.2924"],
-    "wording": ["Birds: Aves",
+    "wording": ["Birds ; Aves",
+    "Birds: Aves",
     "Mathematics and Science",
-    "Reptiles; Birds ",
     "Zoology"]
   },
   "lcc": {
@@ -14350,6 +14354,7 @@
     "43": ["fantasy fiction"]
   },
   "series": "The Lord of the Rings",
+  "originaltitle": "The Hobbit, or There and Back Again",
   "awards": ["New York Herald Tribune's Children's Spring Book Festival Award",
   "Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
@@ -16343,7 +16348,7 @@
     "code": ["809.9336"],
     "wording": ["By Topic",
     "By topic",
-    "History and criticism of three or more works",
+    "History and criticism of three or more literatures",
     "Literature",
     "Physical and natural phenomena",
     "Specific themes and subjects"]
@@ -16878,7 +16883,8 @@
   "61 Essential Postmodern Reads",
   "Daily Telegraph's 100 Books of the Century, 1900-1999",
   "Harvard Bookstore Top 100",
-  "WLT's 40 Most Important Books, 1927-2001"],
+  "WLT's 40 Most Important Books, 1927-2001",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -16931,10 +16937,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Polish"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "pol"],
+  "xxx"],
   "ddc": {
     "code": ["891.8537"],
     "wording": ["1919-1989",
@@ -18209,7 +18213,7 @@
     "code": ["809.93372"],
     "wording": ["By Topic",
     "By topic",
-    "History and criticism of three or more works",
+    "History and criticism of three or more literatures",
     "Literature",
     "Specific themes and subjects",
     "Supernatural, mythological, legendary themes"]
@@ -19533,6 +19537,7 @@
     "2": ["Science fiction"],
     "4": ["science fiction"]
   },
+  "originaltitle": "\u0417\u0430 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434 \u043b\u0435\u0442 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0441\u0432\u0435\u0442\u0430",
   "genre": ["Science Fiction"],
   "genre_id": ["281"],
   "source": "amazon.com",
@@ -22260,6 +22265,7 @@
     "24": ["fantasy fiction"],
     "25": ["historical fiction"]
   },
+  "originaltitle": "Grendel",
   "awards": ["Mythopoeic Fantasy Award Nominee",
   "ALA Outstanding Books for the College Bound",
   "Horror: The 100 Best Books",
@@ -24015,9 +24021,9 @@
   "fre"],
   "ddc": {
     "code": ["848"],
-    "wording": ["Authors, French and French miscellany",
-    "French",
-    "Literature"]
+    "wording": ["French",
+    "Literature",
+    "Miscellaneous French writings"]
   },
   "lcc": {
     "code": "PQ2631 .O643"
@@ -33054,7 +33060,6 @@
   "To 1400"],
   ["Purgatory",
   "Poetry"]],
-  "series": "The Devine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -33197,9 +33202,10 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["838.2421"],
-    "wording": ["Authors, German and German miscellany",
-    "German",
-    "Literature"]
+    "wording": ["German",
+    "Literature",
+    "Miscellaneous German writings",
+    "Miscellaneous German writings: 1100-1349"]
   },
   "lcc": {
     "code": "PF3112 .D48"
@@ -33230,70 +33236,6 @@
   "dimensions": "11.2 x 8.1 x 1 inches",
   "weight": "2.65 pounds",
   "pages": "1 ",
-  "fromwhere": "gift"
-},
-"135271899": {
-  "books_id": "135271899",
-  "title": "The Cambridge Dictionary of Philosophy",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Audi, Robert",
-  "primaryauthorrole": "Editor",
-  "authors": [{
-    "lf": "Audi, Robert",
-    "fl": "Robert Audi",
-    "role": "Editor"
-  }],
-  "tags": ["RECOMMENDER:Nimbus",
-  "dictionary",
-  "philosophy",
-  "reference"],
-  "tagidA": [14767980,
-  47734,
-  66879,
-  4877],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0521637228",
-  "isbn": {
-    "0": "0521637228",
-    "2": "9780521637220"
-  },
-  "asin": "0521637228",
-  "ean": ["0521637228"],
-  "publication": "Cambridge University Press (1999), Edition: 2, 1039 pages",
-  "date": "1999",
-  "summary": "The Cambridge Dictionary of Philosophy by Robert Audi (1999)",
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["103"],
-    "wording": ["Dictionaries And Encyclopedias",
-    "Philosophy",
-    "Philosophy and Psychology"]
-  },
-  "lcc": {
-    "code": "B41 .C35"
-  },
-  "subject": [["Philosophy",
-  "Dictionaries"]],
-  "series": "The Cambridge Dictionary",
-  "source": "amazon.com books",
-  "workcode": "25267",
-  "entrydate": "2016-10-16",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "1039 p.; 6.97 inches",
-  "height": "6.97 inches",
-  "thickness": "9.96 inches",
-  "length": "2.05 inches",
-  "dimensions": "6.97 x 2.05 x 9.96 inches",
-  "weight": "3.9 pounds",
-  "pages": "1039 ",
   "fromwhere": "gift"
 },
 "135271900": {
@@ -33453,7 +33395,6 @@
     "10": ["Literature",
     "Collections"]
   },
-  "series": "The Devine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -36131,55 +36072,6 @@
   "pages": "544 ",
   "fromwhere": "Green Apple Books"
 },
-"143097276": {
-  "books_id": "143097276",
-  "title": "Morphy&#039;s Games: A Selection of the Best Games Played by the Distinguished Champion in Europe and America",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Morphy, Paul Charles",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Morphy, Paul Charles",
-    "fl": "Paul Charles Morphy",
-    "role": "Author"
-  }],
-  "tags": ["chess"],
-  "tagidA": [510],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "1146354827",
-  "isbn": {
-    "0": "1146354827",
-    "2": "9781146354820"
-  },
-  "asin": "1146354827",
-  "ean": ["1146354827"],
-  "publication": "Nabu Press (2010), 504 pages",
-  "date": "2010",
-  "summary": "Morphy&#039;s Games: A Selection of the Best Games Played by the Distinguished Champion in Europe and America by Paul Charles Morphy (2010)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "lcc": [],
-  "source": "amazon.com books",
-  "workcode": "19806241",
-  "entrydate": "2017-07-02",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "504 p.; 7.44 inches",
-  "height": "7.44 inches",
-  "thickness": "9.69 inches",
-  "length": "1.01 inches",
-  "dimensions": "7.44 x 1.01 x 9.69 inches",
-  "weight": "1.96 pounds",
-  "pages": "504 ",
-  "fromwhere": "gift"
-},
 "143097415": {
   "books_id": "143097415",
   "title": "Fingerpower: Level 1 (Schaum Publications Fingerpower(r))",
@@ -36865,6 +36757,7 @@
     "code": "MT6 .B465"
   },
   "subject": [["Musical analysis"]],
+  "series": "Dover Books on Music",
   "source": "amazon.com books",
   "workcode": "773070",
   "entrydate": "2017-08-02",
@@ -39055,4 +38948,92 @@
   "weight": "1.25 pounds",
   "pages": "256 ",
   "fromwhere": "Thidwick Books"
+},
+"154504428": {
+  "books_id": "154504428",
+  "title": "Stranger in a Strange Land",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Heinlein, Robert A.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Heinlein, Robert A.",
+    "fl": "Robert A. Heinlein",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0441790348",
+  "isbn": {
+    "0": "0441790348",
+    "2": "9780441790340"
+  },
+  "asin": "0441790348",
+  "ean": ["0441790348"],
+  "publication": "Ace (1987), Edition: 10th Printing, 438 pages",
+  "date": "1987",
+  "summary": "Stranger in a Strange Land by Robert A. Heinlein (1987)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["813.54"],
+    "wording": ["1945-1999",
+    "20th Century",
+    "American And Canadian",
+    "Fiction",
+    "Literature"]
+  },
+  "lcc": {
+    "code": "PS3515 .E288"
+  },
+  "subject": {
+    "0": ["Life on other planets",
+    "Fiction"],
+    "2": ["Science Fiction"],
+    "4": ["Science fiction"],
+    "6": ["science fiction"]
+  },
+  "originaltitle": "Stranger in a Strange Land",
+  "awards": ["Hugo",
+  "Prometheus Hall of Fame Award",
+  "The Modern Library's 100 Best Novels: The Reader's List",
+  "Guardian 1000",
+  "1001 Books You Must Read Before You Die",
+  "Locus 1987 Poll, All-Time Best SF Novel",
+  "Locus 1975 Poll, All-Time Best Novel",
+  "New York Public Library's Books of the Century",
+  "Locus 1998 Poll, All-Time Best SF Novel Before 1990",
+  "thisrecording.com 100 Greatest Science Fiction or Fantasy Novels of All Time",
+  "501 Must-Read Books",
+  "Classics of Science Fiction",
+  "ISFDB Top 100 Books - Popular List",
+  "The SF Book Club's \"The Most Significant SF & Fantasy Books of the Last 50 Years From 1953-2002\"",
+  "Library of Congress Books that Shaped America",
+  "Astounding/Analog Science Fiction and Fact 1966 All-Time Poll",
+  "NPR's Top 100 Science-Fiction, Fantasy Books",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r"],
+  "genre": ["Fiction",
+  "Science Fiction",
+  "Fantasy"],
+  "genre_id": ["2",
+  "281",
+  "5280"],
+  "source": "amazon.com books",
+  "workcode": "6904",
+  "entrydate": "2018-03-31",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "438 p.; 4.13 inches",
+  "height": "4.13 inches",
+  "thickness": "6.88 inches",
+  "length": "1.13 inches",
+  "dimensions": "4.13 x 1.13 x 6.88 inches",
+  "weight": "0.47 pounds",
+  "pages": "438 "
 }}
