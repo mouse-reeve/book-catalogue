@@ -6318,15 +6318,6 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "ddc": {
-    "code": ["823.912"],
-    "wording": ["1901-1945",
-    "20th Century",
-    "English",
-    "Fiction",
-    "Literature",
-    "Modern Period"]
-  },
   "lcc": {
     "code": "PZ7 .T5744"
   },
@@ -14292,15 +14283,6 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
-  "ddc": {
-    "code": ["823.912"],
-    "wording": ["1901-1945",
-    "20th Century",
-    "English",
-    "Fiction",
-    "Literature",
-    "Modern Period"]
-  },
   "lcc": {
     "code": "PZ7 .T5744"
   },
@@ -16622,7 +16604,7 @@
     "code": ["712"],
     "wording": ["Arts and Recreation",
     "Gardens, Parks",
-    "Landscape Gardening"]
+    "Landscape design; City planning"]
   },
   "lcc": {
     "code": "SB475 .M3"
@@ -17987,6 +17969,7 @@
     "Soviet Union"],
     "8": ["fantastic fiction"]
   },
+  "originaltitle": "Always Coming Home",
   "awards": ["Janet Heidinger Kafka Prize",
   "National Book Award finalist",
   "Larry McCaffery's 20th Century Greatest Hits",
@@ -29197,15 +29180,11 @@
   "originallanguage_codeA": ["eng",
   "lat"],
   "ddc": {
-    "code": ["133.43094209031"],
-    "wording": ["Biography; History By Place",
-    "England & Wales",
-    "Europe",
-    "Parapsychology And Occultism",
+    "code": ["133.4"],
+    "wording": ["Parapsychology And Occultism",
     "Philosophy and Psychology",
     "Specific Topics",
-    "Witchcraft - Sorcery",
-    "Witchcraft and Magickal Practice"]
+    "Witchcraft - Sorcery"]
   },
   "lcc": {
     "code": "BF1601 .B6613"
@@ -33060,6 +33039,7 @@
   "To 1400"],
   ["Purgatory",
   "Poetry"]],
+  "series": "The Divine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -33308,7 +33288,6 @@
     "Drama"],
     "20": ["Tragedies"]
   },
-  "series": "Oedipus Cycle",
   "awards": ["The Globe & Mail 50 Greatest Books",
   "The Top Ten: Writers Pick Their Favorite Books",
   "Western World's Greatest Books - Project Gutenberg",
@@ -33395,6 +33374,7 @@
     "10": ["Literature",
     "Collections"]
   },
+  "series": "The Divine Comedy",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -34704,6 +34684,8 @@
     "Witchcraft and Magickal Practice"]
   },
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "18814258",
   "entrydate": "2017-01-31",
@@ -34771,6 +34753,8 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com books",
   "workcode": "16018268",
   "entrydate": "2017-02-15",
@@ -36351,6 +36335,7 @@
   "History and Criticism"],
   ["Music",
   "History and criticism"]],
+  "awards": ["ALA Notable Books for Adults"],
   "genre": ["Nonfiction",
   "History"],
   "genre_id": ["1247",
@@ -36562,17 +36547,20 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["786.20264"],
+    "code": ["786"],
     "wording": ["Arts and Recreation",
     "Music",
-    "Piano and Organ",
-    "Piano--about the instrument"]
+    "Piano and Organ"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "MT225 .B955"
+  },
   "series": "Easier Piano Pieces",
   "originaltitle": "25 \u00e9tudes faciles et progressives pour le piano compos\u00e9s pour des petites mains",
+  "genre": ["Biography & Memoir"],
+  "genre_id": ["1240"],
   "source": "amazon.com all media",
-  "workcode": "19918423",
+  "workcode": "2416610",
   "entrydate": "2017-08-01",
   "format": [{
     "code": "1.1.1",
@@ -38282,10 +38270,8 @@
   "Los Angeles Times Book Prize finalist",
   "Booker Prize Longlist",
   "Time Magazine's Best Books of the Year"],
-  "genre": ["Fiction",
-  "Recent Fiction"],
-  "genre_id": ["2",
-  "8278605"],
+  "genre": ["Fiction"],
+  "genre_id": ["2"],
   "source": "amazon.com books",
   "workcode": "17897154",
   "entrydate": "2017-11-16",
@@ -38961,6 +38947,10 @@
     "fl": "Robert A. Heinlein",
     "role": "Author"
   }],
+  "tags": ["aliens",
+  "space travel"],
+  "tagidA": [17079,
+  631000],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0441790348",
@@ -39035,5 +39025,350 @@
   "length": "1.13 inches",
   "dimensions": "4.13 x 1.13 x 6.88 inches",
   "weight": "0.47 pounds",
-  "pages": "438 "
+  "pages": "438 ",
+  "fromwhere": "Housing Works Used Book Cafe"
+},
+"155094661": {
+  "books_id": "155094661",
+  "title": "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)",
+  "sortcharacter": "4",
+  "public": "1",
+  "primaryauthor": "Pierce, John R.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Pierce, John R.",
+    "fl": "John R. Pierce",
+    "role": "Author"
+  }],
+  "tags": ["mathematics",
+  "information theory"],
+  "tagidA": [10735,
+  41613],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0486240614",
+  "isbn": {
+    "0": "0486240614",
+    "2": "9780486240619"
+  },
+  "asin": "0486240614",
+  "ean": ["0486240614"],
+  "upc": ["800759240616"],
+  "publication": "Dover Publications (1980), Edition: Subsequent, 336 pages",
+  "date": "1980",
+  "summary": "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics) by John R. Pierce (1980)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["001.539"],
+    "wording": ["Artificial Intelligence",
+    "Communication",
+    "Computing And Information",
+    "Information",
+    "Knowledge"]
+  },
+  "lcc": {
+    "code": "Q360 .P5"
+  },
+  "subject": [["Information theory"]],
+  "originaltitle": "Symbols, Signals and Noise",
+  "genre": ["Science & Nature"],
+  "genre_id": ["1457"],
+  "source": "amazon.com books",
+  "workcode": "139028",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "336 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.5 inches",
+  "length": "0.75 inches",
+  "dimensions": "5.5 x 0.75 x 8.5 inches",
+  "weight": "0.77 pounds",
+  "pages": "336 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"155094678": {
+  "books_id": "155094678",
+  "title": "Introduction to Graph Theory (Dover Books on Mathematics)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Trudeau, Richard J.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Trudeau, Richard J.",
+    "fl": "Richard J. Trudeau",
+    "role": "Author"
+  }],
+  "tags": ["mathematics",
+  "graph theory"],
+  "tagidA": [10735,
+  629481],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0486678709",
+  "isbn": {
+    "0": "0486678709",
+    "2": "9780486678702"
+  },
+  "asin": "0486678709",
+  "ean": ["0486678709"],
+  "upc": ["800759678709"],
+  "publication": "Dover Publications (1994), Edition: 2nd, 224 pages",
+  "date": "1994",
+  "summary": "Introduction to Graph Theory (Dover Books on Mathematics) by Richard J. Trudeau (1994)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["511.5"],
+    "wording": ["General Principles",
+    "Graph Theory",
+    "Mathematics",
+    "Mathematics and Science"]
+  },
+  "lcc": {
+    "code": "QA166 .T74"
+  },
+  "subject": [["Graph theory"]],
+  "genre": ["Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["1247",
+  "1457"],
+  "source": "amazon.com books",
+  "workcode": "1041239",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "240 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.5 inches",
+  "length": "0.5 inches",
+  "dimensions": "5.5 x 0.5 x 8.5 inches",
+  "weight": "0.51 pounds",
+  "pages": "240 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"155094689": {
+  "books_id": "155094689",
+  "title": "Jams and Preserves",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Steer, Gina",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Steer, Gina",
+    "fl": "Gina Steer",
+    "role": "Author"
+  }],
+  "tags": ["cookbook",
+  "jam",
+  "preservation"],
+  "tagidA": [45155,
+  5501,
+  630504],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1405492465",
+  "isbn": {
+    "0": "1405492465",
+    "2": "9781405492461"
+  },
+  "asin": "1405492465",
+  "ean": ["1405492465"],
+  "publication": "Parragon Inc (2007), Edition: 1st Edition, 96 pages",
+  "date": "2007",
+  "summary": "Jams and Preserves by Gina Steer (2007)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.582"],
+    "wording": ["---",
+    "Cooking",
+    "Cooking, Specialized Equipment",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": [],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "3893721",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "96 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "8.75 inches",
+  "length": "0.75 inches",
+  "dimensions": "9 x 0.75 x 8.75 inches",
+  "weight": "1.25 pounds",
+  "pages": "96 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"155094716": {
+  "books_id": "155094716",
+  "title": "The Moosewood Cookbook",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Katzen, Mollie",
+  "primaryauthorrole": "Illustrator",
+  "authors": [{
+    "lf": "Katzen, Mollie",
+    "fl": "Mollie Katzen",
+    "role": "Illustrator"
+  }],
+  "tags": ["cookbook",
+  "vegetarian"],
+  "tagidA": [45155,
+  35556],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0898154901",
+  "isbn": {
+    "0": "0898154901",
+    "2": "9780898154900"
+  },
+  "asin": "0898154901",
+  "ean": ["0898154901"],
+  "publication": "Ten Speed Press (1992), Edition: Revised, 235 pages",
+  "date": "1992",
+  "summary": "The Moosewood Cookbook by Mollie Katzen (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.5"],
+    "wording": ["Cooking",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX837 .M67"
+  },
+  "subject": {
+    "0": ["Cookery (Natural foods)"],
+    "2": ["Moosewood Restaurant"],
+    "3": ["Vegetarian cookery"]
+  },
+  "series": "Moosewood Restaurant",
+  "awards": ["KitchenAid Cookbook Hall of Fame",
+  "James Beard Foundation Award"],
+  "genre": ["Nonfiction",
+  "Food & Cooking",
+  "Health & Wellness"],
+  "genre_id": ["1247",
+  "20444",
+  "683927"],
+  "source": "amazon.com books",
+  "workcode": "833",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "235 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "11 inches",
+  "length": "0.75 inches",
+  "dimensions": "8.5 x 0.75 x 11 inches",
+  "weight": "1.4 pounds",
+  "pages": "235 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"155094744": {
+  "books_id": "155094744",
+  "title": "The Bread Baker&#039;s Apprentice: Mastering the Art of Extraordinary Bread",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Reinhart, Peter",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Manville, Ron",
+  "secondaryauthorroles": "Photographer",
+  "authors": [{
+    "lf": "Reinhart, Peter",
+    "fl": "Peter Reinhart",
+    "role": "Author"
+  },
+  {
+    "lf": "Manville, Ron",
+    "fl": "Ron Manville",
+    "role": "Photographer"
+  }],
+  "tags": ["cookbook",
+  "bread"],
+  "tagidA": [45155,
+  59246],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1580082688",
+  "isbn": {
+    "0": "1580082688",
+    "2": "9781580082686"
+  },
+  "asin": "1580082688",
+  "ean": ["1580082688"],
+  "publication": "Ten Speed Press (2001), Edition: Later Printing, 320 pages",
+  "date": "2001",
+  "summary": "The Bread Baker&#039;s Apprentice: Mastering the Art of Extraordinary Bread by Peter Reinhart (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.815"],
+    "wording": ["Appetizers",
+    "Breads",
+    "Cooking Specific Dishes",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX769 .R4147"
+  },
+  "subject": [["Bread"]],
+  "awards": ["IACP Cookbook Award",
+  "KitchenAid Cookbook of the Year"],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "35765",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "320 p.; 9.4 inches",
+  "height": "9.4 inches",
+  "thickness": "10.28 inches",
+  "length": "1.05 inches",
+  "dimensions": "9.4 x 1.05 x 10.28 inches",
+  "weight": "3.26 pounds",
+  "pages": "320 ",
+  "fromwhere": "Powell's City of Books (Portland)"
 }}
