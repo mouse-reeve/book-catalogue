@@ -35,7 +35,7 @@
   "ddc": {
     "code": ["306"],
     "wording": ["Culture and Institutions",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
@@ -1942,7 +1942,7 @@
     "New Guinea",
     "Pacific",
     "Sexuality",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
@@ -2293,7 +2293,7 @@
     "Crimes of property",
     "Criminology",
     "Social Problems, Social Services",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "UB271 .R92"
@@ -2734,7 +2734,7 @@
     "wording": ["Inter-state disputes and conflicts",
     "International Law",
     "Law",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "BF637 .N4"
@@ -3198,6 +3198,7 @@
     "10": ["science fiction"]
   },
   "series": "The Sparrow",
+  "originaltitle": "The Sparrow",
   "awards": ["James Tiptree, Jr. Award",
   "Arthur C. Clarke Award",
   "British Science Fiction Association Award",
@@ -3974,7 +3975,7 @@
   "xxx"],
   "ddc": {
     "code": ["301"],
-    "wording": ["Social Sciences ",
+    "wording": ["Social Sciences",
     "Social Sciences, Sociology, Anthropology",
     "Sociology, Anthropology"]
   },
@@ -6318,6 +6319,15 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["823.912"],
+    "wording": ["1901-1945",
+    "20th Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": {
     "code": "PZ7 .T5744"
   },
@@ -8766,7 +8776,7 @@
     "Murder",
     "Murder",
     "Social Problems, Social Services",
-    "Social Sciences ",
+    "Social Sciences",
     "Types of crimes"]
   },
   "lcc": {
@@ -9239,6 +9249,7 @@
     "24": ["historical fiction"],
     "25": ["satire"]
   },
+  "series": "Catch-22",
   "originaltitle": "Catch - 22",
   "awards": ["Torchlight List",
   "The Observer's 100 Best Novels",
@@ -9435,7 +9446,7 @@
     "Murder",
     "Murder",
     "Social Problems, Social Services",
-    "Social Sciences ",
+    "Social Sciences",
     "Types of crimes"]
   },
   "lcc": {
@@ -10256,6 +10267,7 @@
     "Sacred books"],
     "11": ["taoism"]
   },
+  "series": "The Library of Liberal Arts",
   "originaltitle": "\u9053\u5fb7\u7d93",
   "awards": ["The 100 Most Influential Books Ever Written: The History of Thought from Ancient Times to Today",
   "Books That Changed the World",
@@ -10383,7 +10395,7 @@
     "wording": ["Customs, Etiquette, Folklore",
     "Folk literature",
     "Folklore",
-    "Social Sciences ",
+    "Social Sciences",
     "Tales and lore of places and times"]
   },
   "lcc": {
@@ -14283,6 +14295,15 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["823.912"],
+    "wording": ["1901-1945",
+    "20th Century",
+    "English",
+    "Fiction",
+    "Literature",
+    "Modern Period"]
+  },
   "lcc": {
     "code": "PZ7 .T5744"
   },
@@ -14436,6 +14457,7 @@
     "2": ["Graphic novels"],
     "3": ["Watchmen (Comic strip)"]
   },
+  "series": "Watchmen - Alan Moore",
   "awards": ["Eisner Award",
   "Eisner Award",
   "Hugo",
@@ -14753,7 +14775,7 @@
     "Fairy tales of Europe",
     "Folk literature",
     "Folklore",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "GR550 .P7613"
@@ -15632,6 +15654,7 @@
     "Sacred books"],
     "11": ["taoism"]
   },
+  "series": "The Library of Liberal Arts",
   "originaltitle": "\u9053\u5fb7\u7d93",
   "awards": ["The 100 Most Influential Books Ever Written: The History of Thought from Ancient Times to Today",
   "Books That Changed the World",
@@ -16695,7 +16718,6 @@
     "6": ["Toys",
     "Fiction"]
   },
-  "series": "Calvin and Hobbes",
   "originaltitle": "Something under the Bed is drooling",
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
@@ -16778,7 +16800,8 @@
   "The Top Ten: Writers Pick Their Favorite Books",
   "ZEIT Literaturkanon",
   "WLT's 40 Most Important Books, 1927-2001",
-  "ALA Notable Books for Adults"],
+  "ALA Notable Books for Adults",
+  "33 Best Italian novels by themodernovel.com"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -17581,7 +17604,7 @@
     "Culture and Institutions",
     "Pacific",
     "Polynesia",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
@@ -17670,7 +17693,7 @@
     "code": ["391.8"],
     "wording": ["Costume, Cosmetics and Fashion ",
     "Customs, Etiquette, Folklore",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "GN419.5 .N36"
@@ -21598,7 +21621,6 @@
     "27": ["fantasy"],
     "29": ["juvenile literature"]
   },
-  "originaltitle": "The wind in the willows",
   "awards": ["Waterstones Books of the Century",
   "Waterstones The Nation's Favourite Children's Books",
   "BBC's Big Read",
@@ -22583,7 +22605,7 @@
     "wording": ["Class",
     "Groups of People ; Inequality",
     "Lower Class",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
@@ -23053,7 +23075,7 @@
     "Marriage",
     "Marriage and Parenting",
     "Singleness",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
   "lcc": {
@@ -23274,7 +23296,7 @@
   "ddc": {
     "code": ["305.489664"],
     "wording": ["Groups of People ; Inequality",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology",
     "Women",
     "Women by social group"]
@@ -23495,7 +23517,8 @@
   "Philip Ward's Lifetime Reading Plan",
   "Classics Revisited",
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
-  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"Marie Claire\""],
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"Marie Claire\"",
+  "20 Essential Works of Japanese Literature"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -25793,7 +25816,7 @@
     "code": ["320"],
     "wording": ["Political Science ",
     "Political Science ",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "B2430"
@@ -29101,7 +29124,7 @@
   "ddc": {
     "code": ["306.08998"],
     "wording": ["Culture and Institutions",
-    "Social Sciences ",
+    "Social Sciences",
     "Social Sciences, Sociology, Anthropology",
     "With Respect to Particular Groups"]
   },
@@ -30813,7 +30836,7 @@
     "wording": ["Customs, Etiquette, Folklore",
     "Eating, drinking, using drugs",
     "General Customs",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "GT2905 .S688"
@@ -32111,14 +32134,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["641.5636"],
+    "code": ["641.5"],
     "wording": ["Cooking",
-    "Cooking, Specialized Situations ",
     "Food And Drink",
-    "Healthy Cooking",
     "Home Economics",
-    "Technology",
-    "Vegetarian cooking"]
+    "Technology"]
   },
   "lcc": {
     "code": "TX837 .S322"
@@ -32661,7 +32681,7 @@
     "Folklore",
     "Folklore from Germany & Central Europe",
     "History, geographic treatment, biography",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "GR166 .K5613"
@@ -32959,7 +32979,7 @@
   "fre"],
   "ddc": {
     "code": ["301.01"],
-    "wording": ["Social Sciences ",
+    "wording": ["Social Sciences",
     "Social Sciences, Sociology, Anthropology",
     "Sociology - Theoretical",
     "Sociology, Anthropology",
@@ -33430,7 +33450,7 @@
     "wording": ["Political Science ",
     "Political Science ",
     "Political Science ",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "JA71 .M457"
@@ -34465,7 +34485,7 @@
     "Fairy tales of Europe",
     "Folk literature",
     "Folklore",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "GR176 .C3413"
@@ -38269,7 +38289,8 @@
   "National Book Critics Circle Award finalist",
   "Los Angeles Times Book Prize finalist",
   "Booker Prize Longlist",
-  "Time Magazine's Best Books of the Year"],
+  "Time Magazine's Best Books of the Year",
+  "Hurston/Wright Legacy Award nominee"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -38780,7 +38801,7 @@
     "wording": ["Customs, Etiquette, Folklore",
     "Folklore",
     "Proverbs",
-    "Social Sciences "]
+    "Social Sciences"]
   },
   "lcc": {
     "code": "PN6405 .M54"
@@ -39371,4 +39392,70 @@
   "weight": "3.26 pounds",
   "pages": "320 ",
   "fromwhere": "Powell's City of Books (Portland)"
+},
+"155095334": {
+  "books_id": "155095334",
+  "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Snyder, Timothy",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Snyder, Timothy",
+    "fl": "Timothy Snyder",
+    "role": "Author"
+  }],
+  "tags": ["tyranny",
+  "politics"],
+  "tagidA": [628276,
+  5432],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0804190119",
+  "isbn": {
+    "0": "0804190119",
+    "2": "9780804190114"
+  },
+  "asin": "0804190119",
+  "ean": ["0804190119"],
+  "publication": "Tim Duggan Books (2017), Edition: 1st, 128 pages",
+  "date": "2017",
+  "summary": "On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["321.9"],
+    "wording": ["Political Science ",
+    "Political Systems",
+    "Social Sciences",
+    "Totalitarianism"]
+  },
+  "lcc": {
+    "code": "JC495 .S55"
+  },
+  "genre": ["Nonfiction",
+  "History",
+  "Recent Nonfiction"],
+  "genre_id": ["1247",
+  "1599",
+  "8278606"],
+  "source": "amazon.com books",
+  "workcode": "19126276",
+  "entrydate": "2018-04-18",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "128 p.; 4.39 inches",
+  "height": "4.39 inches",
+  "thickness": "6.24 inches",
+  "length": "0.43 inches",
+  "dimensions": "4.39 x 0.43 x 6.24 inches",
+  "weight": "0.22 pounds",
+  "pages": "128 ",
+  "fromwhere": "gift"
 }}

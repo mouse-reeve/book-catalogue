@@ -12,19 +12,19 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 ## Stats
 
 ### Books read so far this year:
-      17
+      18
 
 ### Books owned:
-489
+490
 
 ### Genres:
 - 145 "Fiction"
 - 95 "Graphic Novels"
 - 92 "Fantasy"
-- 77 "Nonfiction"
+- 78 "Nonfiction"
 - 61 "Science Fiction"
 - 54 "Religion & Spirituality"
-- 44 "History"
+- 45 "History"
 - 21 "Mystery"
 - 20 "Science & Nature"
 - 15 "Food & Cooking"
@@ -36,6 +36,7 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 8 "Health & Wellness"
 - 5 "LGBT"
 - 2 "Home & Garden"
+- 1 "Recent Nonfiction"
 - 1 "Christian Fiction"
 
 ### Subject:
@@ -68,11 +69,11 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 5 "Calvino, Italo"
 
 ### Average Goodreads rating for books read:
-4.01 / 5.00
+4.00 / 5.00
 
 ### Sum weight of books (incomplete):
-443.71 pounds
+443.93 pounds
 
 ### Total pages:
-128,676
+128,804
 
