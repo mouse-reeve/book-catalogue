@@ -15,20 +15,20 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
       18
 
 ### Books owned:
-495
+501
 
 ### Genres:
-- 146 "Fiction"
+- 147 "Fiction"
 - 95 "Graphic Novels"
 - 92 "Fantasy"
-- 80 "Nonfiction"
+- 84 "Nonfiction"
 - 61 "Science Fiction"
 - 54 "Religion & Spirituality"
 - 47 "History"
-- 22 "Science & Nature"
+- 25 "Science & Nature"
 - 21 "Mystery"
 - 15 "Food & Cooking"
-- 14 "Art & Design"
+- 15 "Art & Design"
 - 11 "Young Adult"
 - 11 "Biography & Memoir"
 - 9 "Romance"
@@ -40,13 +40,13 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 1 "Christian Fiction"
 
 ### Subject:
-- 505     "fiction"
+- 506     "fiction"
 - 69     "drama"
 - 37     "fantasy"
 - 34     "poetry"
 - 27     "dictionaries"
 - 19     "history"
-- 14     "magic"
+- 16     "magic"
 - 11     "biography"
 - 11     "adaptations"
 - 8     "feature"
@@ -66,14 +66,14 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 5 "Vaughan, Brian K."
 - 5 "Tolkien, J.R.R."
 - 5 "Pynchon, Thomas"
-- 5 "Calvino, Italo"
+- 5 "Faber, Nancy"
 
 ### Average Goodreads rating for books read:
 4.00 / 5.00
 
 ### Sum weight of books (incomplete):
-451.70 pounds
+456.34 pounds
 
 ### Total pages:
-130,602
+132,721
 
