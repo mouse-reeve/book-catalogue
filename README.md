@@ -12,7 +12,7 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 ## Stats
 
 ### Books read so far this year:
-      19
+      20
 
 ### Books owned:
 501
@@ -69,7 +69,7 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 - 5 "Faber, Nancy"
 
 ### Average Goodreads rating for books read:
-4.00 / 5.00
+4.01 / 5.00
 
 ### Sum weight of books (incomplete):
 456.34 pounds
