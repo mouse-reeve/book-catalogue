@@ -103,8 +103,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -164,8 +164,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -235,8 +235,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -303,8 +303,8 @@
     "code": ["741.5941"],
     "wording": ["Arts and Recreation",
     "British",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European"]
@@ -374,8 +374,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -449,8 +449,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -645,7 +645,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -723,8 +723,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -870,8 +870,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1032,8 +1032,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1103,8 +1103,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1186,8 +1186,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1332,8 +1332,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1407,8 +1407,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1574,8 +1574,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1812,8 +1812,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -1875,8 +1875,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -2025,8 +2025,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -2094,8 +2094,8 @@
   "ddc": {
     "code": ["741.5944"],
     "wording": ["Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European",
@@ -2222,8 +2222,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -3694,8 +3694,10 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["French"],
   "originallanguage_codeA": ["eng",
-  "xxx"],
+  "xxx",
+  "fre"],
   "ddc": {
     "code": ["981.00498"],
     "wording": ["Biography and History",
@@ -10836,7 +10838,6 @@
     "Juvenile poetry"],
     "19": ["short stories"]
   },
-  "series": "Winnie-the-Pooh",
   "awards": ["Harenberg Buch der 1000 B\u00fccher"],
   "genre": ["Children's Books"],
   "genre_id": ["11"],
@@ -11368,12 +11369,7 @@
   "length": "4.18 inches",
   "dimensions": "6.78 x 4.18 x 1.1  inches",
   "weight": "0.52 pounds",
-  "pages": "496 ",
-  "circulation": [{
-    "start_date": "2017-07-22",
-    "item_id": "111130366-1",
-    "status": "Checked out"
-  }]
+  "pages": "496 "
 },
 "111130369": {
   "books_id": "111130369",
@@ -11564,6 +11560,13 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
+  "ddc": {
+    "code": ["133.5"],
+    "wording": ["Astrology",
+    "Parapsychology And Occultism",
+    "Philosophy and Psychology",
+    "Specific Topics"]
+  },
   "lcc": [],
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
@@ -11878,8 +11881,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -12431,8 +12434,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -12823,8 +12826,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -13613,8 +13616,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -13809,8 +13812,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -13885,8 +13888,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -13952,8 +13955,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -14153,8 +14156,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -14441,8 +14444,8 @@
     "code": ["741.5941"],
     "wording": ["Arts and Recreation",
     "British",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European"]
@@ -14854,8 +14857,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -16697,8 +16700,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -17463,8 +17466,8 @@
     "code": ["741.5941"],
     "wording": ["Arts and Recreation",
     "British",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European"]
@@ -17747,8 +17750,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -18505,8 +18508,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -18675,8 +18678,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -18745,8 +18748,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -18876,8 +18879,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -19029,8 +19032,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -23140,8 +23143,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -24623,7 +24626,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -24707,8 +24710,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -24852,7 +24855,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -25036,8 +25039,8 @@
     "code": ["741.5941"],
     "wording": ["Arts and Recreation",
     "British",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European"]
@@ -25207,7 +25210,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -25363,7 +25366,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -25431,8 +25434,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -25496,8 +25499,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -25571,8 +25574,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -25971,7 +25974,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -26051,8 +26054,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -26317,8 +26320,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -26414,8 +26417,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -26525,8 +26528,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -26634,8 +26637,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27218,8 +27221,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27338,8 +27341,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27423,8 +27426,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27517,8 +27520,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27613,8 +27616,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27700,8 +27703,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -27787,7 +27790,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -27852,8 +27855,8 @@
     "code": ["741.5941"],
     "wording": ["Arts and Recreation",
     "British",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European"]
@@ -28000,7 +28003,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -28229,7 +28232,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -28312,7 +28315,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -28380,8 +28383,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -29530,8 +29533,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -29687,7 +29690,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -29766,7 +29769,7 @@
     "code": ["741.56973"],
     "wording": ["Arts and Recreation",
     "Cartoons and caricatures",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -30119,8 +30122,8 @@
     "code": ["741.5952"],
     "wording": ["Arts and Recreation",
     "Asian",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "Japanese"]
@@ -30188,7 +30191,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -30370,7 +30373,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -30447,7 +30450,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -30963,8 +30966,8 @@
     "code": ["741.5973"],
     "wording": ["American",
     "Arts and Recreation",
+    "Cartoons, cariactures, comics",
     "Collections",
-    "Comics; Graphic Novels",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "North American"]
@@ -31708,7 +31711,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -31894,7 +31897,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -32060,7 +32063,7 @@
   "ddc": {
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
-    "Comics; Graphic Novels",
+    "Cartoons, cariactures, comics",
     "Drawing; Decoration; Design ",
     "Drawing; Drawings"]
   },
@@ -36885,6 +36888,7 @@
     "wording": ["Arts and Recreation",
     "Biography",
     "Biography And History",
+    "Collected biography",
     "Music",
     "Music"]
   },
@@ -37167,9 +37171,11 @@
   "Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "ALA Notable Books for Adults"],
   "genre": ["Nonfiction",
-  "History"],
+  "History",
+  "Art & Design"],
   "genre_id": ["1247",
-  "1599"],
+  "1599",
+  "9985304"],
   "source": "amazon.com books",
   "workcode": "10414347",
   "entrydate": "2017-10-06",
@@ -39708,7 +39714,6 @@
     "code": ["883.01"],
     "wording": ["Epic poetry and fiction, Classical Greek",
     "Greek and other Classical languages",
-    "Greek epic poetry",
     "Literature"]
   },
   "lcc": {
@@ -39749,6 +39754,7 @@
     "23": ["fantasy"]
   },
   "series": "Homer's Epic Cycle",
+  "originaltitle": "\u1f48\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -40236,4 +40242,217 @@
   "weight": "0.3 pounds",
   "pages": "24 ",
   "fromwhere": "Powell's City of Books (Portland)"
+},
+"156621104": {
+  "books_id": "156621104",
+  "title": "The Little Schemer - 4th Edition",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Friedman, Daniel P.",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Sussman, Gerald J.|Bibby, Duane",
+  "secondaryauthorroles": "Foreword|Drawings",
+  "authors": [{
+    "lf": "Friedman, Daniel P.",
+    "fl": "Daniel P. Friedman",
+    "role": "Author"
+  },
+  {
+    "lf": "Sussman, Gerald J.",
+    "fl": "Gerald J. Sussman",
+    "role": "Foreword"
+  },
+  {
+    "lf": "Bibby, Duane",
+    "fl": "Duane Bibby",
+    "role": "Drawings"
+  }],
+  "tags": ["computers",
+  "programming",
+  "textbook"],
+  "tagidA": [17162,
+  27393,
+  3340],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262560992",
+  "isbn": {
+    "0": "0262560992",
+    "2": "9780262560993"
+  },
+  "asin": "0262560992",
+  "ean": ["0262560992"],
+  "publication": "The MIT Press (1995), Edition: fourth edition, 216 pages",
+  "date": "1995",
+  "summary": "The Little Schemer - 4th Edition by Daniel P. Friedman (1995)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["005.133"],
+    "wording": ["Computer Software",
+    "Computing And Information",
+    "General Programming Languages",
+    "Information",
+    "Languages",
+    "Programming"]
+  },
+  "lcc": {
+    "code": "QA76.73 .S34"
+  },
+  "subject": {
+    "0": ["LISP (Computer program language)"],
+    "2": ["Scheme (Computer program language)"]
+  },
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
+  "source": "amazon.com books",
+  "workcode": "24048",
+  "entrydate": "2018-05-30",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "216 p.; 6.9 inches",
+  "height": "6.9 inches",
+  "thickness": "8.9 inches",
+  "length": "0.6 inches",
+  "dimensions": "6.9 x 0.6 x 8.9 inches",
+  "weight": "0.77 pounds",
+  "pages": "216 ",
+  "fromwhere": "Amazon.com"
+},
+"157083996": {
+  "books_id": "157083996",
+  "title": "Habibi: A Muslim Love Anthology",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "al-Massari, Hadeel",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "al-Massari, Hadeel",
+    "fl": "Hadeel al-Massari",
+    "role": "Author"
+  }],
+  "tags": ["love",
+  "islam"],
+  "tagidA": [457,
+  422536],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1988715032",
+  "isbn": {
+    "0": "1988715032",
+    "2": "9781988715032"
+  },
+  "asin": "1988715032",
+  "ean": ["1988715032"],
+  "publication": "Bedside Press (2017), 154 pages",
+  "date": "2017",
+  "summary": "Habibi: A Muslim Love Anthology by Hadeel al-Massari (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "21946926",
+  "entrydate": "2018-06-13",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "154 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "0.35 inches",
+  "dimensions": "6 x 0.35 x 9 inches",
+  "pages": "154 "
+},
+"157084053": {
+  "books_id": "157084053",
+  "title": "The Iconography of Landscape: Essays on the Symbolic Representation, Design and Use of Past Environments (Cambridge Studies in Historical Geography)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Cosgrove, Denis",
+  "primaryauthorrole": "Editor",
+  "secondaryauthor": "Daniels, Stephen",
+  "secondaryauthorroles": "Editor",
+  "authors": [{
+    "lf": "Cosgrove, Denis",
+    "fl": "Denis Cosgrove",
+    "role": "Editor"
+  },
+  {
+    "lf": "Daniels, Stephen",
+    "fl": "Stephen Daniels",
+    "role": "Editor"
+  }],
+  "tags": ["essays",
+  "urbanism",
+  "design",
+  "cities",
+  "cartography"],
+  "tagidA": [631258,
+  36937,
+  26429,
+  6581,
+  49247],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0521389151",
+  "isbn": {
+    "0": "0521389151",
+    "2": "9780521389150"
+  },
+  "asin": "0521389151",
+  "ean": ["0521389151"],
+  "publication": "Cambridge University Press (1989), Edition: Revised ed., 330 pages",
+  "date": "1989",
+  "summary": "The Iconography of Landscape: Essays on the Symbolic Representation, Design and Use of Past Environments (Cambridge Studies in Historical Geography) by Denis Cosgrove (1989)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["910"],
+    "wording": ["Biography and History",
+    "Geography and Travels ",
+    "Geography, Voyages And Travel"]
+  },
+  "lcc": {
+    "code": "NX650 .L34"
+  },
+  "subject": [["Arts and society"],
+  ["Arts, Modern",
+  "Themes, motives"],
+  ["Landscape in art"],
+  ["Nature (Aesthetics)"]],
+  "genre": ["Science & Nature",
+  "History",
+  "Art & Design"],
+  "genre_id": ["1457",
+  "1599",
+  "9985304"],
+  "source": "amazon.com books",
+  "workcode": "422389",
+  "entrydate": "2018-06-13",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "330 p.; 5.98 inches",
+  "height": "5.98 inches",
+  "thickness": "8.98 inches",
+  "length": "0.75 inches",
+  "dimensions": "5.98 x 0.75 x 8.98 inches",
+  "weight": "1.13 pounds",
+  "pages": "330 "
 }}
