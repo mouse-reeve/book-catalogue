@@ -17,24 +17,6 @@ $( tail -n +2 goodreads.csv | grep "`date +'%Y'`\(/\d\{2\}\)\{2\},\d\{4\}\(/\d\{
 ### Books owned:
 $(jq '. | length' librarything.json)
 
-### Genres:
-$(jq '.[].genre | select(.) | .[]' librarything.json | sort | uniq -c | sort -r | while read line; do
-    echo "- $line"
-done )
-
-### Subject:
-$(jq '.[].subject' librarything.json | tr '[:upper:]' '[:lower:]' | grep '^\s*"[a-z\s]*"$' | sort | uniq -c | sort -r | head -15 | while read line; do
-    echo "- $line"
-done )
-
-### Author:
-$( jq '.[].primaryauthor' librarything.json | sort | uniq -c | sort -r | head -10 | while read line; do
-    echo "- $line"
-done )
-
-### Average Goodreads rating for books read:
-$( tail -n +2 goodreads.csv | sed 's/.*\([0-9]\.[0-9]\{2\}\).*/\1/g' | jq -s 'add/length' | sed 's/\([0-9]\.[0-9]\{2\}\).*/\1/g' ) / 5.00
-
 ### Sum weight of books (incomplete):
 $( jq '.[].weight | select (.)' librarything.json | sed -E 's/[^0-9]*([0-9.]+).*/\1/' | paste -sd+ - | bc ) pounds
 
