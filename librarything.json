@@ -105,8 +105,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -166,8 +166,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": [],
@@ -237,8 +237,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -305,9 +305,9 @@
     "British",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
-    "European"]
+    "European",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6737 .M66"
@@ -376,8 +376,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -451,8 +451,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -517,8 +517,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6738 .T36"
@@ -585,8 +585,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6727 .V38"
@@ -646,8 +646,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .S26"
@@ -725,8 +725,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -872,8 +872,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1034,8 +1034,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1105,8 +1105,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1188,8 +1188,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1334,8 +1334,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1409,8 +1409,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1576,8 +1576,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1647,8 +1647,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -1814,8 +1814,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -1877,8 +1877,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -2027,8 +2027,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -2096,10 +2096,10 @@
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
     "European",
-    "French"]
+    "French",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6747 .S245"
@@ -2224,8 +2224,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -9251,7 +9251,41 @@
   },
   "series": "Catch-22",
   "originaltitle": "Catch - 22",
-  "awards": ["Torchlight List",
+  "awards": ["Waterstones Books of the Century",
+  "Time's All-Time 100 Novels selection",
+  "BBC's Big Read",
+  "The Modern Library's 100 Best Novels: The Board's List",
+  "The Modern Library's 100 Best Novels: The Reader's List",
+  "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
+  "National Book Award finalist",
+  "The Observer's 100 Greatest Novels of All Time",
+  "Larry McCaffery's 20th Century Greatest Hits",
+  "Anthony Burgess: 99 Novels",
+  "Whitcoulls top 100, 2008",
+  "1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "Newsweek's Top 100 Books: The Meta-List",
+  "ALA Outstanding Books for the College Bound",
+  "New York Public Library's Books of the Century",
+  "The Modern Library: the 200 best novels in English since 1950",
+  "Harenberg Buch der 1000 B\u00fccher",
+  "The Telegraph's 100 novels everyone should read",
+  "The Top Ten: Writers Pick Their Favorite Books",
+  "The Essential Man's Library: 100 Must-Read Books",
+  "Torchlight List",
+  "Library of Congress Books that Shaped America",
+  "V\u00e4rldsbiblioteket",
+  "The 50 Most Essential Works Of Jewish Fiction Of The Last 100 Years",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "Canon de la narrativa universal del siglo XX",
+  "Harvard Bookstore Top 100",
+  "Koen Book Distributors Top 100 Books of the Past Century",
+  "Hungarian Big Read",
+  "\u0413\u043e\u043b\u044f\u043c\u043e\u0442\u043e \u0447\u0435\u0442\u0435\u043d\u0435",
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0414\u0438\u0441\u0442\u043e\u043f\u0438\u0438",
+  "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"Marie Claire\"",
+  "100 Books That Shaped World History",
+  "The New Lifetime Reading Plan With Going Further",
   "The Observer's 100 Best Novels",
   "The 100 Favorite Novels of Librarians"],
   "genre": ["Fiction"],
@@ -11883,8 +11917,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -12266,7 +12300,7 @@
     "wording": ["Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
-    "Persian"]
+    "Persian languages"]
   },
   "lcc": {
     "code": "PZ4 .L537"
@@ -12436,8 +12470,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -12503,8 +12537,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6727 .V38"
@@ -12828,8 +12862,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -13618,8 +13652,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -13814,8 +13848,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -13890,8 +13924,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -13957,8 +13991,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -14029,8 +14063,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .T68"
@@ -14158,8 +14192,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -14446,9 +14480,9 @@
     "British",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
-    "European"]
+    "European",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6737 .M66"
@@ -14859,8 +14893,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -15788,7 +15822,7 @@
     "code": ["745.4"],
     "wording": ["Arts and Recreation",
     "Decorative Art And Design",
-    "Drawing; Decoration; Design ",
+    "Graphic arts and decorative arts ; design",
     "Pure And Applied"]
   },
   "lcc": {
@@ -16702,8 +16736,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -16745,12 +16779,10 @@
   "tags": ["magical realism",
   "cities",
   "italy",
-  "RECOMMENDER:Chris",
   "architecture"],
   "tagidA": [2157,
   6581,
   947,
-  12648839,
   3408],
   "collections_idA": [1],
   "collections": ["Your library"],
@@ -17261,8 +17293,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6727 .H486"
@@ -17468,9 +17500,9 @@
     "British",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
-    "European"]
+    "European",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -17534,8 +17566,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .T267"
@@ -17752,8 +17784,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -18297,8 +18329,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .G65"
@@ -18510,8 +18542,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -18680,8 +18712,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -18750,8 +18782,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -18812,8 +18844,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H38"
@@ -18881,8 +18913,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -19034,8 +19066,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -19263,8 +19295,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .G65"
@@ -21993,7 +22025,6 @@
     "42": ["War stories"],
     "44": ["historical fiction"]
   },
-  "originaltitle": "A Tale of Two Cities",
   "awards": ["Guardian 1000",
   "BBC's Big Read",
   "1001 Books You Must Read Before You Die",
@@ -23145,8 +23176,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -24035,6 +24066,7 @@
   "lcc": {
     "code": "PQ2631 .O643"
   },
+  "originaltitle": "Le parti pris des choses",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -24627,8 +24659,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6737 .G5"
@@ -24712,8 +24744,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -24856,8 +24888,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -24980,8 +25012,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": [],
   "series": "Hellblazer",
@@ -25041,9 +25073,9 @@
     "British",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
-    "European"]
+    "European",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -25211,8 +25243,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -25367,8 +25399,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PZ7.7 .C369"
@@ -25436,8 +25468,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": [],
@@ -25501,8 +25533,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": [],
@@ -25576,8 +25608,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -25975,8 +26007,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -26056,8 +26088,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -26322,8 +26354,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -26419,8 +26451,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -26530,8 +26562,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -26639,8 +26671,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -26727,9 +26759,9 @@
     "wording": ["Arts and Recreation",
     "Biography; History By Place",
     "Collections of Engravings",
-    "Engraving",
     "Mexico, Central America, and the Caribbean",
-    "North America"]
+    "North America",
+    "Printmaking and prints"]
   },
   "lcc": [],
   "genre": ["Biography & Memoir",
@@ -27223,8 +27255,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27343,8 +27375,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27428,8 +27460,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27522,8 +27554,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27618,8 +27650,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27705,8 +27737,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -27791,8 +27823,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -27857,9 +27889,9 @@
     "British",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
-    "European"]
+    "European",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -28004,8 +28036,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .S93"
@@ -28161,8 +28193,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .S93"
@@ -28233,8 +28265,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -28316,8 +28348,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": [],
   "series": "Five Ghosts",
@@ -28385,8 +28417,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": [],
@@ -29535,8 +29567,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -29691,8 +29723,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6738 .W55"
@@ -29770,8 +29802,8 @@
     "wording": ["Arts and Recreation",
     "Cartoons and caricatures",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "NC1429"
@@ -30124,8 +30156,8 @@
     "Asian",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "Japanese"]
   },
   "lcc": {
@@ -30192,8 +30224,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6727 .S85"
@@ -30374,8 +30406,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6733 .T35"
@@ -30451,8 +30483,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -30968,8 +31000,8 @@
     "Arts and Recreation",
     "Cartoons, cariactures, comics",
     "Collections",
-    "Drawing; Decoration; Design ",
     "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design",
     "North American"]
   },
   "lcc": {
@@ -31059,8 +31091,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728"
@@ -31426,12 +31458,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["839.78"],
+    "code": ["839.7374"],
     "wording": ["German",
     "Literature",
     "Literature in other Germanic languages ",
-    "Swedish literature",
-    "Swedish miscellany"]
+    "Swedish Fiction",
+    "Swedish literature"]
   },
   "lcc": [],
   "series": "Pettson & Findus",
@@ -31712,8 +31744,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PZ7.7 .A45"
@@ -31898,8 +31930,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -32064,8 +32096,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, cariactures, comics",
-    "Drawing; Decoration; Design ",
-    "Drawing; Drawings"]
+    "Drawing; Drawings",
+    "Graphic arts and decorative arts ; design"]
   },
   "lcc": {
     "code": "PN6727 .G54"
@@ -35420,70 +35452,6 @@
   "pages": "272 ",
   "fromwhere": "Green Apple Books"
 },
-"139368936": {
-  "books_id": "139368936",
-  "title": "The Village Baker&#039;s Wife: The Deserts and Pastries That Made Gayle&#039;s Famous",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Ortiz, Joe",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Ortiz, Joe",
-    "fl": "Joe Ortiz",
-    "role": "Author"
-  }],
-  "tags": ["cookbook",
-  "pastry"],
-  "tagidA": [45155,
-  173140],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0898158699",
-  "isbn": {
-    "0": "0898158699",
-    "2": "9780898158694"
-  },
-  "asin": "0898158699",
-  "ean": ["0898158699"],
-  "publication": "Ten Speed Press (2003), 336 pages",
-  "date": "1997",
-  "summary": "The Village Baker&#039;s Wife: The Deserts and Pastries That Made Gayle&#039;s Famous by Joe Ortiz (1997)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["641.86"],
-    "wording": ["Cooking Specific Dishes",
-    "Desserts",
-    "Food And Drink",
-    "Home Economics",
-    "Technology"]
-  },
-  "lcc": {
-    "code": "TX773 .O78"
-  },
-  "subject": [["Desserts"]],
-  "genre": ["Food & Cooking"],
-  "genre_id": ["20444"],
-  "source": "amazon.com books",
-  "workcode": "29554",
-  "entrydate": "2017-02-27",
-  "format": [{
-    "code": "1.1.2",
-    "text": "Hardcover"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "336 p.; 9.45 inches",
-  "height": "9.45 inches",
-  "thickness": "1.3 inches",
-  "length": "7.69 inches",
-  "dimensions": "9.45 x 7.69 x 1.3 inches",
-  "weight": "1.65 pounds",
-  "pages": "336 ",
-  "fromwhere": "Green Apple Books"
-},
 "140628755": {
   "books_id": "140628755",
   "title": "The Bathhouse at Midnight: An Historical Survey of Magic and Divination in Russia (Magic in History)",
@@ -35831,75 +35799,6 @@
   "weight": "0.35 pounds",
   "pages": "40 ",
   "fromwhere": "Amazon.com"
-},
-"140628783": {
-  "books_id": "140628783",
-  "title": "Complete Book of Pastry",
-  "sortcharacter": "1",
-  "public": "1",
-  "primaryauthor": "Clayton, Bernard",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Clayton, Bernard",
-    "fl": "Bernard Clayton",
-    "role": "Author"
-  }],
-  "tags": ["cookbook",
-  "pastry"],
-  "tagidA": [45155,
-  173140],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0671530747",
-  "isbn": {
-    "0": "0671530747",
-    "2": "9780671530747"
-  },
-  "asin": "0671530747",
-  "ean": ["0671530747"],
-  "publication": "Touchstone (1984), 416 pages",
-  "date": "1984",
-  "summary": "Complete Book of Pastry by Bernard Clayton (1984)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["641.865"],
-    "wording": ["Baking",
-    "Cooking Specific Dishes",
-    "Desserts",
-    "Food And Drink",
-    "Home Economics",
-    "Technology"]
-  },
-  "lcc": {
-    "code": "TX773 .C58"
-  },
-  "subject": {
-    "0": ["Cookery, International"],
-    "2": ["Desserts"],
-    "4": ["Pastry"]
-  },
-  "genre": ["Food & Cooking"],
-  "genre_id": ["20444"],
-  "source": "amazon.com books",
-  "workcode": "195591",
-  "entrydate": "2017-04-16",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "416 p.; 6 x 1 inches",
-  "height": "1 inch",
-  "thickness": "9.25 inches",
-  "length": "6 inches",
-  "dimensions": "1 x 6 x 9.25 inches",
-  "weight": "1.2 pounds",
-  "pages": "416 ",
-  "fromwhere": "Green Apple Books"
 },
 "143097245": {
   "books_id": "143097245",
@@ -38093,12 +37992,7 @@
   "dimensions": "5 x 0.4 x 8 inches",
   "weight": "0.81 pounds",
   "pages": "144 ",
-  "fromwhere": "Amazon.com",
-  "circulation": [{
-    "start_date": "2017-12-02",
-    "item_id": "147920371-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Amazon.com"
 },
 "148148798": {
   "books_id": "148148798",
@@ -39689,11 +39583,13 @@
   "tags": ["classics",
   "translation",
   "greek",
-  "epic"],
+  "epic",
+  "bookclub"],
   "tagidA": [132,
   92,
   4896,
-  216],
+  216,
+  2434],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0393089053",
@@ -40184,7 +40080,8 @@
   "weight": "0.88 pounds",
   "pages": "100 ",
   "fromwhere": "Powell's City of Books (Portland)"
-},"156380813": {
+},
+"156380813": {
   "books_id": "156380813",
   "title": "PlayTime Classics: Level 1",
   "sortcharacter": "1",
@@ -40324,8 +40221,7 @@
   "weight": "0.77 pounds",
   "pages": "216 ",
   "fromwhere": "Amazon.com"
-},
-"157083996": {
+},"157083996": {
   "books_id": "157083996",
   "title": "Habibi: A Muslim Love Anthology",
   "sortcharacter": "1",
@@ -40455,4 +40351,304 @@
   "dimensions": "5.98 x 0.75 x 8.98 inches",
   "weight": "1.13 pounds",
   "pages": "330 "
+},
+"157648725": {
+  "books_id": "157648725",
+  "title": "Non-Places: An Introduction to Supermodernity",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Aug&eacute;, Marc",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Howe, John",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Aug&eacute;, Marc",
+    "fl": "Marc Aug&eacute;",
+    "role": "Author"
+  },
+  {
+    "lf": "Howe, John",
+    "fl": "John Howe",
+    "role": "Translator"
+  }],
+  "tags": ["anthropology",
+  "architecture",
+  "urbanism",
+  "theory"],
+  "tagidA": [5022,
+  3408,
+  36937,
+  631241],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1844673111",
+  "isbn": {
+    "0": "1844673111",
+    "2": "9781844673117"
+  },
+  "asin": "1844673111",
+  "ean": ["1844673111"],
+  "publication": "Verso (2009), Edition: 2, 99 pages",
+  "date": "2009",
+  "summary": "Non-Places: An Introduction to Supermodernity by Marc Aug&eacute; (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["301.01"],
+    "wording": ["Social Sciences",
+    "Social Sciences, Sociology, Anthropology",
+    "Sociology - Theoretical",
+    "Sociology, Anthropology",
+    "Theory And Instruction"]
+  },
+  "lcc": {
+    "code": "GN345 .A92513"
+  },
+  "subject": {
+    "0": ["Ethnology",
+    "Philosophy"],
+    "2": ["Space perception"]
+  },
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
+  "source": "amazon.com books",
+  "workcode": "280552",
+  "entrydate": "2018-06-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "99 p.; 5.11 inches",
+  "height": "5.11 inches",
+  "thickness": "7.8 inches",
+  "length": "0.41 inches",
+  "dimensions": "5.11 x 0.41 x 7.8 inches",
+  "weight": "0.3 pounds",
+  "pages": "99 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"157648731": {
+  "books_id": "157648731",
+  "title": "Studies in Iconology: Humanistic Themes in the Art of the Renaissance",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Panofsky, Erwin",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Panofsky, Erwin",
+    "fl": "Erwin Panofsky",
+    "role": "Author"
+  }],
+  "tags": ["art",
+  "iconology",
+  "renaissance",
+  "symbols"],
+  "tagidA": [3352,
+  624457,
+  3456,
+  630830],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0064300250",
+  "isbn": {
+    "0": "0064300250",
+    "2": "9780064300254"
+  },
+  "asin": "0064300250",
+  "ean": ["0064300250"],
+  "publication": "Routledge (1972), 263 pages",
+  "date": "1972",
+  "summary": "Studies in Iconology: Humanistic Themes in the Art of the Renaissance by Erwin Panofsky (1972)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["709.03"],
+    "wording": ["Arts and Recreation",
+    "Biography And History",
+    "By Period",
+    "Early Modern",
+    "General Art"]
+  },
+  "lcc": {
+    "code": "N6370 .P3"
+  },
+  "subject": {
+    "0": ["Art, Renaissance"],
+    "2": ["Humanism"],
+    "4": ["Symbolism in art"],
+    "5": ["humanism"]
+  },
+  "series": "The Mary Flexner Lectures",
+  "awards": ["The Modern Library's 100 Best Nonfiction: The Board's List"],
+  "genre": ["History",
+  "Art & Design"],
+  "genre_id": ["1599",
+  "9985304"],
+  "source": "amazon.com books",
+  "workcode": "226915",
+  "entrydate": "2018-06-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "263 p.; 5.98 inches",
+  "height": "5.98 inches",
+  "thickness": "9.02 inches",
+  "length": "0.89 inches",
+  "dimensions": "5.98 x 0.89 x 9.02 inches",
+  "weight": "1.35 pounds",
+  "pages": "263 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"157648745": {
+  "books_id": "157648745",
+  "title": "Atlas of Remote Islands: Fifty Islands I Have Never Set Foot On and Never Will",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Schalansky, Judith",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Lo, Christine",
+  "secondaryauthorroles": "Translator",
+  "authors": [{
+    "lf": "Schalansky, Judith",
+    "fl": "Judith Schalansky",
+    "role": "Author"
+  },
+  {
+    "lf": "Lo, Christine",
+    "fl": "Christine Lo",
+    "role": "Translator"
+  }],
+  "tags": ["maps",
+  "islands",
+  "isolation"],
+  "tagidA": [5499,
+  12093,
+  6931],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "014311820X",
+  "isbn": {
+    "0": "014311820X",
+    "2": "9780143118206"
+  },
+  "asin": "014311820X",
+  "ean": ["014311820X"],
+  "publication": "Penguin Books (2010), Edition: First Edition, 144 pages",
+  "date": "2010",
+  "summary": "Atlas of Remote Islands: Fifty Islands I Have Never Set Foot On and Never Will by Judith Schalansky (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["910.914"],
+    "wording": ["Biography And History",
+    "Biography and History",
+    "Geography and Travels ",
+    "Geography, Voyages And Travel",
+    "Land, Landforms",
+    "Other Geographic Classifications"]
+  },
+  "lcc": {
+    "code": "G500 .S3313"
+  },
+  "originaltitle": "Atlas der abgelegenen Inseln",
+  "awards": ["Deutschlands sch\u00f6nstes Buch",
+  "The Essay Prize",
+  "Prix de La Nuit du Livre",
+  "Prix litt\u00e9raire Plan\u00e8te Bleue Nausicaa-MAJUSCULE"],
+  "source": "amazon.com books",
+  "workcode": "9096761",
+  "entrydate": "2018-06-26",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "143 p.; 7.5 inches",
+  "height": "7.5 inches",
+  "thickness": "10.5 inches",
+  "length": "0.64 inches",
+  "dimensions": "7.5 x 0.64 x 10.5 inches",
+  "weight": "0.6 pounds",
+  "pages": "143 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"157648759": {
+  "books_id": "157648759",
+  "title": "The Image of the City (Harvard-MIT Joint Center for Urban Studies Series)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Lynch, Kevin",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lynch, Kevin",
+    "fl": "Kevin Lynch",
+    "role": "Author"
+  }],
+  "tags": ["urbanism",
+  "cities",
+  "architecture"],
+  "tagidA": [36937,
+  6581,
+  3408],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262620014",
+  "isbn": {
+    "0": "0262620014",
+    "2": "9780262620017"
+  },
+  "asin": "0262620014",
+  "ean": ["0262620014"],
+  "publication": "The MIT Press (1960), 194 pages",
+  "date": "1960",
+  "summary": "The Image of the City (Harvard-MIT Joint Center for Urban Studies Series) by Kevin Lynch (1960)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["711.40973"],
+    "wording": ["Arts and Recreation",
+    "City Planning [by current use]",
+    "City planning",
+    "Landscape design; City planning"]
+  },
+  "lcc": {
+    "code": "NA9108 .L9"
+  },
+  "subject": [["City Planning",
+  "United States"],
+  ["City planning",
+  "United States"]],
+  "genre": ["Art & Design"],
+  "genre_id": ["9985304"],
+  "source": "amazon.com books",
+  "workcode": "61593",
+  "entrydate": "2018-06-26",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "194 p.; 5.25 inches",
+  "height": "5.25 inches",
+  "thickness": "8 inches",
+  "length": "0.38 inches",
+  "dimensions": "5.25 x 0.38 x 8 inches",
+  "weight": "0.58 pounds",
+  "pages": "194 ",
+  "fromwhere": "Powell's City of Books (Portland)"
 }}
