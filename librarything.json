@@ -791,6 +791,7 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
@@ -1941,7 +1942,7 @@
     "Culture and Institutions",
     "New Guinea",
     "Pacific",
-    "Sexuality",
+    "Relations between the sexes, sexualities, love",
     "Social Sciences",
     "Social Sciences, Sociology, Anthropology"]
   },
@@ -2522,7 +2523,8 @@
   "National Book Critics Circle Award finalist",
   "Guardian 100 Greatest Non-Fiction",
   "BookDepository's 100 Best Books Ever",
-  "The Guardian's 100 Best Nonfiction Books of All-Time"],
+  "The Guardian's 100 Best Nonfiction Books of All-Time",
+  "International Sociological Association: 1000 most influential books in Sociology"],
   "genre": ["Nonfiction",
   "History"],
   "genre_id": ["1247",
@@ -3412,6 +3414,7 @@
     "21": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "originaltitle": "The Fellowship of the Ring",
   "awards": ["1001 Children's Books You Must Read Before You Grow Up",
   "IBBY Honour Book",
   "IBBY Honour Book",
@@ -3639,6 +3642,7 @@
     "1945-"],
     "6": ["National characteristics, Japanese"]
   },
+  "originaltitle": "The Chrysanthemum and the Sword: Patterns of Japanese Culture",
   "genre": ["Nonfiction",
   "History"],
   "genre_id": ["1247",
@@ -5289,6 +5293,7 @@
     "35": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
+  "originaltitle": "The two Towers",
   "awards": ["1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r"],
   "genre": ["Fiction",
   "Fantasy"],
@@ -6600,7 +6605,8 @@
   "CCBC Choices",
   "Louisiana Young Readers' Choice Award",
   "Sequoyah Book Award Nominee",
-  "Georgia Children's Book Award Nominee"],
+  "Georgia Children's Book Award Nominee",
+  "World Fantasy Award Nominee"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
   "source": "amazon.com",
@@ -7119,6 +7125,7 @@
     "Fiction"],
     "21": ["humorous fiction"]
   },
+  "series": "Three Men",
   "originaltitle": "Three Men in a Boat",
   "awards": ["BBC's Big Read",
   "The Observer's 100 Greatest Novels of All Time",
@@ -7894,6 +7901,7 @@
     "code": ["873.01"],
     "wording": ["Epic poetry, Latin",
     "Latin",
+    "Latin fiction",
     "Literature"]
   },
   "lcc": {
@@ -8723,8 +8731,10 @@
   "lcc": {
     "code": "PG3476 .T6"
   },
-  "genre": ["Science Fiction"],
-  "genre_id": ["281"],
+  "genre": ["Fiction",
+  "Science Fiction"],
+  "genre_id": ["2",
+  "281"],
   "source": "amazon.com",
   "workcode": "503770",
   "entrydate": "2014-01-21",
@@ -9009,6 +9019,7 @@
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
+    "1917-1991",
     "Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
@@ -9663,6 +9674,7 @@
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
+    "1917-1991",
     "Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
@@ -10052,7 +10064,8 @@
   "New York Times Best Books of the Year",
   "National Book Critics Circle Award finalist",
   "Guardian 100 Greatest Non-Fiction",
-  "Harenberg Buch der 1000 B\u00fccher"],
+  "Harenberg Buch der 1000 B\u00fccher",
+  "International Sociological Association: 1000 most influential books in Sociology"],
   "genre": ["Nonfiction",
   "Science & Nature"],
   "genre_id": ["1247",
@@ -10188,7 +10201,10 @@
   "xxx"],
   "ddc": {
     "code": ["842.914"],
-    "wording": ["Drama",
+    "wording": ["1900-",
+    "1900-1999",
+    "1945-1999",
+    "Drama",
     "French",
     "Literature"]
   },
@@ -10301,7 +10317,6 @@
     "Sacred books"],
     "11": ["taoism"]
   },
-  "series": "The Library of Liberal Arts",
   "originaltitle": "\u9053\u5fb7\u7d93",
   "awards": ["The 100 Most Influential Books Ever Written: The History of Thought from Ancient Times to Today",
   "Books That Changed the World",
@@ -11403,7 +11418,12 @@
   "length": "4.18 inches",
   "dimensions": "6.78 x 4.18 x 1.1  inches",
   "weight": "0.52 pounds",
-  "pages": "496 "
+  "pages": "496 ",
+  "circulation": [{
+    "start_date": "2018-07-28",
+    "item_id": "111130366-1",
+    "status": "Checked out"
+  }]
 },
 "111130369": {
   "books_id": "111130369",
@@ -11723,6 +11743,7 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
+  "originallanguage": ["English"],
   "originallanguage_codeA": ["eng",
   "xxx"],
   "ddc": {
@@ -12654,7 +12675,8 @@
   "CCBC Choices",
   "Louisiana Young Readers' Choice Award",
   "Sequoyah Book Award Nominee",
-  "Georgia Children's Book Award Nominee"],
+  "Georgia Children's Book Award Nominee",
+  "World Fantasy Award Nominee"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
   "source": "amazon.com",
@@ -13359,10 +13381,8 @@
   "All"],
   "language_codeA": ["eng",
   "xxx"],
-  "originallanguage": ["Italian"],
   "originallanguage_codeA": ["eng",
-  "xxx",
-  "ita"],
+  "xxx"],
   "ddc": {
     "code": ["853.914"],
     "wording": ["1900-",
@@ -15689,7 +15709,6 @@
     "Sacred books"],
     "11": ["taoism"]
   },
-  "series": "The Library of Liberal Arts",
   "originaltitle": "\u9053\u5fb7\u7d93",
   "awards": ["The 100 Most Influential Books Ever Written: The History of Thought from Ancient Times to Today",
   "Books That Changed the World",
@@ -17662,6 +17681,7 @@
     "Social life and customs"],
     "18": ["adolescence"]
   },
+  "originaltitle": "Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation",
   "awards": ["New York Public Library's Books of the Century",
   "Boston Public Library's 100 Most Influential Books of the Century",
   "100 Best Books by American Women During the Past 100 Years, 1833-1933",
@@ -19846,6 +19866,7 @@
     "5": ["Totemism"],
     "7": ["totemism"]
   },
+  "originaltitle": "La Pens\u00e9e sauvage",
   "genre": ["Nonfiction"],
   "genre_id": ["1247"],
   "source": "amazon.com",
@@ -21655,6 +21676,7 @@
     "29": ["juvenile literature"]
   },
   "awards": ["Waterstones Books of the Century",
+  "IBBY Honour Book",
   "Waterstones The Nation's Favourite Children's Books",
   "BBC's Big Read",
   "Radcliffe Publishing Course Top 100 Novels of the 20th Century",
@@ -25082,8 +25104,10 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Promethea",
-  "genre": ["Graphic Novels"],
-  "genre_id": ["4778"],
+  "genre": ["Graphic Novels",
+  "Fantasy"],
+  "genre_id": ["4778",
+  "5280"],
   "source": "amazon.com",
   "workcode": "641696",
   "entrydate": "2014-12-09",
@@ -25250,10 +25274,8 @@
     "code": "PN6728 .H383"
   },
   "series": "Hellblazer Collections",
-  "genre": ["Graphic Novels",
-  "Fantasy"],
-  "genre_id": ["4778",
-  "5280"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "16784595",
   "entrydate": "2014-12-21",
@@ -28043,6 +28065,8 @@
     "code": "PN6728 .S93"
   },
   "series": "Swamp Thing, Volume 3",
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "15205729",
   "entrydate": "2015-02-25",
@@ -34148,6 +34172,8 @@
   "lcc": {
     "code": "Z105.5 .V65"
   },
+  "genre": ["History"],
+  "genre_id": ["1599"],
   "source": "amazon.com books",
   "workcode": "17978951",
   "entrydate": "2016-11-04",
@@ -37070,11 +37096,9 @@
   "Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "ALA Notable Books for Adults"],
   "genre": ["Nonfiction",
-  "History",
-  "Art & Design"],
+  "History"],
   "genre_id": ["1247",
-  "1599",
-  "9985304"],
+  "1599"],
   "source": "amazon.com books",
   "workcode": "10414347",
   "entrydate": "2017-10-06",
@@ -39336,11 +39360,9 @@
     "code": "JC495 .S55"
   },
   "genre": ["Nonfiction",
-  "History",
-  "Recent Nonfiction"],
+  "History"],
   "genre_id": ["1247",
-  "1599",
-  "8278606"],
+  "1599"],
   "source": "amazon.com books",
   "workcode": "19126276",
   "entrydate": "2018-04-18",
@@ -39465,11 +39487,9 @@
   ["Mathematics, Greek"]],
   "series": "Elements",
   "genre": ["Nonfiction",
-  "Science & Nature",
-  "History"],
+  "Science & Nature"],
   "genre_id": ["1247",
-  "1457",
-  "1599"],
+  "1457"],
   "source": "amazon.com books",
   "workcode": "63510",
   "entrydate": "2018-05-18",
@@ -40651,4 +40671,127 @@
   "weight": "0.58 pounds",
   "pages": "194 ",
   "fromwhere": "Powell's City of Books (Portland)"
+},
+"157805888": {
+  "books_id": "157805888",
+  "title": "The Hungarian Cookbook: 151 Most Flavorful Hungarian Recipes",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "De Proft, Melanie",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Lovelace, Kay|Szego, Imre",
+  "secondaryauthorroles": "Illustrator|Contributor",
+  "authors": [{
+    "lf": "De Proft, Melanie",
+    "fl": "Melanie De Proft",
+    "role": "Author"
+  },
+  {
+    "lf": "Lovelace, Kay",
+    "fl": "Kay Lovelace",
+    "role": "Illustrator"
+  },
+  {
+    "lf": "Szego, Imre",
+    "fl": "Imre Szego",
+    "role": "Contributor"
+  }],
+  "tags": ["cookbook",
+  "hungarian"],
+  "tagidA": [45155,
+  5042],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0832605204",
+  "isbn": {
+    "0": "0832605204",
+    "2": "9780832605208"
+  },
+  "asin": "0832605204",
+  "ean": ["0832605204"],
+  "publication": "Culinary Arts Institute (1973), Edition: Edition Not Stated, 68 pages",
+  "date": "1973",
+  "summary": "The Hungarian Cookbook: 151 Most Flavorful Hungarian Recipes by Melanie De Proft (1973)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.594391"],
+    "wording": ["Cooking",
+    "Europe",
+    "Food And Drink",
+    "Germany, Austria, Poland, Hungary",
+    "Home Economics",
+    "Hungary",
+    "International Cooking",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX725 .C8"
+  },
+  "series": "Cooking Magic",
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "1246046",
+  "entrydate": "2018-06-30",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "68 p.; 8.6 inches",
+  "height": "8.6 inches",
+  "thickness": "0.3 inches",
+  "length": "5.8 inches",
+  "dimensions": "8.6 x 5.8 x 0.3 inches",
+  "weight": "0.1 pounds",
+  "pages": "68 "
+},
+"159554864": {
+  "books_id": "159554864",
+  "title": "The Secrets of Solomon: A Witch&#039;s Handbook from the trial records of the Venetian Inquisition",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Peterson, Joseph H",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Peterson, Joseph H",
+    "fl": "Joseph H Peterson",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1720387052",
+  "isbn": {
+    "0": "1720387052",
+    "2": "9781720387053"
+  },
+  "asin": "1720387052",
+  "ean": ["1720387052"],
+  "publication": "CreateSpace Independent Publishing Platform (2018), Edition: 1, 254 pages",
+  "date": "2018",
+  "summary": "The Secrets of Solomon: A Witch&#039;s Handbook from the trial records of the Venetian Inquisition by Joseph H Peterson (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "22048596",
+  "entrydate": "2018-08-19",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "254 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "0.58 inches",
+  "dimensions": "6 x 0.58 x 9 inches",
+  "pages": "254 "
 }}
