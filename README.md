@@ -12,7 +12,7 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 ## Stats
 
 ### Books read so far this year:
-      33
+      34
 
 ### Books owned:
 513
