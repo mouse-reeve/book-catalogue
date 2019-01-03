@@ -12,14 +12,14 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 ## Stats
 
 ### Books read so far this year:
-      39
+       0
 
 ### Books owned:
-540
+541
 
 ### Sum weight of books (incomplete):
-484.33 pounds
+485.53 pounds
 
 ### Total pages:
-140,438
+140,566
 

@@ -385,6 +385,7 @@
   },
   "series": "Hellboy graphic novels",
   "originaltitle": "Hellboy: The Chained Coffin and Others",
+  "awards": ["Wizard Magazine's 100 Greatest Graphic Novels"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -460,6 +461,7 @@
   },
   "subject": [["Comic books, strips, etc"]],
   "series": "Transmetropolitan TPB",
+  "awards": ["Wizard Magazine's Top 100 Graphic Novels of the Past 20 Years"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
   "genre_id": ["281",
@@ -4767,7 +4769,7 @@
   "awards": ["Hugo",
   "Nebula",
   "Ditmar Award",
-  "Locus Award",
+  "Locus",
   "Guardian 1000",
   "Locus 1987 Poll, All-Time Best SF Novel",
   "thisrecording.com 100 Greatest Science Fiction or Fantasy Novels of All Time",
@@ -5296,7 +5298,6 @@
     "35": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The two Towers",
   "awards": ["1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r"],
   "genre": ["Fiction",
   "Fantasy"],
@@ -5400,7 +5401,6 @@
     "23": ["fiction in English"]
   },
   "series": "The Lord of the Rings",
-  "originaltitle": "The Return of The King",
   "awards": ["Academy Award for Writing Adapted Screenplay",
   "Whitcoulls top 100, 2008",
   "The Telegraph's 110 Best Books: The Perfect Library",
@@ -8207,12 +8207,7 @@
     "text": "Paperback"
   }],
   "copies": "1",
-  "fromwhere": "Amazon.com",
-  "circulation": [{
-    "start_date": "2017-08-14",
-    "item_id": "105446723-1",
-    "status": "Checked out"
-  }]
+  "fromwhere": "Amazon.com"
 },
 "105446726": {
   "books_id": "105446726",
@@ -11982,7 +11977,8 @@
   "61 Essential Postmodern Reads",
   "1001 Comics You Must Read Before You Die",
   "BookDepository's 100 Best Books Ever",
-  "ALA Popular Paperbacks for Young Adults"],
+  "ALA Popular Paperbacks for Young Adults",
+  "Wizard Magazine's 100 Greatest Graphic Novels"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -14545,7 +14541,8 @@
   "Harvard Bookstore Top 100",
   "NPR's Top 100 Science-Fiction, Fantasy Books",
   "Fauve d'or d'Angoul\u00eame",
-  "ALA Popular Paperbacks for Young Adults"],
+  "ALA Popular Paperbacks for Young Adults",
+  "Wizard Magazine's 100 Greatest Graphic Novels"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -18377,6 +18374,7 @@
   },
   "series": "Gotham Central",
   "originaltitle": "Gotham Central, Book One: In the Line of Duty",
+  "awards": ["Wizard Magazine's Top 100 Graphic Novels of the Past 20 Years"],
   "genre": ["Graphic Novels"],
   "genre_id": ["4778"],
   "source": "amazon.com",
@@ -19475,6 +19473,7 @@
   "lcc": {
     "code": "BS185 .O94"
   },
+  "series": "Oxford World's Classics",
   "genre": ["Religion & Spirituality"],
   "genre_id": ["1944"],
   "source": "amazon.com",
@@ -19890,10 +19889,8 @@
     "7": ["totemism"]
   },
   "originaltitle": "La Pens\u00e9e sauvage",
-  "genre": ["Nonfiction",
-  "History"],
-  "genre_id": ["1247",
-  "1599"],
+  "genre": ["Nonfiction"],
+  "genre_id": ["1247"],
   "source": "amazon.com",
   "workcode": "98252",
   "entrydate": "2014-07-27",
@@ -26294,6 +26291,7 @@
   "summary": "A Thousand Plateaus: Capitalism and Schizophrenia by Gilles Deleuze (1987)",
   "language": ["English"],
   "language_codeA": ["eng"],
+  "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["194"],
@@ -27434,7 +27432,8 @@
   "awards": ["Harvey Award",
   "Squiddy Award",
   "1001 Comics You Must Read Before You Die",
-  "Prix du Scenario d'Angoul\u00eame"],
+  "Prix du Scenario d'Angoul\u00eame",
+  "Wizard Magazine's 100 Greatest Graphic Novels"],
   "genre": ["Graphic Novels",
   "Fantasy"],
   "genre_id": ["4778",
@@ -29441,7 +29440,7 @@
   "series": "Hyperion Cantos",
   "originaltitle": "Hyperion",
   "awards": ["Hugo",
-  "Locus Award",
+  "Locus",
   "British Science Fiction Association Award Shortlist",
   "Guardian 1000",
   "SF Chronicle Award Nominee",
@@ -32539,7 +32538,6 @@
     "code": "PS3612 .E3353"
   },
   "series": "Imperial Radch",
-  "originaltitle": "Ancillary Justice",
   "awards": ["Kitschies: Golden Tentacle Award",
   "Philip K. Dick Award Finalist",
   "James Tiptree, Jr. Award Honor List",
@@ -35482,7 +35480,7 @@
     "12": ["Rawlins, Easy (Fictitious character)",
     "Fiction"]
   },
-  "series": "Easy Rawlins Mystery",
+  "series": "Easy Rawlins",
   "awards": ["Edgar Award Nominee",
   "Shamus Award",
   "CWA",
@@ -38498,6 +38496,7 @@
   "lcc": {
     "code": "PG3456 .A13"
   },
+  "originaltitle": "The Prank: The Best of Young Chekhov",
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com books",
@@ -39338,6 +39337,7 @@
     "code": "TX769 .R4147"
   },
   "subject": [["Bread"]],
+  "originaltitle": "The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread",
   "awards": ["IACP Cookbook Award",
   "KitchenAid Cookbook of the Year"],
   "genre": ["Nonfiction",
@@ -41932,16 +41932,16 @@
     "Literature"]
   },
   "lcc": [],
+  "originaltitle": "Less",
   "awards": ["Andrew Carnegie Medals for Excellence in Fiction Longlist",
   "Pulitzer Prize",
   "Commonwealth Club of California Book Awards Finalist",
-  "Lambda Literary Award Nominee"],
+  "Lambda Literary Award Nominee",
+  "ALA Notable Books for Adults"],
   "genre": ["Fiction",
-  "LGBT",
-  "Recent Fiction"],
+  "LGBT"],
   "genre_id": ["2",
-  "364398",
-  "8278605"],
+  "364398"],
   "source": "amazon.com books",
   "workcode": "19029739",
   "entrydate": "2018-10-30",
@@ -42283,10 +42283,8 @@
     "9": ["Tea",
     "History"]
   },
-  "genre": ["History",
-  "Food & Cooking"],
-  "genre_id": ["1599",
-  "20444"],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
   "source": "amazon.com all media",
   "workcode": "272566",
   "entrydate": "2018-11-06",
@@ -42729,7 +42727,7 @@
 },
 "162315254": {
   "books_id": "162315254",
-  "title": "Swans Way",
+  "title": "Swann's Way",
   "sortcharacter": "1",
   "public": "1",
   "primaryauthor": "Proust, Marcel",
@@ -42746,7 +42744,7 @@
   "asin": "B000K6MXJU",
   "publication": "The Modern Library (1928)",
   "date": "1928",
-  "summary": "Swans Way by Marcel Proust (1928)",
+  "summary": "Swann's Way by Marcel Proust (1928)",
   "ddc": {
     "code": ["813"],
     "wording": ["American And Canadian",
@@ -43065,4 +43063,66 @@
   }],
   "copies": "1",
   "fromwhere": "Friends of the San Francisco Public Library Big Book Sale"
+},
+"163638811": {
+  "books_id": "163638811",
+  "title": "Atlas of Poetic Botany (The MIT Press)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Halle, Francis",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Butler, Erik|Patriarca, &Eacute;liane",
+  "secondaryauthorroles": "Translator|Contributor",
+  "authors": [{
+    "lf": "Halle, Francis",
+    "fl": "Francis Halle",
+    "role": "Author"
+  },
+  {
+    "lf": "Butler, Erik",
+    "fl": "Erik Butler",
+    "role": "Translator"
+  },
+  {
+    "lf": "Patriarca, &Eacute;liane",
+    "fl": "&Eacute;liane Patriarca",
+    "role": "Contributor"
+  }],
+  "tags": ["gardening",
+  "botany"],
+  "tagidA": [37454,
+  32399],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262039125",
+  "isbn": {
+    "0": "0262039125",
+    "2": "9780262039123"
+  },
+  "asin": "0262039125",
+  "ean": ["0262039125"],
+  "publication": "The MIT Press (2018), 128 pages",
+  "date": "2018",
+  "summary": "Atlas of Poetic Botany (The MIT Press) by Francis Halle (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "22436419",
+  "entrydate": "2018-12-27",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "128 p.; 7.5 inches",
+  "height": "7.5 inches",
+  "thickness": "10.4 inches",
+  "length": "0.5 inches",
+  "dimensions": "7.5 x 0.5 x 10.4 inches",
+  "weight": "1.2 pounds",
+  "pages": "128 "
 }}
