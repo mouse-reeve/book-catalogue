@@ -97,8 +97,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": [],
@@ -166,9 +166,9 @@
     "British",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "European",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "European"]
   },
   "lcc": {
     "code": "PN6737 .M66"
@@ -237,8 +237,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -313,8 +313,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -380,8 +380,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6738 .T36"
@@ -442,8 +442,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .S26"
@@ -675,8 +675,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -746,8 +746,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -829,8 +829,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -976,8 +976,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -1051,8 +1051,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -1218,8 +1218,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -1289,8 +1289,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -1457,8 +1457,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -1602,8 +1602,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -1671,10 +1671,10 @@
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "European",
-    "French",
-    "Graphic arts and decorative arts ; design"]
+    "French"]
   },
   "lcc": {
     "code": "PN6747 .S245"
@@ -5157,7 +5157,8 @@
   "World Fantasy Award Nominee",
   "Paste Magazine's 50 Best Horror Novels of All-Time",
   "Unbound Worlds 100 Best Horror Books of All-Time",
-  "NPR 100 Best Horror Novels and Stories"],
+  "NPR 100 Best Horror Novels and Stories",
+  "100 Best Horror Books of All Time"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
   "source": "amazon.com",
@@ -7164,7 +7165,7 @@
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
-    "1917-1991",
+    "1917-1991 (USSR)",
     "Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
@@ -7699,7 +7700,7 @@
   "ddc": {
     "code": ["891.7342"],
     "wording": ["1917-1945",
-    "1917-1991",
+    "1917-1991 (USSR)",
     "Literature",
     "Literature of other Indo-European languages",
     "Other Languages",
@@ -8490,12 +8491,10 @@
   "originaltitle": "Lost Continents: The Atlantis Theme in History, Science, and Literature",
   "genre": ["Nonfiction",
   "History",
-  "Religion & Spirituality",
-  "Health & Wellness"],
+  "Religion & Spirituality"],
   "genre_id": ["1247",
   "1599",
-  "1944",
-  "683927"],
+  "1944"],
   "source": "amazon.com",
   "workcode": "180416",
   "entrydate": "2014-01-21",
@@ -9895,10 +9894,8 @@
   "lcc": {
     "code": "BF1611 .P48"
   },
-  "genre": ["Religion & Spirituality",
-  "Health & Wellness"],
-  "genre_id": ["1944",
-  "683927"],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
   "source": "amazon.com",
   "workcode": "5066970",
   "entrydate": "2014-07-27",
@@ -10021,8 +10018,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -10146,7 +10143,8 @@
   "World Fantasy Award Nominee",
   "Paste Magazine's 50 Best Horror Novels of All-Time",
   "Unbound Worlds 100 Best Horror Books of All-Time",
-  "NPR 100 Best Horror Novels and Stories"],
+  "NPR 100 Best Horror Novels and Stories",
+  "100 Best Horror Books of All Time"],
   "genre": ["Fantasy"],
   "genre_id": ["5280"],
   "source": "amazon.com",
@@ -10496,7 +10494,9 @@
   "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
   "ZEIT-Bibliothek der 100 B\u00fccher",
   "100 \u043a\u043d\u0438\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0411\u044b\u043a\u043e\u0432\u0430",
-  "The Great American Read"],
+  "The Great American Read",
+  "besthorrornovels.com's Top 25 Best Horror Books",
+  "besthorrornovels.com's Best Classic Horror Books"],
   "genre": ["Fiction",
   "Fantasy"],
   "genre_id": ["2",
@@ -10858,8 +10858,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -10934,8 +10934,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -11010,8 +11010,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -11077,8 +11077,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -11149,8 +11149,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .T68"
@@ -11278,8 +11278,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -11503,9 +11503,9 @@
     "British",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "European",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "European"]
   },
   "lcc": {
     "code": "PN6737 .M66"
@@ -12398,7 +12398,7 @@
     "code": ["745.4"],
     "wording": ["Arts and Recreation",
     "Decorative Art And Design",
-    "Graphic arts and decorative arts ; design",
+    "Drawing and decorative arts",
     "Pure And Applied"]
   },
   "lcc": {
@@ -13467,9 +13467,9 @@
     "British",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "European",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "European"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -13533,8 +13533,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .T267"
@@ -13754,8 +13754,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -14217,8 +14217,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .G65"
@@ -14355,8 +14355,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -14526,8 +14526,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -14596,8 +14596,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -14658,8 +14658,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H38"
@@ -14727,8 +14727,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -14924,8 +14924,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .G65"
@@ -15839,7 +15839,8 @@
   "100 Books in Literary Oregon, 1800-2000",
   "The Top Ten: Writers Pick Their Favorite Books",
   "Read This Next: 500 of the Best Books You'll Ever Read",
-  "Paste Magazine's 50 Best Horror Novels of All-Time"],
+  "Paste Magazine's 50 Best Horror Novels of All-Time",
+  "besthorrornovels.com's Best Modern Horror Books"],
   "genre": ["Fiction"],
   "genre_id": ["2"],
   "source": "amazon.com",
@@ -18017,8 +18018,8 @@
   "ddc": {
     "code": ["709"],
     "wording": ["Arts and Recreation",
-    "Biography And History",
-    "General Art"]
+    "General Art",
+    "History, geographic treatment, biography"]
   },
   "lcc": {
     "code": "NE1325 .A5"
@@ -18322,8 +18323,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -18855,8 +18856,8 @@
     "code": ["709.2"],
     "wording": ["Arts and Recreation",
     "Biography",
-    "Biography And History",
-    "General Art"]
+    "General Art",
+    "History, geographic treatment, biography"]
   },
   "lcc": [],
   "genre": ["Art & Design"],
@@ -19335,8 +19336,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -19479,8 +19480,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -19604,8 +19605,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": [],
   "series": "Hellblazer",
@@ -19665,9 +19666,9 @@
     "British",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "European",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "European"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -19745,8 +19746,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -19815,8 +19816,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": [],
@@ -19880,8 +19881,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": [],
@@ -20089,8 +20090,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -20170,8 +20171,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -20437,8 +20438,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -20534,8 +20535,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -20645,8 +20646,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -20754,8 +20755,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -20840,11 +20841,11 @@
   "ddc": {
     "code": ["769.972"],
     "wording": ["Arts and Recreation",
-    "Biography; History By Place",
-    "Collections of Engravings",
+    "Graphic arts, Printmaking and prints",
+    "History, geographic treatment, biography",
     "Mexico, Central America, and the Caribbean",
     "North America",
-    "Printmaking and prints"]
+    "Prints"]
   },
   "lcc": [],
   "genre": ["Biography & Memoir",
@@ -21266,8 +21267,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21386,8 +21387,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21472,8 +21473,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21566,8 +21567,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21662,8 +21663,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21750,8 +21751,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -21836,8 +21837,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -21902,9 +21903,9 @@
     "British",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "European",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
+    "European"]
   },
   "lcc": {
     "code": "PN6728 .P75"
@@ -21982,8 +21983,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .S93"
@@ -22141,8 +22142,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .S93"
@@ -22213,8 +22214,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -22283,8 +22284,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": [],
@@ -23246,8 +23247,8 @@
     "wording": ["Arts and Recreation",
     "Cartoons and caricatures",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "NC1429"
@@ -23598,8 +23599,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6727 .S85"
@@ -23780,8 +23781,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6733 .T35"
@@ -23857,8 +23858,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -24076,11 +24077,9 @@
   ["Vegan cookery"],
   ["Vegetarian cookery"]],
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "3353416",
   "entrydate": "2015-11-03",
@@ -24374,8 +24373,8 @@
     "Arts and Recreation",
     "Cartoons, Caricatures, Comics",
     "Collections",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design",
+    "Drawing &  drawings",
+    "Drawing and decorative arts",
     "North American"]
   },
   "lcc": {
@@ -24464,8 +24463,8 @@
   "ddc": {
     "code": ["741"],
     "wording": ["Arts and Recreation",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728"
@@ -24769,7 +24768,8 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["839.7374"],
-    "wording": ["German",
+    "wording": ["1901-1999",
+    "German",
     "Literature",
     "Literature in other Germanic languages ",
     "Swedish Fiction",
@@ -25171,8 +25171,8 @@
     "code": ["741.5"],
     "wording": ["Arts and Recreation",
     "Cartoons, Caricatures, Comics",
-    "Drawing; Drawings",
-    "Graphic arts and decorative arts ; design"]
+    "Drawing &  drawings",
+    "Drawing and decorative arts"]
   },
   "lcc": {
     "code": "PN6728 .H383"
@@ -25250,11 +25250,9 @@
   },
   "subject": [["Vegetarian cookery"]],
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "206268",
   "entrydate": "2016-01-31",
@@ -25324,11 +25322,9 @@
     "code": "TX837 .S322"
   },
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "15683509",
   "entrydate": "2016-02-12",
@@ -27199,11 +27195,9 @@
   },
   "subject": [["Vegan cookery"]],
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "3478974",
   "entrydate": "2016-11-16",
@@ -28181,7 +28175,8 @@
   "Guardian 1000",
   "IMBA's 100 Favorite Mysteries of the 20th Century",
   "Bloomsbury 100 Must-Read Crime Novels",
-  "The Top 100 Mystery Novels of All Time Mystery Writers of America"],
+  "The Top 100 Mystery Novels of All Time Mystery Writers of America",
+  "Audie Winner"],
   "genre": ["Fiction",
   "Mystery"],
   "genre_id": ["2",
@@ -30926,10 +30921,8 @@
   "lcc": {
     "code": "TX837 .M745"
   },
-  "genre": ["Food & Cooking",
-  "Health & Wellness"],
-  "genre_id": ["20444",
-  "683927"],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
   "source": "amazon.com books",
   "workcode": "7960518",
   "entrydate": "2017-12-04",
@@ -31290,11 +31283,9 @@
   "James Beard Foundation Award",
   "IACP Cookbook Award"],
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "833",
   "entrydate": "2018-04-18",
@@ -31419,8 +31410,8 @@
     "code": ["709.39"],
     "wording": ["Ancient World",
     "Arts and Recreation",
-    "Biography And History",
-    "General Art"]
+    "General Art",
+    "History, geographic treatment, biography"]
   },
   "lcc": {
     "code": "N5899 .S3"
@@ -31676,6 +31667,7 @@
     "22": ["epic poetry"],
     "23": ["fantasy"]
   },
+  "series": "Homer's Epic Cycle",
   "originaltitle": "\u1f48\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1",
   "awards": ["Schecks B\u00fccher",
   "Philip Ward's Lifetime Reading Plan",
@@ -32464,10 +32456,10 @@
   "ddc": {
     "code": ["709.03"],
     "wording": ["Arts and Recreation",
-    "Biography And History",
     "By Period",
     "Early Modern",
-    "General Art"]
+    "General Art",
+    "History, geographic treatment, biography"]
   },
   "lcc": {
     "code": "N6370 .P3"
@@ -34674,7 +34666,7 @@
   "ddc": {
     "code": ["746.7"],
     "wording": ["Arts and Recreation",
-    "Graphic arts and decorative arts ; design",
+    "Drawing and decorative arts",
     "Rug Weaving",
     "Textile arts"]
   },
@@ -34927,11 +34919,9 @@
     "code": "TX837 .P34"
   },
   "genre": ["Nonfiction",
-  "Food & Cooking",
-  "Health & Wellness"],
+  "Food & Cooking"],
   "genre_id": ["1247",
-  "20444",
-  "683927"],
+  "20444"],
   "source": "amazon.com books",
   "workcode": "15248421",
   "entrydate": "2019-01-15",
@@ -35394,8 +35384,7 @@
   "pages": "125 ",
   "fromwhere": "Powell's City of Books (Portland)",
   "circulation": [{
-    "start_date": "2019-05-06",
-    "end_date": "2019-05-20",
+    "start_date": "2019-05-05",
     "item_id": "166111605-1",
     "status": "Checked out"
   }]
@@ -35976,4 +35965,451 @@
   "weight": "0.45 pounds",
   "pages": "160 ",
   "fromwhere": "Dog Eared Books - Valencia"
+},
+"168750829": {
+  "books_id": "168750829",
+  "title": "The Death and Life of Great American Cities",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Jacobs, Jane",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jacobs, Jane",
+    "fl": "Jane Jacobs",
+    "role": "Author"
+  }],
+  "tags": ["urbanism",
+  "cities",
+  "architecture",
+  "urban planning"],
+  "tagidA": [36937,
+  6581,
+  3408,
+  43884],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "067974195X",
+  "isbn": {
+    "0": "067974195X",
+    "2": "9780679741954"
+  },
+  "asin": "067974195X",
+  "ean": ["067974195X"],
+  "publication": "Vintage (1992), Edition: Reissue, 458 pages",
+  "date": "1992",
+  "summary": "The Death and Life of Great American Cities by Jane Jacobs (1992)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["307.760973"],
+    "wording": ["Biography And History",
+    "By Type of Community",
+    "Communities",
+    "North America",
+    "Social Sciences",
+    "Social Sciences, Sociology, Anthropology",
+    "United States",
+    "Urban sociology"]
+  },
+  "lcc": {
+    "code": "HT167 .J33"
+  },
+  "subject": {
+    "0": ["City Planning",
+    "United States"],
+    "1": ["City planning",
+    "United States"],
+    "3": ["Urban policy",
+    "United States"],
+    "5": ["Urban renewal",
+    "United States"]
+  },
+  "originaltitle": "The Death and Life of Great American Cities",
+  "awards": ["National Book Award finalist",
+  "New York Public Library's Books of the Century",
+  "National Review's 100 Best Nonfiction Books of the Century",
+  "Hillman Prize",
+  "100 \u043a\u043d\u0438\u0433 non-fiction \u043e\u0442 The Prime Russian Magazine",
+  "200 \u043b\u0443\u0447\u0448\u0438\u0445 \u043d\u043e\u043d-\u0444\u0438\u043a\u0448\u043d \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"\u0410\u0444\u0438\u0448\u0430\"",
+  "ALA Notable Books for Adults",
+  "1000 Books to Read Before You Die",
+  "KIB - Non Fiction books everyone should read"],
+  "genre": ["Nonfiction",
+  "Art & Design"],
+  "genre_id": ["1247",
+  "9985304"],
+  "source": "amazon.com all media",
+  "workcode": "25885",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "480 p.; 5.17 inches",
+  "height": "5.17 inches",
+  "thickness": "8 inches",
+  "length": "1 inch",
+  "dimensions": "5.17 x 1 x 8 inches",
+  "weight": "0.85 pounds",
+  "pages": "480 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168750845": {
+  "books_id": "168750845",
+  "title": "Tea and Teatime Recipes: Storey&#039;s Country Wisdom Bulletin A-174 (Storey Country Wisdom Bulletin, A-174)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Stuckey, Maggie",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Stuckey, Maggie",
+    "fl": "Maggie Stuckey",
+    "role": "Author"
+  }],
+  "tags": ["tea party",
+  "tea",
+  "cookbook"],
+  "tagidA": [40630,
+  630957,
+  45155],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0882667203",
+  "isbn": {
+    "0": "0882667203",
+    "2": "9780882667201"
+  },
+  "asin": "0882667203",
+  "ean": ["0882667203"],
+  "publication": "Storey Publishing, LLC (1997), 32 pages",
+  "date": "1997",
+  "summary": "Tea and Teatime Recipes: Storey&#039;s Country Wisdom Bulletin A-174 (Storey Country Wisdom Bulletin, A-174) by Maggie Stuckey (1997)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.6372"],
+    "wording": ["Beans, Grains, Spices, Herbs, Chocolate",
+    "Chocolate, Teas",
+    "Cooking Specific Foods ",
+    "Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX817 .T3"
+  },
+  "series": "Storey Country Wisdom Bulletins",
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "5133693",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "32 p.; 5.5 inches",
+  "height": "5.5 inches",
+  "thickness": "8.5 inches",
+  "length": "0.13 inches",
+  "dimensions": "5.5 x 0.13 x 8.5 inches",
+  "weight": "0.3 pounds",
+  "pages": "32 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168750931": {
+  "books_id": "168750931",
+  "title": "Book of Afternoon Tea",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Hanbury Tenison, Marika",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Hanbury Tenison, Marika",
+    "fl": "Marika Hanbury Tenison",
+    "role": "Author"
+  }],
+  "tags": ["tea party",
+  "tea",
+  "cookbook"],
+  "tagidA": [40630,
+  630957,
+  45155],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0715379291",
+  "isbn": {
+    "0": "0715379291",
+    "2": "9780715379295"
+  },
+  "asin": "0715379291",
+  "ean": ["0715379291"],
+  "publication": "David & Charles (1980), 96 pages",
+  "date": "1980",
+  "summary": "Book of Afternoon Tea by Marika Hanbury Tenison (1980)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.53"],
+    "wording": ["Cooking",
+    "Food And Drink",
+    "Home Economics",
+    "Light Meals, Snacks",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX736"
+  },
+  "subject": [["Afternoon teas"],
+  ["Afternoon teas Recipes"]],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com all media",
+  "workcode": "1105743",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "96 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "0.5 inches",
+  "length": "5.5 inches",
+  "dimensions": "8.5 x 5.5 x 0.5 inches",
+  "weight": "0.65 pounds",
+  "pages": "96 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168751107": {
+  "books_id": "168751107",
+  "title": "Tea-Time at the Inn: A Country Inn Cookbook",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Greco, Gail",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Greco, Gail",
+    "fl": "Gail Greco",
+    "role": "Author"
+  }],
+  "tags": ["tea party",
+  "tea",
+  "cookbook"],
+  "tagidA": [40630,
+  630957,
+  45155],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1558538488",
+  "isbn": {
+    "0": "1558538488",
+    "2": "9781558538481"
+  },
+  "asin": "1558538488",
+  "ean": ["1558538488"],
+  "upc": ["031869008487"],
+  "publication": "Rutledge Hill Pr (2001), Edition: 4th Printing, 224 pages",
+  "date": "2001",
+  "summary": "Tea-Time at the Inn: A Country Inn Cookbook by Gail Greco (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641"],
+    "wording": ["Food And Drink",
+    "Home Economics",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TX736 .G74"
+  },
+  "subject": [["Afternoon teas"]],
+  "genre": ["Nonfiction",
+  "Food & Cooking"],
+  "genre_id": ["1247",
+  "20444"],
+  "source": "amazon.com",
+  "workcode": "147441",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "224 p.; 7.25 inches",
+  "height": "7.25 inches",
+  "thickness": "8.75 inches",
+  "length": "0.75 inches",
+  "dimensions": "7.25 x 0.75 x 8.75 inches",
+  "weight": "1.35 pounds",
+  "pages": "224 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168751154": {
+  "books_id": "168751154",
+  "title": "AFTERNOON TEA AT PITTOCK MANSION - RECIPES AND REMINISCENCES",
+  "sortcharacter": "1",
+  "public": "1",
+  "authors": [[]],
+  "tags": ["tea party",
+  "tea",
+  "cookbook"],
+  "tagidA": [40630,
+  630957,
+  45155],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1892347024",
+  "isbn": {
+    "0": "1892347024",
+    "2": "9781892347022"
+  },
+  "asin": "1892347024",
+  "ean": ["1892347024"],
+  "publication": "THE PITTOCK MANSION SOCIETY (2003), 128 pages",
+  "date": "2003",
+  "summary": "AFTERNOON TEA AT PITTOCK MANSION - RECIPES AND REMINISCENCES (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "15159124",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "128 p.; 7.9 inches",
+  "height": "7.9 inches",
+  "thickness": "0.5 inches",
+  "length": "6 inches",
+  "dimensions": "7.9 x 6 x 0.5 inches",
+  "weight": "0.5 pounds",
+  "pages": "128 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168755094": {
+  "books_id": "168755094",
+  "title": "The Raven Tower",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Leckie, Ann",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Leckie, Ann",
+    "fl": "Ann Leckie",
+    "role": "Author"
+  }],
+  "tags": ["shakespeare",
+  "trans"],
+  "tagidA": [631243,
+  22944],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0316388696",
+  "isbn": {
+    "0": "0316388696",
+    "2": "9780316388696"
+  },
+  "asin": "0316388696",
+  "ean": ["0316388696"],
+  "publication": "Orbit (2019), 432 pages",
+  "date": "2019",
+  "summary": "The Raven Tower by Ann Leckie (2019)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "originaltitle": "The Raven Tower",
+  "genre": ["Fantasy"],
+  "genre_id": ["5280"],
+  "source": "amazon.com all media",
+  "workcode": "21707141",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "6.5 inches",
+  "height": "6.5 inches",
+  "thickness": "9.5 inches",
+  "length": "1.5 inches",
+  "dimensions": "6.5 x 1.5 x 9.5 inches",
+  "weight": "1.45 pounds",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"168755114": {
+  "books_id": "168755114",
+  "title": "Traditional Magic Spells for Protection and Healing",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Lecouteux, Claude",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Lecouteux, Claude",
+    "fl": "Claude Lecouteux",
+    "role": "Author"
+  }],
+  "tags": ["magic",
+  "occult",
+  "spells"],
+  "tagidA": [4,
+  3142,
+  630561],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1620556219",
+  "isbn": {
+    "0": "1620556219",
+    "2": "9781620556214"
+  },
+  "asin": "1620556219",
+  "ean": ["1620556219"],
+  "publication": "Inner Traditions (2017), Edition: Translation, 336 pages",
+  "date": "2017",
+  "summary": "Traditional Magic Spells for Protection and Healing by Claude Lecouteux (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "genre": ["Religion & Spirituality"],
+  "genre_id": ["1944"],
+  "source": "amazon.com books",
+  "workcode": "20652164",
+  "entrydate": "2019-05-15",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "336 p.; 6 inches",
+  "height": "6 inches",
+  "thickness": "9 inches",
+  "length": "1 inch",
+  "dimensions": "6 x 1 x 9 inches",
+  "weight": "1.54 pounds",
+  "pages": "336 ",
+  "fromwhere": "Amazon.com"
 }}
