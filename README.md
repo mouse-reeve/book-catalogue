@@ -18,8 +18,8 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 474
 
 ### Sum weight of books (incomplete):
-427.39 pounds
+427.24 pounds
 
 ### Total pages:
-122,799
+122,471
 

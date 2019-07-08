@@ -895,7 +895,7 @@
     "code": ["500"],
     "wording": ["General Science",
     "General Science",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "Q171 .F385"
@@ -3342,7 +3342,7 @@
     "wording": ["Education And Research",
     "General Mathematics",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA11 .P6"
@@ -5957,11 +5957,11 @@
   "xxx"],
   "ddc": {
     "code": ["598.147"],
-    "wording": ["Birds ; Aves",
+    "wording": ["Animals",
+    "Birds ; Aves",
     "Crocodilia: Crocodiles",
-    "Mathematics and Science",
-    "Reptiles",
-    "Zoology"]
+    "Natural sciences and mathematics",
+    "Reptiles"]
   },
   "lcc": {
     "code": "QL697.4 .H36"
@@ -7293,7 +7293,7 @@
   "xxx"],
   "ddc": {
     "code": ["652"],
-    "wording": ["Business",
+    "wording": ["Management and auxiliary services",
     "Technology",
     "Writing: Materials, Typewriters"]
   },
@@ -8063,7 +8063,7 @@
     "code": ["510.1"],
     "wording": ["General Mathematics",
     "Mathematics",
-    "Mathematics and Science",
+    "Natural sciences and mathematics",
     "Philosophy And Psychology"]
   },
   "lcc": {
@@ -9556,10 +9556,10 @@
   "xxx"],
   "ddc": {
     "code": ["598.2924"],
-    "wording": ["Birds ; Aves",
+    "wording": ["Animals",
+    "Birds ; Aves",
     "Birds: Aves",
-    "Mathematics and Science",
-    "Zoology"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QL673 .H29"
@@ -10624,7 +10624,12 @@
   "dimensions": "8 x 5.2 x 1.2  inches",
   "weight": "1 pounds",
   "pages": "656 ",
-  "fromwhere": "Pegasus Books"
+  "fromwhere": "Pegasus Books",
+  "circulation": [{
+    "start_date": "2019-06-30",
+    "item_id": "111130401-1",
+    "status": "Checked out"
+  }]
 },
 "111130403": {
   "books_id": "111130403",
@@ -14988,7 +14993,7 @@
     "Biography And History",
     "General Mathematics",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA29 .C353"
@@ -15333,7 +15338,7 @@
     "wording": ["General Principles",
     "Mathematical (Symbolic) logic",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "BC135 .C336"
@@ -15397,7 +15402,7 @@
     "code": ["540.1"],
     "wording": ["Chemistry",
     "Chemistry",
-    "Mathematics and Science",
+    "Natural sciences and mathematics",
     "Theory And Instruction"]
   },
   "lcc": {
@@ -16442,7 +16447,7 @@
     "wording": ["Applied Mathematics, Probabilities",
     "Applied numerical analysis",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA297 .I8"
@@ -18023,8 +18028,8 @@
   "ddc": {
     "code": ["709"],
     "wording": ["Arts and Recreation",
-    "General Art",
-    "History, geographic treatment, biography"]
+    "Historical, geographic, persons treatment of fine and decorative arts",
+    "The Arts / Fine and decorative arts"]
   },
   "lcc": {
     "code": "NE1325 .A5"
@@ -18095,8 +18100,8 @@
   "xxx"],
   "ddc": {
     "code": ["652.809"],
-    "wording": ["Business",
-    "Cryptography",
+    "wording": ["Cryptography",
+    "Management and auxiliary services",
     "Technology",
     "Writing: Materials, Typewriters"]
   },
@@ -18861,8 +18866,8 @@
     "code": ["709.2"],
     "wording": ["Arts and Recreation",
     "Biography",
-    "General Art",
-    "History, geographic treatment, biography"]
+    "Historical, geographic, persons treatment of fine and decorative arts",
+    "The Arts / Fine and decorative arts"]
   },
   "lcc": [],
   "genre": ["Art & Design"],
@@ -20252,7 +20257,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["811.54"],
-    "wording": ["1950-1999",
+    "wording": ["1945-1999",
     "20th Century",
     "American And Canadian",
     "Literature",
@@ -20917,7 +20922,7 @@
     "wording": ["Applied Mathematics, Probabilities",
     "Game Theory",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA272 .N34"
@@ -23093,7 +23098,7 @@
   "ddc": {
     "code": ["537"],
     "wording": ["Electricity",
-    "Mathematics and Science",
+    "Natural sciences and mathematics",
     "Physics"]
   },
   "lcc": {
@@ -23171,9 +23176,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["578.8"],
-    "wording": ["Life Sciences",
-    "Mathematics and Science",
-    "Natural history of organisms and related subjects"]
+    "wording": ["Life Sciences, Biology",
+    "Natural history of organisms and related subjects",
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QH367 .D589"
@@ -24066,7 +24071,7 @@
     "Cooking, Specialized Situations ",
     "Food And Drink",
     "Healthy Cooking",
-    "Home Economics",
+    "Home and family management",
     "Technology",
     "Vegetarian cooking"]
   },
@@ -24914,7 +24919,7 @@
   "ddc": {
     "code": ["581"],
     "wording": ["Botany",
-    "Mathematics and Science",
+    "Natural sciences and mathematics",
     "Physiologic and Structural "]
   },
   "lcc": {
@@ -24990,9 +24995,9 @@
   "ddc": {
     "code": ["526.8"],
     "wording": ["Astronomy",
-    "Geodesy",
     "Map projections (See 515.5 spheric projections)",
-    "Mathematics and Science"]
+    "Mathematical geography",
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "GA105 .M64"
@@ -25248,7 +25253,7 @@
     "Cooking, Specialized Situations ",
     "Food And Drink",
     "Healthy Cooking",
-    "Home Economics",
+    "Home and family management",
     "Technology",
     "Vegetarian cooking"]
   },
@@ -25322,7 +25327,7 @@
     "code": ["641.5"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -25668,7 +25673,12 @@
   "dimensions": "5.5 x 1.25 x 8.25 inches",
   "weight": "0.8 pounds",
   "pages": "416 ",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2019-06-30",
+    "item_id": "132464736-1",
+    "status": "Checked out"
+  }]
 },
 "133353953": {
   "books_id": "133353953",
@@ -27193,7 +27203,7 @@
     "Cooking, Specialized Situations ",
     "Food And Drink",
     "Healthy Cooking",
-    "Home Economics",
+    "Home and family management",
     "Technology",
     "Vegetarian cooking"]
   },
@@ -27410,7 +27420,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["811.54"],
-    "wording": ["1950-1999",
+    "wording": ["1945-1999",
     "20th Century",
     "American And Canadian",
     "Literature",
@@ -28828,7 +28838,7 @@
     "Breads",
     "Cooking Specific Dishes",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -29373,7 +29383,7 @@
     "Field and plantation crops",
     "Food",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -29704,7 +29714,7 @@
   "ddc": {
     "code": ["811/.54",
     "811.54"],
-    "wording": ["1950-1999",
+    "wording": ["1945-1999",
     "20th Century",
     "American And Canadian",
     "Literature",
@@ -30856,7 +30866,7 @@
     "code": ["641.6"],
     "wording": ["Cooking Specific Foods ",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -30921,7 +30931,7 @@
     "Cooking, Specialized Situations ",
     "Food And Drink",
     "Healthy Cooking",
-    "Home Economics",
+    "Home and family management",
     "Technology",
     "Vegetarian cooking"]
   },
@@ -31146,7 +31156,7 @@
     "wording": ["General Principles",
     "Graph Theory",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA166 .T74"
@@ -31214,7 +31224,7 @@
     "Cooking",
     "Cooking, Specialized Equipment",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": [],
@@ -31274,7 +31284,7 @@
     "code": ["641.5"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -31356,7 +31366,7 @@
     "Breads",
     "Cooking Specific Dishes",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -31417,8 +31427,8 @@
     "code": ["709.39"],
     "wording": ["Ancient World",
     "Arts and Recreation",
-    "General Art",
-    "History, geographic treatment, biography"]
+    "Historical, geographic, persons treatment of fine and decorative arts",
+    "The Arts / Fine and decorative arts"]
   },
   "lcc": {
     "code": "N5899 .S3"
@@ -31482,7 +31492,7 @@
     "code": ["511"],
     "wording": ["General Principles",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA31 .E875"
@@ -31550,7 +31560,7 @@
     "code": ["511"],
     "wording": ["General Principles",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA31 .E875"
@@ -31789,7 +31799,7 @@
   "ddc": {
     "code": ["514"],
     "wording": ["Mathematics",
-    "Mathematics and Science",
+    "Natural sciences and mathematics",
     "Trigonometry; topology "]
   },
   "lcc": {
@@ -31931,9 +31941,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["598"],
-    "wording": ["Birds ; Aves",
-    "Mathematics and Science",
-    "Zoology"]
+    "wording": ["Animals",
+    "Birds ; Aves",
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QL684 .C2"
@@ -32079,9 +32089,9 @@
   "ddc": {
     "code": ["570.222"],
     "wording": ["Life Sciences",
-    "Life Sciences",
-    "Mathematics and Science",
-    "Miscellany"]
+    "Life Sciences, Biology",
+    "Miscellany",
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QH46"
@@ -32466,8 +32476,8 @@
     "wording": ["Arts and Recreation",
     "By Period",
     "Early Modern",
-    "General Art",
-    "History, geographic treatment, biography"]
+    "Historical, geographic, persons treatment of fine and decorative arts",
+    "The Arts / Fine and decorative arts"]
   },
   "lcc": {
     "code": "N6370 .P3"
@@ -32698,7 +32708,7 @@
     "Europe",
     "Food And Drink",
     "Germany, Austria, Poland, Hungary",
-    "Home Economics",
+    "Home and family management",
     "Hungary",
     "International Cooking",
     "Technology"]
@@ -33376,7 +33386,7 @@
     "code": ["511"],
     "wording": ["General Principles",
     "Mathematics",
-    "Mathematics and Science"]
+    "Natural sciences and mathematics"]
   },
   "lcc": {
     "code": "QA31 .E875"
@@ -33449,10 +33459,10 @@
     "General principles and musical forms",
     "Music",
     "Pop [Western]",
-    "Popular Forms",
+    "Secular Forms",
     "Songs",
     "Traditions of music",
-    "Vocal"]
+    "Vocal music"]
   },
   "lcc": {
     "code": "ML420 .D565"
@@ -33860,7 +33870,7 @@
     "code": ["641.53"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Light Meals, Snacks",
     "Technology"]
   },
@@ -33929,7 +33939,7 @@
   "ddc": {
     "code": ["641"],
     "wording": ["Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -33997,7 +34007,7 @@
     "code": ["641.53"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Light Meals, Snacks",
     "Technology"]
   },
@@ -34066,7 +34076,7 @@
     "code": ["641.53"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Light Meals, Snacks",
     "Technology"]
   },
@@ -34127,7 +34137,7 @@
     "code": ["641.53"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Light Meals, Snacks",
     "Technology"]
   },
@@ -34541,7 +34551,7 @@
     "Cooking Specific Foods ",
     "Food And Drink",
     "Grains, Rice",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -34920,7 +34930,7 @@
     "Cooking, Specialized Situations ",
     "Food And Drink",
     "Healthy Cooking",
-    "Home Economics",
+    "Home and family management",
     "Technology",
     "Vegetarian cooking"]
   },
@@ -35301,7 +35311,7 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["811.54"],
-    "wording": ["1950-1999",
+    "wording": ["1945-1999",
     "20th Century",
     "American And Canadian",
     "Literature",
@@ -36111,7 +36121,7 @@
     "Chocolate, Teas",
     "Cooking Specific Foods ",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -36176,7 +36186,7 @@
     "code": ["641.53"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Light Meals, Snacks",
     "Technology"]
   },
@@ -36243,7 +36253,7 @@
   "ddc": {
     "code": ["641"],
     "wording": ["Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -36335,9 +36345,11 @@
     "role": "Author"
   }],
   "tags": ["shakespeare",
-  "trans"],
+  "trans",
+  "transmasc"],
   "tagidA": [631243,
-  22944],
+  22944,
+  15483046],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0316388696",
@@ -36470,7 +36482,7 @@
     "code": ["641.5"],
     "wording": ["Cooking",
     "Food And Drink",
-    "Home Economics",
+    "Home and family management",
     "Technology"]
   },
   "lcc": {
@@ -36787,117 +36799,6 @@
   "pages": "320 ",
   "fromwhere": "Powell's City of Books (Portland)"
 },
-"170158433": {
-  "books_id": "170158433",
-  "title": "The Dispossessed (Hainish Cycle)",
-  "sortcharacter": "5",
-  "public": "1",
-  "primaryauthor": "Guin, Ursula K. Le",
-  "primaryauthorrole": "Author",
-  "authors": [{
-    "lf": "Guin, Ursula K. Le",
-    "fl": "Ursula K. Le Guin",
-    "role": "Author"
-  }],
-  "tags": ["anarchism",
-  "space travel"],
-  "tagidA": [18469,
-  631000],
-  "collections_idA": [1],
-  "collections": ["Your library"],
-  "originalisbn": "0061054887",
-  "isbn": {
-    "0": "0061054887",
-    "2": "9780061054884"
-  },
-  "asin": "0061054887",
-  "ean": ["0061054887"],
-  "publication": "Harper Voyager (1994), Edition: Reprint, 400 pages",
-  "date": "1994",
-  "summary": "The Dispossessed (Hainish Cycle) by Ursula K. Le Guin (1994)",
-  "language": ["English"],
-  "language_codeA": ["eng"],
-  "originallanguage": ["English"],
-  "originallanguage_codeA": ["eng"],
-  "ddc": {
-    "code": ["813.54"],
-    "wording": ["1945-1999",
-    "20th Century",
-    "American And Canadian",
-    "Fiction",
-    "Literature"]
-  },
-  "lcc": {
-    "code": "PS3562 .E42"
-  },
-  "subject": {
-    "0": ["Anarchism",
-    "Fiction"],
-    "2": ["Communal living",
-    "Fiction"],
-    "4": ["Fiction in English"],
-    "5": ["Life on other planets",
-    "Fiction"],
-    "7": ["Physicists",
-    "Fiction"],
-    "9": ["Science Fiction"],
-    "11": ["Science fiction"],
-    "13": ["Sex role",
-    "Fiction"],
-    "14": ["Utopian fiction"],
-    "16": ["Utopias",
-    "Fiction"],
-    "18": ["fiction in English"],
-    "19": ["science fiction"]
-  },
-  "series": "Hainish Cycle",
-  "originaltitle": "The Dispossessed: An Ambiguous Utopia",
-  "awards": ["Hugo",
-  "Nebula",
-  "Locus",
-  "Gaylactic Spectrum Nominee",
-  "John W. Campbell Memorial Award Finalist",
-  "ALA Best Books for Young Adults",
-  "1001 Books You Must Read Before You Die",
-  "Locus 1987 Poll, All-Time Best SF Novel",
-  "Locus 1975 Poll, All-Time Best Novel",
-  "thisrecording.com 100 Greatest Science Fiction or Fantasy Novels of All Time",
-  "Locus 1998 Poll, All-Time Best SF Novel Before 1990",
-  "David Pringle's Best 100 Science Fiction Novels",
-  "Jupiter Award",
-  "Classics of Science Fiction",
-  "ISFDB Top 100 Books - Critical List",
-  "ISFDB Top 100 Books - Popular List",
-  "Bloomsbury's 100 Must-Read Science Fiction Novels",
-  "Prometheus Award Shortlist",
-  "Prometheus Award Shortlist",
-  "Prometheus Award Shortlist",
-  "Prometheus Hall of Fame Award",
-  "Read This Next: 500 of the Best Books You'll Ever Read"],
-  "genre": ["Fiction",
-  "Science Fiction",
-  "Fantasy"],
-  "genre_id": ["2",
-  "281",
-  "5280"],
-  "source": "amazon.com books",
-  "workcode": "21142",
-  "entrydate": "2019-06-23",
-  "format": [{
-    "code": "1.1.1",
-    "text": "Paperback"
-  }],
-  "copies": "1",
-  "volumes": "1",
-  "physical_description": "400 p.; 4.19 inches",
-  "height": "4.19 inches",
-  "thickness": "6.75 inches",
-  "length": "1 inch",
-  "dimensions": "4.19 x 1 x 6.75 inches",
-  "weight": "0.4 pounds",
-  "pages": "400 ",
-  "fromwhere": "Dog Eared Books - Valencia"
-},
 "170158436": {
   "books_id": "170158436",
   "title": "Original Plumbing: The Best of Ten Years of Trans Male Culture",
@@ -36912,10 +36813,12 @@
   }],
   "tags": ["trans",
   "magazine",
-  "queer"],
+  "queer",
+  "transmasc"],
   "tagidA": [22944,
   26924,
-  20301],
+  20301,
+  15483046],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1936932598",
@@ -36950,4 +36853,54 @@
   "weight": "1.4 pounds",
   "pages": "400 ",
   "fromwhere": "Dog Eared Books - Valencia"
+},
+"170407493": {
+  "books_id": "170407493",
+  "title": "Encomials: Sonnets from Pentametron (Using Electricity)",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Bhatnagar, Ranjit",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Bhatnagar, Ranjit",
+    "fl": "Ranjit Bhatnagar",
+    "role": "Author"
+  }],
+  "tags": ["poetry",
+  "generative"],
+  "tagidA": [10010,
+  233525],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1933996668",
+  "isbn": {
+    "0": "1933996668",
+    "2": "9781933996660"
+  },
+  "asin": "1933996668",
+  "ean": ["1933996668"],
+  "publication": "Counterpath Press (2018), 72 pages",
+  "date": "2018",
+  "summary": "Encomials: Sonnets from Pentametron (Using Electricity) by Ranjit Bhatnagar (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "22752498",
+  "entrydate": "2019-07-01",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "72 p.; 5.75 inches",
+  "height": "5.75 inches",
+  "thickness": "8 inches",
+  "length": "0.25 inches",
+  "dimensions": "5.75 x 0.25 x 8 inches",
+  "weight": "0.25 pounds",
+  "pages": "72 "
 }}
