@@ -15,11 +15,11 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
       20
 
 ### Books owned:
-474
+477
 
 ### Sum weight of books (incomplete):
-427.24 pounds
+430.73 pounds
 
 ### Total pages:
-122,471
+123,447
 

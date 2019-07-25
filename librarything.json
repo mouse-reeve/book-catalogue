@@ -520,7 +520,7 @@
   "xxx"],
   "ddc": {
     "code": ["955.0542092"],
-    "wording": ["Biography and History",
+    "wording": ["History & Geography",
     "History of Asia, Orient, Far East",
     "Iran"]
   },
@@ -1896,8 +1896,8 @@
     "code": ["915.3"],
     "wording": ["Arabian Peninsula",
     "Asia",
-    "Biography and History",
-    "Geography, Voyages And Travel"]
+    "Geography and Travel",
+    "History & Geography"]
   },
   "lcc": {
     "code": "DT72 .B4"
@@ -1984,7 +1984,7 @@
   "ddc": {
     "code": ["950.072"],
     "wording": ["Asia",
-    "Biography and History",
+    "History & Geography",
     "History of Asia, Orient, Far East"]
   },
   "lcc": {
@@ -2861,8 +2861,8 @@
   "ddc": {
     "code": ["962.9004965"],
     "wording": ["Africa",
-    "Biography and History",
     "Egypt; Sudan; South Sudan",
+    "History & Geography",
     "South Sudan"]
   },
   "lcc": {
@@ -2926,7 +2926,7 @@
   "xxx"],
   "ddc": {
     "code": ["952"],
-    "wording": ["Biography and History",
+    "wording": ["History & Geography",
     "History of Asia, Orient, Far East",
     "Japan"]
   },
@@ -3006,8 +3006,8 @@
   "xxx"],
   "ddc": {
     "code": ["981.00498"],
-    "wording": ["Biography and History",
-    "Brazil",
+    "wording": ["Brazil",
+    "History & Geography",
     "South America"]
   },
   "lcc": {
@@ -4155,7 +4155,12 @@
   "length": "5.04 inches",
   "dimensions": "7.64 x 5.04 x 0.94  inches",
   "weight": "0.75 pounds",
-  "fromwhere": "Amazon.com"
+  "fromwhere": "Amazon.com",
+  "circulation": [{
+    "start_date": "2019-07-24",
+    "item_id": "105446670-1",
+    "status": "Checked out"
+  }]
 },
 "105446671": {
   "books_id": "105446671",
@@ -4371,7 +4376,7 @@
   "The Great American Read",
   "Schecks B\u00fccher",
   "1000 Books to Read Before You Die",
-  "Kate Greenaway Medal Shortlist (2017) [Illus: Jim Kay]"],
+  "Kate Greenaway Medal Shortlist"],
   "genre": ["Young Adult",
   "Fantasy"],
   "genre_id": ["1879",
@@ -5021,9 +5026,9 @@
   "xxx"],
   "ddc": {
     "code": ["944"],
-    "wording": ["Biography and History",
-    "Europe",
-    "France And Monaco"]
+    "wording": ["Europe",
+    "France And Monaco",
+    "History & Geography"]
   },
   "lcc": {
     "code": "DC20.5 .R63"
@@ -6816,9 +6821,9 @@
   "ddc": {
     "code": ["912.7946"],
     "wording": ["Atlases of North America",
-    "Biography and History",
     "California",
-    "Geography, Voyages And Travel",
+    "Geography and Travel",
+    "History & Geography",
     "Maps and Atlases",
     "West Coast U.S."]
   },
@@ -7575,9 +7580,9 @@
   "xxx"],
   "ddc": {
     "code": ["910.45"],
-    "wording": ["Biography and History",
-    "Geography and Travels ",
-    "Geography, Voyages And Travel",
+    "wording": ["Geography and Travel",
+    "Geography and Travel",
+    "History & Geography",
     "Ocean voyages, pirates",
     "Special Topics"]
   },
@@ -7857,9 +7862,9 @@
   "xxx"],
   "ddc": {
     "code": ["910"],
-    "wording": ["Biography and History",
-    "Geography and Travels ",
-    "Geography, Voyages And Travel"]
+    "wording": ["Geography and Travel",
+    "Geography and Travel",
+    "History & Geography"]
   },
   "lcc": {
     "code": "G765 .T5"
@@ -10029,6 +10034,7 @@
     "code": "PN6727 .E448"
   },
   "series": "Transmetropolitan TPB",
+  "originaltitle": "Transmetropolitan, Vol. 1: Back on the Street [New Edition, 2009]",
   "awards": ["1001 Comics You Must Read Before You Die"],
   "genre": ["Science Fiction",
   "Graphic Novels"],
@@ -12744,8 +12750,8 @@
   "xxx"],
   "ddc": {
     "code": ["900"],
-    "wording": ["Biography and History",
-    "History",
+    "wording": ["History",
+    "History & Geography",
     "History and Geography"]
   },
   "lcc": {
@@ -14542,10 +14548,8 @@
     "code": "PN6727 .M53"
   },
   "series": "Hellboy graphic novels",
-  "genre": ["Graphic Novels",
-  "Fantasy"],
-  "genre_id": ["4778",
-  "5280"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "3349925",
   "entrydate": "2014-07-27",
@@ -15266,9 +15270,9 @@
   "xxx"],
   "ddc": {
     "code": ["914.031"],
-    "wording": ["Biography and History",
-    "Europe",
-    "Geography, Voyages And Travel"]
+    "wording": ["Europe",
+    "Geography and Travel",
+    "History & Geography"]
   },
   "lcc": {
     "code": "BF1569 .R88"
@@ -15486,8 +15490,10 @@
     "7": ["totemism"]
   },
   "originaltitle": "La Pens\u00e9e sauvage",
-  "genre": ["Nonfiction"],
-  "genre_id": ["1247"],
+  "genre": ["Nonfiction",
+  "History"],
+  "genre_id": ["1247",
+  "1599"],
   "source": "amazon.com",
   "workcode": "98252",
   "entrydate": "2014-07-27",
@@ -18456,13 +18462,15 @@
   "butch",
   "REFERENCES:1555838537",
   "trans",
-  "theory"],
+  "theory",
+  "transmasc"],
   "tagidA": [6880,
   20301,
   131851,
   12648866,
   22944,
-  631241],
+  631241,
+  15483046],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0822322439",
@@ -18865,8 +18873,8 @@
   "ddc": {
     "code": ["709.2"],
     "wording": ["Arts and Recreation",
-    "Biography",
     "Historical, geographic, persons treatment of fine and decorative arts",
+    "Persons (artists not limited to a specific form)",
     "The Arts / Fine and decorative arts"]
   },
   "lcc": [],
@@ -18919,7 +18927,7 @@
     "code": ["930"],
     "wording": ["Ancient History",
     "Ancient World",
-    "Biography and History"]
+    "History & Geography"]
   },
   "lcc": {
     "code": "D58 .H4713"
@@ -19119,8 +19127,8 @@
     "code": ["920.042"],
     "wording": ["Biography",
     "Biography",
-    "Biography and History",
     "General and collective by localities",
+    "History & Geography",
     "Of Europe"]
   },
   "lcc": {
@@ -19355,10 +19363,8 @@
   },
   "series": "Hellboy graphic novels",
   "originaltitle": "Hellboy, Vol. 12: The Storm and the Fury",
-  "genre": ["Graphic Novels",
-  "Fantasy"],
-  "genre_id": ["4778",
-  "5280"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com",
   "workcode": "12201599",
   "entrydate": "2014-11-30",
@@ -22639,6 +22645,7 @@
   "summary": "Sappho by Sappho (1986)",
   "language": ["English"],
   "language_codeA": ["eng"],
+  "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["884.2"],
@@ -23932,8 +23939,8 @@
   "ddc": {
     "code": ["938.2421"],
     "wording": ["Ancient World",
-    "Biography and History",
     "Greece to 323",
+    "History & Geography",
     "Thessaly; Epirus"]
   },
   "lcc": {
@@ -24481,10 +24488,8 @@
   },
   "series": "Hellboy graphic novels",
   "originaltitle": "Hellboy: The Bride of Hell and Others",
-  "genre": ["Graphic Novels",
-  "Fantasy"],
-  "genre_id": ["4778",
-  "5280"],
+  "genre": ["Graphic Novels"],
+  "genre_id": ["4778"],
   "source": "amazon.com books",
   "workcode": "11435379",
   "entrydate": "2015-11-30",
@@ -25571,10 +25576,10 @@
     "wording": ["Berlin",
     "Berlin and Brandenburg",
     "Berlin and NE Germany",
-    "Biography and History",
     "Central Europe And Germany",
     "Europe",
-    "Geography, Voyages And Travel"]
+    "Geography and Travel",
+    "History & Geography"]
   },
   "lcc": {
     "code": "DA995"
@@ -29533,9 +29538,11 @@
   "Andrew Carnegie Medals for Excellence in Nonfiction Longlist",
   "ALA Notable Books for Adults"],
   "genre": ["Nonfiction",
-  "History"],
+  "History",
+  "Art & Design"],
   "genre_id": ["1247",
-  "1599"],
+  "1599",
+  "9985304"],
   "source": "amazon.com books",
   "workcode": "10414347",
   "entrydate": "2017-10-06",
@@ -29590,11 +29597,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["914.4361"],
-    "wording": ["Biography and History",
-    "Champagne; Ile de France; Lorraine",
+    "wording": ["Champagne; Ile de France; Lorraine",
     "Europe",
     "France",
-    "Geography, Voyages And Travel",
+    "Geography and Travel",
+    "History & Geography",
     "Paris",
     "\u00cele-de-France"]
   },
@@ -32320,9 +32327,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["910"],
-    "wording": ["Biography and History",
-    "Geography and Travels ",
-    "Geography, Voyages And Travel"]
+    "wording": ["Geography and Travel",
+    "Geography and Travel",
+    "History & Geography"]
   },
   "lcc": {
     "code": "NX650 .L34"
@@ -32558,9 +32565,9 @@
   "ddc": {
     "code": ["910.914"],
     "wording": ["Biography And History",
-    "Biography and History",
-    "Geography and Travels ",
-    "Geography, Voyages And Travel",
+    "Geography and Travel",
+    "Geography and Travel",
+    "History & Geography",
     "Land, Landforms",
     "Other Geographic Classifications"]
   },
@@ -32626,10 +32633,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["711.40973"],
-    "wording": ["Arts and Recreation",
-    "City Planning [by current use]",
-    "City planning",
-    "Civic and landscape art"]
+    "wording": ["Area planning (Civic art)",
+    "Arts and Recreation",
+    "Civic and landscape art",
+    "History, geographic treatment, biography",
+    "Local community planning (City planning)"]
   },
   "lcc": {
     "code": "NA9108 .L9"
@@ -32705,12 +32713,12 @@
   "ddc": {
     "code": ["641.594391"],
     "wording": ["Cooking",
+    "Cooking characteristic of specific geographic environments, ethnic cooking",
     "Europe",
     "Food And Drink",
     "Germany, Austria, Poland, Hungary",
     "Home and family management",
     "Hungary",
-    "International Cooking",
     "Technology"]
   },
   "lcc": {
@@ -33846,10 +33854,10 @@
   }],
   "tags": ["cookbook",
   "tea",
-  "tea party"],
+  "afternoon tea"],
   "tagidA": [45155,
   630957,
-  40630],
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0877016224",
@@ -33916,12 +33924,12 @@
   }],
   "tags": ["cookbook",
   "tea",
-  "tea party",
-  "music"],
+  "music",
+  "afternoon tea"],
   "tagidA": [45155,
   630957,
-  40630,
-  15028],
+  15028,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "9781883914189",
@@ -33990,10 +33998,10 @@
   }],
   "tags": ["cookbook",
   "tea",
-  "tea party"],
+  "afternoon tea"],
   "tagidA": [45155,
   630957,
-  40630],
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "asin": "B0007DZSJ8",
@@ -34052,10 +34060,10 @@
   }],
   "tags": ["cookbook",
   "tea",
-  "tea party"],
+  "afternoon tea"],
   "tagidA": [45155,
   630957,
-  40630],
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0897211820",
@@ -34115,10 +34123,10 @@
   }],
   "tags": ["cookbook",
   "tea",
-  "tea party"],
+  "afternoon tea"],
   "tagidA": [45155,
   630957,
-  40630],
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "9780877958239",
@@ -36093,12 +36101,12 @@
     "fl": "Maggie Stuckey",
     "role": "Author"
   }],
-  "tags": ["tea party",
-  "tea",
-  "cookbook"],
-  "tagidA": [40630,
-  630957,
-  45155],
+  "tags": ["tea",
+  "cookbook",
+  "afternoon tea"],
+  "tagidA": [630957,
+  45155,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0882667203",
@@ -36160,12 +36168,12 @@
     "fl": "Marika Hanbury Tenison",
     "role": "Author"
   }],
-  "tags": ["tea party",
-  "tea",
-  "cookbook"],
-  "tagidA": [40630,
-  630957,
-  45155],
+  "tags": ["tea",
+  "cookbook",
+  "afternoon tea"],
+  "tagidA": [630957,
+  45155,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0715379291",
@@ -36227,12 +36235,12 @@
     "fl": "Gail Greco",
     "role": "Author"
   }],
-  "tags": ["tea party",
-  "tea",
-  "cookbook"],
-  "tagidA": [40630,
-  630957,
-  45155],
+  "tags": ["tea",
+  "cookbook",
+  "afternoon tea"],
+  "tagidA": [630957,
+  45155,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1558538488",
@@ -36292,12 +36300,12 @@
     "lf": "The Pittock Mansion Society",
     "fl": "The Pittock Mansion Society"
   }],
-  "tags": ["tea party",
-  "tea",
-  "cookbook"],
-  "tagidA": [40630,
-  630957,
-  45155],
+  "tags": ["tea",
+  "cookbook",
+  "afternoon tea"],
+  "tagidA": [630957,
+  45155,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1892347024",
@@ -36346,10 +36354,16 @@
   }],
   "tags": ["shakespeare",
   "trans",
-  "transmasc"],
+  "transmasc",
+  "queer",
+  "gender",
+  "gods"],
   "tagidA": [631243,
   22944,
-  15483046],
+  15483046,
+  20301,
+  6880,
+  12543],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0316388696",
@@ -36456,11 +36470,11 @@
     "role": "Author"
   }],
   "tags": ["cookbook",
-  "tea party",
-  "tea"],
+  "tea",
+  "afternoon tea"],
   "tagidA": [45155,
-  40630,
-  630957],
+  630957,
+  649270],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "0020103514",
@@ -36691,9 +36705,9 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["917.94"],
-    "wording": ["Biography and History",
-    "California",
-    "Geography, Voyages And Travel",
+    "wording": ["California",
+    "Geography and Travel",
+    "History & Geography",
     "North America",
     "West Coast U.S."]
   },
@@ -36814,11 +36828,13 @@
   "tags": ["trans",
   "magazine",
   "queer",
-  "transmasc"],
+  "transmasc",
+  "gender"],
   "tagidA": [22944,
   26924,
   20301,
-  15483046],
+  15483046,
+  6880],
   "collections_idA": [1],
   "collections": ["Your library"],
   "originalisbn": "1936932598",
@@ -36903,4 +36919,249 @@
   "dimensions": "5.75 x 0.25 x 8 inches",
   "weight": "0.25 pounds",
   "pages": "72 "
+},
+"171247643": {
+  "books_id": "171247643",
+  "title": "Afternoon Tea at Home: Deliciously indulgent recipes for sandwiches, savouries, scones, cakes and other fancies",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Torrent, Will",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Torrent, Will",
+    "fl": "Will Torrent",
+    "role": "Author"
+  }],
+  "tags": ["afternoon tea",
+  "cookbook",
+  "tea"],
+  "tagidA": [649270,
+  45155,
+  630957],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "184975702X",
+  "isbn": {
+    "0": "184975702X",
+    "2": "9781849757027"
+  },
+  "asin": "184975702X",
+  "ean": ["184975702X"],
+  "publication": "Ryland Peters & Small (2016), 176 pages",
+  "date": "2016",
+  "summary": "Afternoon Tea at Home: Deliciously indulgent recipes for sandwiches, savouries, scones, cakes and other fancies by Will Torrent (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["641.53"],
+    "wording": ["Cooking",
+    "Food And Drink",
+    "Home and family management",
+    "Light Meals, Snacks",
+    "Technology"]
+  },
+  "lcc": [],
+  "genre": ["Food & Cooking"],
+  "genre_id": ["20444"],
+  "source": "amazon.com books",
+  "workcode": "17425502",
+  "entrydate": "2019-07-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "176 p.; 8.5 inches",
+  "height": "8.5 inches",
+  "thickness": "10 inches",
+  "length": "0.9 inches",
+  "dimensions": "8.5 x 0.9 x 10 inches",
+  "weight": "1.51 pounds",
+  "pages": "176 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"171247658": {
+  "books_id": "171247658",
+  "title": "True Sex: The Lives of Trans Men at the Turn of the Twentieth Century",
+  "sortcharacter": "1",
+  "public": "1",
+  "primaryauthor": "Skidmore, Emily",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Skidmore, Emily",
+    "fl": "Emily Skidmore",
+    "role": "Author"
+  }],
+  "tags": ["history",
+  "trans",
+  "transmasc",
+  "queer",
+  "gender"],
+  "tagidA": [1599,
+  22944,
+  15483046,
+  20301,
+  6880],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1479870633",
+  "isbn": {
+    "0": "1479870633",
+    "2": "9781479870639"
+  },
+  "asin": "1479870633",
+  "ean": ["1479870633"],
+  "publication": "NYU Press (2017), 272 pages",
+  "date": "2017",
+  "summary": "True Sex: The Lives of Trans Men at the Turn of the Twentieth Century by Emily Skidmore (2017)",
+  "language": ["English",
+  "French"],
+  "language_codeA": ["eng",
+  "fre"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng",
+  "fre"],
+  "ddc": {
+    "code": ["306.76"],
+    "wording": ["Culture and Institutions",
+    "Relations between the sexes, sexualities, love",
+    "Sexual orientation, gender identity",
+    "Social Sciences",
+    "Social Sciences, Sociology, Anthropology"]
+  },
+  "lcc": {
+    "code": "HQ77.95 .U6"
+  },
+  "awards": ["PROSE Award"],
+  "genre": ["History",
+  "LGBT"],
+  "genre_id": ["1599",
+  "364398"],
+  "source": "amazon.com books",
+  "workcode": "19669853",
+  "entrydate": "2019-07-24",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "272 p.; 6.2 inches",
+  "height": "6.2 inches",
+  "thickness": "9.2 inches",
+  "length": "1 inch",
+  "dimensions": "6.2 x 1 x 9.2 inches",
+  "weight": "1.1 pounds",
+  "pages": "272 ",
+  "fromwhere": "Powell's City of Books (Portland)"
+},
+"171247661": {
+  "books_id": "171247661",
+  "title": "The Moonstone (Modern Library Classics)",
+  "sortcharacter": "5",
+  "public": "1",
+  "primaryauthor": "Collins, Wilkie",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Collins, Wilkie",
+    "fl": "Wilkie Collins",
+    "role": "Author"
+  }],
+  "tags": ["detective",
+  "mystery",
+  "victorian"],
+  "tagidA": [668,
+  46,
+  7664],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0375757856",
+  "isbn": {
+    "0": "0375757856",
+    "2": "9780375757853"
+  },
+  "asin": "0375757856",
+  "ean": ["0375757856"],
+  "publication": "Modern Library (2001), Edition: Modern Library, 528 pages",
+  "date": "2001",
+  "summary": "The Moonstone (Modern Library Classics) by Wilkie Collins (2001)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["823.8"],
+    "wording": ["English",
+    "Fiction",
+    "Literature",
+    "Victorian period 1837-1900"]
+  },
+  "lcc": {
+    "code": "PR4494 .M62"
+  },
+  "subject": {
+    "0": ["Country homes",
+    "Fiction"],
+    "2": ["Detective and mystery stories"],
+    "4": ["East Indians",
+    "England",
+    "Fiction"],
+    "6": ["England",
+    "Fiction"],
+    "8": ["England",
+    "fiction"],
+    "10": ["Jewelry theft",
+    "Fiction"],
+    "12": ["Mystery fiction"],
+    "14": ["Police",
+    "England",
+    "Fiction"],
+    "16": ["Police",
+    "England",
+    "fiction"]
+  },
+  "originaltitle": "The Moonstone",
+  "awards": ["1001 Books You Must Read Before You Die",
+  "Guardian 1000",
+  "Bloomsbury 100 Must-Read Crime Novels",
+  "H.R.F. Keating's 100 Best Crime & Mystery Books",
+  "Borges' A Personal Library",
+  "Julian Symons' 100 Best Crime Stories",
+  "Top 100 Crime Novels of All Time - UK Crime Writers' Association",
+  "The Top 100 Mystery Novels of All Time Mystery Writers of America",
+  "The Telegraph's 100 novels everyone should read",
+  "501 Must-Read Books",
+  "Western World's Greatest Books - Project Gutenberg",
+  "Haycraft Queen Cornerstones",
+  "Julian Symons 100 Best Crime & Mystery Books",
+  "Daily Telegraph's 100 Best Novels, 1899",
+  "The Observer's 100 Best Novels",
+  "1000 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0445\u0443\u0434. \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
+  "1001 b\u00f6cker du m\u00e5ste l\u00e4sa innan du d\u00f6r",
+  "Newark Public Library's 1904 List of a Thousand of the Best Novels",
+  "1000 Books to Read Before You Die"],
+  "genre": ["Fiction",
+  "Mystery"],
+  "genre_id": ["2",
+  "46"],
+  "source": "amazon.com books",
+  "workcode": "30888",
+  "entrydate": "2019-07-24",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "volumes": "1",
+  "physical_description": "528 p.; 5.22 inches",
+  "height": "5.22 inches",
+  "thickness": "8 inches",
+  "length": "1.05 inches",
+  "dimensions": "5.22 x 1.05 x 8 inches",
+  "weight": "0.88 pounds",
+  "pages": "528 ",
+  "fromwhere": "Powell's City of Books (Portland)"
 }}
