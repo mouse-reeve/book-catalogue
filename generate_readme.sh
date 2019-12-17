@@ -12,7 +12,7 @@ This data can be merged, along with with [scraped LibraryThing data](https://git
 ## Stats
 
 ### Books read so far this year:
-$( tail -n +2 goodreads.csv | grep "`date +'%Y'`\(/\d\{2\}\)\{2\},\d\{4\}\(/\d\{2\}\)\{2\},\+read," | wc -l )
+$( tail -n +2 goodreads.csv | grep ',read,' | grep ",`date +'%Y'`" | wc -l )
 
 ### Books owned:
 $(jq '. | length' librarything.json)
